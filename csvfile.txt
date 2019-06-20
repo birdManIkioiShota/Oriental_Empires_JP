@@ -1,0 +1,815 @@
+{ADV_TITLE_IN_001}
+{Greetings}
+{ADV_TEXT_IN_001}
+{Welcome to Oriental Empires. I will be your advisor, pointing out important features of the game, and bringing urgent matters to your attention. 
+Note the help button in the top right of the screen. This will explain the function of whichever game area you are currently in.}
+{ADV_TITLE_IN_002}
+{In Game Help}
+{ADV_TEXT_IN_002}
+{Press F1 or use the info button in the top right corner to access help. The button in the top left of the help screen will access the contents of the in game manual.}
+{ADV_TITLE_ST_001}
+{How to Move}
+{ADV_TEXT_ST_001}
+{You have selected a unit. Order it to move somewhere by right clicking the target location.}
+{ADV_TITLE_ST_002}
+{How to Move}
+{ADV_TEXT_ST_002}
+{You have selected a unit. Order it to move somewhere by pressing and holding until the movement path is displayed.}
+{ADV_TITLE_ST_003}
+{Move Ordered}
+{ADV_TEXT_ST_003}
+{You have given this unit a move order. It will not actually move until the end of the turn. When you have given all the orders you wish, end your turn by pressing the button in the bottom right.}
+{ADV_TITLE_ST_004}
+{Move Ordered}
+{ADV_TEXT_ST_004}
+{When there are more than one unit in a hex, they will all move together. A number of units in one hex is called a "stack".}
+{ADV_TITLE_ST_005}
+{Move Failed}
+{ADV_TEXT_ST_005}
+{Your units cannot move here because one or more of them cannot enter this terrain, or they have no suitable path to reach the hex.}
+{ADV_TITLE_ST_006}
+{Splitting a Stack}
+{ADV_TEXT_ST_006}
+{You can split a stack of units by selecting one or more of the unit tiles at the bottom of the screen. Only the selected units will be ordered to move. You can select different units and order them to different locations.}
+{ADV_TITLE_ST_007}
+{Selecting Multiple Units}
+{ADV_TEXT_ST_007}
+{Select more than one unit in a stack by holding down the control key, or turning on sticky selection with the button to the right of the unit tiles.}
+{ADV_TITLE_ST_008}
+{Selecting Multiple Units}
+{ADV_TEXT_ST_008}
+{Select more than one unit in a stack by turning on sticky selection with the button to the right of the unit tiles.}
+{ADV_TITLE_ST_009}
+{Set Facing}
+{ADV_TEXT_ST_009}
+{You can change the direction the stack will face after its movement, by using the change facing button underneath the unit tiles.}
+{ADV_TITLE_ST_010}
+{Set Facing}
+{ADV_TEXT_ST_010}
+{Change the direction this stack is facing by using the change facing button underneath the unit tiles.}
+{ADV_TITLE_ST_011}
+{Garrison Selected}
+{ADV_TEXT_ST_011}
+{Clicking the flag selects the settlement's garrison. Click the name tab to open the management screen for the settlement.}
+{ADV_TITLE_ST_012}
+{Garrison Selected}
+{ADV_TEXT_ST_012}
+{Tapping the flag selects the settlement's garrison. Tap the name tab to open the management screen for the settlement.}
+{ADV_TITLE_ST_013}
+{Arrange Units}
+{ADV_TEXT_ST_013}
+{You can change the arrangement of units in a stack by selecting a formation for them using the button underneath the unit tiles. This is usually only important when a battle is likely.}
+{ADV_TITLE_ST_014}
+{Arrange Units}
+{ADV_TEXT_ST_014}
+{The colored lines above the unit tiles indicate the lines in the formation. You can drag a unit tile to move into another line.}
+{ADV_TITLE_NV_001}
+{Embarking on Ships}
+{ADV_TEXT_NV_001}
+{To embark onto ships, a stack must be adjacent to the stack containing the ships.}
+{ADV_TITLE_NV_002}
+{Embarking on Ships}
+{ADV_TEXT_NV_002}
+{Your stack cannot embark because the ships do not have enough capacity to load all the units. Generally one ship unit can carry one land unit, although some larger ships can carry more.}
+{ADV_TITLE_NV_003}
+{Embarking on Ships}
+{ADV_TEXT_NV_003}
+{One or more of your units cannot be loaded onto these ships. Only certain larger ship types can carry cavalry, chariot or artillery units.}
+{ADV_TITLE_NV_004}
+{Disembarking}
+{ADV_TEXT_NV_004}
+{Units cannot disembark next to ships or settlements belonging to other players, or into impassable terrain, or onto hexes that are already occupied by too many units.}
+{ADV_TITLE_NV_005}
+{Naval Move Restrictions}
+{ADV_TEXT_NV_005}
+{There are various restrictions on where ships can move. River ships can't move onto sea or ocean, large sea going ships can't move into rivers, and no ships can move onto unnavigable rivers. Unnavigable rivers have rocks at various points to show that you can't sail along them.}
+{ADV_TITLE_NV_006}
+{Embarked Units}
+{ADV_TEXT_NV_006}
+{You have embarked some land units. onto naval transports. They will now move with the ships until disembarked. To disembark, simply move adjacent to land, then order the stack to a land hex. The land units will immediately disembark next to the ships with an order to move to the target hex.}
+{ADV_TITLE_NV_007}
+{Embarked Units}
+{ADV_TEXT_NV_007}
+{You can rearrange which units are carried on which ship by dragging the unit's tile onto the tile of the ship you want to carry it. The chain link shows which units are in which ships.}
+{ADV_TITLE_NV_008}
+{Embarked Units}
+{ADV_TEXT_NV_008}
+{Embarked land units supplement a ship's crew, increasing the number of archers available. This makes the ship more effective in combat.}
+{ADV_TITLE_HS_001}
+{NA}
+{ADV_TEXT_HS_001}
+{NA}
+{ADV_TITLE_HS_002}
+{NA}
+{ADV_TEXT_HS_002}
+{NA}
+{ADV_TITLE_HS_003}
+{NA}
+{ADV_TEXT_HS_003}
+{NA}
+{ADV_TITLE_HS_004}
+{NA}
+{ADV_TEXT_HS_004}
+{NA}
+{ADV_TITLE_HS_005}
+{NA}
+{ADV_TEXT_HS_005}
+{NA}
+{ADV_TITLE_UI_001}
+{Hex Grid}
+{ADV_TEXT_UI_001}
+{Press Alt + G to turn the hex grid on or off.}
+{ADV_TITLE_SET_001}
+{Need Farms to Grow}
+{ADV_TEXT_SET_001}
+{Build more farms to increase the food supply. This will lead to the population growing, providing more tax, and increasing your power.}
+{ADV_TITLE_SET_002}
+{Repair Looted Farms}
+{ADV_TEXT_SET_002}
+{Some of your farms have been destroyed, so this settlement is not producing enough food now. You need to rebuild the farms.}
+{ADV_TITLE_SET_003}
+{Build A Mine}
+{ADV_TEXT_SET_003}
+{There are valuable minerals near this settlement that you can mine. Mines are expensive to construct, but are a good investment over the long term. Use the "Buildings" button on the Land Improvements screen to show possible mine locations.}
+{ADV_TITLE_SET_004}
+{High Unrest}
+{ADV_TEXT_SET_004}
+{The level of peasant unrest here is too high, and may lead to disruption of tax collection, recruitment, and eventually even outright revolt. Click or tap the peasant unrest icon a the top of the screen to see what is causing the problem.}
+{ADV_TITLE_SET_005}
+{Food Shortage}
+{ADV_TEXT_SET_005}
+{There is a shortage of food here, leading to high peasant unrest. Build more farms to alleviate this.}
+{ADV_TITLE_SET_006}
+{Unrest and Overcrowding}
+{ADV_TEXT_SET_006}
+{There is unrest here due to overcrowding. Upgrade the settlement to alleviate this.}
+{ADV_TITLE_SET_007}
+{Overworked Peasants}
+{ADV_TEXT_SET_007}
+{There is high unrest here due to overwork. Stop all land improvements and construction for a few turns to give the peasants a rest.}
+{ADV_TITLE_SET_008}
+{Bandits Show Unrest}
+{ADV_TEXT_SET_008}
+{When bandits appear near your settlement, that is a sign that there is high unrest amongst the peasants, and desperation is forcing men into banditry.}
+{ADV_TITLE_SET_009}
+{Use A Governor}
+{ADV_TEXT_SET_009}
+{If a character with a high Ren(Virtue) rating is garrisoned in a settlement, he will reduce unrest considerably. This can be useful to prevent a revolt until you can fix the underlying cause of unrest.}
+{ADV_TITLE_SET_010}
+{High Noble Unrest}
+{ADV_TEXT_SET_010}
+{There is high noble unrest here due to your leader's lack of authority. This is due to having more settlements than your "Authority" rating. }
+{ADV_TITLE_SET_011}
+{Revolt Imminent}
+{ADV_TEXT_SET_011}
+{A revolt is imminent here. In the short term, you can try to prevent it by moving in a character to act as a governor, and raising or moving more troops into the garrison or settlement's territory. However, militia, tribal or conscript troops will not suppress peasant unrest.}
+{ADV_TITLE_SET_012}
+{Building Construction}
+{ADV_TEXT_SET_012}
+{Use the "Construction" button at the top of the screen to show the buildings you can construct in the settlement.}
+{ADV_TITLE_SET_013}
+{External Buildings}
+{ADV_TEXT_SET_013}
+{The types of building you can construct outside the settlement depend on the location, and the technology you have unlocked. Be sure to check what's available from time to time by using the rightmost button on the land improvements screen.}
+{ADV_TITLE_SET_014}
+{Damaged Buildings}
+{ADV_TEXT_SET_014}
+{Some buildings here are damaged and not functioning. They will repair automatically over time.}
+{ADV_TITLE_Auth_001}
+{Insufficient Authority}
+{ADV_TEXT_Auth_001}
+{Noble unrest here is high due to you having an  Authority rating lower than the number of settlements you control. Increase your Authority by using Edicts or technological advancements.}
+{ADV_TITLE_Auth_002}
+{Civil War Danger}
+{ADV_TEXT_Auth_002}
+{Noble unrest here is very high, which may lead to loss of tax revenue, disruption of recruitment, or outright civil war.}
+{ADV_TITLE_Auth_003}
+{Succession Crisis}
+{ADV_TEXT_Auth_003}
+{There is high noble unrest here due to your leader's low personal authority. This is due to his recent succession, and will improve with time. Until then, try to prevent a civil war.}
+{ADV_TITLE_NSET_001}
+{Need More Settlements}
+{ADV_TEXT_NSET_001}
+{Your power and success depends on the number of settlements you control. Don't forget to recruit settler units, and found more settlements.}
+{ADV_TITLE_NSET_002}
+{Settlements Too Close}
+{ADV_TEXT_NSET_002}
+{Sometimes you need your settlements close together, but a large city can utilize an area 11 hexes across, so spacing settlements too closely will restrict future growth.}
+{ADV_TITLE_NSET_003}
+{Useful Resources}
+{ADV_TEXT_NSET_003}
+{Try to settle within three hexes of a Wild Game or Fish resource to boost food production. Settle near a Rhinoceros resource to increase income.}
+{ADV_TITLE_Trade_001}
+{Start Trade}
+{ADV_TEXT_Trade_001}
+{Trade is the key to building a powerful economy. Build Bazaars in settlements to begin trading between them, especially if they have useful resources to export.}
+{ADV_TITLE_Trade_002}
+{Location, Location, Location}
+{ADV_TEXT_Trade_002}
+{The value of exports depends on the population of the settlement exported to. Therefore build bazaars in settlements with goods to export that are near to large population centers.}
+{ADV_TITLE_Trade_003}
+{Too Isolated to Trade}
+{ADV_TEXT_Trade_003}
+{This settlement is too far from others to trade with them, and too small to generate much internal trade. A bazaar here probably won't be useful.}
+{ADV_TITLE_Trade_004}
+{Caravansary}
+{ADV_TEXT_Trade_004}
+{Building a Caravansary here would allow the goods imported here, to be re-exported, increasing the value gained from them.}
+{ADV_TITLE_Trade_005}
+{Quays}
+{ADV_TEXT_Trade_005}
+{If you build a Quay here, you will be able to trade with other settlements that also have Quays. Trade by water is more efficient, and hence more profitable.}
+{ADV_TITLE_Trade_006}
+{Connect By Roads}
+{ADV_TEXT_Trade_006}
+{Connecting settlements with roads increases the value of trade between them.}
+{ADV_TITLE_Trade_007}
+{Trade Route Blocked}
+{ADV_TEXT_Trade_007}
+{One of the trade routes here is blocked. If it is blocked by an enemy, then military action will be needed to re-open it. If not, form a Fraternal Harmony Pact with the blocker to stop them blocking your trade.}
+{ADV_TITLE_Armies_001}
+{Stack Needs Rest}
+{ADV_TEXT_Armies_001}
+{The efficiency of this stack is low, due to recent fighting or events. If it stops moving and fighting for a few turns, it will recover. The orange bars at the bottom of the unit tiles indicate efficiency.}
+{ADV_TITLE_Armies_002}
+{Unit Replenishment}
+{ADV_TEXT_Armies_002}
+{The units in this stack are not at full strength. Move them to the territory of a friendly settlement to start replenishing. Units can replenish at a settlement that can recruit units from the same recruitment pool. The green bars on the unit card show strength.}
+{ADV_TITLE_Armies_003}
+{Beware Revolt}
+{ADV_TEXT_Armies_003}
+{This stack is composed of half or more of militia, tribal, or convict units, and may revolt and join the rebels if it stays in the vicinity of Peasant Rebel stacks.}
+{ADV_TITLE_Armies_004}
+{Stack Revolted}
+{ADV_TEXT_Armies_004}
+{Your stacks may revolt and join peasant rebel factions if half or more of the units are militia, tribal or convict types. Use other types of unit to deal with peasant rebels.}
+{ADV_TITLE_Armies_005}
+{Civil War}
+{ADV_TEXT_Armies_005}
+{This stack is composed of half or more noble units. There is a danger that it will switch sides and join the rebels if it come close to any of their armies.}
+{ADV_TITLE_Armies_006}
+{Stack Revolted}
+{ADV_TEXT_Armies_006}
+{Your stacks may revolt and join the Noble Rebel faction if half or more of the units in them are nobles. Use other types of unit to attack Noble Rebels.}
+{ADV_TITLE_Armies_007}
+{Leader Won't Rebel}
+{ADV_TEXT_Armies_007}
+{It's useful to know that a stack lead by your faction leader or heir will never rebel and join either noble or peasant rebels.}
+{ADV_TITLE_Armies_008}
+{Winter Attrition}
+{ADV_TEXT_Armies_008}
+{If a stack starts and ends its turn outside of friendly territory while in snow, its efficiency will be reduced.}
+{ADV_TITLE_Armies_009}
+{Terrain Attrition}
+{ADV_TEXT_Armies_009}
+{If a stack starts and ends its turn outside of friendly territory while in desert its efficiency will be reduced.}
+{ADV_TITLE_DIS_001}
+{Reduce Disaster Effects}
+{ADV_TEXT_DIS_001}
+{The effects of this and other disasters can be reduced by advancements on the Technology and Culture screen.}
+{ADV_TITLE_DIS_002}
+{Self Criticism}
+{ADV_TEXT_DIS_002}
+{The unrest effects of this disaster can be cancelled by issuing an Edict of Self Criticism.}
+{ADV_TITLE_ED_001}
+{Remember Edicts}
+{ADV_TEXT_ED_001}
+{Remember to check out the Edicts screen from time to time. As your technology and culture advances, you will gain access to more edicts that can reduce unrest, boost your economy, and strengthen your military.}
+{ADV_TITLE_FIN_001}
+{Finances low}
+{ADV_TEXT_FIN_001}
+{Your treasury is very low, and you are losing money each turn. You should consider disbanding some units or buildings to save on upkeep.}
+{ADV_TITLE_FIN_002}
+{Bankrupt}
+{ADV_TEXT_FIN_002}
+{Your treasury is negative, and you are losing money each turn. Since you can't recruit new units if you have no money, your empire risks complete collapse. Disband some units or buildings to save money.}
+{ADV_TITLE_FIN_003}
+{Building Upkeep}
+{ADV_TEXT_FIN_003}
+{Most buildings have an upkeep cost shown by the sack of money in the top right of the construction panel. Try to only build what you need, and don't try to build every type of building in each settlement.}
+{ADV_TITLE_FIN_004}
+{Building Upkeep High}
+{ADV_TEXT_FIN_004}
+{Your building upkeep is very high. You may have built more than you need, or than your economy can support at this time. }
+{ADV_TITLE_FIN_005}
+{Militia and Nobles}
+{ADV_TEXT_FIN_005}
+{Militia and noble units have no cost to recruit, so it may be better to disband some units and raise them again when needed, rather than pay expensive maintenance every turn.}
+{ADV_TITLE_Units_001}
+{Formations and Plans}
+{ADV_TEXT_Units_001}
+{Check out the Formation and Battle Plan buttons underneath the unit cards. These let you arrange your units and determine their tactics in battle.}
+{ADV_TITLE_Units_002}
+{Characters in Battle}
+{ADV_TEXT_Units_002}
+{Characters with high Qi (Energy) ratings boost the fighting power of troops in battle. Characters with high Ren (Virtue) boost their morale making them fight longer. Attaching a character to an army can greatly increase its fighting power.}
+{ADV_TITLE_Units_003}
+{Chariots and Cavalry}
+{ADV_TEXT_Units_003}
+{Cavalry and chariot units fight badly in difficult terrain such as forests, marshes and steep slopes. Prefer to use infantry in such terrain. If attacking from a clear hex, consider using a Defend or Reserve battle plan to prevent your cavalry or chariots attacking enemy in unfavorable places.}
+{ADV_TITLE_Units_004}
+{Long Spear Units}
+{ADV_TEXT_Units_004}
+{Units with long weapons fight badly in forests. Prefer to use infantry with shorter weapons in such terrain. If attacking from a clear hex, consider using a Defend or Reserve battle plan to prevent them attacking enemy in unfavorable places.}
+{ADV_TITLE_Units_005}
+{Friendly Fire}
+{ADV_TEXT_Units_005}
+{Missiles fired by your troops can kill your own men as well as the enemy. Archers can usually fire over other infantry ok, but you probably want to put crossbows, guns and rockets in the front line.}
+{ADV_TITLE_Siege_001}
+{Losing a Settlement}
+{ADV_TEXT_Siege_001}
+{A settlement is lost when an enemy reaches an undefended breach or gate. Therefore you need to have enough defending units to cover all of these, bearing in mind that an attack will likely destroy more walls and gates depending on their force.}
+{ADV_TITLE_Siege_002}
+{Unwalled Settlement}
+{ADV_TEXT_Siege_002}
+{Unwalled settlements have four entrances that must be defended. To successfully defend one from attack you will need as many defenders as there are attackers, up to a maximum of four.}
+{ADV_TITLE_Siege_003}
+{Damaged Walls}
+{ADV_TEXT_Siege_003}
+{Some walls, gates or towers here are damaged. The townsfolk will work hard to fix these, and can repair two per turn.}
+{ADV_TITLE_Misc_001}
+{Settlement Lists}
+{ADV_TEXT_Misc_001}
+{The lists panel on the left of the screen is very useful, and you should look at it often. It has three tabs that show your settlements, army stacks, and messages.
+
+The list of settlements is particularly useful, as it lets you see at a glance, whether your settlements are building things, growing properly, or have unrest.
+
+The army stack panel lets you see which stacks currently don't have orders, and makes it easy to find a particular force.}
+{ADV_TITLE_Misc_002}
+{Quell Unrest}
+{ADV_TEXT_Misc_002}
+{As a ruler, Heaven expects you to keep your people safe and happy, as did the sage kings of old. If you do not, then the people will see you as an evil tyrant and may rebel.
+
+Keep an eye on the unrest levels in your settlements to prevent revolts. The settlement list on the left shows your where unrest is high.
+
+Once a revolt starts, it is very dangerous as unhappy armies and cities may join it, causing it to snowball out of control.}
+{ADV_TITLE_Misc_003}
+{Noble Unrest}
+{ADV_TEXT_Misc_003}
+{The nobles like to be in control of their own areas, and resent interference by the central state. If they think the state is too weak to punish them, they will misbehave, and may even revolt.
+
+The strength of the central state is measured by your Authority score shown in the bottom left corner. If you have more settlements than you have Authority, you risk unrest among the nobles. In practice its usually safe to exceed your Authority by one or two, especially early in the game.}
+{ADV_TITLE_Misc_004}
+{Character}
+{ADV_TEXT_Misc_004}
+{You always have at least one, and usually more named characters to control, one of which is your faction leader (king or emperor). They have two rating that may vary over the course of the game, and they will also age and eventually die.
+
+Characters can be used to lead armies, or quell unrest in cities. They can also be used exploit the various opportunities offered by the orange encounter markers. You can enlist more characters by issuing edicts.}
+{ADV_TITLE_Misc_005}
+{Manage Your Money}
+{ADV_TEXT_Misc_005}
+{The key to a successful game is managing your finances. Remember that both units and buildings have an upkeep cost, so you should only build or recruit what you need, rather than everything you can.
+
+However, make sure you have enough military units, that you don't look weak and invite attack.
+
+Growing your population by developing agriculture, and getting a good trade network going is the key to a strong economy.
+}
+{ADV_TITLE_Misc_006}
+{Herding}
+{ADV_TEXT_Misc_006}
+{You are playing a faction that depends upon its flocks of animals to survive. Try to settle on grassland, gentle hills or fertile plains. Your people can thrive in areas that are unsuitable for farming, but need a lot of land.
+
+At the start of the game, you cannot build farms, but your flocks will automatically increase, and the land controlled by your settlements will expand to accommodate them.}
+{ADV_TITLE_Misc_007}
+{Herding}
+{ADV_TEXT_Misc_007}
+{You don't need farms to survive, but it is difficult to create settlements larger than towns due to the low population density supported by herding.
+
+To become a great power, you will need some cities. You can either research agriculture yourself, and develop a mixed economy, or conquer them from the farming factions.}
+{ADV_TITLE_Misc_009}
+{Farmers}
+{ADV_TEXT_Misc_009}
+{You are playing a farming faction. The key to your power is developing extensive farmlands and a large population. Be sure to continually build farms around your settlements to allow the population to grow.
+
+Make sure that in the early part of the game that you keep sending out settlers and claiming more land. Even if intend to play peacefully and try for a Cultural Victory, you will need at least six strong settlements to survive.}
+{ADV_TITLE_Misc_010}
+{Chasing Bandits}
+{ADV_TEXT_Misc_010}
+{To catch bandits, try to anticipate where they will move to, as they may move away before your army arrives. Order your army to move through the expected position, or try to approach them from two sides.}
+{ADV_TITLE_UI_002}
+{Hot Keys}
+{ADV_TEXT_UI_002}
+{You can use the  . and , keys to cycle through messages or settlements. Use F5 to F10 to access major screens. Use B and R to access the building and recruitment panels, and Esc to close them. Use F1 to access the full hot key list.}
+{ADV_TITLE_UI_003}
+{Hot Keys}
+{ADV_TEXT_UI_003}
+{Use keys 1 - 8 to set battle plans, Ctrl + 1 - 4 to set formations, and the . and , keys to rotate stacks. Delete to disband units, and Backspace to cancel moves. Use F1 to access the full hot key list.}
+{ADV_TITLE_Armies_011}
+{Battle Plans}
+{ADV_TEXT_Armies_011}
+{You can give each unit in a stack a battle plan that determines how it acts. See the tool tips on the battle plans for details, and see the section in the help pages.}
+{ADV_TITLE_Armies_012}
+{Defensive Stance}
+{ADV_TEXT_Armies_012}
+{All the units in this stack have a defensive style battle plan. This means that the stack will stop moving rather than initiate a battle. Often this is useful but something to be aware of if your stack won't attack when you want it to.}
+{ADV_TITLE_Trade_008}
+{Roads Boost Trade}
+{ADV_TEXT_Trade_008}
+{When trade between two settlements is generating a good income, you can boost it further by connecting them with a road.}
+{ADV_TITLE_Misc_011}
+{Chase Bandits With Nobles}
+{ADV_TEXT_Misc_011}
+{Your noble warriors are much better trained and equipped than bandits or militia, and will make short work of them in battle.}
+{ADV_TITLE_SET_015}
+{Labor Shortage}
+{ADV_TEXT_SET_015}
+{New settlements have very little labor available. If you order them to construct farms, buildings or anything else, there will be no-one to farm, and the population will not increase. If all the figures at the bottom of the screen are blue, then everyone is building, and no-one is farming.}
+{ADV_TITLE_Armies_013}
+{Unit Replenishment}
+{ADV_TEXT_Armies_013}
+{A unit can replenish its losses by moving to the territory of a friendly settlement that can recruit units of that recruitment type (militia, nobles, palace etc). A green indicator at the top of the unit card will show when its strength is being replenished.}
+{ADV_TITLE_GENGHIS_001}
+{Spread Terror}
+{ADV_TEXT_GENGHIS_001}
+{Destroying this settlement will speed terror and make nearby ones more likely to surrender.}
+{ADV_TITLE_GENGHIS_002}
+{Horde Attrition}
+{ADV_TEXT_GENGHIS_002}
+{Your horde unit cannot deploy its settlement here, and may suffer losses to its people and flocks. Try to move to one of the indicated hexes where a settlement may be deployed.}
+{ADV_TITLE_GENGHIS_003}
+{Horde Support}
+{ADV_TEXT_GENGHIS_003}
+{A horde settlement can advance with your armies and provide a convenient place to replenish depleted units. If deployed it replenishes units in the same way as a normal settlement.}
+{ADV_TITLE_GENGHIS_004}
+{Convert to Horde}
+{ADV_TEXT_GENGHIS_004}
+{You can convert this settlement to a horde and move it to a more favourable, or less threatened location.}
+{ADV_TITLE_C_GC_Shang01}
+{Greetings}
+{ADV_TEXT_C_GC_Shang01}
+{You are located on the flood plain of the Yellow River. There is ample good land to settle and farm, but there are enemies close by to the North, East and South, so it is important to stake out your claim to the land quickly. 
+
+I advise taking your settler unit and founding a new settlement about 8 to 10 hexes away. If you can place your settlement within three hexes of a Rhinoceros, Fish, or Wild Game resource, you will be able to exploit it for extra income or food.}
+{ADV_TITLE_C_GC_Shang02}
+{A Suggestion}
+{ADV_TEXT_C_GC_Shang02}
+{If you haven't already, it might be a good idea to recruit another settler unit in Yin, and send it out to claim more land while it is still uncontested.
+
+Also be sure to use your characters to explore the map and check out the yellow map encounter opportunities.}
+{ADV_TITLE_C_GC_Shang03}
+{A Suggestion}
+{ADV_TEXT_C_GC_Shang03}
+{It is time to think about recruiting another settler and starting a new settlement. 
+
+A settlement to the south or east near the river will give you the later opportunity to trade along the river, and to build a fleet to prevent your enemies from crossing. 
+
+On the other hand, a settlement to the West would be less vulnerable to attack, and would be especially valuable if you located any minerals to mine in the mountains.}
+{ADV_TITLE_C_GC_Han01}
+{Greetings}
+{ADV_TEXT_C_GC_Han01}
+{You are located on the flood plain of the Yellow River. There is ample good land to settle and farm, but there are enemies close by to the  East and West so it is important to stake out your claim to the land quickly. 
+
+I advise taking your settler unit and founding a new settlement about 8 to 10 hexes away.  If you can place your settlement within three hexes of a Rhinoceros, Fish, or Wild Game resource, you will be able to exploit it for extra income or food.}
+{ADV_TITLE_C_GC_Han02}
+{A Suggestion}
+{ADV_TEXT_C_GC_Han02}
+{If you haven't already, it might be a good idea to recruit another settler unit in Zheng and send it out to claim more land while it is still uncontested.
+
+Also be sure to use your characters to explore the map and check out the yellow map encounter opportunities.}
+{ADV_TITLE_C_GC_Han03}
+{A Suggestion}
+{ADV_TEXT_C_GC_Han03}
+{It is time to think about recruiting another settler and starting a new settlement. 
+
+A settlement to the north or east near the river will give you the later opportunity to trade along the river, and to build a fleet to prevent your enemies from crossing. You might even consider settling across the river. This will open new opportunities, but may invite conflict with powers to the north.
+
+On the other hand, a settlement to the West might be able to exploit any minerals you've located in the mountains there.}
+{ADV_TITLE_C_GC_Chu01}
+{Greetings}
+{ADV_TEXT_C_GC_Chu01}
+{It's important to spread out quickly and stake out your territory, so send your settler unit out to start a new settlement. 
+
+You have two main choices, settle to the east where there is lots of excellent farmland, but also dangerous enemies, or explore the mountainous area to the west, and build an economy based on exploiting whatever minerals you can find there.
+
+If you can place your settlement within three hexes of a Rhinoceros, Fish, or Wild Game resource, you will be able to exploit it for extra income or food.}
+{ADV_TITLE_C_GC_Chu02}
+{A Suggestion}
+{ADV_TEXT_C_GC_Chu02}
+{If you haven't already, it might be a good idea to recruit another settler unit in Danyang and send it out to claim more land while it is still uncontested.
+
+Also be sure to use your characters to explore the map and check out the yellow map encounter opportunities.}
+{ADV_TITLE_C_GC_Chu03}
+{A Suggestion}
+{ADV_TEXT_C_GC_Chu03}
+{It is time to think about recruiting another settler and starting a new settlement. 
+
+Pushing south will eventually lead you to the great Yangtze river. While there is much land to be cleared to enable sizable settlements there, in the long term domination of the river would be very beneficial.
+
+Alternatively, try to find a fertile area to the south east to create a farming settlement.
+}
+{ADV_TITLE_C_GCZhou01}
+{Greetings}
+{ADV_TEXT_C_GCZhou01}
+{You are located in the "land between the passes", a fertile river valley surrounded by mountains. By quickly dominating this space, you can form a solid base for wider conquests.
+
+The only nearby rival is the to the west. You might consider placing you first settlement just to the west to block, them, but there are better spots further east along the river.
+
+Whichever direction you choose, if you can place your settlement within three hexes of a Rhinoceros, Fish, or Wild Game resource, you will be able to exploit it for extra income or food.}
+{ADV_TITLE_C_GC_Zhou02}
+{A Suggestion}
+{ADV_TEXT_C_GC_Zhou02}
+{If you haven't already, it might be a good idea to recruit another settler unit in Fengjing and send it out to claim more land while it is still uncontested.
+
+Also be sure to use your characters to explore the map and check out the yellow map encounter opportunities.}
+{ADV_TITLE_C_GC_Zhou03}
+{A Suggestion}
+{ADV_TEXT_C_GC_Zhou03}
+{It is time to think about recruiting another settler and starting a new settlement. 
+
+The most promising lands for cultivation are to the east, but spots to the north or south of the river might give you access valuable minerals.
+
+Your main rival for the "land between the passes" are the Qin to the west, but they are quite weak to begin with. It might also be wise to scout out the mountain passes to the south so that you can block any threat from that direction. 
+}
+{ADV_TITLE_C_GCShu01}
+{Greetings}
+{ADV_TEXT_C_GCShu01}
+{You are located in Sichuan, a fertile plain surrounded by mountains. Your main threats are from the north and the south east.
+
+I would advise taking your settler unit and settling a little way to east, to protect your capital against any attack from that direction. After that, I suggest expanding into the unoccupied land to the south and west.
+
+If you can place your settlement within three hexes of a Rhinoceros, Fish, or Wild Game resource, you will be able to exploit it for extra income or food.}
+{ADV_TITLE_C_GC_Shu02}
+{A Suggestion}
+{ADV_TEXT_C_GC_Shu02}
+{If you haven't already, it might be a good idea to recruit another settler unit in Pi and send it out to claim more land while it is still uncontested.
+
+Also be sure to use your characters to explore the map and check out the yellow map encounter opportunities.}
+{ADV_TITLE_C_GC_Shu03}
+{A Suggestion}
+{ADV_TEXT_C_GC_Shu03}
+{It is time to think about recruiting another settler and starting a new settlement. 
+
+The best lands for farming are to the south and east, but a settlement to the north would protect against enemies in that direction, and provide access to any minerals you've discovered in the mountains there.
+}
+{ADV_TITLE_C_GCQin01}
+{Greetings}
+{ADV_TEXT_C_GCQin01}
+{Your nation is an outpost at the edge of Chinese civilization. You have powerful enemies to both east and west, and a limited supply of farmland.
+
+The best place to find more farmland is to the east along the river, just past the mountains, however, founding a settlement there does risk an early conflict.
+
+There are potential settlement sites to the north and south too, but they are several turns distant from your capital. Make sure any attempt to settle them has a strong military escort.}
+{ADV_TITLE_C_GC_Qin02}
+{A Suggestion}
+{ADV_TEXT_C_GC_Qin02}
+{Since your land is limited, I advise prioritizing agricultural technologies in your research. 
+
+Try to be at peace with your neighbors, but don't show any weakness that might invite attack. It might be necessary to become a vassal to one or other for a while in order to survive.
+
+The early part of the game should be about surviving and trying to build a base. Later on you should exploit any difficulties your neighbors might have, to expand your lands.}
+{ADV_TITLE_C_GCWu01}
+{Greetings}
+{ADV_TEXT_C_GCWu01}
+{You start just south of the Yangtze River. To the south the landscape is mountainous and forested, and would require much land to be cleared for any settlement.
+
+To the north of the river however, is a large area of open fertile plain with no close by enemies. Many settlements could be placed here.}
+{ADV_TITLE_C_GC_Wu02}
+{A Suggestion}
+{ADV_TEXT_C_GC_Wu02}
+{You are excellently placed to dominate the lower Yangtze river. Placing settlements along the river and coast, will let you create a powerful maritime trading empire.
+
+Further north the Huai River would make a strong defensive border which you can prevent hostile forces crossing with a river fleet.}
+{ADV_TITLE_C_GCMinYue01}
+{Greetings}
+{ADV_TEXT_C_GCMinYue01}
+{You are the furthest south of the Chinese nations. To your south there are vast jungles and mountain ranges, but no enemy of any significance. The only nearby rival is to the north, but conflict with them is best avoided.
+
+Your immediate position is very weak, with little land available to settle. However, the land to the south is vast and unclaimed. It will take many turns to clear it, but you have the potential to become a great power towards the end of the game.
+
+The only immediately viable settlement site is just across the river. There are some other small clearings along the rivers and coast, but you will have to explore a long way to find them.}
+{ADV_TITLE_C_GC_MinYue02}
+{A Suggestion}
+{ADV_TEXT_C_GC_MinYue02}
+{You will need to clear a lot of land to create a civilization, and need to maximize what you have. Prioritize research into clearing and agricultural technologies.
+
+Once you have bronze making technology, you can start to clear the forests. You can clear areas outside the territory of your main settlements, allowing you to create new settlements in the cleared area. }
+{ADV_TITLE_C_GC_MinYue03}
+{A Suggestion}
+{ADV_TEXT_C_GC_MinYue03}
+{Travelling around in the south is always going to be slow and difficult, unless you travel by boat. Try to develop naval technology as soon as possible.
+
+This will let you range along the coast, the Yangtze river, and other smaller rivers going inland. Settling to the west will eventually bring you to the Yangtze well away from other powers.}
+{ADV_TITLE_C_GCBa01}
+{Greetings}
+{ADV_TEXT_C_GCBa01}
+{You start just south of the Yangtze River in a secluded mountain valley. There are limited expansion possibilities to the South, but the better land is north of the river. 
+
+Expanding north and west may bring you into conflict with the Shu. Since your people are naturally warlike, don't be afraid to fight to secure an adequate territory.}
+{ADV_TITLE_C_GC_Ba02}
+{A Suggestion}
+{ADV_TEXT_C_GC_Ba02}
+{The settlement sites in the immediate vicinity are limited, but there is a wide open land further to the west. You may need to fight for it, but the prize is well worth it.
+
+Since your people are great warriors, but poor farmers, and your starting position is secure, an aggressive expansive military strategy may work well for Ba.}
+{ADV_TITLE_C_GCDogRong01}
+{Greetings}
+{ADV_TEXT_C_GCDogRong01}
+{You start way to the west on the banks of a tributary of the yellow river. As a herding people, you need to find grasslands, hills or fertile plains to graze your animals.
+
+Unfortunately there is little of either in the immediate vicinity, so you will need to make best of what you can find. There are many hillsides suitable for terracing though, so an early switch to a farming society may pay dividends.}
+{ADV_TITLE_C_GC_DogRong02}
+{A Suggestion}
+{ADV_TEXT_C_GC_DogRong02}
+{Your only rivals are the Qin to the south east. They are fierce, but not numerous, so you may be able to conquer them, or make them into your vassals.}
+{ADV_TITLE_C_GC_DogRong03}
+{A Suggestion}
+{ADV_TEXT_C_GC_DogRong03}
+{If you elect to remain as herding faction, there is a large area of grassland in the "Ordus Loop" area inside the great loop of the Yellow River some way to the north east. You could establish a strong pressence there.}
+{ADV_TITLE_C_GCDongYi01}
+{Greetings}
+{ADV_TEXT_C_GCDongYi01}
+{You start in the Shangdong Peninsula in Northern China. As a herding faction, you need to find large areas of fertile plains for your animals.
+
+While there is ample land available to expand into, you will inevitably soon come into contact with the powerful farming factions of Shang, Han and Wu. Don't over extend yourself, but make sure you move quickly to secure enough land before your easy expansion is halted.}
+{ADV_TITLE_C_GC_DongYi02}
+{A Suggestion}
+{ADV_TEXT_C_GC_DongYi02}
+{As you expand you will be occupying the fertile lands of the Yellow River flood plain. These lands are fine for your animals, but would be even more fruitful if you developed agriculture.
+
+An alternative strategy is to leverage the natural fierceness of your people to subjugate your neighbors before their population growth outpaces your own too far.}
+{ADV_TITLE_C_GCWhiteDi01}
+{Greetings}
+{ADV_TEXT_C_GCWhiteDi01}
+{You are a herding people starting in the north of China between the steppes and deserts to the north, and the fertile flood plains to the south.
+
+Since you can use grassland or fertile plain alike, there is plenty of land available to you. There are good sites immediately available to your south, and settling here would protect your capital. However, the area to the north east is unoccupied and can be settled without opposition.}
+{ADV_TITLE_C_GC_WhiteDi02}
+{A Suggestion}
+{ADV_TEXT_C_GC_WhiteDi02}
+{The land around you is very suited to farming so developing agriculture quickly would give you a denser population, and larger cities.
+
+However, you also well placed to become a more widely spread herding faction ranging across the whole north east. Pursue horse riding and nomadism for this strategy to work well.}
+{ADV_TITLE_C_GCXianbei01}
+{Greetings}
+{ADV_TEXT_C_GCXianbei01}
+{You are herding people located between the Great Khingan Mountains and the Gobi Desert. You need to find grassland, hills or fertile plains for your animals.
+
+There is a large area suitable for settlement to the north around the lakes, but it is a little isolated.
+
+There is also plenty of land to the south, and settling there would form a good base for the conquest of China later in the game.}
+{ADV_TITLE_C_GC_Xianbei02}
+{A Suggestion}
+{ADV_TEXT_C_GC_Xianbei02}
+{Your position strongly favors becoming a wide ranging, horse riding culture. Prioritize horse archery and nomadism technologies, and space your settlements widely to allow them maximum room to develop.
+
+Don't neglect to develop whatever minerals you can find in the mountains, to boost your income.}
+{ADV_TITLE_C_GCXiongNu01}
+{Greetings}
+{ADV_TEXT_C_GCXiongNu01}
+{You are a herding faction located in the Mongolian steppes. To the north are the Dingling, but otherwise there are no nearby rivals, and you are free to expand widely to the east, west and south.
+
+Try to space your settlements ten to twelve hexes apart to give them room to grow.}
+{ADV_TITLE_C_GC_XiongNu02}
+{A Suggestion}
+{ADV_TEXT_C_GC_XiongNu02}
+{Your position strongly favors becoming a wide ranging, horse riding culture. Prioritize horse archery and nomadism technologies to aid in this.
+
+There is a limited amount of potential agricultural land along some of the rivers, so developing agriculture will make it easier to develop larger more advanced settlements..}
+{ADV_TITLE_C_GC_XiongNu03}
+{A Suggestion}
+{ADV_TEXT_C_GC_XiongNu03}
+{You have ample lands to expand into, but your position is rather isolated. To fulfill your destiny and become the Son of Heaven, you will need to subjugate the other factions far to the south.
+
+There is an area of excellent grassland south of the desert, and a little to the west in the Ordus Loop area just across the Yellow River. It would make an excellent base of operations if you move swiftly to claim it before the other tribes.}
+{ADV_TITLE_C_GCDingling01}
+{Greetings}
+{ADV_TEXT_C_GCDingling01}
+{You start as a rather primitive herding faction in Northern Mongolia on the fringes of Siberia. To your south are the dangerous Xiongnu, but otherwise there are wide lands for you to occupy to the east and the west.}
+{ADV_TITLE_C_GC_Dingling02}
+{A Suggestion}
+{ADV_TEXT_C_GC_Dingling02}
+{Your position at the edge of the steppe gives you the opportunity to become a wide ranging, horse riding culture. Prioritize horse archery and nomadism technologies to achieve this.
+
+There are some fertile plains for farming available too, which gives you another option to develop agriculture and develop a mixed economy. }
+{ADV_TITLE_C_GC_Dingling03}
+{A Suggestion}
+{ADV_TEXT_C_GC_Dingling03}
+{With your isolated position, one option is to play a peaceful game, and try to win a cultural victory. 
+
+If you wish to play a more aggressive game, you will need to conquer factions far to the south. Once you have a few settlements, you might be able to sneak a settler two south beyond the desert, and establish a base of operations there.}
+{ADV_TITLE_C_WS_Yan01}
+{Greetings}
+{ADV_TEXT_C_WS_Yan01}
+{Your realm is a strip of land between the mountains to the North, and the Yellow Sea.to the South. Although your land is not extensive, your cities are large and prosperous.
+
+Beyond the mountains are the Dong Hu barbarians, who you will have to deal with if you are to survive. If you can drive them away from your core cities and establish some outposts to protect against their raids, then you will have a secure position.
+
+To the West and South are the large states of Zhao and Qi, and the smaller one of Zhongshan. While getting involved in the complicated alliances of Northern China may become an expensive entanglement, an ambitious ruler will monitor the situation and look for opportunities to expand his territories when his neighbors are weak.
+
+The land to the East is mainly uninhabited, and offers an excellent opportunity to expand your kingdom. However there are many forests to clear, and marshes to drain, so turning the area into productive land will take some time.}
+{ADV_TITLE_C_WS_Qi01}
+{Greetings}
+{ADV_TEXT_C_WS_Qi01}
+{Your state is located in the east of the North China plain, in the area of Shandong. Your lands are not large, but they are very productive, and your cities are rich from trade.
+
+Many states are vying for control of the plains, and you will need to keep a close eye on the shifting alliances, and stop any one of them becoming too powerful. Bear in mind that too much war is bad for trade.
+
+There is some room to expand to the North, but frequent flooding of the Yellow River will be troublesome. The small state of Lu to the South is ripe for capture, and it may also be possible take territory from the extensive but relatively weak state of Yue also to the South.}
+{ADV_TITLE_C_WS_Zhao01}
+{Greetings}
+{ADV_TEXT_C_WS_Zhao01}
+{Your realm is located along the Fen River just to the north of the Yellow River flood plain. Handan, your largest city is right in the center of the North China Plain, meaning that you will easily become embroiled in the complicated politics and wars of that region.
+
+However, your kingdom has great potential for expansion to the north and to the west, provided that you can protect your settlers from the barbarians coming down from the Mongolian steppes.
+
+As Zhao, you have the unique ability to reform your military (by issuing an edict) to adopt the horse archer tactics of the steppe peoples. This will aid you in your battles against them, and may also give you an edge over your Chinese rivals.}
+{ADV_TITLE_C_WS_Wei01}
+{Greetings}
+{ADV_TEXT_C_WS_Wei01}
+{Your state has emerged from the break up of the ancient state of Jin, and as such its holdings are scattered and somewhat intermixed with the other break-away states. Your central position, mean that you are surrounded by many powerful neighbors, but there are also smaller states that you might annex.
+
+Wars are inevitable, but if you can make peace with at least some of your rivals, then there are uninhabited lands that you can settle, and turn your state into a stronger more cohesive realm.
+
+While your central position is challenging, with skillful diplomacy, you can set your neighbors against each other, and benefit from their misfortunes.}
+{ADV_TITLE_C_WS_Yue01}
+{Greetings}
+{ADV_TEXT_C_WS_Yue01}
+{Your state was originally founded south of  the Yangtze river, but recently conquered the state of Wu, and expanded to control the area around the mouth of the Yangtze River. Filled with ambition you recently moved your capital far to the north as a springboard for further expansion. Defending this position may be difficult, and you may need to abandon it and concentrate on your core territory. 
+
+Your lands are quite extensive, but they are sparsely populated, and your settlements scattered, leaving you vulnerable to attack by more powerful neighbors. Therefore, your immediate goals should be to secure peace with the surrounding states, while you consolidate and strengthen your realm.
+
+You are well positioned to create a lucrative water borne trade empire, with trade routes running along the coast and along the major rivers.}
+{ADV_TITLE_C_WS_Qin01}
+{Greetings}
+{ADV_TEXT_C_WS_Qin01}
+{You enjoy a secure position along  the Wei river valley, which is only accessible by a few easily defended routes. The barbarians to the west and north are the most likely to give you trouble.
+
+You have some of room to expand within your own territories, and plenty of potential to expand to the South, and you should consider trying to conquer the state of Shu and annex its territory. To the East are many powerful states, who will often be fighting each other. Look for opportunities to expand here when they are preoccupied with each other.}
+{ADV_TITLE_C_WS_Han01}
+{Greetings}
+{ADV_TEXT_C_WS_Han01}
+{Your territory is rather scattered, with settlements both north and south of the Yellow River. Holding on to everything may be a challenge, so you should avoid a two front war and do whatever it takes to secure peace with either the Northern or Southern neighbors.
+
+There is some room for expansion both north and south of the river, with the south perhaps being a little better. There are also the small states of Zhou and Zheng that you could conquer. However, beware of Chu to your south, as they have relatively few targets other than Han.}
+{ADV_TITLE_C_WS_Chu01}
+{Greetings}
+{ADV_TEXT_C_WS_Chu01}
+{You start in control of a large swathe of territory on the north bank of the Yangtze River. On paper you are wealthy and powerful, but your cities are far apart. Individually, none of your neighbors is a match for you, but given the distances involved, fighting two at once could be difficult. You have much empty territory to exploit, so it might be wise to concentrate on internal development for a while, and let others waste their strength fighting.
+
+Your capital is on the banks of the Yangtze river. Consider exploiting this waterway as highway for movement, and a route for trade. It's also a route you can use to attack Shu and Ba to the West, and Yue to the East.}
+{ADV_TITLE_C_WS_Shu01}
+{Greetings}
+{ADV_TEXT_C_WS_Shu01}
+{You start far to the West in the Sichuan basin, away from most of the other great powers. Compared to those you are relatively weak, but have plenty of space to develop and grow. Your biggest danger is Qin to the north, so try to secure peace with them until you are strong enough to fight.
+
+The state of Ba is your natural rival for domination of Sichuan, and some conflict with them is probably inevitable. }
+{ADV_TITLE_C_WS_Ba01}
+{Greetings}
+{ADV_TEXT_C_WS_Ba01}
+{You start in the south of China with a state that straddles the middle reaches of the Yangtze river. Your main avenues for expansion are to the South and to the West. The land to the South is uninhabited and undeveloped, but there are many forests to clear and marshes to drain before you can build great cities. Sichuan, the land to the west is more promising, but will bring you into conflict with Shu and Qin.
+
+Initially you are one of the weaker powers, and so should avoid conflict. However, you need to prepared to assert yourself against Shu to claim your share of Sichuan.}
+{ADV_TITLE_C_WS_Zhongshan01}
+{Greetings}
+{ADV_TEXT_C_WS_Zhongshan01}
+{You are a small state in northern China, surrounded by more powerful ones. Survival should be your main priority to begin with. Given your small starting territory, any war could be devastating, but may be difficult to avoid since you are tempting target for larger states looking to expand. Try to secure some powerful allies, or consider becoming a vassal to one of your neighbors.
+
+If you can survive, there is space to expand into to the East around the mouth of the Yellow river, and to the North. Expanding east is easier, but is a high risk strategy, and will expose you to both hostile attacks and frequent flooding. Moving north will expose you to the Xiongnu and Dong Hu, but these have plenty of land available, so you may be able to buy them off.}
+{ADV_TITLE_C_WS_Jin01}
+{Greetings}
+{ADV_TEXT_C_WS_Jin01}
+{Your once mighty state is now reduced to a single city near the Fen river. The neighboring states of Wei, Zhao and Han will be looking to swallow you up, so only some shrewd diplomacy will let you survive. There is space available to the west for expansion, but that will likely make you a target for Qin.
+
+All in all, your position is extremely difficult, and survival  should be seen as an achievement in itself.}
+{ADV_TITLE_C_WS_Zheng01}
+{Greetings}
+{ADV_TEXT_C_WS_Zheng01}
+{You begin as a single city state to the south of the Yellow River. Although many of the surrounding states are more powerful, your city is well fortified and rich, so you are no pushover. There is some land around that you can use to expand, but you'll need careful diplomacy to defend your new settlements.
+
+Although playing off your neighbors against each other may seem like the thing to do, much of your wealth comes from trade, and war is bad for business, even if you're not directly involved.}
+{ADV_TITLE_C_WS_Zhou01}
+{Greetings}
+{ADV_TEXT_C_WS_Zhou01}
+{Your state was once the overlord of all China, but is now reduced to a single city just south of the Yellow River. Restoring Zhou to its former glory will be a mammoth task, that will require great skill to achieve. However, your remaining city is rich and strong, so there is some hope.
+
+The nearby powers of Han and Wei will see you as a tempting target, so your priority should be to secure good relations with them. This will allow you to expand into the surrounding empty lands and become stronger. However, scope for expansion is limited, so you will need to fight to expand further, and for that you will need allies. If you make the right alliances you will prosper, if not you will be extinguished.}
+{ADV_TITLE_C_WS_Song01}
+{Greetings}
+{ADV_TEXT_C_WS_Song01}
+{You start as a medium sized power, on the south side of the Yellow River. Your immediate neighbors are smaller states that may look like tempting targets to annex, but beware of them allying themselves with stronger powers. As ever with the smaller states, diplomacy will be the key to advancement.
+
+You have some possibilities to expand your land, especially to the south. Also try to exploit your central position and access to the Yellow River to build a lucrative trade network.}
+{ADV_TITLE_C_WS_Lu01}
+{Greetings}
+{ADV_TEXT_C_WS_Lu01}
+{Lu is a small state near the coast to the south of the Shandong Peninsula. All the surrounding powers are much stronger, and will be looking to gobble you up, particularly the powerful state of Qi to your north. You will need to ally with some of your neighbors to survive, and it may be necessary to become a vassal of one of them.
+
+There is some limited space to expand, but holding a larger territory will be difficult. Expanding militarily will require joining in the wars of larger powers. Carefully picking the winning side will be key.}
+{ADV_TITLE_C_WS_XiongNu01}
+{Greetings}
+{ADV_TEXT_C_WS_XiongNu01}
+{You play as a nomadic herding faction to the north. Currently there are no imminent threats, but you are quite weak and need to spread out and grow. There is limited space on the steppes to the far north, as the Dong Hu will block your progress, but there is plenty of room to expand in the big loop of the Yellow River to the south.
+
+You are not in close contact with the any of the farming states, who lay mostly to the south and east, but the mobility of your light cavalry will let you form raiding parties with little fear of reprisals. This is a good way to raise money, which will otherwise be in short supply.}
+{ADV_TITLE_C_WS_DongHu01}
+{Greetings}
+{ADV_TEXT_C_WS_DongHu01}
+{You are unusual in that you have a mixed economy, combining both nomadic herdsmen  and settled farmers. This gives you options to exploit all the land around you. In the long run, farming on the fertile plains will be more lucrative, but farms are also harder to protect, so also make sure to have a few settlements of herders in the grassland to the north.
+
+You start next to several farming states, and raiding them for loot can be a good extra source of income. However, try to spread the damage you do equally, lest any one of them become too strong. In particular beware the state of Yan to your south, it will likely defeat you in a full scale war.}
+{ADV_TITLE_C_WS_DogRong01}
+{Greetings}
+{ADV_TEXT_C_WS_DogRong01}
+{Your faction is a loose confederation of semi-nomadic tribes spread thinly across the western part of the map. Your confederation is weak and divided, but its remote location is its protection, and you have ample room to expand and grow stronger.
+
+The lands in the west are not the best, but some small settlements here will be well protected from enemies, and you may be able to exploit reserves of gold or jade in the mountains. To the north east is a large area of grassland, that offers great opportunities for expansion. There are also opportunities in Sichuan to the south, particularly when the state of Shu is weak.}
