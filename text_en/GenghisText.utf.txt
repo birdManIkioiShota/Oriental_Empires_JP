@@ -124,7 +124,7 @@ Whenever this unit stops at a site suitable to found a settlement, one is automa
 {BD Weaver Desc}
 {Simple cloth can be woven at home, but attractive patterned cloth requires more sophisticated draw-looms. Here, teams of skilled weavers produce quantities of cloth for the local notables, and for trade to other communities.}
 {HS Horde Settlement Default Name}
-{{Horde {0}}
+{Horde {0}}
 {UI CC Not allowed in horde settlement}
 {Not allowed in horde settlements.}
 {TI Zhennan Wood}
@@ -216,9 +216,9 @@ Whenever this unit stops at a site suitable to found a settlement, one is automa
 {TT Unnamed Horde}
 {Unnamed Horde}
 {TT Moving Horde Stats}
-{{Population: {0} -- Flocks: {1}}
+{Population: {0} -- Flocks: {1}}
 {TT Horde Buildings under Construction}
-{{Buildings Under Construction: {0}}
+{Buildings Under Construction: {0}}
 {TT Convert Horde To Town}
 {Convert to a Fixed Town}
 {TT Trade Network Monopoly}
@@ -284,7 +284,7 @@ Whenever this unit stops at a site suitable to found a settlement, one is automa
 {UI Mission Failed Text}
 {Mission Failed}
 {UI Mission Failed Text 1}
-{{You have failed to complete your mission. Your authority is reduced by {0}}
+{You have failed to complete your mission. Your authority is reduced by {0}}
 {UI Mission Failed Text 2}
 {You have failed to complete your mission. Your allies have cancelled your alliance in disappointment.}
 {UI Faction Tag Muslim}

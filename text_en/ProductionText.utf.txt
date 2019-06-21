@@ -1202,7 +1202,7 @@ Open the screen for the captured settlement to decide whether to occupy, sack or
 {UI Protects with Wall}
 {Protects the settlement with a wall.}
 {UI Wall Hit Points}
-{{Damage Hit Points {0}}
+{Damage Hit Points {0}}
 {UI Wall Vulnerable To Fire}
 {Wall can be burned down by fire arrows.}
 {UI Wall Invulnerable To Fire}
@@ -1294,7 +1294,7 @@ Open the screen for the captured settlement to decide whether to occupy, sack or
 {DS Cant Disband If Turmoil}
 {A settlement cannot be disbanded while in turmoil.}
 {DS Cant Disband Too Large}
-{{This settlement is too large to be disbanded, as it has a population greater than {0}}
+{This settlement is too large to be disbanded, as it has a population greater than {0}}
 {DS Cant Disband Capital}
 {You can't disband your capital.}
 {DS No Space For Settlers}
@@ -1444,21 +1444,21 @@ Open the screen for the captured settlement to decide whether to occupy, sack or
 {EE Reduce Peasant Unrest}
 {Reduces peasant unrest by {0}%.}
 {DS Population Killed}
-{{Population Killed : {0}}
+{Population Killed : {0}}
 {DS Buildings Damaged}
 {Buildings Damaged:}
 {DS Walls Damaged}
-{{Walls Damaged : {0}}
+{Walls Damaged : {0}}
 {DS Towers Damaged}
-{{Towers Damaged : {0}}
+{Towers Damaged : {0}}
 {DS Gates Damaged}
-{{Gates Damaged : {0}}
+{Gates Damaged : {0}}
 {DS Peasant Unrest}
-{{Peasant Unrest : {0}}
+{Gates Damaged : {0}}
 {DS Noble Unrest}
-{{Noble Unrest : {0}}
+{Noble Unrest : {0}}
 {DS Both Unrest}
-{{Unrest: Peasants :  {0} -- Nobles : {1}}
+{Unrest: Peasants :  {0} -- Nobles : {1}}
 {DS Reduced Efficiency}
 {Army efficiency reduced by {0}%}
 {DS Others Walls Damaged}
@@ -1474,7 +1474,7 @@ Open the screen for the captured settlement to decide whether to occupy, sack or
 {DS Affected Settlements}
 {Affected Places}
 {DS Flocks Killed}
-{{Flocks Killed : {0}}
+{Flocks Killed : {0}}
 {DS Grain Production Decrease}
 {Grain production reduced by {0}%}
 {DS Grain Production Increase}
@@ -1508,7 +1508,7 @@ Open the screen for the captured settlement to decide whether to occupy, sack or
 {ENC Steal your treasure}
 {Lighten your load.}
 {ENC Cost Money}
-{{Pay {0}}
+{Pay {0}}
 {ENC Cost Unknown}
 {Unknown Cost Item}
 {ENC Effect Improve Craft}
@@ -1520,23 +1520,23 @@ Open the screen for the captured settlement to decide whether to occupy, sack or
 {ENC Effect Improve Thought}
 {Improve Thought advancement rate by {0}%}
 {ENC Give Tech}
-{{Technology : {0}}
+{Technology : {0}}
 {ENC Increase Authority}
-{{Increase personal authority by {0}}
+{Increase personal authority by {0}}
 {ENC Increase Qi}
-{{Increase Qi (Energy) by {0}}
+{Increase Qi (Energy) by {0}}
 {ENC Increase Ren}
-{{Increase Ren (Virtue) by {0}}
+{Increase Ren (Virtue) by {0}}
 {ENC Offer Gold}
 {{0} Gold}
 {ENC Effect Unknown}
 {Unknown Effect}
 {ENC Decrease Qi}
-{{Reduce Qi (Energy) by {0}}
+{Reduce Qi (Energy) by {0}}
 {ENC Decrease Ren}
-{{Reduce Ren (Virtue) by {0}}
+{Reduce Ren (Virtue) by {0}}
 {ENC Decrease Authority}
-{{Reduce personal authority by {0}}
+{Reduce personal authority by {0}}
 {ENC Add CultureVPs}
 {Receive {0} Culture VP(s)}
 {ENC Reveal Map}
@@ -1548,13 +1548,13 @@ Open the screen for the captured settlement to decide whether to occupy, sack or
 {ENC Reveal Water}
 {Reveal the rivers and seas in this area.}
 {ENC Reveal Resource}
-{{Show location of map resource : {0}}
+{Show location of map resource : {0}}
 {ENC Military Leader}
 {Gain a character skilled in generalship.}
 {ENC Administrative Leader}
 {Gain a characters skilled in administration.}
 {ENC Add Units}
-{{Add Unit(s)  {1} x {0}}
+{Add Unit(s)  {1} x {0}}
 {ENC CraftsmanA}
 {Famous Craftsman}
 {ENC CraftsmanA Desc}
@@ -1842,7 +1842,7 @@ Open the screen for the captured settlement to decide whether to occupy, sack or
 {CAP Max Population}
 {Max Population}
 {CAP Max Population Desc}
-{{Max settlement population is {0}}
+{Max settlement population is {0}}
 {CAP Recruit Militia}
 {Recruit Militia}
 {CAP Recruit Militia Desc}
@@ -1910,7 +1910,7 @@ Open the screen for the captured settlement to decide whether to occupy, sack or
 {CAP Mine Income}
 {Mine Income}
 {CAP Mine Income Desc}
-{{Generates income of {0}}
+{Generates income of {0}}
 {CAP Trade Distance}
 {Trade Distance}
 {CAP Trade Distance Desc}
@@ -1922,7 +1922,7 @@ Open the screen for the captured settlement to decide whether to occupy, sack or
 {CAP Trade Level}
 {Trade Level}
 {CAP Trade Level Desc}
-{{Trade value multiplier {0}}
+{Trade value multiplier {0}}
 {CAP Onward Trade}
 {Onward Trade}
 {CAP Onward Trade Desc}
@@ -2082,19 +2082,19 @@ Open the screen for the captured settlement to decide whether to occupy, sack or
 {CAP Authority}
 {Authority}
 {CAP Authority Desc}
-{{Increase authority by {0}}
+{Increase authority by {0}}
 {CAP Culture}
 {Culture}
 {CAP Culture Desc}
-{{Increase culture by {0}}
+{Increase culture by {0}}
 {CAP NewLeaderVirtue}
 {New Leader Virtue}
 {CAP NewLeaderVirtue Desc}
-{{Increases the virtue of all new characters by {0}}
+{Increase culture by {0}}
 {CAP NewLeaderEnergy}
 {New Leader Qi}
 {CAP NewLeaderEnergy Desc}
-{{Increases the qi of all new characters by {0}}
+{Increases the qi of all new characters by {0}}
 {CAP CombatAdvantage}
 {Combat Advantage}
 {CAP CombatAdvantage Desc}
@@ -2210,7 +2210,7 @@ Open the screen for the captured settlement to decide whether to occupy, sack or
 {CAP Character Armor}
 {Character Armor}
 {CAP Character Armor Desc}
-{{Increases armor rating of characters by {0}}
+{Increases armor rating of characters by {0}}
 {TT End Turn}
 {End Turn}
 {TT Hide Advice}
@@ -2261,8 +2261,7 @@ Authority is the measure of your central governments ability to impose its will.
 
 Your authority score limits the size of the empire you can control. If you have more settlements than your authority score, you will suffer noble unrest, and possible revolt.}
 {TT Energy}
-{Qi (Energy)
-Qi is the measure of a man's energy and vitally. This man's rating improves the fighting ability of units in the stack he commands by {0}%}
+{Increases armor rating of characters by {0}}
 {TT Virtue}
 {Ren (Virtue)
 Ren is the measure of a man's virtue, wisdom and humanity. This man's rating reduces unrest in settlements where he is garrisoned by {0}, and improves the morale of units in the stack he leads by {1}. }
@@ -2442,19 +2441,19 @@ Double click to open settlement display.}
 {TT Settlement Indicator}
 {Potential settlement site.}
 {TT Basic Food}
-{{Basic Food {0}}
+{Basic Food {0}}
 {TT Farmable}
 {Can be farmed}
 {TT Grazing}
-{{Grazing {0}}
+{Grazing {0}}
 {TT Blocked Trade Route}
 {Blocked Trade Route}
 {TT Off Map Export Route}
-{{{0}: Off map export route: Value {1}}
+{{0}: Off map export route: Value {1}}
 {TT Domestic Export Route}
-{{{0}: Domestic export route: Value {1}}
+{{0}: Domestic export route: Value {1}}
 {TT Foregin Export Route}
-{{{0}: Foreign export route: Value {1}}
+{{0}: Domestic export route: Value {1}}
 {TT Other Player Trade Route}
 {Other player's trade route}
 {TT Off Map Trade Route}
@@ -2488,7 +2487,7 @@ Double click to open settlement display.}
 {TT Build Road}
 {Build Road}
 {TT Convert Land}
-{{Convert to {0}}
+{Convert to {0}}
 {TT Mode Build Farms}
 {Build Farms}
 {TT Mode Build Roads}
@@ -2536,15 +2535,15 @@ Double click to open settlement display.}
 {TT Capture Action Details}
 {Show details for this choice}
 {TT Labor Farming}
-{{Population Farming : {0}}
+{Population Farming : {0}}
 {TT Labor Building}
-{{Population Building : {0}}
+{Population Building : {0}}
 {TT Labor Herding}
-{{Population Herding : {0}}
+{Population Herding : {0}}
 {TT Labor Military}
-{{On Military Service : {0}}
+{On Military Service : {0}}
 {TT Labor Unemployed}
-{{Unemployed : {0}}
+{Unemployed : {0}}
 {TT Begin Construction}
 {Begin Construction}
 {TT Destroy Building}
@@ -2592,7 +2591,7 @@ Double click to open settlement display.}
 {TT DP Tech Food Effect}
 {This is the modification to food production from advancements on the Technology and Culture screen.}
 {TT DP Flocks Per Hex}
-{{The number of flocks that may graze on each hex of this terrain type is {0}}
+{The number of flocks that may graze on each hex of this terrain type is {0}}
 {TT DP Resource Food}
 {Food produced from resources located within or adjacent to the settlement's territory.}
 {TT DP Noble Local Factors}
@@ -3140,7 +3139,7 @@ This is something of a diplomatic nicety, as it involves no particular obligatio
 {UI Confirm Destroy Building Text}
 {Are you sure you want to destroy this building ?}
 {UI Next Available In}
-{{Next in {0}}
+{Next in {0}}
 {UI CC Temple Exists}
 {A temple or school already exists here.}
 {UI CC No Space Upgrade}
@@ -3148,11 +3147,11 @@ This is something of a diplomatic nicety, as it involves no particular obligatio
 {UI CC No Space Full}
 {There is no more space for building here.}
 {UI CC Need Population}
-{{Requires a population of at least {0}}
+{Requires a population of at least {0}}
 {UI CC Requires Building}
-{{Requires a {0}}
+{Requires a {0}}
 {UI CC Requires Not Building}
-{{Cannot be constructed with a {0}}
+{Cannot be constructed with a {0}}
 {UI CC Insufficent funds}
 {You have insufficient funds.}
 {UI CC Already under construction}
@@ -3389,7 +3388,7 @@ You may issue only one edict per turn. Generally this will remain in effect unti
 {DP Armies}
 {Military Strength}
 {DP Luxury}
-{{Luxury Items x {0}}
+{Luxury Items x {0}}
 {DP Insufficient Authority}
 {Insufficient Authority}
 {DP Authority}
@@ -3513,7 +3512,7 @@ Buildings that will be damaged : {2:d}}
 {UI Units For Reuse}
 {These may be recruited again:}
 {UI Disbanded Unit Type}
-{{{0} x {1}}
+{Requires a {0}}
 {UI Disbanded Time Type}
 {{0} x {1} in {2} Turns}
 {UI Recruitment Cancelled}
@@ -3942,7 +3941,7 @@ Do you want to end the turn now ?}
 {DIP Defensive Alliance}
 {Defensive Alliance ({0} Turns)}
 {DIP Attack Player}
-{{Attack {0}}
+{Attack {0}}
 {DIP Become Vassal}
 {Become Vassal}
 {DIP Recognize Emperor}
@@ -4006,7 +4005,7 @@ Do you want to end the turn now ?}
 {NEG TT Offer Cancel Trade Rights}
 {Allow each others settlements to trade with each other.}
 {NEG Offer Settlement}
-{{Give Settlement {0}}
+{Give Settlement {0}}
 {NEG TT Offer Settlement}
 {Transfer this settlement to their control.}
 {NEG TT Demand Settlement}
@@ -4349,19 +4348,19 @@ Attack immediately preferring melee attack to missile fire. Be first to assault 
 {FE Map Style Americas}
 {Americas}
 {FE Map Size Tiny}
-{{Tiny {0} x {1}}
+{Tiny {0} x {1}}
 {FE Map Size Small}
-{{Small {0} x {1}}
+{Small {0} x {1}}
 {FE Map Size Medium Small}
-{{Medium Small {0} x {1}}
+{Medium Small {0} x {1}}
 {FE Map Size Medium}
-{{Medium {0} x {1}}
+{Medium {0} x {1}}
 {FE Map Size Medium Large}
-{{Medium Large {0} x {1}}
+{Medium Large {0} x {1}}
 {FE Map Size Large}
-{{Large {0} x {1}}
+{Large {0} x {1}}
 {FE Map Size Huge}
-{{Huge {0} x {1}}
+{Huge {0} x {1}}
 {FE Map Climate China And Mongolia}
 {China and Mongolia}
 {FE Map Climate China Only}
@@ -4395,7 +4394,7 @@ Attack immediately preferring melee attack to missile fire. Be first to assault 
 {UI Settings Grass}
 {Show Grass}
 {DIP Offer Settlement}
-{{Give Settlement {0}}
+{Give Settlement {0}}
 {DIP Trade Embargo Old}
 {Ban all trade, including both imports and exports}
 {DIP Demand Lift Trade Embargo}
@@ -4525,7 +4524,7 @@ All brands, product names, and logos are trademarks or registered trademarks of 
 {TT Autospend Slider}
 {Proportion of budget that may be spent for buildings in settlements that are auto-managed.}
 {TT Labor Other}
-{{Other Activities : {0}}
+{Other Activities : {0}}
 {UI MP Game List Host}
 {Host}
 {UI MP Game List Scenario}
@@ -5024,7 +5023,7 @@ Move away from the enemy towards the edge of the battlefield. Do not form up in 
 {TT Unit Card Upgraded Armor}
 {This unit has upgraded armor. It's effects are reflected in the improved armor and defense values.}
 {TT Unit Card Numbers Men}
-{{Strength = {0} of {1}}
+{Strength = {0} of {1}}
 {TT Unit Card Efficiency}
 {Efficiency {0:n0}%}
 {TT MP Host Can Kick}
@@ -5050,19 +5049,19 @@ Move away from the enemy towards the edge of the battlefield. Do not form up in 
 {UI Gate Blocked Offer}
 {Offered to another player.}
 {UI Faction Settlement Data}
-{{Settlements {0} : Population {1}}
+{Settlements {0} : Population {1}}
 {TAG Herders and Farmers}
 {Herders and Farmers}
 {UI Faction Special Unit}
-{{Special Unit : {0}}
+{Special Unit : {0}}
 {UI Faction Special Edict}
-{{Special Edict : {0}}
+{Special Edict : {0}}
 {FE Game Warring States 407}
 {The Warring States}
 {UI Tech Check Area}
 {This item is from another tab, where you already have an item in development. Do you want to cancel it and select this one?}
 {UI Expected Building Income}
-{{Estimated to produce income of {0}}
+{Estimated to produce income of {0}}
 {UI Destruction Stalled}
 {Destruction of this city has stopped, as you have no troops in it. Move some troops back, or you will lose control of it.}
 {UI End Turn City Warning Title}
@@ -5498,7 +5497,7 @@ You can use the  . and , keys to cycle through messages or settlements. Use F5 t
 {UI ME Expand Dialog Title}
 {Expand Map}
 {UI ME Map Size Info}
-{{Map Size: Width = {0} Height = {1}}
+{Map Size: Width = {0} Height = {1}}
 {UI ME West Edge}
 {West Edge}
 {UI ME East Edge}
@@ -5548,7 +5547,7 @@ You can use the  . and , keys to cycle through messages or settlements. Use F5 t
 {UI FS Workshop Items}
 {Workshop Items}
 {UI ME Default Description}
-{{User Created Map {0} by {1}}
+{User Created Map {0} by {1}}
 {UI ME Update New Dialog Msg}
 {You have changed the map name. Do you want to update the name of the existing item, or create a new item.}
 {UI ME Update Current Button}
@@ -5642,7 +5641,7 @@ You can use the  . and , keys to cycle through messages or settlements. Use F5 t
 {UI SE No Wall Upgrades}
 {No Upgrades}
 {UI Added Building In Editor}
-{{Added : {0}}
+{Added : {0}}
 {UI ME Remove Settlement Button}
 {Remove Settlement}
 {UI ME Confirm Remove Settlement}
@@ -5660,7 +5659,7 @@ You can use the  . and , keys to cycle through messages or settlements. Use F5 t
 {UI SE Unit Selection Era}
 {Era}
 {UI SE Armor Level}
-{{Armor {0}}
+{Armor {0}}
 {UI SE Unit Selection Category}
 {Unit Type}
 {SE Unit Category Infantry}
