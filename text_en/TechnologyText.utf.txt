@@ -1,20 +1,20 @@
 {Tech Horse Domestication}
 {馬の家畜化}
 {Tech Horse Domestication Desc}
-{Although mankind has long hunted wild horses for their meat, learning how to control and domesticate them brings many additional benefits. They can be raised as food animals, providing meat or milk, provide transportation, and assist with agriculture. However, early means of riding and harnessing them were crude, and additional developments are needed to unlock their true potential. Nevertheless, horse ownership is a symbol of wealth and power.}
+{人類は長きにわたって肉を得るために野性の馬を狩猟していましたが，それを飼い慣らし制御する方法を知ることは，多くの付加的利点をもたらしました．馬は肉や乳を取るために育てるだけでなく，農業や硫黄手段としても使用されます．ですが，初期の騎乗の技術は粗末であり，真価を引き出すには追加の発明が必要になります．にもかかわらず，馬の所有権は富と権力の象徴です．}
 {Tech Light Chariot}
 {軽戦車}
 {Tech Light Chariot Desc}
-{The chariot provides a massive leap forward in military capabilities, providing mobility that foot soldiers cannot match. It allows elite soldiers to quickly move to the crucial point in a battle, to wear heavier armor than would be feasible on foot, and to easily escape if necessary. An archer mounted in a chariot can pour arrows into an infantry formation with little fear of reprisal. 
-The chariot is a complex piece of technology, requiring sophisticated wood bending techniques to create a cab and wheels and yoke that are both light and strong. The floor must be strong but flexible enough to cushion against bumps, the reigns must be long and strong. Only the richest and most powerful can maintain the team of skilled craftsmen needed to build a chariot.}
+{戦車は戦力を大幅に増加させ，兵士とは比較にならないほどの機動力をもたらします．戦車を利用すれば，重い鎧を装備した精鋭の兵士を戦闘の要衝に運ぶことも，逆に脱出させることも自在となります．戦車に載った弓兵は，兵士からの反撃をほぼ恐れることなしに矢を浴びせることができます．
+戦車は複雑な技術で作られており，軽くて丈夫な籠，車輪，くびきなどを作るには洗練された曲げ木の技術が必要となります．床は強くなければならないのはもちろん，地面の凹凸の衝撃に耐えられるよう柔軟でもある必要もあります．戦車を製造するために必要な熟練の職人たちを確保できるのは，裕福かつ力をもってい者だけです．}
 {Tech Heavy Chariot}
 {重戦車}
 {Tech Heavy Chariot Desc}
-{With a larger cab, a heavy chariot can accommodate two warriors besides the driver. The extra man can provide additional firepower, or be armed with a long hafted melee weapon. The latter provides close in combat power in chariot vs chariot engagements, and allows mixing it up with infantry who've been suitably softened up by missile fire. Being mounted allows a warrior to wear heavier armor than would be feasible on foot.}
+{重戦車はより大きな籠を持ち，御者のほかに2人の兵士を収容できます．追加の兵士は戦車に更なる火力をもたらす他，長い尖頭器で武装することもできます．後者は戦車対戦車の接近戦において力を発揮し，敵はもはや飛び道具によって弱体化した兵士と変わらなくなります．兵士はより重い鎧を着ることが可能になります．}
 {Tech Four Horse Chariot}
-{駟馬}
+{駟馬戦車}
 {Tech Four Horse Chariot Desc}
-{Adding two extra draft animals greatly eases the burden on the horses and reduces their fatigue. The ability to move at speed for longer, enhances effective combat power, and with more horse power, a more robust cab construction can be used, and the warriors can wear even heavier armor. }
+{馬をさらに2匹追加した戦車は馬への負担と疲労を大幅に軽減します．また，より増した機動力は戦闘効率を高め，より堅牢な籠を用いることができ，より重い鎧を着た兵士を載せることができます．}
 {Tech Horse Riding}
 {乗馬}
 {Tech Horse Riding Desc}
@@ -152,7 +152,7 @@ The chariot is a complex piece of technology, requiring sophisticated wood bendi
 {Tech Malleable Cast Iron Desc}
 {Cast iron is too brittle for many applications, but it can be turned into a more malleable form by being heated for several days, and then slowly cooled. The resultant malleable cast iron can then be further worked by bending or stamping, greatly extending the range of objects for which iron is useful.}
 {Tech Steel}
-{Steel}
+{鋼鉄}
 {Tech Steel Desc}
 {If cast iron and wrought iron are melted together, the carbon content is correct to from steel. Repeated folding and hammering of the metal distributes the carbon uniformly yielding a metal of great strength, with the ability to hold a razor sharp edge.}
 {Tech Hydraulic Bellows}
@@ -184,7 +184,7 @@ The chariot is a complex piece of technology, requiring sophisticated wood bendi
 {Tech Mountain Armor Desc}
 {This is the finest quality armor, affordable only to those of the highest rank. It consists of several layers of many overlapping small metal plates riveted together to provide protection that is both strong and flexible. The shape of these plates is similar to that of the character meaning "mountain", giving the armor its name.}
 {Tech Horse Armor}
-{Horse Armor}
+{馬鎧}
 {Tech Horse Armor Desc}
 {The development of horse armor, and horses strong enough to wear it, greatly reduces a horses vulnerability in battle, particularly against soldiers on foot, and against arrows. The development of horse armor paved the way for cavalry to dominate the battlefield.}
 {Tech Iron Armor}
@@ -196,7 +196,7 @@ The chariot is a complex piece of technology, requiring sophisticated wood bendi
 {Tech Bamboo Strips Desc}
 {Writing is more easily shared if written on a portable medium. Slips of wood or bamboo the length of a chopstick, and the width of two, are convenient for writing a column of twenty or so characters with a brush. Many such strips can be laced together with twine to form longer works.}
 {Tech Paper}
-{Paper}
+{紙}
 {Tech Paper Desc}
 {Paper is a most marvelous invention as a medium for writing. It is cheap to make, easy to write on, and light to carry. It is made by pounding rags or mulberry bark in water, until the individual fibers separate. They are then collected on a mat and dried. Many different materials such as hemp or sandalwood can be used to make paper of different types and qualities.}
 {Tech Stone Rubbing Copying}
@@ -276,7 +276,7 @@ The chariot is a complex piece of technology, requiring sophisticated wood bendi
 {Tech Coinage Desc}
 {The earliest medium of exchange was cowry shells, but round coins made from copper, bronze or iron proved a more practical type of money. Chinese coins had holes in the center allowing them to be strung together into groups of 100 or 1000, and carried over the shoulder. The development of coinage will facilitate the development of trade and allow a greater range of government taxation measures.}
 {Tech Paper Currency}
-{Paper Currency}
+{紙幣}
 {Tech Paper Currency Desc}
 {As the economy developed, vast quantities of coins were required, with 6 billion being minted in one year, and shortage of metal often lead to debasement of the currency. Coins were also bulky and heavy, with a string of 1000 weighing several kilograms. The development of paper money makes larger transactions more convenient and allows further expansion of trade.}
 {Tech Joint Stock Company}
@@ -336,7 +336,7 @@ The chariot is a complex piece of technology, requiring sophisticated wood bendi
 {Tech Military Architecture Desc}
 {While a city wall makes it difficult for an enemy to attack, an enemy left undisturbed will find ways to breach or scale it. It's therefore necessary to build structures atop the wall that allow defenders to rain down fire on those approaching the wall, and to disrupt enemy operations.}
 {Tech Agriculture}
-{Agriculture}
+{農業}
 {Tech Agriculture Desc}
 {Although the methods of planting cereal crops have been known to many for thousands of years, not all societies have yet adopted a settled farming lifestyle, preferring instead to rely on hunting, gathering or maintaining large flocks of animals. Agriculture allows better use of land that is sufficiently fertile, but also requires more labor.}
 {Tech Pastoralism}
@@ -348,11 +348,11 @@ The chariot is a complex piece of technology, requiring sophisticated wood bendi
 {Tech Nomadism Desc}
 {Flocks need to spread out to find grazing, but the need to keep track of them limits the area that any settlement can make use of. Using horses enables flocks to be controlled over a much wider area, and increasing the amount of land a settlement may use. It also makes it easy for groups to split off to new locations, so this development allows settler units to be recruited at zero cost.}
 {Tech Flood Control}
-{Flood Control}
+{治水}
 {Tech Flood Control Desc}
 {Left to their own devices, rivers are capricious, often flooding and changing course suddenly causing massive disruption to agriculture. Dredging their channels and building levees to control their flow makes them a little more predictable, and allows agriculture to be more permanently established.}
 {Tech Irrigation}
-{Irrigation}
+{灌漑}
 {Tech Irrigation Desc}
 {Crops need water to grow, and the supply from rainwater can be unpredictable. Creating a system of channels to distribute water from rivers or bore holes ensures that crops are well watered all year round, whatever the whims of the rain gods.}
 {Tech Terracing}
@@ -372,11 +372,11 @@ The chariot is a complex piece of technology, requiring sophisticated wood bendi
 {Tech Brick Faced Wells Desc}
 {The climate is often dry, and it is necessary to draw up water from wells to water the crops, and provide for people and animals. While wells can be dug easily, they collapse quickly if not well lined. A lining of trapezoidal shaped bricks (smaller on the inside than the outside) is easy to lay, and will keep the well open permanently.}
 {Tech Crop Rotation}
-{Crop Rotation}
+{輪作}
 {Tech Crop Rotation Desc}
 {The five sacred grains that have been grown from ancient times are millet, wheat, rice, soya beans, and sesame. They may be grown at different times of the year, or in different climates. It is better if they are not grown in the same spot each year, as this leads to depletion of the soil, and a build up of weeds and pests. Rotating the different crops between different fields significantly increases the yield.}
 {Tech Composite Bow}
-{Composite Bow}
+{複合弓}
 {Tech Composite Bow Desc}
 {Unlike a simple bow, a composite bow is made of multiple materials, wood, sinew or horn, glued together. Using different materials on inner and outer edges allows it to bend further, allowing construction of bows that are powerful without being unduly large.}
 {Tech Crossbow}
@@ -400,7 +400,7 @@ The chariot is a complex piece of technology, requiring sophisticated wood bendi
 {Tech Beehive Rocket Launcher Desc}
 {Experiments with gunpowder have shown that burning powder alone is enough to shoot an arrow through the air without the need for a bow. There rockets are light so a single man may carry many in a bundle and launch them like a swarm of angry bees. Although rather inaccurate, they will cause great fear amongst the enemy, and not a little damage.}
 {Tech Thunderclap Bomb}
-{Thunderclap Bomb}
+{震天雷}
 {Tech Thunderclap Bomb Desc}
 {By filling an earthenware pot with gunpowder, a most effective projectile can be fashioned for engines to throw, that will explode on impact, affecting enemy over a wide area. Sharp spikes of iron, or shards of pottery contained within the top will cause a shower of deadly shrapnel further enhancing the deadly effect.}
 {Tech Three Eyed Gun}
@@ -412,7 +412,7 @@ The chariot is a complex piece of technology, requiring sophisticated wood bendi
 {Tech Hot Cold Theory Desc}
 {Good health depends on maintaining the internal Qi balance between the major organs. Different foods affect different organs, and may also be divided into hot and cold types depending on their overall effect. Cold foods include fruits, vegetables and grains, whereas salty or fried foods are considered hot.}
 {Tech Medicine}
-{Medicine}
+{医学}
 {Tech Medicine Desc}
 {The role of medicine to restore balance to the body and enable it to recover from illness or injury itself. The practitioner examines the patient, determines where the imbalances lay, and then prescribes medication to rectify it. Over time a vast body of knowledge has been built up about the qualities of different plants, herbs and animal parts.}
 {Tech Acupunture}
@@ -428,7 +428,7 @@ The chariot is a complex piece of technology, requiring sophisticated wood bendi
 {Tech Blood Circulation Desc}
 {It has long been understood that in the same way that Qi circulates through the meridians, blood also circulates through the body. Understanding the details of this process is most beneficial to the treatment of illness and injury.}
 {Tech Yin and Yang}
-{Yin and Yang}
+{陰陽思想}
 {Tech Yin and Yang Desc}
 {Yang is the light, Yin is the shade. Without one, there cannot be the other. Yang and yin are the opposing but complementary forces that permeate nature. Hot and cold, life and death, fire and water, action and passivity, male and female. These ideas underpin most of Chinese thought.}
 {Tech Massage}
@@ -436,15 +436,15 @@ The chariot is a complex piece of technology, requiring sophisticated wood bendi
 {Tech Massage Desc}
 {The flow of Qi and blood through the body may be stimulated and improved by expert manipulation of the limbs, pressuring of the muscles, promoting good health and providing relief from pain and weariness.}
 {Tech The Five Elements}
-{The Five Elements}
+{五行思想}
 {Tech The Five Elements Desc}
 {Wood, Fire, Water, Earth and Metal are the five elements. They are the five phases, the five agents, the five processes, the five steps. Each overcomes the other in a great cycle. This progression can explain the movements of the cosmos, the interaction of bodily organs, and the rise and fall of political regimes. Green, red, black, yellow and white are their colors.}
 {Tech Tai Chi}
-{Tai Chi}
+{太極拳}
 {Tech Tai Chi Desc}
 {This combination of movement, breathing and mediation can train both the body and spirit. Its practice promotes health, balance, calmness and awareness. Often movements are performed slowly, and faster movements may be performed as a form of martial art.}
 {Tech Kung Fu}
-{Kung Fu}
+{カンフー}
 {Tech Kung Fu Desc}
 {There are many different styles of fighting. Some mimic the styles of animals, some emphasize speed and fluidity, other stability and strength. To master any of these, both the body and mind must be trained. The basic stances must be learned, breathing mastered and the mind cleared, to allow the student to focus his Qi.}
 {Tech Military Drill}
@@ -460,27 +460,27 @@ The chariot is a complex piece of technology, requiring sophisticated wood bendi
 {Tech Combined Arms Desc}
 {A successful force usually combines both missile and melee troops. However, using them together correctly can be difficult. Co-operation can be made easier by combining the two types into multi-purpose units.}
 {Tech Military Theory}
-{Military Theory}
+{軍事学}
 {Tech Military Theory Desc}
 {As some scholars have studied the laws of nature, or pondered the minds of men, others have begun to make a systematic study of the practices of successful military commanders, and to compose books on the art of war. Any commander who wishes to be well prepared should be familiar with them.}
 {Tech Calendar}
-{Calendar}
+{暦}
 {Tech Calendar Desc}
 {The movement of the moon and stars mark the passage of time. By careful study of these, a calendar may be devised to divide time into years and months, and to determine when is the correct time to plant and harvest crops. Sadly the months marked by the phases of the moon, do not divide evenly into the year, so some years will have 12 months, and some 13.}
 {Tech Astronomy}
-{Astronomy}
+{天文学}
 {Tech Astronomy Desc}
 {Careful observation of the of movements of the sun, moon, comets and other celestial bodies, reveals many patterns. In particular it reveals that events such as eclipses and the appearance of comets may be predicted. Foretelling these events will prevent panic, and greatly enhance the prestige of the ruler.}
 {Tech Mathematics}
-{Mathematics}
+{数学}
 {Tech Mathematics Desc}
 {Understanding the properties of numbers and shapes, and how to calculate them is of great benefit in many fields. In can assist in problems of astronomy, architecture, surveying and taxation among others. An educated gentlemen should be acquainted with all the principles of mathematics.}
 {Tech Abacus}
-{Abacus}
+{算盤}
 {Tech Abacus Desc}
 {An abacus is a most marvelous device for aiding calculation. It consists of columns of beads in a frame divided into two parts. Most commonly, each column has two beads in the upper part, and four in the lower. Numbers are added by moving up beads in the lower part, until all are used when a bead in the upper part is moved. When the upper beads have both been moved, that column is reset, and a bead in the next column moved.}
 {Tech Road Building}
-{Road Building}
+{道路建設}
 {Tech Road Building Desc}
 {Construction of easily passable roadways will improve trade and speed the movement of military forces. The road bed needs to be compacted and levelled, then a layer of small stones added to provide drainage, and finally large stones laid on top to provide a smooth surface for carriages and chariots. Walls, signposts and guard houses should be placed along the road, and staging posts established to provide fresh horses for government officials.}
 {Tech Churn Drill}
@@ -520,11 +520,11 @@ The chariot is a complex piece of technology, requiring sophisticated wood bendi
 {Tech Paddle Wheel Desc}
 {River ships are traditionally rowed, but the rowing action is not particularly efficient for large ships where the rower sits high above the water line. Paddle wheels driven by men on treadle paddles are more efficient, and can propel river ships to greater speeds, while removing the vulnerable oars which can easily be damaged by enemy attacks.}
 {Tech Star Charts}
-{Star Charts}
+{星図}
 {Tech Star Charts Desc}
 {An accurate map of the stars in the sky is of great use to sailors who are out of sight of land. It allows then to accurately estimate how far north or south they are, and gives them some idea of their rate and direction of travel.}
 {Tech Marine Compass}
-{Marine Compass}
+{マリンコンパス}
 {Tech Marine Compass Desc}
 {Although pieces of lodestone have long been known to orient north / south when suspended in floated in water, the effect is weak and unreliable. The development of a magnetized iron needle, and a mounting suitable for a ship at sea, allow the compass to become a most useful instrument, that allows the mariner to know his direction of facing by either day or night.  }
 {Tech Mahjong}

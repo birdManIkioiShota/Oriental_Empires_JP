@@ -1,16 +1,17 @@
 {ADV_TITLE_IN_001}
 {ご挨拶}
 {ADV_TEXT_IN_001}
-{Welcome to Oriental Empires. I will be your advisor, pointing out important features of the game, and bringing urgent matters to your attention. 
-Note the help button in the top right of the screen. This will explain the function of whichever game area you are currently in.}
+{Oriental Empireにようこそ．私がアドバイザーとなり，このゲームで重要となる事項や緊急の報告を行います．
+画面右上にあるヘルプボタンを押してください．これは現在あなたがいるゲームエリアの機能を説明します．}
 {ADV_TITLE_IN_002}
 {ゲーム中ヘルプ}
 {ADV_TEXT_IN_002}
-{Press F1 or use the info button in the top right corner to access help. The button in the top left of the help screen will access the contents of the in game manual.}
+{ヘルプにアクセスするには，F1キーを押すか画面右上にあるヘルプボタンを押します．
+ヘルプ画面の左上にあるボタンで，ゲームマニュアルにアクセスします．}
 {ADV_TITLE_ST_001}
 {移動方法}
 {ADV_TEXT_ST_001}
-{You have selected a unit. Order it to move somewhere by right clicking the target location.}
+{ユニットを選択しました．移動の命令を出すには，ターゲットとなる場所を右クリックします．}
 {ADV_TITLE_ST_002}
 {移動方法}
 {ADV_TEXT_ST_002}

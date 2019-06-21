@@ -3107,13 +3107,13 @@ This is something of a diplomatic nicety, as it involves no particular obligatio
 {Load Objects}
 {Load Objects}
 {Settings}
-{Settings}
+{設定}
 {Settlements}
 {Settlements}
 {Units}
-{Units}
+{ユニット}
 {Players}
-{Players}
+{プレイヤー}
 {Misc Objects}
 {Misc Objects}
 {Object Types}
@@ -3135,9 +3135,9 @@ This is something of a diplomatic nicety, as it involves no particular obligatio
 {UI Delete Building Button}
 {Destroy}
 {UI Confirm Destroy Building Title}
-{Destroy Building}
+{建物を破壊}
 {UI Confirm Destroy Building Text}
-{Are you sure you want to destroy this building ?}
+{建物を破壊してもよろしいですか？}
 {UI Next Available In}
 {Next in {0}}
 {UI CC Temple Exists}
@@ -3563,9 +3563,9 @@ If disbanded within the territory of one of your own settlements, the soldiers f
 {FE AI Only}
 {Non-Playable}
 {Status Tab Player Info}
-{Player Info}
+{プレイヤー情報}
 {Status Tab Victory}
-{Victory}
+{勝利}
 {Status Tab Influence}
 {Influence}
 {Status Tab Automation}
@@ -3607,7 +3607,7 @@ If disbanded within the territory of one of your own settlements, the soldiers f
 {UI Status Conquest Victory Name}
 {征服勝利}
 {UI Status Conquest Victory Stat Text}
-{Percentage Achieved}
+{達成率}
 {UI Status Culture Victory Name}
 {文化勝利}
 {UI Status Culture Victory Stat Text}
@@ -3625,7 +3625,7 @@ If disbanded within the territory of one of your own settlements, the soldiers f
 {UI Culture Faction Advantage}
 {Faction Advantage}
 {UI Influence Tech}
-{Tech}
+{技術}
 {UI Influence Edict}
 {Edict}
 {UI Auth Leader}
@@ -4062,9 +4062,9 @@ Your overlord has gone to war with these people. As a loyal vassal, you are  now
 {DIP Forced Peace Speech}
 {Lay down your arms. The time for war is over.}
 {DIP Honour Alliance Title}
-{Declare War ?}
+{宣戦布告しますか？}
 {DIP Vassal Request Help Title}
-{Declare War ?}
+{宣戦布告しますか？}
 {DIP Honour Alliance Question}
 {Will you honor your alliance and declare war on these people who have gone to war with your ally. Failure to do so will cancel your alliance, and reduce your reputation.}
 {DIP Honour Question Catch 22}
@@ -5459,7 +5459,7 @@ You can use the  . and , keys to cycle through messages or settlements. Use F5 t
 {UI Settings White Fade Level}
 {White Fade Level}
 {UI ME New Map Menu}
-{New Map}
+{新規マップ}
 {UI ME Map Actions}
 {Special Actions}
 {UI ME New Map}
