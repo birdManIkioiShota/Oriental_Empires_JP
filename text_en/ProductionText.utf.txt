@@ -860,7 +860,7 @@ This building provide horses for export. Having horses available will increase t
 {MR Wild Horses}
 {Wild Horses}
 {MR Wild Horses Desc}
-{The herds of wild horses here mean that there is no problem obtaining steeds for mounted warriors. A settlement that controls (or has adjacent territory) to this resource can trade them for additional income. }
+{The herds of wild horses here mean that there is no problem obtaining steeds for mounted warriors. A settlement that controls (or has adjacent territory) to this resource can trade them for additional income.}
 {MR Wild Game}
 {Wild Game}
 {MR Wild Game Desc}
@@ -908,7 +908,7 @@ This building provide horses for export. Having horses available will increase t
 {LB Farm Construction}
 {Farm Construction}
 {LB Farming}
-{Farming }
+{Farming}
 {LB Grazing}
 {Grazing Flocks}
 {LB Military Service}
@@ -934,11 +934,11 @@ This building provide horses for export. Having horses available will increase t
 {TI Iron}
 {Iron and Steel}
 {LDR Died Old Age}
-{Leader Died }
+{Leader Died}
 {LDR Died Old Age Desc}
 {Our venerable friend has passed from this world, and gone to join his ancestors. We must make prayers and offerings to help his spirit make the journey.}
 {LDR Died In Battle}
-{Leader Died }
+{Leader Died}
 {LDR Died In Battle Desc}
 {He has died an heroic death in battle. He has honored his ancestors, and in turn his descendants shall honor him. }
 {LDR Heir Succeeds}
@@ -1202,7 +1202,7 @@ Open the screen for the captured settlement to decide whether to occupy, sack or
 {UI Protects with Wall}
 {Protects the settlement with a wall.}
 {UI Wall Hit Points}
-{Damage Hit Points {0}}
+{{Damage Hit Points {0}}
 {UI Wall Vulnerable To Fire}
 {Wall can be burned down by fire arrows.}
 {UI Wall Invulnerable To Fire}
@@ -1294,7 +1294,7 @@ Open the screen for the captured settlement to decide whether to occupy, sack or
 {DS Cant Disband If Turmoil}
 {A settlement cannot be disbanded while in turmoil.}
 {DS Cant Disband Too Large}
-{This settlement is too large to be disbanded, as it has a population greater than {0}}
+{{This settlement is too large to be disbanded, as it has a population greater than {0}}
 {DS Cant Disband Capital}
 {You can't disband your capital.}
 {DS No Space For Settlers}
@@ -1342,7 +1342,7 @@ Open the screen for the captured settlement to decide whether to occupy, sack or
 {DS 3P Earthquake Msg}
 {News: Quake}
 {DS 3P Earthquake Text}
-{News has come in that an earthquake has caused widespread damage and destruction in this city. Many say that it must be Heaven's display of displeasure at their wickedness.  }
+{News has come in that an earthquake has caused widespread damage and destruction in this city. Many say that it must be Heaven's display of displeasure at their wickedness.}
 {DS Fire Msg}
 {Fire}
 {DS Fire Text}
@@ -1444,21 +1444,21 @@ Open the screen for the captured settlement to decide whether to occupy, sack or
 {EE Reduce Peasant Unrest}
 {Reduces peasant unrest by {0}%.}
 {DS Population Killed}
-{Population Killed : {0}}
+{{Population Killed : {0}}
 {DS Buildings Damaged}
 {Buildings Damaged:}
 {DS Walls Damaged}
-{Walls Damaged : {0}}
+{{Walls Damaged : {0}}
 {DS Towers Damaged}
-{Towers Damaged : {0}}
+{{Towers Damaged : {0}}
 {DS Gates Damaged}
-{Gates Damaged : {0}}
+{{Gates Damaged : {0}}
 {DS Peasant Unrest}
-{Peasant Unrest : {0}}
+{{Peasant Unrest : {0}}
 {DS Noble Unrest}
-{Noble Unrest : {0}}
+{{Noble Unrest : {0}}
 {DS Both Unrest}
-{Unrest: Peasants :  {0} -- Nobles : {1}}
+{{Unrest: Peasants :  {0} -- Nobles : {1}}
 {DS Reduced Efficiency}
 {Army efficiency reduced by {0}%}
 {DS Others Walls Damaged}
@@ -1474,7 +1474,7 @@ Open the screen for the captured settlement to decide whether to occupy, sack or
 {DS Affected Settlements}
 {Affected Places}
 {DS Flocks Killed}
-{Flocks Killed : {0}}
+{{Flocks Killed : {0}}
 {DS Grain Production Decrease}
 {Grain production reduced by {0}%}
 {DS Grain Production Increase}
@@ -1508,7 +1508,7 @@ Open the screen for the captured settlement to decide whether to occupy, sack or
 {ENC Steal your treasure}
 {Lighten your load.}
 {ENC Cost Money}
-{Pay {0}}
+{{Pay {0}}
 {ENC Cost Unknown}
 {Unknown Cost Item}
 {ENC Effect Improve Craft}
@@ -1520,23 +1520,23 @@ Open the screen for the captured settlement to decide whether to occupy, sack or
 {ENC Effect Improve Thought}
 {Improve Thought advancement rate by {0}%}
 {ENC Give Tech}
-{Technology : {0}}
+{{Technology : {0}}
 {ENC Increase Authority}
-{Increase personal authority by {0}}
+{{Increase personal authority by {0}}
 {ENC Increase Qi}
-{Increase Qi (Energy) by {0}}
+{{Increase Qi (Energy) by {0}}
 {ENC Increase Ren}
-{Increase Ren (Virtue) by {0}}
+{{Increase Ren (Virtue) by {0}}
 {ENC Offer Gold}
 {{0} Gold}
 {ENC Effect Unknown}
 {Unknown Effect}
 {ENC Decrease Qi}
-{Reduce Qi (Energy) by {0}}
+{{Reduce Qi (Energy) by {0}}
 {ENC Decrease Ren}
-{Reduce Ren (Virtue) by {0}}
+{{Reduce Ren (Virtue) by {0}}
 {ENC Decrease Authority}
-{Reduce personal authority by {0}}
+{{Reduce personal authority by {0}}
 {ENC Add CultureVPs}
 {Receive {0} Culture VP(s)}
 {ENC Reveal Map}
@@ -1548,13 +1548,13 @@ Open the screen for the captured settlement to decide whether to occupy, sack or
 {ENC Reveal Water}
 {Reveal the rivers and seas in this area.}
 {ENC Reveal Resource}
-{Show location of map resource : {0}}
+{{Show location of map resource : {0}}
 {ENC Military Leader}
 {Gain a character skilled in generalship.}
 {ENC Administrative Leader}
 {Gain a characters skilled in administration.}
 {ENC Add Units}
-{Add Unit(s)  {1} x {0}}
+{{Add Unit(s)  {1} x {0}}
 {ENC CraftsmanA}
 {Famous Craftsman}
 {ENC CraftsmanA Desc}
@@ -1842,7 +1842,7 @@ Open the screen for the captured settlement to decide whether to occupy, sack or
 {CAP Max Population}
 {Max Population}
 {CAP Max Population Desc}
-{Max settlement population is {0}}
+{{Max settlement population is {0}}
 {CAP Recruit Militia}
 {Recruit Militia}
 {CAP Recruit Militia Desc}
@@ -1910,7 +1910,7 @@ Open the screen for the captured settlement to decide whether to occupy, sack or
 {CAP Mine Income}
 {Mine Income}
 {CAP Mine Income Desc}
-{Generates income of {0}}
+{{Generates income of {0}}
 {CAP Trade Distance}
 {Trade Distance}
 {CAP Trade Distance Desc}
@@ -1922,7 +1922,7 @@ Open the screen for the captured settlement to decide whether to occupy, sack or
 {CAP Trade Level}
 {Trade Level}
 {CAP Trade Level Desc}
-{Trade value multiplier {0}}
+{{Trade value multiplier {0}}
 {CAP Onward Trade}
 {Onward Trade}
 {CAP Onward Trade Desc}
@@ -2082,19 +2082,19 @@ Open the screen for the captured settlement to decide whether to occupy, sack or
 {CAP Authority}
 {Authority}
 {CAP Authority Desc}
-{Increase authority by {0}}
+{{Increase authority by {0}}
 {CAP Culture}
 {Culture}
 {CAP Culture Desc}
-{Increase culture by {0}}
+{{Increase culture by {0}}
 {CAP NewLeaderVirtue}
 {New Leader Virtue}
 {CAP NewLeaderVirtue Desc}
-{Increases the virtue of all new characters by {0}}
+{{Increases the virtue of all new characters by {0}}
 {CAP NewLeaderEnergy}
 {New Leader Qi}
 {CAP NewLeaderEnergy Desc}
-{Increases the qi of all new characters by {0}}
+{{Increases the qi of all new characters by {0}}
 {CAP CombatAdvantage}
 {Combat Advantage}
 {CAP CombatAdvantage Desc}
@@ -2210,7 +2210,7 @@ Open the screen for the captured settlement to decide whether to occupy, sack or
 {CAP Character Armor}
 {Character Armor}
 {CAP Character Armor Desc}
-{Increases armor rating of characters by {0}}
+{{Increases armor rating of characters by {0}}
 {TT End Turn}
 {End Turn}
 {TT Hide Advice}
@@ -2442,19 +2442,19 @@ Double click to open settlement display.}
 {TT Settlement Indicator}
 {Potential settlement site.}
 {TT Basic Food}
-{Basic Food {0}}
+{{Basic Food {0}}
 {TT Farmable}
 {Can be farmed}
 {TT Grazing}
-{Grazing {0}}
+{{Grazing {0}}
 {TT Blocked Trade Route}
 {Blocked Trade Route}
 {TT Off Map Export Route}
-{{0}: Off map export route: Value {1}}
+{{{0}: Off map export route: Value {1}}
 {TT Domestic Export Route}
-{{0}: Domestic export route: Value {1}}
+{{{0}: Domestic export route: Value {1}}
 {TT Foregin Export Route}
-{{0}: Foreign export route: Value {1}}
+{{{0}: Foreign export route: Value {1}}
 {TT Other Player Trade Route}
 {Other player's trade route}
 {TT Off Map Trade Route}
@@ -2488,7 +2488,7 @@ Double click to open settlement display.}
 {TT Build Road}
 {Build Road}
 {TT Convert Land}
-{Convert to {0}}
+{{Convert to {0}}
 {TT Mode Build Farms}
 {Build Farms}
 {TT Mode Build Roads}
@@ -2536,15 +2536,15 @@ Double click to open settlement display.}
 {TT Capture Action Details}
 {Show details for this choice}
 {TT Labor Farming}
-{Population Farming : {0}}
+{{Population Farming : {0}}
 {TT Labor Building}
-{Population Building : {0}}
+{{Population Building : {0}}
 {TT Labor Herding}
-{Population Herding : {0}}
+{{Population Herding : {0}}
 {TT Labor Military}
-{On Military Service : {0}}
+{{On Military Service : {0}}
 {TT Labor Unemployed}
-{Unemployed : {0}}
+{{Unemployed : {0}}
 {TT Begin Construction}
 {Begin Construction}
 {TT Destroy Building}
@@ -2592,7 +2592,7 @@ Double click to open settlement display.}
 {TT DP Tech Food Effect}
 {This is the modification to food production from advancements on the Technology and Culture screen.}
 {TT DP Flocks Per Hex}
-{The number of flocks that may graze on each hex of this terrain type is {0}}
+{{The number of flocks that may graze on each hex of this terrain type is {0}}
 {TT DP Resource Food}
 {Food produced from resources located within or adjacent to the settlement's territory.}
 {TT DP Noble Local Factors}
@@ -3026,7 +3026,7 @@ This is something of a diplomatic nicety, as it involves no particular obligatio
 {EFF Add Admin}
 {Add Bureaucrat Character}
 {EFF TaxCollection}
-{Increase tax collection }
+{Increase tax collection}
 {EFF SpecialPopulationTax}
 {Tax per Population}
 {EFF AdvanceEra}
@@ -3140,19 +3140,19 @@ This is something of a diplomatic nicety, as it involves no particular obligatio
 {UI Confirm Destroy Building Text}
 {Are you sure you want to destroy this building ?}
 {UI Next Available In}
-{Next in {0}}
+{{Next in {0}}
 {UI CC Temple Exists}
-{ A temple or school already exists here.}
+{A temple or school already exists here.}
 {UI CC No Space Upgrade}
 {This building is larger than the one it replaces. Upgrade the settlement to make space for it.}
 {UI CC No Space Full}
 {There is no more space for building here.}
 {UI CC Need Population}
-{Requires a population of at least {0}}
+{{Requires a population of at least {0}}
 {UI CC Requires Building}
-{Requires a {0}}
+{{Requires a {0}}
 {UI CC Requires Not Building}
-{Cannot be constructed with a {0}}
+{{Cannot be constructed with a {0}}
 {UI CC Insufficent funds}
 {You have insufficient funds.}
 {UI CC Already under construction}
@@ -3389,7 +3389,7 @@ You may issue only one edict per turn. Generally this will remain in effect unti
 {DP Armies}
 {Military Strength}
 {DP Luxury}
-{Luxury Items x {0}}
+{{Luxury Items x {0}}
 {DP Insufficient Authority}
 {Insufficient Authority}
 {DP Authority}
@@ -3473,23 +3473,23 @@ Buildings that will be damaged : {2:d}}
 {CCP Turmoil Title}
 {Turmoil}
 {UI Load Game}
-{Load Game}
+{ロード}
 {UI Save Game}
-{Save Game}
+{セーブ}
 {UI Load File}
-{Load}
+{ロード}
 {UI Save File}
-{Save}
+{セーブ}
 {UI Delete File}
-{Delete}
+{削除}
 {UI Sort By Name}
-{Name}
+{名前}
 {UI Sort By Date}
-{Date}
+{日付}
 {UI Turn}
-{Turn}
+{ターン}
 {UI Loading}
-{Loading}
+{ロード中}
 {LMP Authority}
 {Authority}
 {LMP Battles Won}
@@ -3513,7 +3513,7 @@ Buildings that will be damaged : {2:d}}
 {UI Units For Reuse}
 {These may be recruited again:}
 {UI Disbanded Unit Type}
-{{0} x {1}}
+{{{0} x {1}}
 {UI Disbanded Time Type}
 {{0} x {1} in {2} Turns}
 {UI Recruitment Cancelled}
@@ -3528,33 +3528,33 @@ If disbanded within the territory of one of your own settlements, the soldiers f
 {UI Select Faction}
 {Select Faction}
 {UI Game Difficulty}
-{Difficulty}
+{難易度}
 {AI Difficulty Easy}
-{Easy}
+{イージー}
 {AI Difficulty Normal}
-{Normal}
+{ノーマル}
 {AI Difficulty Hard}
-{Hard}
+{ハード}
 {AI Difficulty Very Hard}
-{Very Hard}
+{ベリーハード}
 {UI Game Length}
-{Max Turns}
+{最大ターン数}
 {FE Single Player}
-{Single Player}
+{シングルプレイヤー}
 {FE Multiplayer}
-{Multiplayer}
+{マルチプレイ}
 {FE Continue}
-{Continue Campaign}
+{コンティニュー}
 {FE Quit}
-{Quit}
+{終了}
 {FE Load}
-{Load Game}
+{ロード}
 {FE Options}
-{Options}
+{オプション}
 {FE Play}
 {Play Game}
 {FE Back}
-{Back}
+{戻る}
 {FE Human Control}
 {This faction is selected to play.}
 {FE AI Control}
@@ -3572,7 +3572,7 @@ If disbanded within the territory of one of your own settlements, the soldiers f
 {Status Tab Automation}
 {Automation}
 {Status Tab Relations}
-{Relations }
+{Relations}
 {UI Status Screen Title}
 {Player Status}
 {UI Influence Authority}
@@ -3606,11 +3606,11 @@ If disbanded within the territory of one of your own settlements, the soldiers f
 {UI 1 Vassal Authority Bonus}
 {Have at least 1 vassal}
 {UI Status Conquest Victory Name}
-{Conquest Victory}
+{征服勝利}
 {UI Status Conquest Victory Stat Text}
 {Percentage Achieved}
 {UI Status Culture Victory Name}
-{Cultural Victory}
+{文化勝利}
 {UI Status Culture Victory Stat Text}
 {Percent Achieved}
 {UI Status SOH Victory Name}
@@ -3728,15 +3728,15 @@ If disbanded within the territory of one of your own settlements, the soldiers f
 {UI Settings UI Volume}
 {UI Volume}
 {UI Settings Mute}
-{Mute}
+{ミュート}
 {UI Settings Graphics Quality}
-{Graphics Quality}
+{グラフィック}
 {UI Settings Screen Resolution}
 {Screen Resolution}
 {UI Settings Windowed}
-{Windowed}
+{ウィンドウ化}
 {UI Settings Title}
-{Settings}
+{設定}
 {UI Settings Audio Tab}
 {Sound Settings}
 {UI Settings Video Tab}
@@ -3850,15 +3850,15 @@ Do you want to end the turn now ?}
 {UI Alliance Not Honored Title}
 {Alliance Betrayed}
 {UI At War Turns}
-{At war: }
+{At war:}
 {UI At Peace Turns}
-{At Peace: }
+{At Peace:}
 {UI Status One Turn}
 {1 Turn}
 {UI Status Num Turns}
 {Turns}
 {DIP Status Power Label}
-{Power: }
+{Power:}
 {DIP Status Much Weaker}
 {Much Weaker}
 {DIP Status Weaker}
@@ -3870,7 +3870,7 @@ Do you want to end the turn now ?}
 {DIP Status Much Stronger}
 {Much Stronger}
 {DIP Status Stability Label}
-{Stability: }
+{Stability:}
 {DIP Status Stable}
 {Stable}
 {DIP Status Mostly Stable}
@@ -3880,7 +3880,7 @@ Do you want to end the turn now ?}
 {DIP Status Civil War}
 {Civil War}
 {DIP Status Wealth Label}
-{Wealth: }
+{Wealth:}
 {DIP Status Wealthy}
 {Wealthy}
 {DIP Status Adequate}
@@ -3924,7 +3924,7 @@ Do you want to end the turn now ?}
 {DIP Regular Payment}
 {Regular Payment ({0} Turns)}
 {DIP Regular Payment Ongoing}
-{Regular Payment }
+{Regular Payment}
 {DIP Single Payment}
 {Single Payment}
 {DIP Offer Peace Short}
@@ -3942,7 +3942,7 @@ Do you want to end the turn now ?}
 {DIP Defensive Alliance}
 {Defensive Alliance ({0} Turns)}
 {DIP Attack Player}
-{Attack {0}}
+{{Attack {0}}
 {DIP Become Vassal}
 {Become Vassal}
 {DIP Recognize Emperor}
@@ -4006,7 +4006,7 @@ Do you want to end the turn now ?}
 {NEG TT Offer Cancel Trade Rights}
 {Allow each others settlements to trade with each other.}
 {NEG Offer Settlement}
-{Give Settlement {0}}
+{{Give Settlement {0}}
 {NEG TT Offer Settlement}
 {Transfer this settlement to their control.}
 {NEG TT Demand Settlement}
@@ -4309,7 +4309,7 @@ Historically the original kingdom of Wu was destroyed by Min, but the name was u
 {CHARGE!!!
 Attack immediately preferring melee attack to missile fire. Be first to assault breaches in siege battles.}
 {Additions}
-{### Trans ### }
+{### Trans ###}
 {Unnavigable Lake}
 {Impassable Lake}
 {UI Notify attack  in own territory}
@@ -4349,19 +4349,19 @@ Attack immediately preferring melee attack to missile fire. Be first to assault 
 {FE Map Style Americas}
 {Americas}
 {FE Map Size Tiny}
-{Tiny {0} x {1}}
+{{Tiny {0} x {1}}
 {FE Map Size Small}
-{Small {0} x {1}}
+{{Small {0} x {1}}
 {FE Map Size Medium Small}
-{Medium Small {0} x {1}}
+{{Medium Small {0} x {1}}
 {FE Map Size Medium}
-{Medium {0} x {1}}
+{{Medium {0} x {1}}
 {FE Map Size Medium Large}
-{Medium Large {0} x {1}}
+{{Medium Large {0} x {1}}
 {FE Map Size Large}
-{Large {0} x {1}}
+{{Large {0} x {1}}
 {FE Map Size Huge}
-{Huge {0} x {1}}
+{{Huge {0} x {1}}
 {FE Map Climate China And Mongolia}
 {China and Mongolia}
 {FE Map Climate China Only}
@@ -4395,7 +4395,7 @@ Attack immediately preferring melee attack to missile fire. Be first to assault 
 {UI Settings Grass}
 {Show Grass}
 {DIP Offer Settlement}
-{Give Settlement {0}}
+{{Give Settlement {0}}
 {DIP Trade Embargo Old}
 {Ban all trade, including both imports and exports}
 {DIP Demand Lift Trade Embargo}
@@ -4461,7 +4461,7 @@ Producer - Product Manager
 Niels Kooijman
 Head of Marketing
 
-Mariëlle Salh
+Mari��lle Salh
 Mayke Griffioen
 PR Manager
 
@@ -4504,10 +4504,10 @@ Music and SFX}
 {CR Credits Title}
 {Credits}
 {Legal Front End Text}
-{Oriental Empires © 2017 J. Carline and R.T. Smith. Developed by Shining Pixel Studios. Licensed exclusively worldwide to and published by Iceberg Interactive B.V.  
+{Oriental Empires �� 2017 J. Carline and R.T. Smith. Developed by Shining Pixel Studios. Licensed exclusively worldwide to and published by Iceberg Interactive B.V.  
 All brands, product names, and logos are trademarks or registered trademarks of their respective owners. All rights reserved. Made in the UK.}
 {Additions Post Oct 4}
-{### Trans ### }
+{### Trans ###}
 {UI Confirm Quit Game Title}
 {Quit Game}
 {UI Confirm Quit Game Msg}
@@ -4525,7 +4525,7 @@ All brands, product names, and logos are trademarks or registered trademarks of 
 {TT Autospend Slider}
 {Proportion of budget that may be spent for buildings in settlements that are auto-managed.}
 {TT Labor Other}
-{Other Activities : {0}}
+{{Other Activities : {0}}
 {UI MP Game List Host}
 {Host}
 {UI MP Game List Scenario}
@@ -4567,11 +4567,11 @@ All brands, product names, and logos are trademarks or registered trademarks of 
 {CAP Armorer Desc3}
 {Provides best armor upgrades for most unit types.}
 {Additions Post Nov 16}
-{### Trans ### }
+{### Trans ###}
 {MP Creating Game}
 {Creating Game Lobby}
 {MP Please Wait}
-{Please wait…}
+{Please wait���}
 {MP Failed To Create Game}
 {Failed to create game}
 {MP Failed To Join Game}
@@ -4579,7 +4579,7 @@ All brands, product names, and logos are trademarks or registered trademarks of 
 {MP Failed To Load Scenario}
 {The scenario used in this game could not be loaded}
 {MP Joining Game}
-{Joining Game }
+{Joining Game}
 {UI MP Quit Lobby}
 {Quit}
 {UI MP Start Game}
@@ -4605,7 +4605,7 @@ All brands, product names, and logos are trademarks or registered trademarks of 
 {UI MP Game Starting Msg}
 {Notifying Other Players}
 {UI MP Waiting For Players}
-{Waiting For Other Players…}
+{Waiting For Other Players���}
 {UI MP Select Button}
 {Select}
 {UI MP Desync Detected Title}
@@ -4613,7 +4613,7 @@ All brands, product names, and logos are trademarks or registered trademarks of 
 {UI MP Desync Detected Text}
 {An error has occurred causing your games to become desynchronized. To restart, quit the game, and restart using the autosave file}
 {Additions Post Jan 27}
-{### Trans ### }
+{### Trans ###}
 {DIP Trade Embargo}
 {Trade Embargo}
 {NEG Trade Embargo}
@@ -4764,7 +4764,7 @@ You may make up to two counter proposals.}
 {HPLink Other Diplomatic Trades}
 {Other Diplomatic Trades}
 {Additions Post Feb 17}
-{### Trans ### }
+{### Trans ###}
 {Imp Generic Completed Msg}
 {This improvement has been completed.}
 {Imp Farm Completed Msg}
@@ -4944,7 +4944,7 @@ Move away from the enemy towards the edge of the battlefield. Do not form up in 
 {HPText Battle Plans Ambush New 1}
 {Stay hidden until an opportunity arises to attack the enemy in flank or rear. When ambushing units reveal themselves, they change to an attack or harass battle plan.}
 {HPText Battle Plans Ambush New 2}
-{The ambush battle plan is only effective if the unit is in forest terrain.  In other terrain it will be treated as having a “Support” or “Harass” battle plan, depending on whether or not it has missiles.}
+{The ambush battle plan is only effective if the unit is in forest terrain.  In other terrain it will be treated as having a ���Support��� or ���Harass��� battle plan, depending on whether or not it has missiles.}
 {HPText Battle Plans Ambush New 3}
 {If all units in a stack have the ambush battle plan, and the stack is in a forest hex, then that stack will be invisible to other players unless they have a stack immediately adjacent. If a stack starts hidden, a battle will not be triggered by moving adjacent to it.}
 {HPText Battle Plans Defend New 1}
@@ -4974,7 +4974,7 @@ Move away from the enemy towards the edge of the battlefield. Do not form up in 
 {HPText Battle Lines 3}
 {A defensive line will wait for the enemy to attack, however it may adjust its position to defend a slope or river bank.}
 {HPText Battle Lines 4}
-{An offensive battle line will form up and advance on the enemy to engage them in combat. However if it may first halt within missile range if it has more missile troops than the enemy;  if half or more of the units in the front line have missiles, or if units in the army have “outflank” or “harass” battle plans.}
+{An offensive battle line will form up and advance on the enemy to engage them in combat. However if it may first halt within missile range if it has more missile troops than the enemy;  if half or more of the units in the front line have missiles, or if units in the army have ���outflank��� or ���harass��� battle plans.}
 {UI MP Request Change Faction Title}
 {Change Faction}
 {UI MP Request Change Faction Msg}
@@ -5024,7 +5024,7 @@ Move away from the enemy towards the edge of the battlefield. Do not form up in 
 {TT Unit Card Upgraded Armor}
 {This unit has upgraded armor. It's effects are reflected in the improved armor and defense values.}
 {TT Unit Card Numbers Men}
-{Strength = {0} of {1}}
+{{Strength = {0} of {1}}
 {TT Unit Card Efficiency}
 {Efficiency {0:n0}%}
 {TT MP Host Can Kick}
@@ -5050,19 +5050,19 @@ Move away from the enemy towards the edge of the battlefield. Do not form up in 
 {UI Gate Blocked Offer}
 {Offered to another player.}
 {UI Faction Settlement Data}
-{Settlements {0} : Population {1}}
+{{Settlements {0} : Population {1}}
 {TAG Herders and Farmers}
 {Herders and Farmers}
 {UI Faction Special Unit}
-{Special Unit : {0}}
+{{Special Unit : {0}}
 {UI Faction Special Edict}
-{Special Edict : {0}}
+{{Special Edict : {0}}
 {FE Game Warring States 407}
 {The Warring States}
 {UI Tech Check Area}
 {This item is from another tab, where you already have an item in development. Do you want to cancel it and select this one?}
 {UI Expected Building Income}
-{Estimated to produce income of {0}}
+{{Estimated to produce income of {0}}
 {UI Destruction Stalled}
 {Destruction of this city has stopped, as you have no troops in it. Move some troops back, or you will lose control of it.}
 {UI End Turn City Warning Title}
@@ -5498,7 +5498,7 @@ You can use the  . and , keys to cycle through messages or settlements. Use F5 t
 {UI ME Expand Dialog Title}
 {Expand Map}
 {UI ME Map Size Info}
-{Map Size: Width = {0} Height = {1}}
+{{Map Size: Width = {0} Height = {1}}
 {UI ME West Edge}
 {West Edge}
 {UI ME East Edge}
@@ -5548,7 +5548,7 @@ You can use the  . and , keys to cycle through messages or settlements. Use F5 t
 {UI FS Workshop Items}
 {Workshop Items}
 {UI ME Default Description}
-{User Created Map {0} by {1}}
+{{User Created Map {0} by {1}}
 {UI ME Update New Dialog Msg}
 {You have changed the map name. Do you want to update the name of the existing item, or create a new item.}
 {UI ME Update Current Button}
@@ -5630,7 +5630,7 @@ You can use the  . and , keys to cycle through messages or settlements. Use F5 t
 {UI SE Settlement Population}
 {Population}
 {UI SE Settlement Flocks}
-{Flocks }
+{Flocks}
 {UI SE Settlement Size}
 {Size}
 {UI SE Wall Level}
@@ -5642,7 +5642,7 @@ You can use the  . and , keys to cycle through messages or settlements. Use F5 t
 {UI SE No Wall Upgrades}
 {No Upgrades}
 {UI Added Building In Editor}
-{Added : {0}}
+{{Added : {0}}
 {UI ME Remove Settlement Button}
 {Remove Settlement}
 {UI ME Confirm Remove Settlement}
@@ -5660,7 +5660,7 @@ You can use the  . and , keys to cycle through messages or settlements. Use F5 t
 {UI SE Unit Selection Era}
 {Era}
 {UI SE Armor Level}
-{Armor {0}}
+{{Armor {0}}
 {UI SE Unit Selection Category}
 {Unit Type}
 {SE Unit Category Infantry}
@@ -5816,7 +5816,7 @@ You can use the  . and , keys to cycle through messages or settlements. Use F5 t
 {DS Cant Disband In Editor}
 {To remove the settlement, close the settlement view, and then right click on the settlement tab from the main map view.}
 {UI SE Uploading Scenario}
-{Uploading Scenario…}
+{Uploading Scenario���}
 {UI SE Error Uploading Scenario}
 {An error occurred while uploading the scenario.}
 {UI SE Upload Dialog Title}
@@ -5875,7 +5875,7 @@ In this mode, select a resource type from the list, and click on the map to plac
 {HPText SE Introduction 1}
 {The scenario editor allows you to create scenarios similar to the build-in Warring States scenario, and share them via the Steam workshop. You can define your own factions, give them unique symbols, and set up their starting cities, characters and armies.}
 {HPText SE Introduction 2}
-{Scenarios can take place on either one of the built-in maps, or on maps you create yourself in the map editor. If you wish to use your own map, you should create it first before entering the scenario editor, since once you create a scenario, you can’t change the map it’s based on. You can still edit that map though.}
+{Scenarios can take place on either one of the built-in maps, or on maps you create yourself in the map editor. If you wish to use your own map, you should create it first before entering the scenario editor, since once you create a scenario, you can���t change the map it���s based on. You can still edit that map though.}
 {HPHeading SE Faction Bar}
 {Faction Bar}
 {HPText SE Faction Bar1}
@@ -5883,7 +5883,7 @@ In this mode, select a resource type from the list, and click on the map to plac
 {HPText SE Faction Bar2}
 {New factions can be created by clicking on the icon on the left of the bar. Each new faction must be based on one of the standard factions in the game. Having selected a base faction, you can just use it as is, or customize it in the faction setting dialog.}
 {HPText SE Faction Bar3}
-{Try to select a base faction that is similar to the faction you’re creating, so that you don’t need to edit many of the faction settings.}
+{Try to select a base faction that is similar to the faction you���re creating, so that you don���t need to edit many of the faction settings.}
 {HPHeading SE Edit Modes}
 {Editing Modes}
 {HPText SE Edit Modes}
@@ -5907,15 +5907,15 @@ In this mode, select a resource type from the list, and click on the map to plac
 {HPHeadingt SE Faction Type}
 {Faction Type}
 {HPText SE Faction Type}
-{Faction type should generally be set to “standard”, however you can if you wish create factions that can only be played by the A.I., and you may also create custom bandit and rebel factions, although the standard ones will be used if you don’t.}
+{Faction type should generally be set to ���standard���, however you can if you wish create factions that can only be played by the A.I., and you may also create custom bandit and rebel factions, although the standard ones will be used if you don���t.}
 {HPHeading SE Marker X and Y}
 {Marker X and Y}
 {HPText SE Marker X and Y}
-{Marker X and Y positions refer to the position of the faction’s marker on the map in the faction selection page. If you leave these both to zero, the game will set them for you based on the capital location, but you may want to tweak them manually, particularly when factions start close together.}
+{Marker X and Y positions refer to the position of the faction���s marker on the map in the faction selection page. If you leave these both to zero, the game will set them for you based on the capital location, but you may want to tweak them manually, particularly when factions start close together.}
 {HPHeading SE Faction Tags}
 {Tags}
 {HPText SE Faction Tags}
-{Tags. Select an appropriate base faction, and you won’t need to change these.}
+{Tags. Select an appropriate base faction, and you won���t need to change these.}
 {HPLink Faction Settings}
 {Faction Settings}
 {HPTitle Editing Settlements}
@@ -5935,9 +5935,9 @@ In this mode, select a resource type from the list, and click on the map to plac
 {HPHeading SE Delete Settlement Items}
 {Deleting Items}
 {HPText SE Delete Settlement Items 1}
-{Delete a building in the usual way from the “Constructed” tab. Delete a farm or road, by selecting that mode, then pressing the “delete” key with the cursor over the hex with the item to be removed.}
+{Delete a building in the usual way from the ���Constructed��� tab. Delete a farm or road, by selecting that mode, then pressing the ���delete��� key with the cursor over the hex with the item to be removed.}
 {HPText SE Delete Settlement Items 2}
-{Delete a whole settlement using the Special Settlement Dialog. }
+{Delete a whole settlement using the Special Settlement Dialog.}
 {HPLink Editing Settlements}
 {Editing Settlements}
 {HPTitle Editing Stacks}
@@ -5945,7 +5945,7 @@ In this mode, select a resource type from the list, and click on the map to plac
 {HPHeading SE Adding Units}
 {Adding Units}
 {HPText SE Adding Units}
-{When you select “Army Mode” from the faction bar, a window will open with a list of unit types. Various controls below allow you to filter the types of units shown in the list. Select a unit type, then click on the map to create that unit there. If the hex is empty, a new stack will be created, otherwise the unit will be added to the existing stack.}
+{When you select ���Army Mode��� from the faction bar, a window will open with a list of unit types. Various controls below allow you to filter the types of units shown in the list. Select a unit type, then click on the map to create that unit there. If the hex is empty, a new stack will be created, otherwise the unit will be added to the existing stack.}
 {HPText SE Deleting Units}
 {Delete units or stacks in the same way as in the game, using the disband unit button at the bottom of the screen, or the delete key.}
 {HP Heading SE Characters}
@@ -5977,7 +5977,7 @@ In this mode, select a resource type from the list, and click on the map to plac
 {HPHeading SE File Location}
 {Scenario Editor File Location}
 {HPText SE File Location}
-{Scenarios are stored in xml files located in the folder “Documents\My Games\Oriental Empires\Scenarios”. Custom symbols and scenario map images should be placed in this folder too.}
+{Scenarios are stored in xml files located in the folder ���Documents\My Games\Oriental Empires\Scenarios���. Custom symbols and scenario map images should be placed in this folder too.}
 {HPHeading SE Custom Symbols}
 {Custom Faction Symbols}
 {HPText SE Custom Symbols}

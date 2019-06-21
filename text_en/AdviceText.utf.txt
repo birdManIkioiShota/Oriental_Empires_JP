@@ -1,18 +1,18 @@
 {ADV_TITLE_IN_001}
-{Greetings}
+{ご挨拶}
 {ADV_TEXT_IN_001}
 {Welcome to Oriental Empires. I will be your advisor, pointing out important features of the game, and bringing urgent matters to your attention. 
 Note the help button in the top right of the screen. This will explain the function of whichever game area you are currently in.}
 {ADV_TITLE_IN_002}
-{In Game Help}
+{ゲーム中ヘルプ}
 {ADV_TEXT_IN_002}
 {Press F1 or use the info button in the top right corner to access help. The button in the top left of the help screen will access the contents of the in game manual.}
 {ADV_TITLE_ST_001}
-{How to Move}
+{移動方法}
 {ADV_TEXT_ST_001}
 {You have selected a unit. Order it to move somewhere by right clicking the target location.}
 {ADV_TITLE_ST_002}
-{How to Move}
+{移動方法}
 {ADV_TEXT_ST_002}
 {You have selected a unit. Order it to move somewhere by pressing and holding until the movement path is displayed.}
 {ADV_TITLE_ST_003}
@@ -28,15 +28,15 @@ Note the help button in the top right of the screen. This will explain the funct
 {ADV_TEXT_ST_005}
 {Your units cannot move here because one or more of them cannot enter this terrain, or they have no suitable path to reach the hex.}
 {ADV_TITLE_ST_006}
-{Splitting a Stack}
+{スタックを分割}
 {ADV_TEXT_ST_006}
 {You can split a stack of units by selecting one or more of the unit tiles at the bottom of the screen. Only the selected units will be ordered to move. You can select different units and order them to different locations.}
 {ADV_TITLE_ST_007}
-{Selecting Multiple Units}
+{複数ユニットの選択}
 {ADV_TEXT_ST_007}
 {Select more than one unit in a stack by holding down the control key, or turning on sticky selection with the button to the right of the unit tiles.}
 {ADV_TITLE_ST_008}
-{Selecting Multiple Units}
+{複数ユニットの選択}
 {ADV_TEXT_ST_008}
 {Select more than one unit in a stack by turning on sticky selection with the button to the right of the unit tiles.}
 {ADV_TITLE_ST_009}
@@ -116,19 +116,19 @@ Note the help button in the top right of the screen. This will explain the funct
 {ADV_TEXT_HS_005}
 {NA}
 {ADV_TITLE_UI_001}
-{Hex Grid}
+{グリッド}
 {ADV_TEXT_UI_001}
-{Press Alt + G to turn the hex grid on or off.}
+{Alt + Gでグリッドのオン/オフを切り替えます．}
 {ADV_TITLE_SET_001}
-{Need Farms to Grow}
+{発展には農場が必要}
 {ADV_TEXT_SET_001}
-{Build more farms to increase the food supply. This will lead to the population growing, providing more tax, and increasing your power.}
+{農場を建設し，食糧供給を増やしましょう．農場は人口を増大させるとともに多くの税収をもたらし，あなたの力を高めます．}
 {ADV_TITLE_SET_002}
-{Repair Looted Farms}
+{略奪された農地を修復}
 {ADV_TEXT_SET_002}
-{Some of your farms have been destroyed, so this settlement is not producing enough food now. You need to rebuild the farms.}
+{農地の一部が破壊されており，この入植地は十分な食料を生産できていません．農地を再建設する必要があります．}
 {ADV_TITLE_SET_003}
-{Build A Mine}
+{鉱山を建設}
 {ADV_TEXT_SET_003}
 {There are valuable minerals near this settlement that you can mine. Mines are expensive to construct, but are a good investment over the long term. Use the "Buildings" button on the Land Improvements screen to show possible mine locations.}
 {ADV_TITLE_SET_004}
@@ -136,7 +136,7 @@ Note the help button in the top right of the screen. This will explain the funct
 {ADV_TEXT_SET_004}
 {The level of peasant unrest here is too high, and may lead to disruption of tax collection, recruitment, and eventually even outright revolt. Click or tap the peasant unrest icon a the top of the screen to see what is causing the problem.}
 {ADV_TITLE_SET_005}
-{Food Shortage}
+{食糧不足}
 {ADV_TEXT_SET_005}
 {There is a shortage of food here, leading to high peasant unrest. Build more farms to alleviate this.}
 {ADV_TITLE_SET_006}
@@ -144,7 +144,7 @@ Note the help button in the top right of the screen. This will explain the funct
 {ADV_TEXT_SET_006}
 {There is unrest here due to overcrowding. Upgrade the settlement to alleviate this.}
 {ADV_TITLE_SET_007}
-{Overworked Peasants}
+{農民の過労}
 {ADV_TEXT_SET_007}
 {There is high unrest here due to overwork. Stop all land improvements and construction for a few turns to give the peasants a rest.}
 {ADV_TITLE_SET_008}
@@ -654,7 +654,7 @@ There is also plenty of land to the south, and settling there would form a good 
 
 Don't neglect to develop whatever minerals you can find in the mountains, to boost your income.}
 {ADV_TITLE_C_GCXiongNu01}
-{Greetings}
+{ご挨拶}
 {ADV_TEXT_C_GCXiongNu01}
 {You are a herding faction located in the Mongolian steppes. To the north are the Dingling, but otherwise there are no nearby rivals, and you are free to expand widely to the east, west and south.
 
@@ -672,7 +672,7 @@ There is a limited amount of potential agricultural land along some of the river
 
 There is an area of excellent grassland south of the desert, and a little to the west in the Ordus Loop area just across the Yellow River. It would make an excellent base of operations if you move swiftly to claim it before the other tribes.}
 {ADV_TITLE_C_GCDingling01}
-{Greetings}
+{ご挨拶}
 {ADV_TEXT_C_GCDingling01}
 {You start as a rather primitive herding faction in Northern Mongolia on the fringes of Siberia. To your south are the dangerous Xiongnu, but otherwise there are wide lands for you to occupy to the east and the west.}
 {ADV_TITLE_C_GC_Dingling02}
@@ -688,7 +688,7 @@ There are some fertile plains for farming available too, which gives you another
 
 If you wish to play a more aggressive game, you will need to conquer factions far to the south. Once you have a few settlements, you might be able to sneak a settler two south beyond the desert, and establish a base of operations there.}
 {ADV_TITLE_C_WS_Yan01}
-{Greetings}
+{ご挨拶}
 {ADV_TEXT_C_WS_Yan01}
 {Your realm is a strip of land between the mountains to the North, and the Yellow Sea.to the South. Although your land is not extensive, your cities are large and prosperous.
 

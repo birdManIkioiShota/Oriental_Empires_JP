@@ -1,0 +1,2885 @@
+{Militia Light Spearmen old}
+{Militia Light Spearmen Desc,"With their short spears and light shields these soldiers can huddle together to defend themselves}
+{Militia Light Archers old}
+{Militia Light Archers Desc,"These militia soldiers may not be the greatest archers, but they are cheap to raise, and when it comes to missile barrages}
+{Militia Dagger Axemen old}
+{Militia Dagger Axemen Desc,"Equipped with a long handled dagger axe, these men can deliver lethal chopping blows, and hook aside shields. As ill trained farmers, they may not have the stomach for a prolonged fight}
+{Militia Long Spearmen old}
+{Militia Long Spearmen Desc,"With their long two handed spears, and close formation this unit has a strong defense against both foot and mounted attack. However}
+{Noble Archers}
+{Noble Archers Desc,"These soldiers are drawn from the higher classes of society, well equipped and trained for battle. They can deal lethal damage from distance}
+{Noble Dagger Axemen}
+{Noble Dagger Axemen Desc,"These noblemen are well equipped and ready for a fight. Their deadly dagger axes can deal lethal blows}
+{Light Chariot}
+{Light Chariot Desc,"Mounted on a chariot, the nobleman can wear heavier armor, and carry more ammunition, than on foot, and in his speedy vehicle}
+{Medium Chariot}
+{Medium Chariot Desc,"Mounted on a chariot, the nobleman can wear heavier armor, and carry more ammunition, than on foot. The vehicle provides mobility}
+{Heavy Chariot}
+{Heavy Chariot Desc,"Four strong horses can pull a stout chariot with a crew of three. A noble born archer, a driver}
+{Army Light Chariot}
+{Army Light Chariot Desc}
+{Army Medium Chariot}
+{Army Medium Chariot Desc,"Only a powerful lord can afford to field a significant force of chariots. The swift chariot carrying an archer, a close combat soldier}
+{Army Heavy Chariot}
+{Army Heavy Chariot Desc,"Only a powerful lord can afford to field a significant force of chariots. The stout four horse chariot carrying an archer, a close combat soldier}
+{Army Dagger Axemen}
+{Army Dagger Axemen Desc,"A force of trained men will be much superior to part time militias in combat. Their sharp bronze dagger axes can inflict lethal blows any enemies}
+{Army Light Archers}
+{Army Light Archers Desc,"A force of low born men kept permanently under arms, will acquire skill with weapons far beyond barely trained militias. Although they may not quite equal those born to a life of war}
+{Settlers}
+{Settlers Desc,"Maybe this is a group of adventurous souls setting off to create a new life for themselves in an unclaimed area of the world, maybe they are refugees from an advancing enemy, maybe they are being forced to relocate by the whims of an unscrupulous overlord. Whatever their reasons, you can use them to found a new settlement in a suitable location. Be sure to protect them carefully}
+{Bodyguard}
+{Bodyguard Desc,"This unit represents a great leader and the small group of hand picked men who protect him in battle. With the finest equipment, high morale and excellent training, this unit can exercise an influence in battle out of all proportion to its numbers. In do or die battles the leader should lead his bodyguard in the vanguard of the attack, to inspire his men}
+{Chariot Bodyguard}
+{Chariot Bodyguard Desc,"This unit represents a great leader and the small group of hand picked men who protect him in battle. With the finest equipment, high morale and excellent training, this unit can exercise an influence in battle out of all proportion to its numbers. Mounted in swift chariots}
+{Convict Axemen}
+{Convict Axemen Desc,"These desperate men have been promised their freedom if they perform well in battle. Lacking armor or much training, they are sure to suffer heavy casualties, but their desperation keeps them fighting}
+{WS Cavalry}
+{WS Cavalry Desc,"With sturdy horses, and the skill to ride them, the men in this unit combine speed, flexibility and power. They can move swiftly, combat enemy cavalry and chariots, outflank infantry}
+{Army Crossbows}
+{Army Crossbows Desc,"The heavy hitting crossbow is particularly effective against armored troops and cavalry, an advantage that offsets its lower rate of fire compared to regular bows. With their low rate of fire and flat firing arc}
+{Militia Repeating Crossbow old}
+{Militia Repeating Crossbow Desc,"Easy to make and easy to learn, the chu-ko-nu, or repeating crossbow, allows poorly trained militias to put down a heavy barrage of fire. The accuracy and effectiveness of each shot is poor, especially against armored troops}
+{Militia Halberds old}
+{Militia Halberds Desc,"Equipped with their useful multi-purpose halberds, these militia have a multitude of uses. The perpendicular spike on their halberds can be used with chopping strokes to punch through armor, or as a hook to pull aside shields, or unseat horse riders. The other spike}
+{Army Heavy Spearmen}
+{Army Heavy Spearmen Desc,"With stout shields and long spears, the Heavy Spearmen can form a strong core to an army. They can hold  off mounted and foot soldiers alike}
+{Army Spear/Crossbows}
+{Army Spear/Crossbows Desc,"With two ranks of heavy spearmen, and three ranks of crossbows, this combined arms unit has both the ability to form a strong defensive line}
+{Noble Cavalry}
+{Noble Cavalry Desc,"Well armored and equipped with a halberd}
+{WS Army Halberds}
+{WS Army Halberds Desc,"Well trained men using the fearsome halberd. The halberd's length and sharp point provide good protection against cavalry and chariots, and its sharp point is effective against armor. However}
+{WS Light Horse Archers}
+{WS Light Horse Archers Desc,"These swift light horsemen depend on their speed to keep them from harm, while they pepper enemies with their arrow fire. Not only are they hard to pin down and destroy in battle, they also move quickly on the march, making them ideal troops for raiding}
+{WS Heavy Horse Archers}
+{WS Heavy Horse Archers Desc,"Close formed cavalry, primarily armed with bows, this unit combines firepower with the strategic and tactical mobility of cavalry. They rely on armor rather than mobility for protection. They are a particularly good counter to lighter horse archers}
+{WS Cavalry Crossbows}
+{WS Cavalry Crossbows Desc,"Close formed cavalry armed with cross bows, this unit delivers effective firepower against both armored foot and cavalry. However}
+{Picked Swordsmen}
+{Picked Swordsmen Desc,"These elite, but lightly armed, men specialize in unconventional warfare. They can move swiftly across difficult terrain, enabling them to outflank enemy forces and attack them from unexpected directions. They're most effective fighting against lightly armored troops, or in woods}
+{Guard Halberds}
+{Guard Halberds Desc,"These are an elite unit of heavy infantry, highly trained, and equipped with the best weapons and armor. Their deadly halberds can crush through any armor, while being long enough to provide protection from cavalry and chariots. This unit fears no opponents, and whether attacking or defending}
+{WS Guard Cavalry}
+{WS Guard Cavalry Desc,"These elite troopers combine mobility and shock power. They can defeat any cavalry, and all but the toughest infantry. They can spearhead an attack}
+{IC Militia Halberds old}
+{IC Militia Halberds Desc,"While their training and motivation may not be the highest, militia troops armed with a halberd can take their place in the line. Their halberds can inflict damage on even well armored troops}
+{Army Three Eyed Guns}
+{Army Three Eyed Guns Desc,"The three eyed gun comprises three short barrels on a long haft. While these guns may be primitive, their bullets are still deadly to any, no matter their armor, and with three barrels they can launch a deadly firestorm before having to reload. They are especially useful in siege defenses}
+{Army Beehive Rocketeers}
+{Army Beehive Rocketeers Desc,"Armed with a thick paper tube containing a bundle of small rockets, these men can unleash a barrage of fire akin to a swarm of angry bees. Their rockets may not have great accuracy, but they can travel long distances causing fear and confusion throughout an enemy force. Make sure to place them in the front line}
+{Army Zhan Ma Dao}
+{Army Zhan Ma Dao Desc,"Zhan Ma Dao, literally means horse chopping sword. It is a long heavy sword blade mounted on a long haft, especially designed for chopping at horses legs. This unit can inflict massive damage on enemy cavalry, and is also effective against heavy infantry. However, the weapon's size and weight make it a little clumsy against lighter troops, and needing two hands}
+{Picked Zhan Ma Dao}
+{Picked Zhan Ma Dao Desc,"Zhan Ma Dao, literally means horse chopping sword. It is a long heavy sword blade mounted on a long haft, especially designed for chopping at horses legs. This unit is composed of picked men, tasked with hunting down and killing enemy cavalry. Such a powerful weapon can also be against heavy infantry, though its size and weight make it a little clumsy against lighter troops, and needing two hands}
+{IC Cataphract Cavalry}
+{IC Cataphract Cavalry Desc,"With both man and horse covered in metal armor, these men fear only the heaviest weapons. Armed with a long spear}
+{IC Cataphract Archers}
+{IC Cataphract Archers Desc,"Armed with both bow and long spear, this unit is the ultimate all round cavalry unit. It can engage at range with archery, or deliver deadly charges. Both man and horse are covered in heavy armor}
+{Guard Spearmen}
+{Guard Spearmen Desc,"These elite troops, with heavy armor, large shields and long spears, can form an almost unbreakable defensive wall. Use them to anchor your defense while wearing down the enemy with missiles}
+{Guard Archers}
+{Guard Archers Desc,"Four ranks of archers behind a rank of spearmen with long shields, this elite unit can put down a heavy and sustained barrage of arrow fire, while being well enough protected to stand in the battle line. Although melee is not their specialty}
+{IC Guard Cataphract Cavalry}
+{IC Guard Cataphract Cavalry Desc,"This is an elite unit of lancers}
+{IC Imperial Guard Cavalry}
+{IC Imperial Guard Cavalry Desc,"This unit embodies the ultimate evolution of the cavalryman. With both man and horse covered in the heaviest armor, and armed with both long spears and bows, this unit can be deadly in the charge against heavily armored foes}
+{Convict Swordsmen}
+{Convict Swordsmen Desc,"These condemned men are fighting to earn redemption. Their weapons may be light, and their armor lacking, but these desperadoes' motivation makes them dangerous to any but the most powerful enemies. These men are on a do or die mission, but since they lack protection against both missiles and cavalry}
+{IC Noble Halberds}
+{IC Noble Halberds Desc,"These men belong to the old school, preferring to do their fighting on foot. There fearsome halberds can punch through armor, or topple a horse rider}
+{Small Trebuchet}
+{Small Trebuchet Desc,"This small engine uses human muscle to fling stones over long distances. Its main purpose is as an anti personnel weapon}
+{Medium Trebuchet}
+{Medium Trebuchet Desc,"Named from its shape, this general purpose engine can be used to demolish palisades and wooden superstructures}
+{Large Trebuchet}
+{Large Trebuchet Desc,"With its large crew and solid build, this engine can fling stones large enough to create breaches in even stone walls}
+{Counterweight Trebuchet}
+{Counterweight Trebuchet Desc,"Believed to have originated in the Middle East, this engine represents the epitome of mechanical siege craft. Unlike earlier engines, it uses a falling weight, rather than human strength, to hurl its projectiles. This produces much greater accuracy, allowing it to strike the same place over and over again}
+{Large Crossbow Ballista}
+{Large Crossbow Ballista Desc,"With three giant composite bows for power, this machine can hurl a three meter long projectile over hundreds of meters with high accuracy. It outranges all other mechanical engines, and all forms of bow, and its bolts are large enough to damage light fortifications}
+{Small Crossbow Ballista}
+{Small Crossbow Ballista Desc,"With two large composite bows for power, and a elaborate trigger mechanism, the engine is a sophisticated piece of engineering. It can fling large bolts with high accuracy, over distances that outrange any archers}
+{Packed Artillery}
+{Packed Artillery Desc}
+{Hundred Tigers Launcher}
+{Hundred Tigers Launcher Desc,"Consisting of a rack of many small rockets mounted on wheelbarrow, the Hundred Tigers launcher can unleash a fearsome barrage against an advancing enemy. The noise and spectacle of the barrage, combined with the unpredictable flight path of the rockets, can spread dismay widely throughout the force. They are best deployed in the front line in defensive positions}
+{Small Cannon}
+{Small Cannon Desc,"The cannon's main use is in battering down walls, as repeated strikes from small hard cannon balls can shatter any masonry. A cannon ball can also scythe through multiple ranks of soldiers}
+{Tribal Light Archers}
+{Tribal Light Archers Desc,"These men have learned to use the bow since childhood, practicing the art of archery to catch game, and protect their herds from predators, both animal and human. Although lacking the best equipment, their aim is excellent, as is their fighting ardor}
+{Tribal Light Spearmen}
+{Tribal Light Spearmen Desc,"These are the poorest of the tribe, lacking skills in archery and horsemanship, they are equipped with simple spears and shields. Nevertheless they are inured to a life of hardship, and make dangerous foes}
+{Tribal Horse Archers}
+{Tribal Horse Archers Desc,"These men are born to a life in the saddle, practically living on the backs of their horses. They are masters of both archery and horsemanship, While by no means afraid to fight at close quarters, they prefer to pelt their enemies with arrows}
+{ENB Noble Horse Archers}
+{ENB Noble Horse Archers Desc,"These men are the leaders of the tribe. Well equipped, and trained for war since birth, they are formidable and determined warriors. Although by no means unwilling to engage in close combat}
+{Nomad Settlers}
+{Nomad Settlers Desc,"Perhaps they seek greener pastures, or maybe just a change of scenery or company, but this band of nomads has broken off from the main party, to seek a place to make their own encampment. Sustained by their animals}
+{Militia Heavy Spearmen old}
+{Militia Heavy Spearmen Desc,"With long spears and stout shields, these men form a solid defensive unit. They make excellent garrison troops capable of defending any breach}
+{NB Noble Heavy Spearmen}
+{NB Noble Heavy Spearmen Desc,"More accustomed to fighting on horseback, these noblemen can operate on foot if necessary. Their armor and training make them a tough opponent}
+{NB Noble Armored Archers}
+{NB Noble Armored Archers Desc,"With both man and horse heavily protected this unit will prevail in almost any missile exchange. Although preferring to wear down their enemies with missile fire}
+{NB Noble Heavy Cavalry}
+{NB Noble Heavy Cavalry Desc,"This unit represents the ultimate evolution of the steppe warrior. Equipped with a powerful bow, a long spear, and armor for both man and horse, they are equally useful as missile or shock troops. The favorite tactic is to wear down the enemy with missile fire}
+{NB Army Heavy Cavalry}
+{NB Army Heavy Cavalry Desc,"This unit represents the ultimate evolution of the steppe warrior. Equipped with a powerful bow, a long spear, and armor for both man and horse, they are equally useful as missile or shock troops. The favorite tactic is to wear down the enemy with missile fire}
+{NB Guard Spearmen}
+{NB Guard Spearmen Desc,"With heavy armor and long spears, these units are the kings of defense, able to fend off infantry and cavalry alike}
+{NB Khan's Guard Cavalry}
+{NB Khan's Guard Cavalry Desc,"A major warlord will surround himself with a guard of the finest warriors. With armor for both man and horse, powerful bows, and long spears, they will excel in any situation. Each man is sworn to his to khan}
+{Bandit Light Spearmen}
+{Bandit Light Spearmen Desc,"These men were once bandits, but are now in your service. They are lightly equipped}
+{Encounter Nobles Foot}
+{Encounter Nobles Foot Desc,"This unit is the retinue of a famous warrior who has joined your service. They are well trained, well lead, and well equipped}
+{Encounter Nobles Cavalry}
+{Encounter Nobles Cavalry Desc,"This unit is the retinue of a famous warrior who has joined your service. They are well trained, well lead}
+{Northern Tribal Archers}
+{Northern Tribal Archers Desc,"These men are outcasts from their tribes, or have been displaced by famine, flood or war. They are happy to serve any lord who will give them a place. As skilled hunters, they have great archery skills}
+{Mercenary Horse Archers}
+{Mercenary Horse Archers Desc,"Some of these men are refugees from various misfortunes, others enjoy the life as a soldier. They are all from the Northern Steppes, born in the saddle, and taught to shoot and fight from a young age. Their loyalty, and willingness to die in a tough battle should not be relied upon}
+{Mercenary Heavy Horse}
+{Mercenary Heavy Horse Desc,"These are men from the Northern Steppe who by choice or circumstance, now make their living as professional soldiers. They are  well armored and equipped, with superb archery skills, and great horsemanship. They should not be relied on any further than any other men who serve for money}
+{Southern Tribesmen}
+{Southern Tribesmen Desc,"These are men from the jungles of the South. They come from primitive tribes, and are lightly equipped with spears and simple shields. They should not be relied on in the main battle line}
+{Southern Tribal Archers}
+{Southern Tribal Archers Desc,"These men are from the primitive tribes of the southern jungles. They're only equipped with simple bows. While their individual archery skills ar good, their poor equipment mean they are only moderately effective in battle. However, they can cause damage to lightly armed troops}
+{Barbarian Mercenaries}
+{Barbarian Mercenaries Desc,"These are men from the warrior caste of the barbarian tribes of central China. For various reasons, they have left their homeland to make a living from war. They fight on foot while wearing heavy bronze or rhinoceros hide armor, and wield lethal dagger axes. They make a great addition to any battle line}
+{Barbarian Light Spearmen}
+{Barbarian Light Spearmen Desc,"These men are from the various barbarian tribes of central China, whose circumstances have forced them to look for service as soldiers. They're equipped with light spears and simple shields}
+{Barbarian Archers}
+{Barbarian Archers Desc,"These men are from the various barbarian tribes of central China, whose circumstances have forced them to look for service as soldiers. They're equipped with simple bows}
+{Mercenary Heavy Infantry}
+{Mercenary Heavy Infantry Desc,"These are men who have for various reasons left their homes, and chosen a life as professional soldiers. They are equipped as heavy infantry, with armor, helmets and halberds. They are solid battle line troops}
+{Mercenary Light Infantry}
+{Mercenary Light Infantry Desc,"These are men who have for various reasons left their homes, and chosen a life as professional soldiers. Their equipment is limited, with most having light spears and shields, but little or no armor. They are not to be relied upon too much}
+{Mercenary Swordsmen}
+{Mercenary Swordsmen Desc,"The peoples of the South have long been famous for their sword making, and these are men who are skilled at putting a sword to use, and willing to sell their skills to the highest bidder. Many have learned their trade as pirates. Sword armed troops are not effective against cavalry or heavy infantry}
+{Mountain Cavalry}
+{Mountain Cavalry Desc,"These men are from the mountain valleys of the west, where there is good horse country. Their equipment is simple, mainly consisting of spears, but their horsemanship is good. They make a useful light cavalry unit for scouting}
+{Qin Mixed Foot}
+{Qin Mixed Foot Desc,"This is a well trained military unit, with the tools to deal with any situation. The front rank is equipped with dagger axes for close fighting, the second ranks has long spears to fend off cavalry and chariots}
+{Small River Ship}
+{Small River Ship Desc,"This is primarily a transport ship, of a type commonly seen carrying people and goods along the great waterways of China. Converted to military use, it carries a small complement of archers that can be augmented by embarking a land unit. A River Boat is useful for transporting infantry units, blocking enemy trade routes, stopping enemy units from crossing rivers, and assisting in battles next to the shore. It can also sail in coastal waters}
+{Medium River Ship}
+{Medium River Ship Desc,"The War Junk is the mainstay of river war fleets. It carries a considerable complement of archers, allowing it to dominate smaller enemy ships, and to provide considerable support in land battles adjacent to a river. Its firepower is further enhanced if a land unit is embarked. It also can transport any type of land unit, including cavalry, artillery and chariots It can operate in coastal waters}
+{Floating Fortress}
+{Floating Fortress Desc,"This huge ship is an impressive projection of power. It can carry a small army by itself, and is very difficult to destroy. However}
+{Paddle Wheel Boat old}
+{Paddle Wheel Boat Desc Old}
+{Paddle Wheel Ship}
+{Paddle Wheel Ship Desc,"These large paddle wheel ships are an excellent way to move an army swiftly along the great rivers, and carry a large enough crew to provide useful support to troops battling on the shore. They can also operate in coastal waters}
+{Small Sailing Junk}
+{Small Sailing Junk Desc,"These iconic ships are the mainstay of maritme trade and warfare in Asia. Their classic design features a high rear deck, and an efficient battoned sail. They can fight or transport troops in coastal waters and narrow seas, and carry enough crew to provide useful support to troops battling on shore. They can also operate on rivers, making them very versatile, but in the limited space between the banks}
+{Medium Sailing Junk}
+{Medium Sailing Junk Desc,"These large junks can form the core of a high seas battle fleet. They can transport any type of troops across seas and oceans, and provide covering fire to landings. Their large size lets them dominate naval battles}
+{Large Sailing Junk}
+{Large Sailing Junk Desc,"These huge ships are a formidable sign of an empire's power and might. They can move swiftly across seas and oceans, projecting power across vast distances. They can easily crush smaller ships in battle}
+{SD_City}
+{SD_Large City}
+{SD_Town}
+{BD Foundry}
+{BD Foundry Desc old,"The foundry is the place where raw ores are turned into useful bronze. Bronze can be used for many tools and ceremonial objects}
+{BD Iron Foundry}
+{BD Iron Foundry Desc old,"The Iron Foundry includes the hot furnaces required for the large scale production of iron. Once the technology is in place, iron is far cheaper than bronze, providing more value to the local economy}
+{BD Palace}
+{BD Palace Desc,"A palace isn't just a place for the lord and his household to live, it also serves as an administrative center for the settlement}
+{BD Palace II}
+{BD Palace II Desc,"This palace reflects the lord's prestige and power, and marks him as man whose word should not lightly be ignored. It's grandeur draws men to his service}
+{BD Palace III}
+{BD Palace III Desc,"This is a magnificent palace, fit for a king, or even an emperor. Its vast extent provides a space for a well organized bureaucracy}
+{BD Buddhist Temple}
+{BD Buddhist Temple Desc,"Here is a place to house a statue of the Buddha, and be a home to small community of monks. People come to pray, give offerings, chant and meditate. They provide food offerings to support the monks}
+{BD Buddhist Temple II}
+{BD Buddhist Temple II Desc,"This is a major temple devoted to the Buddhist faith. People come to worship the Buddha, and a substantial body of monks live here to study and pray. A tall pagoda houses sacred relics}
+{BD Buddhist Temple III}
+{BD Buddhist Temple III Desc,"This famous center for Buddhism is home to the most learned and venerated monks, as well as home to many students. While it is a center for study and meditation}
+{BD Legalist School}
+{BD Legalist School Desc,"Here is a place to keep copies of the laws, that they may be known to all. Here also is a place where officials can register the population, collect taxes, and decide who merits advancement}
+{BD Legalist School II}
+{BD Legalist School II Desc,"This building serves as a lynchpin of the bureaucracy. Here officials can determine which others should be promoted, and which of the common people should become officials. New officials can be taught the laws}
+{BD Legalist School III}
+{BD Legalist School III Desc,"The laws and rules of the state should be written, such that people acting in their own self interests, will also benefit the state. The laws should thus provide incentives that people desire, and punishments that they fear. Here wise men study what the people fear and desire}
+{BD Mohist School}
+{BD Mohist School Desc,"This is a place where followers of the thinker Mo Di gather to discus his works, and how best to persuade others to adopt the principles of universal care and non-violence. Gathering together}
+{BD Mohist School II}
+{BD Mohist School II Desc,"This a significant center of teaching for those interested in the teachings of Mo Di. Here, learned discussions take place to divine the logical and rational moral laws of the universe, and how they can be applied to the affairs of mankind. Adherents discus how they can best serve society}
+{BD Mohist School III}
+{BD Mohist School III Desc,"People from near and far flock here to learn the philosophies of the master Mo Di, and to take back his teachings of universal care, non-violence and rational moral principles, to their own towns and cities. It is also a home to many scholars who investigate practical concerns in areas such as geometry, mechanics and economics. Others seeks to deter wars by studying the arts of military defense}
+{BD Armorer}
+{BD Armorer Desc old}
+{BD Armor Works}
+{BD Armor Works Desc old,"With a small group of skilled artisans directing a less skilled workforce, the armor works can turn out sufficient quantities of leather or light armor to equip all militia troops}
+{BD Armor Factory}
+{BD Armor Factory Desc old,"Armor production on an industrial scale can supply enough quality metal armor for all trained soldiers. It can also produce large quantities of lighter armor}
+{BD Bowyer}
+{BD Bowyer Desc}
+{BD Crossbow Maker}
+{BD Crossbow Maker Desc,"This building can not only produce regular bows}
+{BD Weapon Smith}
+{BD Weapon Smith Desc}
+{BD Swordsmith}
+{BD Swordsmith Desc,"Swords are difficult to produce, and usually only available to the wealthy}
+{BD Chariot Maker}
+{BD Chariot Maker Desc,"Usually only the nobility can afford chariots}
+{BD Stables}
+{BD Stables Desc,"Although the nobility can furnish their own horses}
+{BD Barracks}
+{BD Barracks Desc,"These facilities allow for the training of regular soldiers. Regular soldiers are much better paid, trained and equipped than conscripts}
+{BD Jail}
+{BD Jail Desc,"A court will provide a place for a magistrate to administer justice, and show the population what happens when they violate the law. Swiftly dealing with the lawless will bring tranquility to the city}
+{BD Prison}
+{BD Prison Desc,"Beating and mutilation are useful punishments, but wasteful. A prison allows those convicted of lesser crimes to be sentenced to penal servitude, and used for labor or military service. Keeping such men off the streets}
+{BD Theater}
+{BD Theater Desc}
+{BD Taoist Temple}
+{BD Taoist Temple Desc,"That which is called the ineffable Tao is not the ineffable Tao. Those who seek it, gather in this building, but they will not find it here. There is nothing that needs be done here}
+{BD Taoist Temple II}
+{BD Taoist Temple II Desc,"Here is a place for people to cultivate the Tao, to return to nature and exist in harmony with Heaven and Earth. Here one may learn the wisdom of beings from higher dimenisons, explore the mysteries of the universe}
+{BD Taoist Temple III}
+{BD Taoist Temple III Desc,"This palace is a major gathering point for those who follow the way of the Tao. It is center for spreading the Taoist world view and lifestyle. Many come to study scripture, ceremony, medicine, healing}
+{BD Confucian Temple}
+{BD Confucian Temple Desc,"Adherents of the famous wise man Kong Fuzi (or Confucius in English) gather here to worship their ancestors, and to perform rites. It serves as a focus for the community}
+{BD Confucian Temple II}
+{BD Confucian Temple II Desc,"This place provides a major meeting point for devout follows of Confucius, and a place where people can gather for important rituals. Many rites are performed here, with drums}
+{BD Confucian Temple III}
+{BD Confucian Temple III Desc,"This temple is a major center for the veneration of Confucius, containing statues of the great master, and his most famous followers. People come from all around to make offerings}
+{BD Wooden Palisade}
+{BD Wooden Palisade Desc,"A stout wooden wall will keep out bandits and raiders}
+{BD Rammed Earth Wall}
+{BD Rammed Earth Wall Desc,"Made by continually pounding earth within a frame}
+{BD High Earth Wall}
+{BD High Earth Wall Desc,"The thicker and higher the wall}
+{BD Shooting Galleries}
+{BD Shooting Galleries Desc,"Wooden structures atop the walls, provide a vantage point for defenders to fire at attacking forces, increasing the strength of the defenses. A small group of men will always man these, but if missile units are garrisoned in the city, they can also fire from the galleries}
+{BD Town}
+{BD Town Desc,"A town in the smallest level of settlement. It can only contain a few buildings}
+{BD City}
+{BD City Desc,"A city is the middle level of settlement.  It can contain many buildings}
+{BD Huge City}
+{BD Huge City Desc,"This is the largest type of settlement. It can contain the most buildings, the most population}
+{BD City Upgrade}
+{BD City Upgrade Desc,"Upgrading the settlement to a city increases the number of buildings that may be constructed within, and increase the population that can reside in it. Upgrading will reduce unrest caused by overcrowding}
+{BD Huge City Upgrade}
+{BD Huge City Upgrade Desc,"Upgrading the settlement to a huge city, provides even more space for buildings, and allows the largest palaces and temples to be constructed. Many advanced buildings may only be constructed within a huge city. It further increase the population that may be contained}
+{BD Bazaar}
+{BD Bazaar Desc,"Allows trade goods to be sold to nearby settlements. The income derived from the trade depends on the number of trade items produced which the other settlement does not have}
+{BD Market}
+{BD Market Desc}
+{BD Trade Center}
+{BD Trade Center Desc,"Once a market reaches a certain size, it becomes famous for the variety and value of the goods offered their, making it worth while for buyers to travel long distances to attend. Further increases the distance over which trade may be conducted}
+{BD Caravansary}
+{BD Caravansary Desc,"Long distance trade is conducted by well organized caravans, which need places along the way where they can rest and replenish. After a brief respite}
+{BD Artillery Camp}
+{BD Artillery Camp Desc,"This a place where engineers can be taught the skills needed to construct basic artillery engines, and laborers can be trained to operate them. Artisans construct the most intricate parts}
+{BD Artillery Workshop}
+{BD Artillery Workshop Desc,"This workshop is home to the finest military engineers}
+{BD Cannon Maker}
+{BD Cannon Maker Desc,"Making a cannon is a complicated process, that requires great care and skill heating the metal, and pouring it into the cast. A team of skilled artisans oversee this process, ensuring that cannons do not burst when fired. A well build cannon, can reduce any masony to rubble with a few shots}
+{BD Pottery Workshop}
+{BD Pottery Workshop Desc,"This dedicated workshop, manned by skilled artisans, creates a steady supply of pottery and ceramic wares, to supply both the local population, and for export further afield via the bazaar. A ready supply of jars and pots is most useful for storing food and liquids, reducing both waste}
+{BD Ceramics Factory}
+{BD Ceramics Factory Desc,"A population growing in both size and sophistication, requires a great and varied supply of ceramic ware. A few skilled artisans cannot keep up with demand, so a more structured approach is required to production. In this facility, the masters manage legions of less skilled workers to produce basic items}
+{BD Silk Weaver}
+{BD Silk Weaver Desc,"Silk is a miraculous fabric, created by skilled weavers from the cocoon of the silk worn moth. The moths larvae must be kept warm, and fed a nutrisous diet of mulberries leaves, until ready to form a cocoon. These are gathered, and softened, so that individual strands of silk may be pulled from them, twisted into yarn, then woven into fabric. Needless to say}
+{BD Granary}
+{BD Granary Desc,"This is a cool dry place to store wheat, rice and other grains that are produced in excess when the harvest is bountiful. The stored grain can be distributed to the hungry people when the harvest fails}
+{BD Siege Granary}
+{BD Siege Granary Desc,"This is a place to stockpile large supples of food, so that the army and people can be fed even when the city is besieged by a an enemy army. While it is best not to let this happen, war is unpredictable}
+{BD Horse Stud}
+{BD Horse Stud Desc,"While horses were vital for warfare, they do not naturally thrive in most of China}
+{BD Copper Scrape}
+{BD Copper Scrape Desc,"Copper was a vital material for early civilizations. It can be used for a variety of tools, utensils and decorative items, and is the fundamental component of the bronze required for weapons and armor. The earliest copper deposits utilized were either naturally occurring raw copper, or the striking green mineral malachite. Boulders on the surface could be gathered}
+{BD Copper Mine}
+{BD Copper Mine Desc}
+{BD Large Copper Mine}
+{BD Large Copper Mine Desc,"Extracting the most from a deposit will require delving deep into the ground with an extensive system of shafts and galleries. Sophisticated systems are needed to control ground water, provide ventilation}
+{BD Gold Scrape}
+{BD Gold Scrape Desc,"A gold scrape can extract the gold near the surface, by digging shallow trenches or vertical shafts. Gold is a natural medium of exchange}
+{BD Gold Mine}
+{BD Gold Mine Desc,"Extracting more gold will require digging deeper into the ground. The gold bearing seams are often thin and twisted}
+{BD Large Gold Mine}
+{BD Large Gold Mine Desc,"As a mine gets larger and deeper, significant attention must be paid to drainage and ventilation. A more sophisticated operation can also recover the valuable metal by heating gold bearing ores}
+{BD Jade Scrape}
+{BD Jade Scrape Desc,"Small pebbles and lumps of jade can be found in mountain streams or in ancient glacial deposits high in the mountains. Gathering them from such remote locations can be arduous, but the stone commands a good price locally}
+{BD Jade Mine}
+{BD Jade Mine Desc,"Since it's harder than most rocks, jade is often found in large boulders on or near the surface. Among the many virtues of the stone, its hardness is said to represent intelligence. Breaking these hard rocks requires the right tools}
+{BD Large Jade Mine}
+{BD Large Jade Mine Desc,"Where there is jade on the surface, there is more to be found underground. Digging out such hard rock is very challenging}
+{BD Port I}
+{BD Port I Desc,"Enables water borne trade. Trade items produced by this settlement may be exported along navigable rivers, or across the sea to nearby settlements. Moving goods by water is easier than by land}
+{BD Port II}
+{BD Port II Desc,"Extends the distance over which water borne trade may occur}
+{BD Port III}
+{BD Port III Desc,"Further extends the distance over which water borne trade may occur}
+{BD Shipyard I}
+{BD Shipyard I Desc,"This is a place for constructing smaller and simpler types of warship. Great care is needed to create even the simplest ship. Timber must be cut precisely to make tight joins, and the joins carefully waterproofed}
+{BD Shipyard II}
+{BD Shipyard II Desc,"The shipyard is for creating larger and more sophisticated ships. It has curing sheds for wood, cranes for moving large timbers, and slipways for launching new vessels. Blacksmiths create fittings}
+{BD Shipyard III}
+{BD Shipyard III Desc,"This place is capable of constructing the largest types of ships, those that will sail the longest ocean voyages, or serve at the core of great war fleets. The most renowned naval architects consider every aspect of the design, to produce vessels that are equipped with the most sophisticated weapons}
+{BD Shrine I}
+{BD Shrine I Desc,"A place to honor a spirit or god can give a person the feeling that they can influence the world around them by asking for favors}
+{BD Shrine II}
+{BD Shrine II Desc,"Some shrines become so famous that no-one would doubt the efficacy of praying there. Not only does it comfort the local inhabitants}
+{BD Shrine III}
+{BD Shrine III Desc,"Some shrines become so well known, that their fame spreads throughout the whole world}
+{BD Pavilion I}
+{BD Pavilion I Desc}
+{BD Pavilion II}
+{BD Pavilion II Desc,"A retreat in the hills can bring peace of mind to any lord. Here he and his companions can hunt, train, and practice with their weapons}
+{BD Monastery}
+{BD Monastery Desc,"A place for monks to retreat from the world to study and meditate, a monastery is also a center for art and learning. Although supporting a non-productive community of monks is expensive}
+{Winter}
+{Spring}
+{Summer}
+{Autumn}
+{OffMap}
+{Dry Plain}
+{Grassland}
+{Fertile Plain}
+{Gentle Hills}
+{Steep Hills}
+{Mountains}
+{Forest}
+{Marsh}
+{Sand}
+{Plateau}
+{Terraced Steep Hills}
+{Terraced Gentle Hills}
+{Farmland}
+{Irrigated Farmland}
+{Coastal}
+{Sea}
+{Ocean}
+{Unnavigable River}
+{Navigable River}
+{Unnavigalbe Lake}
+{Unexplored}
+{Destroyed Farmland}
+{Destroyed Terraced Steep Hills}
+{Destroyed Terraced Gentle Hills}
+{Flooded Land}
+{Central Asia}
+{Central Asia DLC}
+{Gobi Desert}
+{Northern China}
+{Western China}
+{Southern China}
+{NorthGate}
+{SouthGate}
+{EastGate}
+{WestGate}
+{Garrison}
+{RP Militia old}
+{RP Tribesmen}
+{RP Nobles}
+{RP Conscripts}
+{RP Palace Troops}
+{RP Convicts}
+{RP Civilians}
+{RP Artillery}
+{RP Regulars}
+{RP Army Horsemen}
+{RP Mercenary}
+{RP Naval}
+{RP TestAndDebug}
+{RP Peasant Unrest High}
+{RP Noble Unrest High}
+{BP Military Buildings}
+{BP Civic Buildings}
+{BP External Buildings}
+{BP Temples and Schools}
+{TI Farm}
+{TI Clearing}
+{TI Road}
+{TI Building}
+{TI Construct}
+{TI Cancel}
+{TI Clear Forests}
+{TI Drain Marshes}
+{TI Irrigated Farmland}
+{TI Farmland}
+{TI Terrace Gentle Hills}
+{TI Terrace Steep Hills}
+{UI Confirm Cancel Construction No Refund}
+{UI Farm Limit Reached}
+{UI No Agriculture}
+{UI No Improvements Turmoil}
+{UI No Sites For External Buildings}
+{UI No Sites For Roads}
+{UI No Sites For Clearing}
+{UI No Sites For Farms}
+{RB Noble Rebellion}
+{RB New Noble Rebellion Desc,"The nobles became dissatisfied with your rule, and have raised the flag of rebellion. If you do not move to crush them swiftly}
+{RB City Joins Noble Rebellion Desc,"The nobles here have become dissatisfied with your rule and joined the rebellion. If many more join them}
+{RB Peasant Rebellion}
+{RB New Peasant Rebellion Desc,"The peasants here have become dissatisfied with their lot}
+{RB City Joins Peasant Rebellion Desc,"The peasants here have overthrown their rulers and joined the rebels. If this insult is not avenged}
+{RB Army Joins Peasants}
+{RB Army Joins Peasants Desc,"This army of degenerate vagabonds has defected from your service to join the peasant rebels. Their disloyalty must be harshly punished, but beware of using armies of militia or tribal soldiers against them}
+{RB Army Joins Nobles}
+{RB Army Joins Nobles Desc,"The ingrates in charge of this army have rejected their rightful lord, and joined the forces of the nobles rebelling against you. While they must be brought swiftly to heel}
+{RB Bandits}
+{RB Bandits Desc}
+{MR Rhinoceros}
+{MR Rhinoceros Desc,"In ancient times rhinoceros and other large animals were common on the plains of China. Rhinoceros hide leather is very tough and can be used for armor, or as protective coverings for ships or siege engine. A settlement that controls or has adjacent territory to his resource}
+{MR Wild Horses}
+{MR Wild Horses Desc}
+{MR Wild Game}
+{MR Wild Game Desc,"This area has a plethora of animals that can be hunted for food. This will increase by {0} the food production of any settlement that controls it}
+{MR Fish}
+{MR Fish Desc,"The rich shoals of fish here will increase the by {0} the food supply of any settlement which controls it}
+{MR Copper}
+{MR Copper Desc,"Copper is a valuable material used for making a wide range of utensils, and the main ingredient of bronze used for armor and weapons. Constructing a mine here will produce an income}
+{MR Gold}
+{MR Gold Desc,"Gold was the first metal worked by mankind. In China as elsewhere, it's natural beauty and malleability make it valuable for ornamental objects}
+{MR Jade}
+{MR Jade Desc,"This hard translucent rock was more highly prized than gold in ancient China. It was known as the stone of Heaven, and thought to posses many virtues. Emperors were buried in jade suits sown with gold thread. This deposit is highly valuable}
+{MR Trade Route}
+{MR Trade Route Desc}
+{MR Sea Trade Route}
+{MR Sea Trade Route Desc,"This a departure point for a trade route leading to areas beyond the map. It will boost the trade income of any settlement that controls it. However}
+{MR Mulberry}
+{MR Mulberry Desc,"The soil here is particularly suitable for cultivation of the Mulberry Bush. This resource will increase by {0}% the value of any silk produced at a settlement which controls it}
+{MR Kaolinite}
+{MR Kaolinite Desc,"This clay is excellent for the production of high quality porcelain and other pottery. This resource will increase by {0}% the value of any ceramics produced at a settlement which controls it}
+{LB Unemployed}
+{LB Clearing}
+{LB External Construction}
+{LB Internal Construction}
+{LB Farm Construction}
+{LB Farming}
+{LB Grazing}
+{LB Military Service}
+{LB Road Construction}
+{TI Local Items}
+{TI Copper}
+{TI Horses}
+{TI Jade}
+{TI Pilgrims}
+{TI Ceramics}
+{TI Silk}
+{TI Tea}
+{TI Iron}
+{LDR Died Old Age}
+{LDR Died Old Age Desc,"Our venerable friend has passed from this world}
+{LDR Died In Battle}
+{LDR Died In Battle Desc,"He has died an heroic death in battle. He has honored his ancestors}
+{LDR Heir Succeeds}
+{LDR Heir Succeeds Desc,"With the sad demise of your previous leader, your faction heir has become the new leader. He cannot yet claim the same respect as his predecessor, so his Authority will be reduced a little for a few turns}
+{LDR General Succeeds}
+{LDR General Succeeds Desc,"Since the previous leader died without a clear heir, one of your generals has taken control and become your new leader. With no dynastic claim}
+{LDR New Faction Leader}
+{LDR New Faction Leader Desc,"Your nation has been left with no leaders of any note. This man has seized the moment and established himself as the new leader. However, he has no legitimacy}
+{LDR New Heir}
+{LDR New Heir Desc,"This man has been nominated as your leader's heir. Should the leader die}
+{LDR New General}
+{LDR New General Desc,"This man has risen to prominence, and is now available to command an army}
+{LDR Qi Increase}
+{LDR Qi Decrease}
+{LDR Ren Increase}
+{LDR Ren Decrease}
+{LDR Attribute Change}
+{LDR Youthful Energy,"As this man matures and moves towards his prime, his levels of confidence and energy have increased}
+{LDR Mature Wisdom,"Age does not bring wisdom to all}
+{LDR No Longer Young,"This man is no longer young}
+{LDR Old Age Decline,"Sadly as he ages}
+{LDR Wounded Energy Loss,"This man has recovered from the grievous wound he suffered in battle, but it has taken its toll}
+{LDR Wounded Energy Gain,"What doesn't kill you, makes you stronger. This man has not only recovered from his wounds}
+{LDR Wounded Virtue Gain,"Being wounded in battle has given this man cause to reflect}
+{LDR Faction Leader Title}
+{LDR Faction Heir Title}
+{LDR General Title}
+{LDR Faction Leader Text,"This character is the leader of your faction, your King}
+{Firstly}
+{Secondly, when your faction leader dies, a new one will be appointed. However}
+{LDR Faction Heir Text,"This character is your faction's heir. When your faction leader dies, he will become the new leader. When he succeeds}
+{If the heir dies}
+{LDR Top General Text,"This character is multi-talented, and will excel at either leading armies}
+{LDR Best As Governor Text,"This man is mainly noted for his virtue. His example will inspire his men to fight longer in battle}
+{LDR Best As General Text,"This man is mainly noted for his energy and martial prowess. He is best used to lead an army, which will fight better under his leadership. He may be placed as governor of a city}
+{LDR Poor Leader Text,"This man has little to commend him}
+{LDR Generic Leader Text,"You can use this character to either lead an army, or to govern a city (by placing him in the garrison stack). His qi rating will improve the fighting ability of any troops he commands}
+{LDR Other Player Character,"Know your enemy}
+{EV Stack Disolves}
+{EV Stack Disolves Desc,"A combination of losses}
+{UI Battle Report}
+{BR Indecisive Battle}
+{BR Crushing Victory}
+{BR Clear Victory}
+{BR Narrow Victory}
+{BR Narrow Defeat}
+{BR Clear Defeat}
+{BR Crushing Defeat}
+{EV Items Unlocked}
+{EV Building}
+{EV Unit}
+{EV Edict}
+{EV Improvement}
+{EV Hexes Pillaged Msg,"{0} hex(es) of your farmland has been pillaged and destroyed by hostile armies. You should raise armies and drive off rebels and bandits, and you may also attack other player's armies if they're in your territory. Alternatively}
+{EV Hexes Pillaged Title}
+{EV Loot Gained Msg,"You have gained {0} gold from looting and pillaging hostile farms and buildings. Those who are not strong enough to protect their belongings}
+{EV Loot Gained Title}
+{EV City Lost Msg Name}
+{EV City Lost Title}
+{EV City Captured Msg Name}
+{EV City Captured Title}
+{EV New Settler Msg Name}
+{EV New Settler Title}
+{EV New Settler Msg}
+{ERA Name 0}
+{ERA Name 1}
+{ERA Name 2}
+{UI Want to rebel title}
+{UI Want to rebel text,"Do you want to rebel against your overlord}
+{UI Attack Not Allowed Title}
+{UI Cannot attack vassal text}
+{UI Vassal cannot attack,"As a vassal you cannot attack your overlord's vassals}
+{UI Declare War}
+{UI Declare war own territory}
+{UI Declare war own territory with treaty,"Do you want to declare war on this player ?. Since they are inside your own territory you may attack and drive them off without declaring a wider war. Since you have a non-aggression agreement or recent peace treaty}
+{UI Declare war with NA Pact,"Attacking this player would breach your treaty not to attack}
+{UI Declare war with recent peace,"You've only recently made peace with this player. Attacking them so soon}
+{UI Declare war text,"To attack this army}
+{UI Details Upkeep}
+{UI Details Attack}
+{UI Details Missile}
+{UI Details Wall Damage}
+{UI Details Fire Damage}
+{UI Details Defense}
+{UI Details Armour}
+{UI Details Move}
+{UI Details Morale}
+{UD Mixed Type Unit}
+{UD Armor Piercing}
+{UD Cav Attack Bonus}
+{UD Cav Defense Bonus}
+{UD Foot Attack Bonus}
+{UD Found Settlement}
+{UD Adds Population}
+{UD Non Combat}
+{UD Bodyguard}
+{UD Population Cost}
+{UD Return To Recruitment Pool}
+{UD Exploding Ammo}
+{UD Piercing Ammo}
+{UD Armour Ignoring Ammo}
+{UD Armour Piercing Ammo}
+{UD Poor Vs Armor Ammo}
+{UD Can Breach Any Wall}
+{UD Can Breach Some Walls}
+{UD Flaming Ammo,"Fires flaming ammunition that can burn down wooden pallisade walls, and any towers}
+{UD Flaming Ammo Dismounted,"When dismounted, fires flaming ammunition that can burn down wooden pallisade walls, and any towers}
+{UD Carry One Infantry Unit}
+{UD Carry One Unit Any Type}
+{UD Carry Several Infantry Units}
+{UD Carry Several Units Any Type}
+{UD Causes Fear}
+{OLD MC Light Infantry}
+{OLD MC Chariot}
+{OLD MC Light Cavalry}
+{OLD MC Baggage Train}
+{MC Heavy Cavalry}
+{MC Settler}
+{MC River Boat,"Can't enter sea or ocean hexes}
+{MC Small Ship,"Can't enter ocean hexes}
+{MC Large Ship}
+{CC LongWeapons,"Moderate combat penalty in marshes}
+{CC VeryLongWeapons}
+{CC Cavalry}
+{CC Vehicle,"Major combat penalty in forests}
+{UI Allow Recruitment}
+{UI Allow Construction}
+{UI Only One Temple}
+{UI Helps Recruitment}
+{UI Protects with Wall}
+{UI Wall Hit Points}
+{UI Wall Vulnerable To Fire}
+{UI Wall Invulnerable To Fire}
+{UI Adds Shooting Galleries,"Upgrades wall towers and gate house to fire more projectiles}
+{UI Value Boosted By Resource}
+{UI No Culture VPs}
+{Ammo STrebRock}
+{Ammo STrebFlamingRock}
+{Ammo STrebBomb}
+{Ammo MTrebRock}
+{Ammo MTrebFlamingRock}
+{Ammo MTrebBomb}
+{Ammo LTrebRock}
+{Ammo LTrebFlamingRock}
+{Ammo LTrebBomb}
+{Ammo LCWTrebRock}
+{Ammo LCWTrebFlamingRock}
+{Ammo LCWTrebBomb}
+{Ammo SBallistaBolt}
+{Ammo LBallistaBolt}
+{Ammo SCannonBall}
+{Ammo SCannonShell}
+{Ammo HundredTigersRocket}
+{Ammo Infantry Arrow}
+{Ammo Burning Arrow}
+{Ammo Flaming Arrow}
+{Ammo Fire Arrow}
+{Ammo Infantry Crossbow}
+{Ammo Infantry Repeating Crossbow}
+{Ammo Infantry Triple Gun}
+{Ammo Beehive Rocket}
+{Ammo Cavalry Arrow}
+{Ammo Cavalry Crossbow}
+{Quality Fastest}
+{Quality Fast}
+{Quality Simple}
+{Quality Good}
+{Quality Beautiful}
+{Quality Fantastic}
+{AM None}
+{AM Growth}
+{AM Income}
+{AM Defense}
+{AM Military}
+{AM Culture}
+{DS Cant Disband If Turmoil}
+{DS Cant Disband Too Large,"{This settlement is too large to be disbanded}
+{DS Cant Disband Capital}
+{DS No Space For Settlers,"Disbanding the settlement will create one or more settler units. There is no room to place these}
+{RE Minor Earthquake}
+{RE Major Earthquake}
+{RE Fire}
+{RE Eclipse}
+{RE Comet}
+{RE Flood}
+{RE Disease}
+{RE Sickness}
+{RE Sick Animals}
+{RE Drought}
+{RE Bumper Harvest}
+{RE Locust Swarm}
+{RE Hail Storm}
+{RE Three Horned Ox}
+{RE Nine Tailed Fox}
+{RE Red Rain}
+{RE Phoenix Sighting}
+{DS Earthquake Msg}
+{DS Earthquake Text,"This place has been rocked by a major earthquake}
+{DS Major Earthquake Text,"This place was the epicenter of a huge earthquake. The devastation is massive, not just here, but in the regions around. Those that survive still cower in fear of the aftershocks. Such a display of wrath by Heaven}
+{DS 3P Earthquake Msg}
+{DS 3P Earthquake Text}
+{DS Fire Msg}
+{DS Fire Text,"A terrible fire has swept through this settlement}
+{DS 3P Fire Msg}
+{DS 3P Fire Text}
+{DS Flood Msg}
+{DS Flood Text,"The rivers bring water and life, but their spirits are fickle. Once again they have burst their banks, ruining farmland, sweeping away many people and animals, and inundating the city. Some blame the river gods}
+{DS 3P Flood Msg}
+{DS 3P Flood Text,"News has come in of widespread flooding here}
+{DS Disease Msg}
+{DS Disease Text,"There has been an outbreak of disease}
+{DS 3P Disease Msg}
+{DS 3P Disease Text,"Reports have reached us that an outbreak of disease has swept the city}
+{DS Sickness Msg}
+{DS Sickness Text,"A wave of sickness has swept through this army, killing many}
+{DS 3P Sickness Msg}
+{DS 3P Sickness Text}
+{DS Sick Animals Msg}
+{DS Sick Animals Text,"An epidemic of sickness has swept through animal population in this region}
+{DS Drought Msg}
+{DS Drought Text,"This year, the rains have failed. The water supply is running low}
+{DS Bumper Harvest Msg}
+{DS Bumper Harvest Text,"This year the gods have blessed us with a bountiful harvest. The rainfall has been plentiful}
+{DS Locust Swarm Msg}
+{DS Locust Swarm Text,"Seemingly out of nowhere, an immense swarm of locusts has gathered. It moves quickly, and wherever it passes, the crops are stripped bare by the ravenous insects. The peasants are in despair}
+{DS Hail Storm Msg}
+{DS Hail Storm Text,"An intense storm has struck, Thunder and lightening terrified the populace, and hail stones as big as a man's fist poured from the sky, damaging roofs}
+{EV Eclipse Msg}
+{EV Eclipse Text,"All across the land the sun's light was extinguished, and there was darkness in the middle of the day. What troubles does such a dreadful portent foretell ? No-one knows for sure}
+{EV Comet Msg}
+{EV Comet Text,"A bright new star has appeared in the firmament with a bright tail of fire. The wise men argue about what this means, but the ordinary folk see it as a sign of Heaven's displeasure}
+{EV 3HOx Msg}
+{EV 3HOx Text,"Rumors are circulating that an Ox with three horns has been born in the countryside. This is a regarded as an omen of prosperous times to come}
+{EV 9TFox Msg}
+{EV 9TFox Text,"Many in the countryside is claiming to have seen a fox with nine tails. This is a sign of Heaven's approval}
+{EV RedRain Msg}
+{EV RedRain Text,"Reports have reached us that red colored rain has fallen on a nearby town. When water the color of blood falls from the sky}
+{EV Phoenix Msg}
+{EV Phoenix Text,"Tales have reached us from the countryside, that a phoenix has been sighted. Such a bird is rarely seen}
+{EE Reduce Effects}
+{EE Prevent Effects}
+{EE Reduce Building Damage}
+{EE Reduce Wall Damage}
+{EE Prevent Wall Damage}
+{EE Reduce Population Death}
+{EE Reduce Character Death}
+{EE Reduce Soldier Death}
+{EE Prevent Noble Unrest}
+{EE Reduce Noble Unrest}
+{EE Prevent Peasant Unrest}
+{EE Reduce Peasant Unrest}
+{DS Population Killed}
+{DS Buildings Damaged}
+{DS Walls Damaged}
+{DS Towers Damaged}
+{DS Gates Damaged}
+{DS Peasant Unrest}
+{DS Noble Unrest}
+{DS Both Unrest}
+{DS Reduced Efficiency}
+{DS Others Walls Damaged}
+{DS Others Defences Damaged,"Reports says that while the walls still stand}
+{DS Others Army Affected,"Reports say that many soldiers were killed}
+{DS Others Army Efficiency Reduced,"Reports say that the army has been severely affected}
+{DS Others Soldiers Killed}
+{DS Affected Settlements}
+{DS Flocks Killed}
+{DS Grain Production Decrease}
+{DS Grain Production Increase}
+{ENC Nothing To Teach,"Apologies great lord, but although I have earned some renown in my field, you have many wise men in your service}
+{ENC Only For Leader or Heir,"Noble lord}
+{ENC Not Here,"The person you are looking for}
+{ENC Girl Only For Leader}
+{ENC Merchant King Only,"I'm sorry that your journey has been wasted my lord, but the article I posses is fit only for a king}
+{ENC No Info,"I'm sorry my lord}
+{ENC Need Leader For Amnesty,"Apologies noble lord, but only your leader or heir can grant what I ask. If they come here}
+{ENC Leaders Ears Only,"I know a great secret}
+{ENC Event Message Name}
+{ENC Demands Heading}
+{ENC Offers Heading}
+{ENC Always Pleasant Time}
+{ENC Attend Funeral}
+{ENC Steal your treasure}
+{ENC Cost Money}
+{ENC Cost Unknown}
+{ENC Effect Improve Craft}
+{ENC Effect Improve Knowledge}
+{ENC Effect Improve Power}
+{ENC Effect Improve Thought}
+{ENC Give Tech}
+{ENC Increase Authority}
+{ENC Increase Qi}
+{ENC Increase Ren}
+{ENC Offer Gold}
+{ENC Effect Unknown}
+{ENC Decrease Qi}
+{ENC Decrease Ren}
+{ENC Decrease Authority}
+{ENC Add CultureVPs}
+{ENC Reveal Map}
+{ENC Reveal Cities}
+{ENC Reveal Capital}
+{ENC Reveal Water}
+{ENC Reveal Resource}
+{ENC Military Leader}
+{ENC Administrative Leader}
+{ENC Add Units}
+{ENC CraftsmanA}
+{ENC CraftsmanA Desc,"Greetings famous lord. As you may have heard, I have developed some new techniques. I will teach your craftsman my secrets, but I must ask you to cover the costs}
+{ENC CraftsmanA TT}
+{ENC CraftsmanB}
+{ENC CraftsmanB Desc,"My lord}
+{ENC CraftsmanB TT}
+{ENC StatesmanA}
+{ENC StatesmanA Desc,"My lord, I have studied the affairs of many kingdoms}
+{ENC StatesmanA TT}
+{ENC StatesmanB}
+{ENC StatesmanB Desc,"My lord, I would be honored to join your service}
+{ENC StatesmanB TT}
+{ENC StatesmanC}
+{ENC StatesmanC Desc,"My lord, I feel that if you were to honor me with the position of a minister}
+{ENC StatesmanC TT}
+{ENC PhilosopherA}
+{ENC PhilosopherA Desc,"Great lord, as you know, I have spent many years pondering the mysteries of Heaven and Earth}
+{ENC PhilosopherA TT}
+{ENC PhilosopherB}
+{ENC PhilosopherB Desc,"My lord, I have spent many years pondering deeply on the affairs of Heaven and man. I believe I am close to discovering great truths}
+{ENC PhilosopherB TT,"A noted philosopher lives here. He seeks a patron}
+{ENC ScholarA}
+{ENC ScholarA Desc,"Noble lord, I am honored to receive you. My studies of nature have revealed great secrets}
+{ENC ScholarA TT}
+{ENC ScholarB}
+{ENC ScholarB Desc,"My lord, as you know I am a keen student of the world of nature, and seek knowledge that may be of practical use to mankind. I would be happy to join your service, and share my discoveries with you}
+{ENC ScholarB TT}
+{ENC TeacherA}
+{ENC TeacherA Desc,"My lord, my area of expertise is the study of qi and how it animates the body and the mind. If you follow my methods, you will feel healthier and more energetic}
+{ENC TeacherA TT}
+{ENC TeacherB}
+{ENC TeacherB Desc,"My lord, it would be my honor to teach you the wisdom of the ancient sages of old. Follow their example}
+{ENC TeacherB TT}
+{ENC TeacherC}
+{ENC TeacherC Desc,"Noble lord}
+{ENC TeacherC TT}
+{ENC HistorianA}
+{ENC HistorianA Desc,"My lord, I have spent many years studying the lives of the kings of yore, noting their achievements and failures. I have gleaned many lessons from this study which I will happily share with you}
+{ENC HistorianA TT,"A noted historian lives here. Those who do not study history}
+{ENC WitchA}
+{ENC WitchA Desc,"My lord, with your permission I will enter the trance}
+{ENC WitchA TT}
+{ENC NoblewomanA}
+{ENC NoblewomanA Desc,"My lord, my husband has gone to join his ancestors, and my lands are beset by bandits and thieves. If you grant me your protection}
+{ENC NoblewomanA TT}
+{ENC NoblewomanB}
+{ENC NoblewomanB Desc,"IT'S A TRAP: Bandits have kidnapped the noble lady's child, and forced her solicit help from a wealthy patron. They take you unawares, relieve you of valuables}
+{ENC NoblewomanB TT}
+{ENC MerchantA}
+{ENC MerchantA Desc,"My lord}
+{ENC MerchantA TT}
+{ENC MerchantB}
+{ENC MerchantB Desc,"It seems you are too late, this man's enemies have already got to him. You perform burial rights}
+{ENC MerchantB TT}
+{ENC MerchantC}
+{ENC MerchantC Desc,"Lord, I have acquired this wonderful sword from far away. It is made from iron that fell from the sky, and wrought by the finest craftsmen. As you can see, the workmanship is exquisite. While it does not come cheap}
+{ENC MerchantC TT}
+{ENC MerchantD}
+{ENC MerchantD Desc,"Lord, please view my collection of fabulous artefacts gathered from around the world. I have weapons, jewelry}
+{ENC MerchantD TT}
+{ENC MerchantE}
+{ENC MerchantE Desc,"My Lord, I have been travelling these lands for many years, buying here}
+{ENC MerchantE TT}
+{ENC GirlA}
+{ENC GirlA Desc,"The girl here is not only as beautiful as reported, but intelligent and well educated too. Who could doubt that a lord with such a woman}
+{ENC GirlA TT}
+{ENC GirlB}
+{ENC GirlB Desc,"The girl here is not only exquisite, but also gifted in the arts of dressmaking and beauty. If brought to court}
+{ENC GirlB TT}
+{ENC GirlC}
+{ENC GirlC Desc,"The lady here is indeed beautiful, but it appears that she is a famous courtesan, whom one of your advisors was anxious to visit. You pay her for her company}
+{ENC GirlC TT}
+{ENC GirlD}
+{ENC GirlD Desc,"The girl here is indeed beautiful, and your lord has become besotted with her. He wastes time with romantic dalliances, instead of intending to his affairs}
+{ENC GirlD TT}
+{ENC Xi Shi}
+{ENC Xi Shi Desc,"Xi Shi is renowned as one of the four great beauties of China. They say she is so beautiful, that when she looks into a pond}
+{ENC Xi Shi TT}
+{ENC MinerJade}
+{ENC MinerJade Desc,"Great lord, jade is the most noble stone, fit for the most high born lords. I have made a good living from it, but if you will grant me a small sum for my retirement}
+{ENC MinerJade TT}
+{ENC MinerGold}
+{ENC MinerGold Desc,"My lord. I have mined gold from the rocks of this area for many years, but it is a hard business, and now I would like to retire. For a small sum}
+{ENC MinerGold TT}
+{ENC TravellerA}
+{ENC TravellerA Desc,"Noble lord}
+{ENC TravellerA TT}
+{ENC TribalGuideA}
+{ENC TribalGuideA Desc,"Lord. I am but a poor man, outcast from my tribe. The lands around here are difficult for strangers to navigate}
+{ENC TribalGuideA TT}
+{ENC ExileA}
+{ENC ExileA Desc,"My lord, I was forced to leave my homeland many years ago, and can never return while the current king still reigns. Still, I bear no ill will}
+{ENC ExileA TT}
+{ENC WarriorA}
+{ENC WarriorA Desc,"My lord, I have fought many battles, and lead many armies in my time. I would be happy to lead your armies too, but my craft is a dangerous one}
+{ENC WarriorA TT,"A famous warrior}
+{ENC WarriorB}
+{ENC WarriorB Desc,"My lord, my men and I have won much renown for our actions on the battlefield. We would be happy to join your service}
+{ENC WarriorB TT,"A famous warrior}
+{ENC BanditA}
+{ENC BanditA Desc,"My lord, many years ago I was forced into banditry to survive, and over the years I have become quite successful at my trade. Yet as I grow older, I wish to settle down and live in peace again. My lord, if you will grant me amnesty for my crimes}
+{ENC BanditA TT,"A notable bandit leader lurks here. He has made it known that he wishes to parley}
+{ENC BanditB}
+{ENC BanditB Desc,"IT'S A TRAP. The bandits attack, and you barely escape with you life. The bandits relieve of you much treasure}
+{ENC BanditB TT,"A notable bandit leader lurks here. He has made it known that he wishes to parley}
+{ENC BanditC}
+{ENC BanditC Desc,"My lord, my men and I have lost our lands through war, famine, and greedy aristocrats, and we have been forced to turn to banditry to survive. We are not bad men though}
+{ENC BanditC TT,"A notable bandit leader lurks here. He has made it known that he wishes to parley}
+{ENC FishermanA}
+{ENC FishermanA Desc,"My lord I have been sailing and fishing the local waters all my life}
+{ENC FishermanA TT}
+{ENC FishermanB}
+{ENC FishermanB Desc,"My lord, I do not know why you have come here. All I know about is fish}
+{ENC FishermanB TT}
+{ENC HunterA}
+{ENC HunterA Desc,"My lord, I know of a place near here where there are many wild horses. I will happily describe the location, but they are valuable animals}
+{ENC HunterA TT}
+{ENC HunterB}
+{ENC HunterB Desc,"My lord, I know of a place near here where there is a herd of rhinoceros. Their hides will fetch a good price}
+{ENC HunterB TT}
+{ENC HunterC}
+{ENC HunterC Desc,"My lord, I know of a place near here where there is abundant wild game. I will happily describe the location}
+{ENC HunterC TT}
+{ENC Xu Fu}
+{ENC Xu Fu Desc,"My lord, I have learned that the magician Anqi Sheng has discovered the elixir of life. He lives very far to the North East, but if you will provide ships and soldiers, I will undertake this arduous journey}
+{ENC Xu Fu TT}
+{ENC Northern Tribesman}
+{ENC Northern Tribesman Desc,"My lord, I lead a group of men who have become outcasts from our tribe. If you will give us regular pay}
+{ENC Northern Tribesman TT}
+{ENC Southern Tribesman}
+{ENC Southern Tribesman Desc,"My lord, I lead a group of men who have become outcasts from our tribe. If you will give us regular pay}
+{ENC Southern Tribesman TT}
+{ENC Central Tribesman}
+{ENC Central Tribesman Desc,"My lord, I lead a group of men who have become outcasts from our tribe. If you will give us regular pay}
+{ENC Central Tribesman TT}
+{CAP Roof Tiles}
+{CAP Roof Tiles Desc}
+{CAP Wall Construction}
+{CAP Wall Construction Desc1}
+{CAP Wall Construction Desc2}
+{CAP Road Building}
+{CAP Road Building Desc}
+{CAP Max Population}
+{CAP Max Population Desc}
+{CAP Recruit Militia}
+{CAP Recruit Militia Desc}
+{CAP Recruit Militia Split}
+{CAP Recruit Militia Split Desc}
+{CAP Recruit Nobles}
+{CAP Recruit Nobles Desc}
+{CAP Recruit Tribesmen}
+{CAP Recruit Tribesmen Desc}
+{CAP Recruit Conscripts}
+{CAP Recruit Conscripts Desc}
+{CAP Recruit Convicts}
+{CAP Recruit Convicts Desc}
+{CAP Recruit Palace Troops}
+{CAP Recruit Palace Troops Desc}
+{CAP Recruit Civilians}
+{CAP Recruit Civilians Desc}
+{CAP Recruit Artillery}
+{CAP Recruit Artillery Desc}
+{CAP Recruit Regulars}
+{CAP Recruit Regulars Desc}
+{CAP Recruit Army Horsemen}
+{CAP Recruit Army Horsemen Desc}
+{CAP Recruit Mercenary}
+{CAP Recruit Mercenary Desc}
+{CAP Recruit Naval}
+{CAP Recruit Naval Desc}
+{CAP Recruit TestAndDebug}
+{CAP Recruit TestAndDebug Desc}
+{CAP City Min Territory}
+{CAP City Min Territory Desc}
+{CAP City Max Improvement Distance}
+{CAP City Max Improvement Distance Desc}
+{CAP Mine Income}
+{CAP Mine Income Desc}
+{CAP Trade Distance}
+{CAP Trade Distance Desc}
+{CAP Water Trade Distance}
+{CAP Water Trade Distance Desc}
+{CAP Trade Level}
+{CAP Trade Level Desc}
+{CAP Onward Trade}
+{CAP Onward Trade Desc}
+{CAP Increase Internal Trade}
+{CAP Increase Internal Trade Desc}
+{CAP Peasant Happiness}
+{CAP Peasant Happiness Desc}
+{CAP Noble Happiness}
+{CAP Noble Happiness Desc}
+{CAP Peasant Unrest}
+{CAP Peasant Unrest Desc}
+{CAP Noble Unrest}
+{CAP Noble Unrest Desc}
+{CAP Suppress Peasants}
+{CAP Suppress Peasants Desc}
+{CAP Suppress Nobles}
+{CAP Suppress Nobles Desc}
+{CAP Increase Tax}
+{CAP Increase Tax Desc}
+{CAP Store Food}
+{CAP Store Food Desc}
+{CAP Found Settlement}
+{CAP Found Settlement Desc}
+{CAP Produce Local Items}
+{CAP Produce Local Items Desc}
+{CAP Produce Copper}
+{CAP Produce Copper Desc}
+{CAP Produce Horses}
+{CAP Produce Horses Desc}
+{CAP Produce Jade}
+{CAP Produce Jade Desc}
+{CAP Produce Pilgrims}
+{CAP Produce Pilgrims Desc}
+{CAP Produce Ceramics}
+{CAP Produce Ceramics Desc}
+{CAP Produce Silk}
+{CAP Produce Silk Desc}
+{CAP Produce Tea}
+{CAP Produce Tea Desc}
+{CAP Produce Iron}
+{CAP Produce Iron Desc}
+{CAP Boost Thought}
+{CAP Boost Thought Desc}
+{CAP Boost Craft}
+{CAP Boost Craft Desc}
+{CAP Boost Knowledge}
+{CAP Boost Knowledge Desc}
+{CAP Boost Power}
+{CAP Boost Power Desc}
+{CAP Reduce Thought}
+{CAP Reduce Thought Desc}
+{CAP Reduce Craft}
+{CAP Reduce Craft Desc}
+{CAP Reduce Knowledge}
+{CAP Reduce Knowledge Desc}
+{CAP Reduce Power}
+{CAP Reduce Power Desc}
+{CAP Boost Military}
+{CAP Boost Military Desc}
+{CAP Boost Economy}
+{CAP Boost Economy Desc}
+{CAP Boost Culture}
+{CAP Boost Culture Desc}
+{CAP Boost Naval}
+{CAP Boost Naval Desc}
+{CAP Boost Agriculture}
+{CAP Boost Agriculture Desc}
+{CAP Reduce Military}
+{CAP Reduce Military Desc}
+{CAP Reduce Economy}
+{CAP Reduce Economy Desc}
+{CAP Reduce Culture}
+{CAP Reduce Culture Desc}
+{CAP Reduce Agriculture}
+{CAP Reduce Agriculture Desc}
+{CAP Reduce Naval}
+{CAP Reduce Naval Desc}
+{CAP Primitive}
+{CAP Primitive Desc}
+{CAP Authority}
+{CAP Authority Desc}
+{CAP Culture}
+{CAP Culture Desc}
+{CAP NewLeaderVirtue}
+{CAP NewLeaderVirtue Desc}
+{CAP NewLeaderEnergy}
+{CAP NewLeaderEnergy Desc}
+{CAP CombatAdvantage}
+{CAP CombatAdvantage Desc}
+{CAP CombatDisadvantage}
+{CAP CombatDisadvantage Desc}
+{CAP AgriculturalProduction}
+{CAP AgriculturalProduction Desc}
+{CAP SilkTradeValue}
+{CAP SilkTradeValue Desc}
+{CAP CeramicsTradeValue}
+{CAP CeramicsTradeValue Desc}
+{CAP IronTradeValue}
+{CAP IronTradeValue Desc}
+{CAP Battle Healing}
+{CAP Battle Healing Desc}
+{CAP Plague Protection}
+{CAP Plague Protection Desc}
+{CAP Increase Trade}
+{CAP Increase Trade Desc}
+{CAP Agriculture}
+{CAP Agriculture Desc}
+{CAP Pastoralism}
+{CAP Pastoralism Desc}
+{CAP Nomadism}
+{CAP Nomadism Desc}
+{CAP Culture VP}
+{CAP Culture VP Desc}
+{CAP Recovery Rate}
+{CAP Recovery Rate Desc}
+{CAP Seafaring}
+{CAP Seafaring Desc}
+{CAP Oceanfaring}
+{CAP Oceanfaring Desc}
+{CAP Increase Ship HP}
+{CAP Increase Ship HP Desc}
+{CAP Crossbow Skill}
+{CAP Crossbow Skill Desc}
+{CAP Bow Skill}
+{CAP Bow Skill Desc}
+{CAP Sword Skill}
+{CAP Sword Skill Desc}
+{CAP Cavalry Skill}
+{CAP Cavalry Skill Desc}
+{CAP Poor Horses}
+{CAP Poor Horses Desc}
+{CAP Infantry Skill}
+{CAP Infantry Skill Desc}
+{CAP Chariot Skill}
+{CAP Chariot Skill Desc}
+{CAP Naval Skill}
+{CAP Naval Skill Desc}
+{CAP Forest Combat Skill}
+{CAP Forest Combat Skill Desc}
+{CAP Melee Attack}
+{CAP Melee Attack Desc}
+{CAP Melee Defense}
+{CAP Melee Defense Desc}
+{CAP Character Armor}
+{CAP Character Armor Desc}
+{TT End Turn}
+{TT Hide Advice}
+{TT Show Advice}
+{TT Show MM}
+{TT Hide MM}
+{TT Pause Menu,"Load}
+{TT Help}
+{TT Hide Panel}
+{TT Show Panel}
+{TT Money}
+{TT Turn}
+{TT Diplomacy}
+{TT Tech}
+{TT Edicts}
+{TT Finance}
+{TT Player}
+{TT Charts}
+{Your authority score limits the size of the empire you can control. If you have more settlements than your authority score}
+{Ren is the measure of a man's virtue}
+{TT Leader Portrait}
+{TT Your Garrison}
+{TT Your Army}
+{TT Enemy Army}
+{TT Friendly Army}
+{TT Neutal Army}
+{TT Hostile Army}
+{TT Vassal Army}
+{TT Overlord Army}
+{TT Emperor Army}
+{TT Empty Garrison}
+{TT Battle In Progress}
+{TT Battle Location Marker}
+{TT Battle Location Marker Desc}
+{TT Found Settlement Marker}
+{TT Found Settlement Marker Desc}
+{TT Food Resource Desc,"Provides {0} extra food for a settlement that owns this resource}
+{TT Money Resource Desc,"Provides {0} extra money for a settlement that owns this resource}
+{TT Trade Resource Desc,"If the owning settlement has a building that enables trade}
+{TT Building Resource}
+{TT Mulberry Resource}
+{TT Kaolinite Resource}
+{TT Your Town}
+{TT Your City}
+{TT Your Large City}
+{TT Others Town}
+{TT Others City}
+{TT Others Large City}
+{TT Click of Tap to open}
+{TT Relationship Self}
+{TT Relationship Enemy}
+{TT Relationship Friendly}
+{TT Relationship Neutal}
+{TT Relationship Hostile}
+{TT Relationship Vassal}
+{TT Relationship Overlord}
+{TT Relationship Emperor}
+{TT Fast Forward}
+{TT Normal Speed}
+{TT Pause Battle}
+{TT Resume Battle}
+{TT Battle}
+{TT Pause Game}
+{TT Cancel Move}
+{TT Found Settlement}
+{TT Cannot Found Settlement}
+{TT No Settler}
+{TT Disband}
+{TT Cannot Disband}
+{TT Change Facing}
+{TT Change Formation}
+{TT Battle Plan}
+{TT Rotate Left}
+{TT Rotate Right}
+{TT About Face}
+{TT Formation 1 Line}
+{TT Formation 2 Lines}
+{TT Formation 3 Lines}
+{TT Formation 4 Lines}
+{TT Formation Circle}
+{TT Sticky Selection On}
+{TT Sticky Selection Off}
+{TT Split Tab}
+{TT Special Commands}
+{TT Cancel Sleep}
+{TT Cancel Auto Explore}
+{Attack the enemy with missile fire}
+{TT Other Settlement}
+{TT Own Stack}
+{TT Other Stack}
+{TT Order Move}
+{TT Settlement Indicator}
+{TT Basic Food}
+{TT Farmable}
+{TT Grazing}
+{TT Blocked Trade Route}
+{TT Off Map Export Route}
+{TT Domestic Export Route}
+{TT Foregin Export Route}
+{TT Other Player Trade Route}
+{TT Off Map Trade Route}
+{TT Blocked Trade Explanation}
+{TT Encounter Site}
+{TT Encounter Instructions}
+{TT Encounter Instructions 2}
+{TT Next Settlement}
+{TT Previous Settlement}
+{TT Return to Map}
+{TT Change Name}
+{TT Land Improvement}
+{TT City Buildings}
+{TT Recruitment}
+{TT Labor Management}
+{TT Clear Land}
+{TT Build Road}
+{TT Convert Land}
+{TT Mode Build Farms}
+{TT Mode Build Roads}
+{TT Mode External Buildings}
+{TT Mode Clear Land}
+{TT Need Tech To Clear}
+{TT Need Road Tech}
+{TT Settlement Population}
+{TT Settlement Growth}
+{TT Settlement Food}
+{TT Settlement Income}
+{TT Settlement Unrest Peasants}
+{TT Settlement Unrest Nobles}
+{TT Settlement Flocks}
+{TT Settlement Stored Food}
+{TT Settlement Siege Turns}
+{TT Change Recruitment Location}
+{TT Settlement Details}
+{TT Settlement Disband}
+{TT Settlement Change Auto Manage}
+{TT Settlement Auto Manage}
+{TT CloseCapturePanel}
+{TT Select CaptureAction}
+{TT Capture Action Details}
+{TT Labor Farming}
+{TT Labor Building}
+{TT Labor Herding}
+{TT Labor Military}
+{TT Labor Unemployed}
+{TT Begin Construction}
+{TT Destroy Building}
+{TT Cant Destroy Building}
+{TT Money Details Button}
+{TT Food Details Button}
+{TT Growth Details Button}
+{TT Population Details Button}
+{TT Noble Unrest Details Button}
+{TT Peasant Unrest Details Button}
+{TT Free Building Slot}
+{TT Used Building Slot}
+{TT Free Palace Slot}
+{TT Used Palace Slot}
+{TT Free Temple Slot}
+{TT Used Temple Slot}
+{TT DP Event Effect}
+{TT DP Event Effect Will Expire}
+{TT DP Food Needed}
+{TT DP Domestic Food,"This is the food produced within the settlements from gardens}
+{TT DP Food Production,"This terrain produces {0} food per hex if one unit of population works it}
+{TT DP Edict Food Effect}
+{TT DP Edict Food Cancellation Effect}
+{TT DP Tech Food Effect}
+{TT DP Flocks Per Hex}
+{TT DP Resource Food}
+{TT DP Noble Local Factors,"These represent local conditions; feuds, difficult personalities, traditions of independence etc. They will vary over the course of the game}
+{TT DP Noble Distance To Capital}
+{TT DP Insufficient Authoriy,"When your authority rating is too low for the number of settlements you control}
+{TT DP Previous Grievences,"Even when causes of unhappiness are removed}
+{TT DP Noble Military Service}
+{TT DP Faction Unrest Penalty,"This factor represents the nature of your people}
+{TT DP Noble Leader Effect}
+{TT DP Noble Culture Effect,"A shared culture promotes a sense of togetherness}
+{TT DP New Home,"Those in a newly founded settlement have as yet}
+{TT DP Noble Army Authority,"The presence of militia or army units loyal to the ruler}
+{TT DP Noble Suppresion Authority,"The ruler and state institutions command respect or fear}
+{TT DP Recently Captured,"The memory of the recent occupation}
+{TT DP Noble Building Happiness}
+{TT DP Noble Building Disatisfaction,"This building causes unhappiness}
+{TT DP Noble Building Suppression,"This building and those who operate from it create a climate of fear}
+{TT DP Noble Cancelled Edicts Disatisfaction,"Even after an edict is cancelled}
+{TT DP Edict Unrest Effect}
+{TT DP No Luxury Items}
+{TT DP One Luxury}
+{TT DP List Luxuries}
+{TT DP Peasant Local Factors,"These represent local conditions; feuds, difficult personalities, oppressive nobles or officials etc. They will vary over the course of the game}
+{TT DP Peasant Military Service}
+{TT DS Labor Service,"Constructing buildings, farms or roads, and clearing land means conscripting peasant labor. This factor will grow each turn that you conduct one of the above actions here. If it gets high}
+{TT DS Food Shortage,"The peasants are short of food. This may be caused by bandits or enemy troops looting the countryside, or by natural disasters. Drive off enemies}
+{TT DP Overcrowding}
+{DP TT Peasant Unrest Faction Effect}
+{DP TT Peasant Happiness Faction Effect}
+{TT DP Peasant Leader Unrest,"The presence of a character to act as govenor}
+{TT DP Peasant Culture Effect,"A shared culture promotes a sense of togetherness}
+{TT DP Peasant New Home,"The settlement is as yet new}
+{TT DP Food Surplus,"There is ample food available}
+{TT DP Peasant Army Suppression,"The presence of well armed noblemen or army units loyal to the ruler}
+{TT DP Peasant Authority Suppression,"State institutions provide some measure of relief from the oppresion of the nobility}
+{TT DP Peasant Building Happiness}
+{TT DP Peasant Building Dissatisfaction,"This building causes unhappiness, or promotes ideas of equality}
+{TT DP Peasant Building Suppression,"This building and those who operate from it create a climate of fear. Those who speak out are punished harshly}
+{TT DP Peasant Edict Effect}
+{TT DP Peasant Cancelled Edicts Disatisfaction,"Even after an edict is cancelled}
+{The computer does not recruit units}
+{TT AM Growth}
+{TT AM Income}
+{TT AM Defense}
+{TT AM Military,"Maximize the quality}
+{TT AM Culture}
+{TT AM None}
+{TT ExitHelpScreen}
+{TT BackButton}
+{TT ForwardButton}
+{TT ContentsButton}
+{TT CloseEvent}
+{TT ViewEvent}
+{TT Next Message}
+{TT Previous Message}
+{TT Battle Location}
+{TT Men Starting}
+{TT Men Remaining}
+{TT Casualties}
+{TT Kills Made}
+{TT Experience Gained}
+{This is the personal authority of the leader}
+{This is the personal authority of the heir, which is determined by his record commanding major battles. It has no direct effect}
+{TT DontAcceptEncounter}
+{TT AcceptEncounter}
+{TT List City Icon}
+{TT List Damaged Buildings}
+{TT List Damaged Walls}
+{TT List Capital}
+{TT List Population}
+{TT List Growth}
+{TT List Farms}
+{TT List Clearing}
+{TT List Roads}
+{TT List Building Internal 1}
+{TT List Building Internal 2}
+{TT List Building External 1}
+{TT List Building External 2}
+{TT List Warning Noble Revolt}
+{TT List Warning Peasant Revolt}
+{TT List Warning High Noble Unrest}
+{TT List Warning High Peasant Unrest}
+{TT Lists Danger Falling Population}
+{TT Lists Warning Falling Population}
+{TT Enemy In Territory}
+{TT Settlement May Upgrade}
+{TT Settlement Overcrowded,"This settlement is starting to become overcrowded}
+{TT No Building Space,"This settlement has no more space for buildings}
+{TT Settler Available}
+{TT Settler Available Indicator}
+{TT End Quit Button}
+{TT End Continue Button V,"Although you have already won}
+{TT End Continue Button D,"Although another player has won}
+{TT End Stats Button}
+{TT Glory VP Stats Button}
+{TT Culture VP Stats Button}
+{TT Settlements Stats Button}
+{TT Population Stats Button}
+{TT Military Strength Button}
+{TT Battles Fought Button}
+{TT Enemy Soldiers Killed Button}
+{TT Own Soldiers Killed Button}
+{TT Enemy Civilians Killed Button}
+{TT Construction Development Button}
+{TT Edict Already Issued,"You may not issue this edict this turn}
+{TT Edict Cant Afford}
+{TT Issue Edict}
+{TT Cancel Edict}
+{TT Cant Cancel Edict}
+{TT DI Demand Attack Player}
+{TT DI Offer Attack Player}
+{As your vassal their population counts towards your victory score, and they must declare war on your enemies, and make peace with your allies. You also gain authority from having vassals. However}
+{As a vassal you will lose some authority, and your diplomatic options will be limited, in that you must fight your overlord's enemies, and refrain from attacking those that have peace treaties with them. Your population will count towards their victory score}
+{You may not attack each other, and if either is attacked by a third party}
+{TT DI Offer Non Aggression}
+{TT DI Offer Peace,"Offer to make immediate peace. Furthermore agree not to declare war on each other for  {0} turns}
+{This is something of a diplomatic nicety, as there  are no particular obligations to fulfill}
+{This is something of a diplomatic nicety, as it involves no particular obligations, however}
+{TT DI Demand Ongoing Payment}
+{TT DI Offer Ongoing Payment}
+{TT DI Demand Limited Payment}
+{TT DI Offer Limited Payment}
+{TT DI Demand Reveal Capital}
+{TT DI Offer Reveal Capital}
+{TT DI Demand Single Payment,"Ask them to make one single immediate payment to you. Be careful not to ask for too much}
+{TT DI Offer Single Payment}
+{TT DI Offer Trade Rights}
+{TT DI Cancel Trade Rights}
+{TT DI Offer Settlement}
+{TT DI Demand Settlement}
+{TT DI Offer Enemy Information}
+{TT DI Demand Enemy Information,"Ask that they share the location of settlements they know about}
+{ED Well Field System}
+{ED Well Field System Desc,"Decree that each village's land be divided into lots farmed by eight families. Each lot shall be divided into nine equal divisions, one outer section for each family, and the central one for the local lord. The families shall work the lord's land before attending to their own. The division of the land into nine squares resembles the Chinese character for a well}
+{ED Private Land}
+{ED Private Land Desc}
+{ED Land Redistribution}
+{ED Land Redistribution Desc,"Let land be taken from those who have such vast estates}
+{ED Standardization}
+{ED Standardization Desc,"Let a system of standard weights and measures be established across the land}
+{ED Relocation of Nobles}
+{ED Relocation of Nobles Desc,"The noble families are grown proud and lazy in their country estates, and are disdainful of our authority. Let them come and live in the capital where they may serve us better}
+{ED Promotion in Battle}
+{ED Promotion in Battle Desc,"Our army will be more efficient if we promote the capable men regardless of birth. Let our soldiers gather the heads of the enemy they slay}
+{ED Private Arms Ban}
+{ED Private Arms Ban Desc,"There are too many commoners in possession of weapons. Many turn to banditry and others are disrespectful of their social superiors. From this day no-one of the peasant class shall possess a weapon of war}
+{ED Fubing Militia}
+{ED Fubing Militia Desc,"Let us establish a system to improve the quality of our soldiers. Able bodied men will be allocated land to farm, but in return shall be summoned for a period of military training each year}
+{ED Warring States}
+{ED Warring States Desc,"The world is changing, there is more and more warfare and armies are becoming ever larger. If we are to survive}
+{ED Imperial Era}
+{ED Imperial Era Desc,"States are growing ever larger and more powerful, so the practices that were sufficient for a time of small kingdoms will no longer suffice. Therefore let us reorganize the state so that we may confront and subdue these powerful nations}
+{ED Gentlemen Ride Chariots}
+{ED Gentlemen Ride Chariots Desc}
+{ED Gentlemen Ride Horses}
+{ED Gentlemen Ride Horses Desc,"The chariot has become outdated as a mode of war, yet the aristocracy persist in fighting from them. Henceforth, they shall reserve their vehicles for parades}
+{ED Appoint a Shi}
+{ED Appoint a Shi Desc}
+{ED Central Bureaucracy}
+{ED Central Bureaucracy Desc,"The affairs of the kingdom have become so numerous and complicated that it has become almost impossible to oversee them all from the palace. Therefore let us divide the duties of state, and appoint suitable persons as officials to have responsibility for them. A chancellor shall be appointed over them all}
+{ED Imperial University}
+{ED Imperial University Desc,"The Civil Service has a constant need for educated gentlemen to fulfil its duties}
+{ED Civil Service Examinations}
+{ED Civil Service Examinations Desc,"The quality of education of officials in the imperial service varies widely, as does their understanding of their duties. Therefore let there be established a system of examinations for officials at each rank}
+{ED Patronize The Arts}
+{ED Patronize The Arts Desc,"It has come to our attention that many of the fine artists in the state are diverted by the mundane need to earn an income to support themselves and their family. Therefore let the finest writers, poets and painters present themselves at the court}
+{ED Official Historian}
+{ED Official Historian Desc,"Memory is fickle, and there are many differing accounts of events past. To prevent such happening in the future, let us appoint a historian to record the correct account of affairs at court}
+{ED Grand Commandant}
+{ED Grand Commandant Desc,"Our enemies are many, and a ruler cannot be everywhere at once. Therefore let us appoint a commandant to organize the army}
+{ED Imperial Secretary}
+{ED Imperial Secretary Desc,"The civil service has a great number of officials. Many of them good and virtuous men, but some are not, leaving tasks undone}
+{ED Salt Tax}
+{ED Salt Tax Desc,"The duties of the state are many, and much money is needed to support them. Sadly nobles and peasants alike find ways to avoid the taxes they owe, and the exchequer is frequently short of funds. Therefore lets us establish a tax on the sale of salt}
+{ED Appoint a Strategist}
+{ED Appoint a Strategist Desc,"There are several prominent men who have devoted their lives to the study of military matters, and composed famous books on the art of war. Let us persuade one such to join our employ}
+{ED Minor Loan}
+{ED Minor Loan Desc,"Our economy is fundamentally strong}
+{ED Major Loan}
+{ED Major Loan Desc,"The realm faces many dangers and expenses which our current income cannot meet. Yet private banks hold vast reserves of money which could be put to better use. Let us demand that they put aside their selfish greed}
+{ED Trade Venture}
+{ED Trade Venture Desc,"We have heard that merchants are making great profits by organizing trade expeditions to foreign lands. Since the state's coffers are full, let us invest in one of these ventures}
+{ED Equal Field System}
+{ED Equal Field System Desc,"The old way of dividing the land has fallen into decline, and rich families hold vast estates, yet pay no taxes. Let us declare that all land belongs to the state. Let each person in the realm be allocated an area of land to farm}
+{ED Ban Dangerous Books}
+{ED Ban Dangerous Books Desc,"Many well born men are reading the tales of the great kings of old, and comparing our own rule to them unfavorably. These studies have no practical use, and only lead to dissatisfaction and division in society. Let us therefore ban anyone, on pain of death, from possessing books, save for those few that discus useful arts. Let all books be gathered and burned}
+{ED Self Criticism}
+{ED Self Criticism Desc,"The disasters that we have recently sufferred, suggest that Heaven may be dissatisfied with our rule. Reviewing our actions, we accept that some mistakes have been made, and on occasions we may have been lazy or arrogent, and not responsive enough to the needs of the people. We hope that Heaven will understnad our contrition}
+{EFF Cost}
+{EFF Unrest}
+{EFF PeasantUnrest}
+{EFF NobleUnrest}
+{EFF FoodProduction}
+{EFF Culture}
+{EFF Authority}
+{EFF Trade}
+{EFF BattleMorale}
+{EFF MilitiaAvailability}
+{EFF MilitiaSkill}
+{EFF CollectAgricultureTax}
+{EFF Add Leader}
+{EFF Add General}
+{EFF Add Admin}
+{EFF TaxCollection}
+{EFF SpecialPopulationTax}
+{EFF AdvanceEra}
+{EFF Recruitment}
+{EFF Income}
+{EFF ImmediateIncome}
+{EFF Per Person}
+{EFF DisasterUnrest}
+{ELDR Grand Commandent}
+{ELDR Hired Shi}
+{ELDR Chancellor}
+{ELDR Military Specialist}
+{EDM Edict Delay Title}
+{EDM Generic Delayed Effect}
+{EDM Leader Next Turn,"A suitable candidate will be found}
+{EDM Delayed Militia}
+{EDM Issue Confirmation Text}
+{EDM Cancel Confirmation Text}
+{EDM Edict Expired Title}
+{EDM Edict Expired Message}
+{Map Editor}
+{Object Editor}
+{Menu}
+{Terrain}
+{Climate}
+{Color Mode}
+{Undo}
+{Redo}
+{Fix Shoreline}
+{Brush Size}
+{File Actions}
+{Clear Map}
+{Load Map}
+{Save Map}
+{Import from Image}
+{Export to Image}
+{Exit Editor}
+{Quit Game}
+{Clear Objects}
+{Save Objects}
+{Load Objects}
+{Settings}
+{Settlements}
+{Units}
+{Players}
+{Misc Objects}
+{Object Types}
+{Resources}
+{Moat}
+{Tiled Roof}
+{Wall Level}
+{Wall Tech}
+{Tower Level}
+{UI Construct Building Button}
+{UI Delete Building Button}
+{UI Confirm Destroy Building Title}
+{UI Confirm Destroy Building Text}
+{UI Next Available In}
+{UI CC Temple Exists}
+{UI CC No Space Upgrade}
+{UI CC No Space Full}
+{UI CC Need Population}
+{UI CC Requires Building}
+{UI CC Requires Not Building}
+{UI CC Insufficent funds}
+{UI CC Already under construction}
+{UI CC Reasons Unknown}
+{UI CC No Onward Trade Possible,"No goods available for re-export}
+{UI Pro-rata effects,"This effect applies if all settlements have this building}
+{UI Confirm Disband Settlement Title}
+{UI Confirm Disband Settlement Msg,"Do you want to disband this settlement, and receive {0} settler unit(s). All the buildings will be destroyed}
+{UI Shipyard}
+{UI Recruit}
+{UI Imperial Edicts}
+{UI Issue Edict}
+{UI Cancel Edict}
+{UI Available Edicts}
+{UI Issued Edicts}
+{UI About Edicts}
+{You may issue only one edict per turn. Generally this will remain in effect until cancelled (though a few edicts may not be cancelled, or auto expire after a set number of turns) .Cancelling edicts will also have effects. These vary, but most commonly your authority will be reduced for looking weak or indecisive. However}
+{UI Edict already issued,"You have already issued an edict this turn}
+{UI Effects Header}
+{UI Temporary Effects Header}
+{UI Permanent Effects Header}
+{UI Unlocked Edicts Header}
+{UI Cancels Edicts Header}
+{UI Cancellation Effects Header}
+{UI Can Cancel No Penalty}
+{UI Cannot cancel repeating}
+{UI Repeating Edict Turns}
+{UI Edict has dependents}
+{UI Edict can not be cancelled}
+{UI Unlocks Edicts}
+{UI Select Tech}
+{UI Tech Screen Title}
+{Tech Field Thought}
+{Tech Field Knowledge}
+{Tech Field Craft}
+{Tech Field Power}
+{Tech Progress}
+{Tech Enables Building}
+{Tech Needed For Building}
+{Tech Enables Unit}
+{Tech Needed For Unit}
+{Tech Enables Edict}
+{Tech Needed For Edict}
+{Tech Enables Improvement}
+{Tech Effects}
+{Event Effects}
+{Tech Branch Bonus}
+{Tech Branch Penalty}
+{Tech Issue Edict To Unlock}
+{Tech Items To Advance}
+{Tech Enables Ammo}
+{UI Finance Screen Title}
+{UI Projected Income}
+{UI Projected Treasury}
+{UI Finance This Turn}
+{UI Finance Last Turn}
+{UI Finance Whole Game}
+{UI Autospend Minimum}
+{UI Autospend Maximum}
+{UI Finance Income}
+{UI Finance Expenses}
+{UI Finance Other Tax}
+{UI Finance Agriculture}
+{UI Finance Trade}
+{UI Finance Resources}
+{UI Finance Mining}
+{UI Finance Diplomacy Income}
+{UI Finance Loot}
+{UI Finance Personal}
+{UI Finance Misc Income}
+{UI Finance Army Upkeep}
+{UI Finance Naval Upkeep}
+{UI Finance Building Upkeep}
+{UI Finance Edicts}
+{UI Finance Recruitment}
+{UI Finance Naval Construction}
+{UI Finance Construction}
+{UI Finance Diplomacy Expenses}
+{UI Finance Misc Expenses}
+{DP Income}
+{DP Taxes}
+{DP Mining}
+{DP Expenses}
+{DP Internal Buildings}
+{DP External Buildings}
+{DP Garrison}
+{DP Poll Tax}
+{DP Grain Tax}
+{DP Special Tax}
+{DP Salt Tax}
+{DP Peoples Contributions}
+{DP Consumption}
+{DP Population}
+{DP Agriculture}
+{DP Production}
+{DP Domestic}
+{DP Peasants}
+{DP Growth}
+{DP Food Surplus}
+{DP Food Shortage}
+{DP Labor}
+{DP Resources}
+{DP Trade}
+{DP Internal Trade}
+{DP Resource Food}
+{DP Noble Unrest}
+{DP Peasant Unrest}
+{DP Peasant Happiness}
+{DP Peasant Dissatisfaction}
+{DP Peasant Suppression}
+{DP Noble Happiness}
+{DP Noble Dissatisfaction}
+{DP Noble Suppression}
+{DP Local Factors}
+{DP Distance To Capital}
+{DP Leadership}
+{DP Faction Effect}
+{DP Armies}
+{DP Luxury}
+{DP Insufficient Authority}
+{DP Authority}
+{DP Culture}
+{DP Military Service}
+{DP Labor Service}
+{DP Previous Grievances}
+{DP New Home}
+{DP Recently Captured}
+{DP Overcrowding}
+{DP Overcrowding Unrest}
+{DP Nobles Block Income}
+{DP Peasants Block Income}
+{DP Peasant Effects}
+{DP Noble Effects}
+{DP Taxes Blocked}
+{DP Noble Recruitment Blocked}
+{DP May Join Noble Rebellion}
+{DP Nobles May Rebel}
+{DP Taxes Reduced}
+{DP Peasant Recruitment Blocked}
+{DP May Join Peasant Rebellion}
+{DP Peasants May Rebel}
+{DP Danger of Bandits}
+{DP Technology}
+{DP Cancelled Edict Effects}
+{DP Grazing}
+{DP RecentEvents}
+{CCP Title}
+{CCP Destroy}
+{CCP Sack}
+{CCP Occupy}
+{CCP Occupy Description}
+{CCP Sack Description}
+{CCP Totally Destroy Description,"Totally destroy the settlement}
+{CCP Destroy Multi Turn Description,"Totally destroy the settlement}
+{CCP Ongoing Destruction}
+{CCP Ongoing Destruction Title}
+{CCP Turmoil,"This place is in turmoil due to recent events}
+{CCP Turmoil Title}
+{UI Load Game}
+{UI Save Game}
+{UI Load File}
+{UI Save File}
+{UI Delete File}
+{UI Sort By Name}
+{UI Sort By Date}
+{UI Turn}
+{UI Loading}
+{LMP Authority}
+{LMP Battles Won}
+{UI Disband Units}
+{UI Cant Disband Leader}
+{UI All Disbanded}
+{UI All Add Population}
+{UI All Available For Reuse}
+{UI All Cancel Recruitment}
+{UI Units Add Population}
+{UI Units Permenantly Disbanded}
+{UI Units For Reuse}
+{UI Disbanded Unit Type}
+{UI Disbanded Time Type}
+{UI Recruitment Cancelled}
+{UI Disbanded Away}
+{If disbanded within the territory of one of your own settlements}
+{TAG Farmers}
+{TAG Herders}
+{UI Select Faction}
+{UI Game Difficulty}
+{AI Difficulty Easy}
+{AI Difficulty Normal}
+{AI Difficulty Hard}
+{AI Difficulty Very Hard}
+{UI Game Length}
+{FE Single Player}
+{FE Multiplayer}
+{FE Continue}
+{FE Quit}
+{FE Load}
+{FE Options}
+{FE Play}
+{FE Back}
+{FE Human Control}
+{FE AI Control}
+{FE Locked Turns}
+{FE AI Only}
+{Status Tab Player Info}
+{Status Tab Victory}
+{Status Tab Influence}
+{Status Tab Automation}
+{Status Tab Relations}
+{UI Status Screen Title}
+{UI Influence Authority}
+{UI Influence Culture}
+{UI Authority Description,"Authority represents the respect that local leaders have for the central state. It encompases both the fear of retribution for disobedience, and the belief that a central state is necessary and desirable. Your authority determines the number of settlements you can directly control. If you have more settlements than your authority rating then all your settlements will suffer increased noble unrest. Authority will be temporarily reduced when a new faction leader takes over}
+{UI Culture Description,"Culture represents that state of advance of your state, and the degree to which your people voluntarily associate with it. Culture reduces unrest among both peasants and nobles, but affects the nobles more. Culture comes from advances in the Technology and Culture tree}
+{UI Culture Trade Benefit,"Culture also affects trade. The value of silk, ceramics and local specialties is increased by {0}% if exporting to another power with lower culture}
+{UI Vassal Authority Penalty}
+{UI Other Emperor Authority Penalty}
+{UI 8 Recognizers Authority Bonus}
+{UI 5 Recognizers Authority Bonus}
+{UI 3 Recognizers Authority Bonus}
+{UI 1 Recognizer Authority Bonus}
+{UI 8 Vassals Authority Bonus}
+{UI 5 Vassals Authority Bonus}
+{UI 3 Vassals Authority Bonus}
+{UI 1 Vassal Authority Bonus}
+{UI Status Conquest Victory Name}
+{UI Status Conquest Victory Stat Text}
+{UI Status Culture Victory Name}
+{UI Status Culture Victory Stat Text}
+{UI Status SOH Victory Name}
+{UI Status SOH Victory Stat Text}
+{UI Status Points Victory Name}
+{UI Status Points Victory Stat Text}
+{UI Auth Faction Advantage}
+{UI Culture Faction Advantage}
+{UI Influence Tech}
+{UI Influence Edict}
+{UI Auth Leader}
+{UI Auth Succession}
+{UI Conquest Victory Text,"Raw military might is an argument that can only be answered in kind. When none remain who can oppose your argument}
+{UI Culture Victory Text,"While conquerors can shape the world for a time, ideas and culture have a more lasting influence. If you can establish your faction as the cultural driving force of the area, then history will consider it the most important of its time. To win a Cultural Victory, you must amass {0:d0} culture victory points and have {1:d}% more points than the second highest player. Your culture victory points are the sum of your culture rating, and all culture victory points from buildings that you have constructed or captured. Palaces, temples}
+{UI Glory Victory Text,"Sometimes many factions can co-exist without any one clearly dominating. Deciding which was most important or successful means weighing their size, influence, and cultural achievements. If the game ends without any player winning by another victory condition, then the victor is the player with the highest victory score. This is calculated based on both the cultural victory points, the amount of population controlled directly, or by vassals}
+{UI SOH Victory Text,"When you are widely recognized as the Son of Heaven and rightful Emperor, then none can doubt your legitimacy of your rule. You win a Son of Heaven Victory when {0:d0}% of the game's population recognize you as Emperor. Your own population, that of your vassals}
+{UI No Points Victory Text,"This game has no defined time limit}
+{UI Influence Cancelled Edict}
+{UI Automation New Settlements}
+{UI Automation Technology}
+{UI Automation Farming}
+{UI End Quit Button}
+{UI End Continue Button}
+{UI End Stats Button}
+{UI Victory Eliminated Title}
+{UI Victory Eliminated Text,"Your regime has been extinguished, and henceforth will exist only as a footnote to the histories of more glorious empires. Your brief glories will be forgotten}
+{UI Victory Conquest Title}
+{UI Victory Conquest Text Nomad,"The greatest joy is to defeat your enemy, to drive him before you, to take everything he posses, to see his cities reduced to ash}
+{UI Victory Conquest Text Settled,"You are the lord of the Middle Kingdom. Your armies have conquered all, and none can stand before them. Now is the moment of your glory}
+{UI Victory SOH Title}
+{UI Victory SOH Text Old,"Congratulations! You are Shi Huang Di, The First Emperor, The Son of Heaven, and ruler of the Middle Kingdom. Upon this, all agree. Rule wisely, rule well}
+{UI Victory Culture Title}
+{UI Victory Culture Text,"Your people may not be the most numerous, nor your army the largest, but you have created a civilization that will endure through the ages. The glory of your palaces is unmatched, the rituals in your temples unrivalled, and your wisdom unquestioned Throughout the world, minstrels play the tunes that were first played at your court, noble women wear the fashions that were first seen there}
+{UI Victory Points Title}
+{UI Victory Points Text,"The turn limit for the game has been reached. There are many notable kingdoms still remaining, but the wise agree that, all things considered}
+{UI Victory Other Conquest Text}
+{UI Victory Other Culture Text,"Your people sing the songs of another land, wear the clothes of another place, worship the gods of another people, and argue about ideas first given voice elsewhere. Whatever achievements you may boast}
+{UI Victory Other SOH Text,"Heaven has made its choice}
+{UI Victory Other Points Text,"The turn limit for the game has been reached. There are many notable kingdoms still remaining}
+{UI Charts Screen Title}
+{UI Charts Show Only Known}
+{UI Stat Category Glory VP}
+{UI Stat Category Culture VP}
+{UI Stat Category Settlements}
+{UI Stat Category Population}
+{UI Stat Category Military}
+{UI Stat Category Battles}
+{UI Stat Category Enemy Soldiers Killed}
+{UI Stat Category Own Soldiers Killed}
+{UI Stat Category Enemy Civilians Killed}
+{UI Stat Category Construction Development}
+{UI Settings Game Turns}
+{UI Settings AI Level}
+{UI Settings Hex Grid}
+{UI Settings Scroll Rate}
+{UI Settings Master Volume}
+{UI Settings Music Volume}
+{UI Settings FX Volume}
+{UI Settings UI Volume}
+{UI Settings Mute}
+{UI Settings Graphics Quality}
+{UI Settings Screen Resolution}
+{UI Settings Windowed}
+{UI Settings Title}
+{UI Settings Audio Tab}
+{UI Settings Video Tab}
+{UI Settings Game Settings Tab}
+{UI Settings Back Button}
+{UI Settings OK}
+{UI Action Paused}
+{PM Paused}
+{PM Load}
+{PM Save}
+{PM Settings}
+{PM Quit}
+{PM Continue}
+{UI Land Improvements Title}
+{UI End Turn Tech Warning Title}
+{UI End Turn Stack Warning Title}
+{UI End Turn Stack Warning Message,"One of your stacks isn't in a garrison}
+{UI Dont show again}
+{UI Hint}
+{UI Diplomacy Summary}
+{UI Open Negotiation}
+{UI Diplomacy Label Allies}
+{UI Diplomacy Label Enemies}
+{UI Diplomacy Label Faction}
+{UI Diplomacy Label Relationship}
+{UI Diplomacy Label Status Panel Title}
+{UI Relationship Hostile}
+{UI Relationship Neutral}
+{UI Relationship Friendly}
+{UI Relations Status War}
+{UI Relations Status Vassal}
+{UI Relations Status Vassals Vassal}
+{UI Relations Status Overlord}
+{UI Relations Status They are Emperor}
+{UI Relations Status We are Emperor}
+{UI Relations Status No Relations}
+{UI Relations Status Neutral}
+{UI Current Relationship}
+{UI Current Attitude}
+{UI Currently Unfriendly}
+{UI Currently Friendly}
+{UI Currently Neutral}
+{UI Our Obligations}
+{UI Their Obligations}
+{UI Shared Obligations}
+{UI Declare War Title}
+{UI Declare War Text}
+{UI Other Honored Alliance}
+{UI Other Honored Alliance Speech}
+{UI Alliance Honored}
+{UI Alliance Not Honored Mes}
+{UI Alliance Not Honored Speech,"It is most regrettable}
+{UI Alliance Not Honored Title}
+{UI At War Turns}
+{UI At Peace Turns}
+{UI Status One Turn}
+{UI Status Num Turns}
+{DIP Status Power Label}
+{DIP Status Much Weaker}
+{DIP Status Weaker}
+{DIP Status Power Equal}
+{DIP Status Stronger}
+{DIP Status Much Stronger}
+{DIP Status Stability Label}
+{DIP Status Stable}
+{DIP Status Mostly Stable}
+{DIP Status Unstable}
+{DIP Status Civil War}
+{DIP Status Wealth Label}
+{DIP Status Wealthy}
+{DIP Status Adequate}
+{DIP Status Poor}
+{UI No Contact with peasant rebels}
+{UI No contact with noble rebels}
+{UI Faction refuses peace negotiation,"There can be no possibility of peace}
+{UI Faction refuses contact}
+{NEG Offer Items}
+{NEG Demand Items}
+{NEG Propose}
+{NEG New Proposal}
+{NEG Trade We Offer}
+{NEG Trade They Offer}
+{DIP Header Payments}
+{DIP Header Agreements}
+{DIP Header Status}
+{DIP Header Declarations}
+{DIP Header Peace}
+{DIP Header Information}
+{DIP Header Settlements}
+{DIP Regular Payment}
+{DIP Regular Payment Ongoing}
+{DIP Single Payment}
+{DIP Offer Peace Short}
+{DIP Offer Peace Long}
+{DIP Declare War}
+{DIP Non Aggression Treaty}
+{DIP Reveal Capital}
+{DIP Info About Enemies}
+{DIP Defensive Alliance}
+{DIP Attack Player}
+{DIP Become Vassal}
+{DIP Recognize Emperor}
+{DIP Trade Rights}
+{DIP Cancel Trade Rights}
+{NEG Single Payment}
+{NEG TT Single Payment}
+{NEG Regular Payment}
+{NEG Regular Payment Limited}
+{NEG TT Regular Payment}
+{NEG Make Peace}
+{NEG TT Make Peace}
+{NEG Declare War}
+{NEG TT Declare War}
+{NEG Non Aggression}
+{NEG TT Non Aggression,"Agree not to declare war on each other, nor block trade routes}
+{NEG Reveal Capital}
+{NEG TT Reveal Capital}
+{NEG Defensive Alliance}
+{NEG TT Defensive Alliance}
+{NEG Attack Player}
+{NEG TT Attack Player}
+{NEG Demand Become Vassal}
+{NEG TT Demand Become Vassal,"Become our vassal, assist in all our wars}
+{NEG Offer Become Vassal}
+{NEG TT Offer Become Vassal}
+{NEG Demand Recognize Emperor}
+{NEG TT Demand Recognize Emperor}
+{NEG Offer Recognize Emperor}
+{NEG TT Offer Recognize Emperor}
+{NEG Trade Rights}
+{NEG TT Offer Cancel Trade Rights}
+{NEG Offer Settlement}
+{NEG TT Offer Settlement}
+{NEG TT Demand Settlement}
+{NEG Information About Enemies}
+{NEG TT Offer Info About Enemies}
+{NEG TT Demand Info About Enemies}
+{OB Regular Payment}
+{OB Regular Payment Limted}
+{OB Keep Peace}
+{OB Keep Peace Limited}
+{OB Non Aggression}
+{OB Non Aggression Limited}
+{OB Attack Player}
+{OB Defensive Alliance Unlimited}
+{OB Defensive Alliance}
+{OB Trade Pact}
+{DIP Failed To Attack Title}
+{DIP Failed To Attack Text}
+{DIP Failed To Attack Speech}
+{DIP Reminder}
+{DIP Attack Reminder,"Remember that you have agreed to attack {0} by turn {1}. Failure to honor this agreement would be a serious breach of trust}
+{DIP Ally Invokes Alliance}
+{DIP Summoned To War Title}
+{DIP Summoned To War Speech}
+{DIP Forced Peace Title}
+{DIP Forced Peace Msg,"Your overlord has made peace with these people. As a loyal vassal, you are also now at peace with them}
+{DIP Forced Peace Speech}
+{DIP Honour Alliance Title}
+{DIP Vassal Request Help Title}
+{DIP Honour Alliance Question,"Will you honor your alliance and declare war on these people who have gone to war with your ally. Failure to do so will cancel your alliance}
+{DIP Honour Question Catch 22}
+{DIP Honour Alliance Greeting}
+{DIP Vassal Request Help Greeting,"My lord! we humbly beseach you to fulfil your obligation as overlord and protector}
+{DIP Appreciate Support}
+{DIP Disappointed No Support,"Very well}
+{DIP Declare War01}
+{DIP Declare War02,"Prepare for battle}
+{DIP Declare War03}
+{DIP Cease Attack Demand Title}
+{DIP Cease Attack On Vassal Message,"This faction that you are currently at war with has become the vassal of another power. You must make peace with them}
+{DIP Cease Attack On Vassal Greeting,"These people are now our vassals and under our protection. We demand that you cease your war with them}
+{DIP Make Peace Question}
+{DIP Agree Peace Demand Response}
+{DIP Rejected Peace Demand Response,"You leave us no choice then}
+{DIP Recogniztion Withdrawn Title}
+{DIP Recognition Withdrawn Message}
+{DIP Trade Rights Cancelled}
+{DR Accept Offer Neutral01,"Very well}
+{DR Decline Offer Neutral01}
+{DR Insist on key items01}
+{DR Reject Threat01}
+{DR Reject Valueless Offer01}
+{DR No Constraint Neutral01}
+{DR Require Non Aggression01}
+{DR Greetings Neutral01}
+{DR Greetings Neutral02}
+{DR Greetings Neutral03}
+{DR Greetings Hostile01,"Say your piece}
+{DR Greetings Hostile02,"Speak quickly}
+{DR Greetings Hostile03}
+{DR Greetings Hostile04}
+{DR Greetings Friendly01}
+{DR Greetings Friendly02}
+{DR Greetings Friendly03}
+{DR Greetings Vassal01}
+{DR Greetings Vassal02,"My lord}
+{DR Greetings Emperor01,"Son of Heaven}
+{DR Greetings Emperor02}
+{DR Greetings Hostile CB01,"Barbarian}
+{DR Greetings Hostile CB02,"Barbarian}
+{DR Anything Else}
+{DR Default Declaration Reply}
+{DR Powerful Receive War01,"We applaud your boldness}
+{DR Powerful Receive War02}
+{DR Powerful Receive War03,"When you lay dying}
+{DR Betrayed Receive War01,"So}
+{DR Betrayed Receive War02}
+{DR Betrayed Receive War03,"One who does not honor his agreements}
+{DR Default Receive War01,"Very well}
+{DR Default Receive War02,"If it is war you seek}
+{DR Default Receive War03}
+{DR Decline Gift}
+{DR Decline Gift Insulted}
+{DR Accept Gift}
+{DR Decline Offer Attack Ally}
+{DR Decline Offer Attack Friend}
+{DR Decline Offer Attack Vassal}
+{DR Decline Offer to Become Vassal}
+{DR Threat To Other Allies}
+{DR Reject due to Dislike01,"If you lay down with dogs, you catch their fleas}
+{DR Reject due to Dislike02}
+{DR Reject due to Dislike03,"We will not ally with you}
+{DR Cannot Attack Now,"I'm sorry}
+{DR Will not attack own vassal}
+{DR Will not show enemies}
+{DO Offer Rejected01}
+{DO Offer Rejected02}
+{DO Offer Rejected03}
+{DO Offer Accepted01}
+{DO Offer Accepted02}
+{DO Offer Accepted03}
+{DO First Contact Mutual Reveal}
+{DO Equal Peace}
+{DO Seek Peace Terms,"We respect the might of your army}
+{DO Offer Peace Terms,"You cannot win this war. Accept our terms for peace}
+{DO Will Not Become Vassal,"Why should we become your vassal. You are no threat}
+{DO Seek To Become Vassal,"Your armies are mighty}
+{DO Support Gift}
+{DO Offer NA Pact}
+{DIP3D War Title}
+{DIP3D War Message}
+{DIP3D War With Vassal Title}
+{DIP3D War With Vassal Message,"This faction is the vassal of your new enemy. Consequently}
+{DIP3P Peace Title}
+{DIP3P Peace Message}
+{DIP3P Become Vassal Title}
+{DIP3P Become Vassal Message,"This power has surrendered its independence}
+{DIP3P News of Recognition Title}
+{DIP3P News of Recognition Message,"This power has recognized the ruler of that below as the Son of Heaven and one true emperor. Whether this is any more than a diplomatic nicety}
+{DIP3P Faction Eliminated Title}
+{DIP3P Faction Eliminated Message}
+{DIP3P Rebels Eliminated Message}
+{DIP3P New Player Encountered Title}
+{DIP3P New Player Encountered Message}
+{TI Bronze}
+{RP Militia}
+{CAP Produce Bronze}
+{CAP Produce Bronze Desc}
+{CAP BronzeTradeValue}
+{CAP BronzeTradeValue Desc}
+{BD Armorer Desc}
+{BD Armor Works Desc,"With a small group of skilled artisans directing a less skilled workforce, the armor works can turn out sufficient quantities of leather or light armor to equip all militia troops}
+{BD Armor Factory Desc,"Armor production on an industrial scale can supply enough quality metal armor for all trained soldiers. It can also produce large quantities of lighter armor}
+{BD Foundry Desc,"The foundry is the place where raw ores are turned into useful bronze. Bronze can be used for many tools and ceremonial objects}
+{BD Iron Foundry Desc,"The Iron Foundry includes the hot furnaces required for the large scale production of iron. Once the technology is in place, iron is far cheaper than bronze, providing more value to the local economy}
+{Zhou Desc,"The Zhou are a tough Chinese people in the Wei River valley to the west. Their rulers have a reputation as wise sage kings, and are renowned for their skill at chariot warfare. Historically, they overthrew the decadent Shang and formed the third, and longest lived, great dynasty. They were the first to claim the mandate of Heaven}
+{Wu Desc,"Wu occupies the area around the mouth of the Yangtze River. It's rulers are Chinese, but the people engage in practices considered somewhat barbarous}
+{Historically the original kingdom of Wu was destroyed by Min}
+{UI Victory SOH Text,"Congratulations! You are universally acclaimed as The Son of Heaven, and ruler of the Middle Kingdom. You may claim the title Shi Huang Di, or First Emperor. Rule wisely, rule well}
+{Militia Light Spearmen}
+{Militia Light Archers}
+{Militia Dagger Axemen}
+{Militia Long Spearmen}
+{Militia Repeating Crossbow}
+{Militia Halberds}
+{IC Militia Halberds}
+{Militia Heavy Spearmen}
+{Paddle Wheel Boat}
+{Paddle Wheel Boat Desc,"These paddle wheel boats are the fastest way to move troops along the great rivers. Instead of vulnerable oars, they have paddle wheels operated by men on treadles. This makes more efficient use of human energy, and allows tired men to be more easily replaced by fresh ones. Although they can be used in coastal waters}
+{Additions}
+{Unnavigable Lake}
+{UI Notify attack  in own territory,"You can attack this army without a declaration of war}
+{UI Limited Attack}
+{UI No Contacts Msg}
+{UI No Contacts Header}
+{FE Game Grand Campaign}
+{FE Game Custom Game}
+{FE Game Load Scenario}
+{FE Map Style}
+{FE Map Size Label}
+{FE Climate Label}
+{FE Random Seed Label}
+{FE Load Map}
+{FE Customize Map}
+{FE LOADING}
+{FE Map Style Island Continent}
+{FE Map Style Continental Edge}
+{FE Map Style Inland Sea}
+{FE Map Style Americas}
+{FE Map Size Tiny}
+{FE Map Size Small}
+{FE Map Size Medium Small}
+{FE Map Size Medium}
+{FE Map Size Medium Large}
+{FE Map Size Large}
+{FE Map Size Huge}
+{FE Map Climate China And Mongolia}
+{FE Map Climate China Only}
+{FE Map Climate Mongolia}
+{FE Map Climate Southern China}
+{FE Map Climate Northern China}
+{FE Map Climate Western China}
+{FE Map Climate Gobi Desert}
+{FE Must Select Faction}
+{FE Too Many Factions}
+{FE Next Button}
+{UI Alternate Banner Symbols}
+{UI Cant Assault Title}
+{UI Cant Assault Msg,"Archer units are needed to breach wooden palisade walls, and earth or brick walls will need artillery to breach them}
+{UI Info Panel Title}
+{UI Manual Button}
+{UI Settings Grass}
+{DIP Offer Settlement}
+{DIP Trade Embargo Old,"Ban all trade}
+{DIP Demand Lift Trade Embargo}
+{DIP Offer Lift Trade Embargo}
+{DIP Ultimatum}
+{DIP Ask Favor}
+{TT Faction Present}
+{TT Faction Human Controlled}
+{TT Faction Locked,"This faction is locked}
+{TT DI Offer Trade Embargo,"Ban all trade}
+{TT DI Lift Trade Embargo}
+{TT DI Ultimatum,"If they refuse the request}
+{TT DI Ask Favor}
+{TT Cost To Construct}
+{TT Upkeep}
+{TT Turns To Constrct}
+{TT Cost To Recruit}
+{TT Cost To Issue}
+{TT Cost Per Turn}
+{TT Resources In Range}
+{TT Settlements Can Export To Location}
+{TT Settlements In Trade Range}
+{ADV_IN_002_Title}
+{ADV_IN_002_Text}
+{CR Developer Title}
+{CR Publisher Title}
+{CR Credits Title}
+{All brands}
+{Additions Post Oct 4}
+{UI Confirm Quit Game Title}
+{UI Confirm Quit Game Msg}
+{UI Gate Blocked Turmoil}
+{UI Enemy Block All Gates}
+{UI Gate Blocked Enemy}
+{UI Gate Blocked}
+{UI Autospend Slider Label}
+{TT Autospend Slider}
+{TT Labor Other}
+{UI MP Game List Host}
+{UI MP Game List Scenario}
+{UI MP Game List Players}
+{UI MP Game Show Freinds Only}
+{UI MP Game List Back}
+{UI MP Game List Join}
+{UI MP Game List Create Game}
+{UI MP Game List Heading}
+{UI Tech Rate}
+{UI Allow Cultural Victory}
+{UI Language}
+{UI Language Warning}
+{DO Not Strong Enough For Overlord}
+{DO Not Enough Threat For Overlord,"Your nation is mighty}
+{DO Not Enough Help For Overlord}
+{DO Too Powerful To Accept Overlord}
+{CAP Armorer}
+{CAP Armorer Desc1}
+{CAP Armorer Desc2}
+{CAP Armorer Desc3}
+{Additions Post Nov 16}
+{MP Creating Game}
+{MP Please Wait}
+{MP Failed To Create Game}
+{MP Failed To Join Game}
+{MP Failed To Load Scenario}
+{MP Joining Game}
+{UI MP Quit Lobby}
+{UI MP Start Game}
+{UI MP Game Lobby}
+{UI MP Players Ready}
+{UI MP Game Settings}
+{UI MP Select Faction}
+{UI MP Invite Friends}
+{UI MP Chat}
+{UI MP Selection Failed Title}
+{UI MP Selection Failed Msg}
+{UI MP Game Starting Title}
+{UI MP Game Starting Msg}
+{UI MP Waiting For Players}
+{UI MP Select Button}
+{UI MP Desync Detected Title}
+{UI MP Desync Detected Text,"An error has occurred causing your games to become desynchronized. To restart, quit the game}
+{Additions Post Jan 27}
+{DIP Trade Embargo}
+{NEG Trade Embargo}
+{NEG TT Trade Embargo,"Stop all trade}
+{NEG Trade Lift Embargo}
+{NEG TT Lift Trade Embargo,"Lift any trade embargo}
+{DIP MES Trade Embargo Title}
+{DIP MES Trade Embargo Text,"This player has issued a trade emabargo against you. Neither imports}
+{DIP3P Embargo Title}
+{DIP3P Embargo Text}
+{DIP MES Trade Embargo Speech}
+{OB Allow Trade}
+{DR Default Receive Trade Embargo01,"We regret that you have foresworn the mutual benefits of trade}
+{DR Default Receive Trade Embargo02}
+{DR Default Receive Trade Embargo03,"Very well, our cities will smell sweeter}
+{DR Default Receive Trade Embargo04,"Your action is foolish. Are you planning to attack us. If so}
+{UI No Longer In Contact}
+{UI Mutual Trade Embargo}
+{UI We Embargo Trade}
+{UI Other Embargoes Us}
+{DO Exchange Enemy Information}
+{DO Ask For Mutual Enemy Info,"If you would provide some information about our mutual enemies}
+{DO Ask For Enemy Info}
+{DO Give Enemy Information,"We have some information that you may find useful}
+{DO Trade Embargo}
+{DO Resume Trade,"Let us put aside past differences}
+{DO Vassal Asks For Settlement,"My lord, your empire has grown large, and become unwieldy to manage. If you would return a settlement to the care of your loyal vassal}
+{DO Overlord Offers Settlement,"You have proved a faithful vassal. We reward you}
+{DO Offer Offensive Alliance01,"Let us make common cause against a nation}
+{DO Offer Offensive Alliance02}
+{DO Offer Offensive Alliance03,"Your renown in battle is well known. If we join together}
+{DO Ask To Attack01}
+{DO Ask To Attack02,"A friend in time of need}
+{DO Ask To Attack03}
+{DR Too Far Away To Attack}
+{DR Dont Want To Trade}
+{DR Counter Offer Neutral01,"Your suggestion is possible}
+{DR Counter Offer Neutral02,"We will accept}
+{DR Counter Offer Neutral03,"Interesting!}
+{DR Counter Offer Neutral04,"As someone well versed in the art of the deal}
+{DR Counter Offer Neutral05}
+{DR Counter Offer Neutral06}
+{UI DIP We Have Embargo}
+{UI DIP No Exports Us}
+{UI DIP Our Exports Value}
+{UI DIP They Have Embargo}
+{UI DIP No Exports Them}
+{UI DIP Their Exports Value}
+{UI DIP Def Alliance Turns}
+{UI DIP Frat Harmony Turns}
+{UI DIP Peace Turns}
+{UI DIP Respone To Counter}
+{TT Accept Button}
+{TT Decline Button}
+{TT New Offer Button}
+{TT Propose Offer Button}
+{TT Select Faction To Negotiate With}
+{TT Not In Contact}
+{TT Cant Negotiate}
+{TT Proposal Limit Reached}
+{TT Open Negotiation}
+{HPHead Attack Player}
+{HPText Attack Player,"If you agree to attack another player, then you must declare war and fight a battle against them within the given number of turns. If you do not, it will be seen as a breach of trust}
+{HPHead Lift Embargo}
+{HPText Lift Embargo,"This is a mutual agreement. Trade embargoes against each other are lifted, and trade resumes as normal. Once you agree to this}
+{HPTitle Other Diplomatic Trades}
+{HPHead Trade Settlement}
+{HPText Trade Settlement1,"You can sometimes transfer control of a settlement to another player, or have them transfer one to you. This will happen immediately. In reality though, control of large cities could not just be changed on the ruler's whim}
+{HPText Trade Settlement2,"A settlement may change hands as part of a peace negotiation, or if it is small enough to be relocated. Otherwise a settlement may be returned to its original founder, or the previous owner}
+{HPHead Enemy Information}
+{HPText Enemy Information,"If you receive this, the other faction will reveal the location of all settlements that it knows of, that belong to its enemies}
+{HPHead Trade Embargo}
+{HPText Trade Embargo,"If you declare a trade embargo against another player, then trade is cut off both ways, you can neither export to, nor import from them. This may hurt you more than it hurts them, so check your trade routes before issuing an embargo. This is a declaration, and they do not have to agree to it}
+{HPLink Other Diplomatic Trades}
+{Additions Post Feb 17}
+{Imp Generic Completed Msg}
+{Imp Farm Completed Msg,"This farm has been completed. It will provide food each turn, provided that one or two laborers are available to work it. Enemy armies, in or adjacent to it, will prevent it from being worked}
+{Imp Road Completed Msg,"This section of road has been completed. Roads speed the movement of armies}
+{Imp Clearance Completed Msg,"This hex has been cleared. A road may now be constructed through it, and it may be suitable for animal grazing}
+{Imp Ext Building Completed Msg}
+{Imp Cancelled Title}
+{Imp Cancelled Msg,"Construction of this improvement has been cancelled}
+{Imp Stalled Title}
+{Imp Stalled Money Message,"The construction of this building cannot begin}
+{Imp Building Stalled}
+{EM Dip Offer Title}
+{EM Dip Response Title}
+{DIP MP Offer Sent Title}
+{DIP MP Offer Sent Text}
+{DIP MP Delayed Accept Title}
+{DIP MP Delayed Accept Text,"You have accepted the offer. It will be implemented at the end of the turn}
+{DIP MP Delayed AI Accept Title}
+{DIP MP Delayed AI Accept Text,"They have accepted your offer. It will go into effect at the end of the turn}
+{DP Negotiaiton Conflicted Title}
+{DP Negotiation Conflicted Msg}
+{DP Negotiaiton Invalid Title}
+{DP Negotiation Invalid Msg}
+{TT SetTab Population}
+{TT SetTab Income}
+{TT SetTab Peasant Unrest}
+{TT SetTab Noble Unrest}
+{TT SetTab Unrest Problems}
+{TT Must Deal With Current Offer,"You must respond to the offer that they've sent you}
+{TT MP Offer Sent,"You must wait until the last negotiation is completed}
+{TT MP Click To Select Faction}
+{Form into line of battle}
+{Move immediately to harass the enemy, without forming into battle line. Prefer to attack with projectiles}
+{If all units in a stack are in ambush in a forest hex}
+{If all the units in a stack have defensive type battle plans (""Defend, ""Ambush""}
+{Form into the line of battle, and support the other units. Only move to attack enemy units that are very close, or that are threatening or engaged with friends. Chariots and cavalry with missiles}
+{Move away from the enemy towards the edge of the battlefield. Do not form up in the battle line.Withdraw from the battle after half of the battle time has elapsed}
+{TT BP Defense Bonus}
+{TT BP Defense Penalty}
+{TT BP Attack Bonus}
+{TT BP Attack Penalty}
+{UI MP HUD Chat Hint1}
+{UI MP HUD Chat Hint2}
+{MP Beiginning Resync Title}
+{MP Beiginning Resync Msg}
+{MP Other Resync Msg}
+{UI MP Turn Limit}
+{UI MP Difficulty}
+{UI MP Num Players}
+{UI MP Max Human Players}
+{UI MP Tech Rate}
+{UI MP Culture Victory}
+{UI MP Era}
+{UI MP Turn Time}
+{UI MP Map Details}
+{UI MP Scenario}
+{UI MP Allowed}
+{UI MP Not Allowed}
+{UI MP Random Map}
+{UI MP No Map Details}
+{UI End Turn Diplomacy Title}
+{UI End Turn Diplomacy Message}
+{UI Must Deal With Current Offer}
+{UI MP Offer Sent}
+{UI MP Type Lobby Chat Here}
+{UI MP Host Quit Title}
+{UI MP Host Quit Msg}
+{UI MP Got Kicked Title}
+{UI MP Got Kicked Msg}
+{UI MP Kick Player Confirm Title}
+{UI MP Kick Play Confirm Msg,"Do you want to remove this player from the game ?. If you do}
+{HPText Battle Plans Charge New,"Immediately move to attack the enemy by melee attack, without forming into battle line. This plan is useful to force units with missile weapons to attack in hand to hand combat;  to attack quickly before the enemy can withdraw}
+{HPText Battle Plans Attack New,"Form up into a battle line then, advance to attack the enemy using either missiles or hand to hand combat. If other units are performing harass or outflank plans, then delay the attack to allow those plans to take effect. The attack may also be delayed if at least half the front rank units of the battle line have missiles}
+{HPText Battle Plans Harass New 1,"Advance on the enemy without forming into battle line.  Prefer shooting and only attack in melee combat in advantageous circumstances.  Missile armed cavalry and chariot units}
+{HPText Battle Plans Harass New 2,"This plan is useful for missile armed cavalry to wear down the enemy with missile fire;   to send infantry missile units forward to shoot up the enemy while forming up, or to counter enemy doing the same. Another use is to prevent units in small adjacent stacks, from being integrated into the battle line}
+{HPText Battle Plans Outflank New,"Attempt to work around the enemy's flank, before launching an attack. Do not form up in the battle line. This is useful if you outnumber the enemy}
+{HPText Battle Plans Ambush New 1,"Stay hidden until an opportunity arises to attack the enemy in flank or rear. When ambushing units reveal themselves}
+{HPText Battle Plans Ambush New 2,"The ambush battle plan is only effective if the unit is in forest terrain.  In other terrain it will be treated as having a ���Support��� or ���Harass��� battle plan}
+{HPText Battle Plans Ambush New 3,"If all units in a stack have the ambush battle plan, and the stack is in a forest hex, then that stack will be invisible to other players unless they have a stack immediately adjacent. If a stack starts hidden}
+{HPText Battle Plans Defend New 1,"Form up in a battle line, and await the enemy attack. Hold position until melee combat begins}
+{HPText Battle Plans Defend New 2,"The defend plan is useful when there is terrain to defend; to maximize missile fire against an enemy of largely melee units;  to keep particular units out of battle for as long as possible;  for infantry to best resist a force of horse archers; to await reinforcements}
+{HPText Battle Plans Defend New 3,"It can be dangerous to use against an enemy with numerous missile troops that could be engaged in melee}
+{HPHead Battle Plans Support}
+{HPText Battle Plans Support 1,"Form up into the battle line, but only engage enemy units that are very close, or that are attacking friendly units.  Chariots and cavalry with missiles}
+{HPText Battle Plans Support 2,"This is useful to allow missile units to be placed in the front line of a formation, while still being able to retreat to safety when the battle lines clash}
+{HPText Battle Plans Withdraw New,"Move towards the edge of the battlefield, and do not engage any enemy. If not in combat when half the battle time has elapsed, withdraw from the battle. Useful  for settler and moving artillery units, or to ensure the safety of a valuable unit.  For units to be able to withdraw successfully}
+{HPText Battle Plans Intro 1 New,"During your turn you may assign a battle plans to each unit, that determines how it behaves in battle. By default it is set to attack, which is fine for most situations, but for important battles you may want to fine tune your tactics. If you set a defensive plan (ambush, defend, support or withdraw) for all units in a stack, it will stop when encountering enemy}
+{HPText Battle Plans Intro 3 New,"In siege battles, units with ""charge"" battle plans are used preferentially for assaults, followed by those with ""attack"" plans. Units with ""defend"" plans are least likely to be used}
+{HPHead Battle Lines}
+{HPText Battle Lines 1,"In open field battles units will generally form up into opposing battle lines before engaging. Stacks that start the battle close together will form into the same battle line, but widely separated forces will form their own lines. Armies never form battle lines in siege battles}
+{HPText Battle Lines 2,"A battle line may be either offensive or defensive. A line is offensive if at least one unit has an ""Attack"" battle plan}
+{HPText Battle Lines 3,"A defensive line will wait for the enemy to attack}
+{HPText Battle Lines 4,"An offensive battle line will form up and advance on the enemy to engage them in combat. However if it may first halt within missile range if it has more missile troops than the enemy;  if half or more of the units in the front line have missiles}
+{UI MP Request Change Faction Title}
+{UI MP Request Change Faction Msg}
+{UI MP Player Quit Message Name}
+{UI MP Player Quit Message}
+{UI MP Player Dropped Message Name}
+{UI MP Player Dropped Message,"Communication has been lost with this player}
+{UI MP Host Dropped Title}
+{UI MP Host Dropped Msg,"The host has quit, terminating the game. If the remaining players wish to continue, then one of them should become host}
+{UI MP Lost Connection Title}
+{UI MP Lost Connection Msg,"Your connection to the host has been lost}
+{UI MP Tag Resumed Game}
+{UI MP Selection Failed Msg 2,"Your chosen faction is not available}
+{UI MP Kick Game Player Title}
+{UI MP Kick Game Player Msg,"Do you want to remove this player from the game? If you do}
+{UI MP Other Kicked Message Name}
+{UI MP Other Kicked Message Msg}
+{UI MP Self Kicked Title}
+{UI MP Self Kicked Msg}
+{TT Unit Experience Icon}
+{TT Unit Experience Icon 2}
+{TT Unit Card No Replenishment}
+{TT Unit Card Delayed Replenishment,"The unit can potentially replenish losses here, but currently cannot due to unrest, turmoil}
+{TT Unit Card Replenishment Ok,"The unit can replenish any losses it has suffered if it remains in the territory of this settlement}
+{TT Unit Card Upgraded Armor}
+{TT Unit Card Numbers Men}
+{TT Unit Card Efficiency}
+{TT MP Host Can Kick}
+{MC Light Infantry}
+{MC Chariot}
+{MC Light Cavalry}
+{MC Baggage Train}
+{CC Light Infantry}
+{CCP Offerred Title}
+{CCP Offerred Text}
+{DS Cant Disband If Offerred,"Can't disband}
+{UI No Improvements Under Offer}
+{UI Gate Blocked Offer}
+{UI Faction Settlement Data}
+{TAG Herders and Farmers}
+{UI Faction Special Unit}
+{UI Faction Special Edict}
+{FE Game Warring States 407}
+{UI Tech Check Area,"This item is from another tab}
+{UI Expected Building Income}
+{UI Destruction Stalled,"Destruction of this city has stopped, as you have no troops in it. Move some troops back}
+{UI End Turn City Warning Title}
+{UI End Turn City Warning Message,"You have captured a settlement}
+{TT FE Campaign Locked,"This campaign is not suitable for new players. To play it}
+{TT MP Load Game Menu}
+{TT Tech Cannot Select}
+{TT Tech Already Selected}
+{TT Change faction name}
+{TT Authority Extra}
+{TT Upgrade under construction}
+{TT Cant Destroy has Dependents}
+{TT Cant Settle Map Edge,"You cannot found a settlement here}
+{TT Cant Settle Unsuitable Terrain}
+{TT Cant Settle Adjacent Terrain,"You cannot found a settlement here as the adjacent terrain would prevent it from growing. You cannot settle next to rivers, coast}
+{TT Cant Settle Adjacent City,"You cannot found a settlement here}
+{TT Cant Settle No Settler}
+{TT Cant Settle Other Settler Close,"In multiplayer games}
+{TT Cant Settle Others Territory}
+{TT Cant Settle External Building}
+{CAP AttackAdvantageIfCharging}
+{CAP AttackAdvantageIfCharging Desc}
+{CAP DefenseAdvantageIfDefending}
+{CAP DefenseAdvantageIfDefending Desc}
+{CAP Decreased Wall Cost}
+{CAP Decreased Wall Cost Desc}
+{HPHead HK Screens}
+{HPHead HK Stack Actions}
+{HPText Keyname Number Keys}
+{HPText Action Battle Plan}
+{HPText Keyname Ctrl 1 - 4}
+{HPText Action Set Formation}
+{HPText Keyname Comma and Period,". and }
+{HPText Action Change Facing}
+{HPText Keyname Backspace}
+{HPText Action Cancel Move}
+{HPText Keyname Delete}
+{HPText Action Disband Units}
+{HPText Keyname Ctrl Z}
+{HPText Action Sleep}
+{HPText Keyname Ctrl X}
+{HPText Action Auto Explore}
+{HPHead HK Settlement Actions}
+{HPText Action Next Previous Settlement}
+{DR Must make peace with overlord}
+{Grand Campaign Desc,"The Grand Campaign presents a grand tour through the development of Chinese Civilization starting from the earliest recorded times, until the widespread adoption of gunpowder weapons (approx. 1500 BC to 1500 AD). Players start with a single town, and must guide their kingdom to hegemony. It is recommended that new players start with this scenario}
+{Warring States 407 Desc,"This scenario is based on the historical situation around 407 BC early in the Warring States period of history. Each faction has already advanced to the Warring States era, and major factions control several settlements, with some infrastructure already constructed. The rate of technological development is reduced compared to the standard game. There is still considerable room for players to expand}
+{Custom Game Desc,"A custom game creates a random world for you to play in. You can control the size and style of the map created, and the number of factions present. Each player begins with just one settlement. It is recommended particularly for multiplayer games}
+{Zhao Short}
+{Zhao Full}
+{Zhao Desc,"Zhao is known as one of the three Jins, the states that broke away from the ancient state of Jin, and because of this will always be embroiled in the complicated politics of the North China Plain. Culturally, there is little to distinguish from it's Chinese neighbors}
+{Wei Short}
+{Wei Full}
+{Wei Desc}
+{Jin WS Short}
+{Jin WS Full}
+{Jin WS Desc,"Jin was a large ancient state controlling the Shanxi Plateau north of the Yellow River. However, it suffered from weak leadership, and after various civil wars, three of the major noble families declared their independence. They created the states of Han, Wei and Zhao}
+{Song WS Short}
+{Song WS Full}
+{Song WS Desc,"When king Wu of Zhou overthrew the Shang dynasty, he was honor bound to ensure that the spirits of their previous kings would still receive sacrifices from their descendants This eventually led to the Shang king's estranged brother being enfiefed as the Duke of Song at Shangqiu. Although only a medium sized state, Song is a frequent participant in the wars of Northern China. Duke Xiang is infamous for considering it unsporting to attack an enemy army while it was crossing a river, which lead to his defeat and death. Some see him as a fool}
+{Zheng Short}
+{Zheng Full}
+{Zheng Desc,"The state of Zheng was founded by a cadet branch of the royal house of Zhou. It's position just to the south of the Yellow river, right in the center of the North China Plain, makes it a nexus for trade, giving it the wealth to be more powerful than its limited territory would suggest. Although the first state to adopt a formal code of laws, it is socially conservative}
+{Lu Short}
+{Lu Full}
+{Lu Desc,"The state of Lu was founded by the King of Zhou's brother the Duke of Zhou soon after their overthrow of Shang, in order to project their power eastwards. Initially it was a strong state, but controlling only a small territory, it became overshadowed by more powerful neighbors. It is mainly famous as the birthplace of Confucius}
+{Qi Short}
+{Qi Full}
+{Qi Desc,"Qi is a prosperous well organized state in the East of China. It is rich from taxes on trade, and monopolies on various goods and services, including state licensed brothels. It's rulers are cultured and sponsor the Jixia Academy that attracts many noted scholars. However, they are often regarded as arrogant and uncaring of the common people. Qi's armies are numerous}
+{Yue Short}
+{Yue Full}
+{Yue Desc,"The kingdom of Yue hails from the south of China, and has recently annexed the kingdom of Wu. Its culture is mainly Chinese, but mixed with that of the native southern peoples. Yue people excel in building and sailing boats and ships}
+{Yan Short}
+{Yan Full}
+{Yan Desc,"Situated in the north east of China}
+{Zhongshan Short}
+{Zhongshan Full}
+{Zhongshan Desc,"Zhongshan, whose name means ""central mountain"" is a small kingdom in the north of China. It was founded by the barbarian Di people, but they have now fully adopted Chinese culture. However, a little of their ancient warrior spirit survives}
+{Dong Hu Short}
+{Dong Hu Full}
+{Dong Hu Desc,"The Dong Hu, whose name comes from the Chinese term meaning eastern barbarians, are a confederation of tribes living in Manchuria and eastern Mongolia. They practice both nomadic animal husbandry and agriculture. They excel in cavalry tactics, and are also skilled craftsmen. Later descendants of theirs became the Xianbei, Khitans}
+{Qin WS Desc,"The Qin started as a small fiefdom at the periphery of Chinese civilization, but following barbarian incursions that drove the Zhou from the West, they have expanded to control most of the Wei river valley. This region, the land between the passes, is quite secure being accessible by only a few easily defended paths, and offers them an excellent base to build the strength needed to conquer the whole of China. The Qin are well organized and ruthlessly warlike, if a little uncultured. Historically they could be considered the winners of this scenario}
+{Zhou WS Desc,"The Zhou are the nominal feudal overlords of all the Chinese states, dating back to the time when they overthrew the Shang dynasty. However, several hundred years ago, they were driven from their homeland in the West by Rong barbarians, and now control only a small area around their eastern capital. Many see their former rule as a golden era, and they still enjoy a certain lingering prestige, but any suzerainty over the other states is now purely nominal}
+{Han WS Desc,"The Han are one of the three Jins, the states that broke away from that formerly large state. Their power base is south of the Yellow River, but they also have lands to the north, making their position complicated, and difficult to defend. Their people are renowned for their skill at crossbow manufacture, and are efficient and orderly}
+{Shu WS Desc,"The Shu are located in the Sichuan basin in the far west, with their capital Chengdu almost in the foothills of the Tibetan Plateau They are a well organized people, whose state and civilization arose separately from that of the rest of China. They have many expert craftsmen, and extensive trade networks, but apart from the occasional clash}
+{Crossbow Militia}
+{Crossbow Militia Desc,"A crossbow is easy to use, but packs a heavy punch, making it ideal for militia troops with only a little training. However, the complex trigger mechanism is complex to make}
+{Heavy Spear Militia}
+{Heavy Spear Militia Desc,"Although armor is expensive, a wooden shield is cheap enough that most peasants can afford to equip themselves with one. It offers good protection against missiles}
+{Horse Archer Militia}
+{Horse Archer Militia Desc,"In the lands of northern China close to Mongolia, horses are in more plentiful supply than else where, and many farmers can afford one. Following royal instructions, they have copied the dress and equipment of the neighboring barbarians}
+{Picked Horse Archers}
+{Picked Horse Archers Desc,"These men are the cream of the army, riding and shooting as skillfully as any barbarian born in a tent. They can move swiftly to counter any threats to the kingdom}
+{Noble Horse Archers}
+{Noble Horse Archers Desc,"Following the royal order, these men have adopted barbarian dress and equipment, and learned the art of shooting a bow from horse back. However, they carry fine swords and wear strong armor, making them as dangerous in hand to hand combat}
+{Picked Heavy Infantry}
+{Picked Heavy Infantry Desc,"These men are hand picked to be the cream of the army, and are rewarded for their prowess with grants of land. They must be able to march 100 Li (41 Kilometers) per day, while wearing heavy armor. They carry both a halberd and a crossbow}
+{Tiger Guards}
+{Tiger Guards Desc,"These are the elite personal guards of the king, who guard him at court, when out hunting, or on the battlefield. Most are relatives of the royal house}
+{Five Family Chariots}
+{Five Family Chariots Desc,"There are the elite personal forces of the five leading families of the state of Qi. They are swift like sharp-pointed arrows, and in battle they are like thunder and lightning. When loosed}
+{ED Ride Like a Barbarian}
+{ED Ride Like a Barbarian Desc,"Our lands are constantly menaced by barbarians who ride swift as the wind on their sturdy horses. They easily evade us as we chase after them in our clumsy chariots, and when we do ride horses we are hampered by the unsuitable court clothing we wear. Therefore let us learn form these people, and have our soldiers adopt their dress and equipment}
+{ED Move Capital}
+{ED Move Capital Desc,"Although our capital city has the familiarity of home, it's location is no longer suitable for the current situation. Therefore, from this day forth, we will hold court in this fine city and it shall serve as the new capital. Find quarters for the palace servants, and send word to the courtiers, state bureaucrats}
+{EFF RecruitSpecialUnits}
+{EFF MoveCapital}
+{EFF NullifyDisasters}
+{WS Advice Yan}
+{The land to the East is mainly uninhabited, and offers an excellent opportunity to expand your kingdom. However there are many forests to clear}
+{WS Advice Qi,"Your state is located in the east of the North China plain}
+{There is some room to expand to the North}
+{WS Advice Zhao}
+{As Zhao}
+{WS Advice Wei,"Your state has emerged from the break up of the ancient state of Jin}
+{Wars are inevitable}
+{While your central position is challenging, with skillful diplomacy}
+{WS Advice Yue,"Your state was originally founded south of  the Yangtze river}
+{Your lands are quite extensive, but they are sparsely populated, and your settlements scattered}
+{You have some of room to expand within your own territories, and plenty of potential to expand to the South}
+{WS Advice Han}
+{There is some room for expansion both north and south of the river, with the south perhaps being a little better. There are also the small states of Zhou and Zheng that you could conquer. However}
+{WS Advice Chu,"You start in control of a large swathe of territory on the north bank of the Yangtze River. On paper you are wealthy and powerful, but your cities are far apart. Individually, none of your neighbors is a match for you, but given the distances involved}
+{Your capital is on the banks of the Yangtze river. Consider exploiting this waterway as highway for movement}
+{WS Advice Shu,"You start far to the West in the Sichuan basin}
+{WS Advice Ba,"You start in the south of China with a state that straddles the middle reaches of the Yangtze river. Your main avenues for expansion are to the South and to the West. The land to the South is uninhabited and undeveloped}
+{Initially you are one of the weaker powers}
+{WS Advice ZhongShan,"You are a small state in northern China, surrounded by more powerful ones. Survival should be your main priority to begin with. Given your small starting territory}
+{If you can survive, there is space to expand into to the East around the mouth of the Yellow river, and to the North. Expanding east is easier, but is a high risk strategy, and will expose you to both hostile attacks and frequent flooding. Moving north will expose you to the Xiongnu and Dong Hu}
+{WS Advice Jin,"Your once mighty state is now reduced to a single city near the Fen river. The neighboring states of Wei}
+{All in all}
+{WS Advice Zheng,"You begin as a single city state to the south of the Yellow River. Although many of the surrounding states are more powerful}
+{Although playing off your neighbors against each other may seem like the thing to do, much of your wealth comes from trade}
+{WS Advice Zhou,"Your state was once the overlord of all China, but is now reduced to a single city just south of the Yellow River. Restoring Zhou to its former glory will be a mammoth task}
+{The nearby powers of Han and Wei will see you as a tempting target, so your priority should be to secure good relations with them. This will allow you to expand into the surrounding empty lands and become stronger. However, scope for expansion is limited, so you will need to fight to expand further}
+{WS Advice Song,"You start as a medium sized power}
+{WS Advice Lu,"Lu is a small state near the coast to the south of the Shandong Peninsula. All the surrounding powers are much stronger}
+{WS Advice Xianbei,"You play as a nomadic herding faction to the north. Currently there are no imminent threats}
+{You are not in close contact with the any of the farming states, who lay mostly to the south and east}
+{WS Advice Dong Hu,"You are unusual in that you have a mixed economy, combining both nomadic herdsmen  and settled farmers. This gives you options to exploit all the land around you. In the long run}
+{You start next to several farming states, and raiding them for loot can be a good extra source of income. However, try to spread the damage you do equally}
+{WS Advice Dog Rong}
+{The lands in the west are not the best, but some small settlements here will be well protected from enemies, and you may be able to exploit reserves of gold or jade in the mountains. To the north east is a large area of grassland}
+{TT Cant Settle Adjacent Enemy}
+{TT MP Timer Simple}
+{TT MP Timer Chess}
+{TT Tech No Item Selected}
+{TT Tech Cant Select Foregin Item}
+{TT Tech Already Completed}
+{EFF PersonalAuthority}
+{DR Reject SOH01,"You are not so mighty}
+{DR Reject SOH02}
+{DR Reject Peace01}
+{DR Reject Peace02,"The time for peace may come}
+{UI MP Time Up Title}
+{UI MP Time Up Msg}
+{UI Influence Buildings}
+{UI Value Boosted By Resource New}
+{Advice Title Chasing Bandits}
+{Advice Text Chasing Bandits,"To catch bandits, try to anticipate where they will move to, as they may move away before your army arrives. Order your army to move through the expected position}
+{Advice Title Settlement Hot Keys}
+{You can use the  . and }
+{Advice Title Stack Hot Keys}
+{Advice Text Stack Hot Keys,"Use keys 1 - 8 to set battle plans, Ctrl + 1 - 4 to set formations, and the . and , keys to rotate stacks. Delete to disband units}
+{Advice Title Battle Plans}
+{Advice Text Battle Plans,"You can give each unit in a stack a battle plan that determines how it acts. See the tool tips on the battle plans for details}
+{Advice Title Defensive Stance}
+{Advice Text Defensive Stance}
+{Advice Title Roads}
+{Advice Text Roads,"When trade between two settlements is generating a good income}
+{Advice Title Use Nobles}
+{Advice Text Use Nobles,"Your noble warriors are much better trained and equipped than bandits or militia}
+{Advice Title New Settlement Labor}
+{Advice Text New Settlement Labor,"New settlements have very little labor available. If you order them to construct farms, buildings or anything else, there will be no-one to farm, and the population will not increase. If all the figures at the bottom of the screen are blue, then everyone is building}
+{Advice Title Replenishment}
+{Advice Text Replenishment,"A unit can replenish its losses by moving to the territory of a friendly settlement that can recruit units of that recruitment type (militia, nobles}
+{UI Cant BreachWalls Title}
+{UI Cant BreachWalls Msg}
+{UI Cant BreachWalls Msg2,"However}
+{UI Keep Height On Zoom}
+{UI Settings White Fade Level}
+{UI ME New Map Menu}
+{UI ME Map Actions}
+{UI ME New Map}
+{UI ME Cancel Menu}
+{UI ME Random Map}
+{UI ME Crop Map}
+{UI ME Expand Map}
+{UI ME Map Actions Title}
+{UI ME New Map Menu Title}
+{UI ME Random Map Generator}
+{UI ME New Map Dialog Title}
+{UI ME Width Label}
+{UI ME Height Label}
+{UI ME New Map Button}
+{UI ME Create Map Button}
+{UI ME Cancel Button}
+{UI ME Map Size Warning}
+{UI ME Crop Dialog Title}
+{UI ME Expand Dialog Title}
+{UI ME Map Size Info}
+{UI ME West Edge}
+{UI ME East Edge}
+{UI ME North Edge}
+{UI ME South Edge}
+{UI ME Adjust By}
+{UI ME Apply Adjustment Button}
+{UI ME Quit Save Title}
+{UI ME Unsaved Warning}
+{UI FS Game Items}
+{UI ME Quit Button}
+{UI FS User Files}
+{FE Load User Scenario}
+{UI ME UploadToWorkshop}
+{UI ME Upload Dialog Title}
+{UI ME Upload Button}
+{UI ME OK}
+{UI ME Uploading Map}
+{UI ME Upload Ok}
+{UI ME Upload Failed}
+{UI ME Uploaded Map Name}
+{UI ME Uploaded Map Description}
+{UI ME Upload Legal Text,"By submitting this item}
+{UI ME Legal Button Link}
+{UI FS Workshop Items}
+{UI ME Default Description}
+{UI ME Update New Dialog Msg,"You have changed the map name. Do you want to update the name of the existing item}
+{UI ME Update Current Button}
+{UI ME New Workshop Item Button}
+{TT MP Load User Scenario,"Load a scenario file that you have created yourself}
+{TT ME Alt Key Use}
+{UI FE Era}
+{UI FE Random Factions}
+{UI MP Hidden Humans}
+{UI Declare War On Overlord}
+{UI Declare war with Overlord NA Pact,"This faction is a vassal of another, and you have a treaty with  their overlord. To attack them, you must declare war against their overlord too}
+{TT MP Will Assign Random}
+{TT DI Cannot Declare War OV Pact}
+{Scenario Editor}
+{UI SE New Scenario}
+{UI SE Load Scenario}
+{UI SE Save Scenario}
+{UI SE Scenario Settings Title}
+{UI SE Scenario Name}
+{UI SE Default Scenario Name}
+{UI SE Scenario Description}
+{UI SE Default Scenario Description}
+{UI SE Scenario Settings}
+{UI SE Faction Map Name}
+{UI SE Bandit Limit}
+{UI SE Cultural Victory}
+{UI SE Domination Victory}
+{UI SE Research Rate}
+{UI SE Turn Limit}
+{UI SE Random Resources}
+{UI SE New Faction Title}
+{UI SE New Faction Instructions}
+{UI SE Faction Settings}
+{UI SE Add New Faction}
+{UI SE Action Menu Title}
+{UI SE Change Factio}
+{UI SE Add Player Instructions}
+{UI SE New Settlement Menu Title}
+{UI SE Settlement Menu Title}
+{UI SE Settlement Name}
+{UI SE Settlement Population}
+{UI SE Settlement Flocks}
+{UI SE Settlement Size}
+{UI SE Wall Level}
+{UI SE Wall Upgrades}
+{UI SE No Walls}
+{UI SE No Wall Upgrades}
+{UI Added Building In Editor}
+{UI ME Remove Settlement Button}
+{UI ME Confirm Remove Settlement}
+{UI SE Confirmation Box Title}
+{UI GUIHelper Cancel}
+{UI GUIHelper OK}
+{UI SE Unit List Title}
+{UI SE Unit Selection Instructions,"Select a unit type}
+{UI SE Unit Selection Era}
+{UI SE Armor Level}
+{UI SE Unit Selection Category}
+{SE Unit Category Infantry}
+{SE Unit Category Missile}
+{SE Unit Category Cavalry}
+{SE Unit Category Chariot}
+{SE Unit Category Artillery}
+{SE Unit Category Naval}
+{SE Unit Category Civilian}
+{SE Unit Category Character}
+{SE Unit Category All}
+{UI SE Select a Player}
+{UI SE Leader Dialog Title}
+{UI SE Family Name Label}
+{UI SE Given Name Label}
+{UI SE Portrait Index Label}
+{UI SE Is Leader Label}
+{UI SE Is Heir Label}
+{UI SE Energy Label}
+{UI SE Virtue Label}
+{UI SE Authority Label}
+{UI SE Age Label}
+{UI SE Has Inline Description Label}
+{UI SE Color Set Index Label}
+{UI SE Starting Era Label}
+{UI SE Start Money Label}
+{UI SE Selectable Label}
+{UI SE Marker X Label}
+{UI SE Marker Y Label}
+{UI SE Selection Picture Label}
+{UI SE Architecture Label}
+{UI SE Load Symbol Button}
+{UI SE Custom Symbol Name Label}
+{UI SE Edit Capabilitues Button}
+{UI SE Faction Details}
+{UI SE Climate Label}
+{UI SE Tags Label}
+{UI SE Chinese Symbol Label}
+{UI SE Capabilities Label}
+{UI SE Select Capability Label}
+{UI SE Add Ability Label}
+{UI SE Resource List Title}
+{UI SE Resource Selection Instructions,"Select a resource type}
+{UI SE Unit Faction Filter Label}
+{UI SE Unit Tech Filter Label}
+{UI SE Unit Name Filter Label}
+{UI SE Add Tech}
+{UI SE Remove Tech}
+{UI SE Place Name Label}
+{UI SE Faction Type Label}
+{UI SE Character Names Label}
+{UI SE Faction Type Standard}
+{UI SE Faction Type AIOnly}
+{UI SE Faction Type PeasantRebel}
+{UI SE Faction Type Bandit}
+{UI SE Personal Names Chinese}
+{UI SE Personal Names Mongolian}
+{UI SE Personal Names Xiongnu}
+{UI SE Place Names Northern Chinese}
+{UI SE Place Names Southern Chinese}
+{UI SE Place Names Western Chinese}
+{UI SE Place Names Nomad}
+{UI SE Place Names Shared}
+{UI SE Diplomacy Dialog Titlte}
+{UI SE Knows Capital Label}
+{UI SE Is Emperor Label}
+{UI SE Change Relations Label}
+{UI SE Relations Unknown}
+{UI SE Relations None}
+{UI SE Relations War}
+{UI SE Fraternal Harmony}
+{UI SE Defensive Pact}
+{UI SE Their Vassal}
+{UI SE Our Vassal}
+{UI SE Change Colors}
+{UI SE Unit Set Selection Label}
+{UI SE Button Save Scenario}
+{DS Cant Disband In Editor,"To remove the settlement, close the settlement view}
+{UI SE Uploading Scenario}
+{UI SE Error Uploading Scenario}
+{UI SE Upload Dialog Title}
+{UI SE Uploaded Map Name}
+{UI SE Update New Dialog Msg,"You have changed the item name. Do you want to update the name of the existing item}
+{UI SE Edit Map}
+{UI SE Toggle Colors}
+{TT SE Faction Settings Button}
+{TT SE Add Faction Button}
+{TT SE HUD Faction}
+{In this mode, select a unit type from the list, and click on the map to add a unit to a hex. If the hex is empty}
+{In this mode}
+{TT Settlement Delete Improvement}
+{TT Tech Remove Item}
+{TT Tech Add Item}
+{ARCHITECTURE Chinese}
+{ARCHITECTURE Nomad}
+{ARCHITECTURE Central Asian}
+{Unit Set Chinese}
+{Unit Set ECB}
+{Unit Set ENB}
+{Unit Set NB}
+{Unit Set Mongol}
+{Unit Set Turk}
+{HPTitle Scenario Editor}
+{HPHeading SE Introduction}
+{HPText SE Introduction 1,"The scenario editor allows you to create scenarios similar to the build-in Warring States scenario, and share them via the Steam workshop. You can define your own factions, give them unique symbols, and set up their starting cities}
+{HPText SE Introduction 2,"Scenarios can take place on either one of the built-in maps, or on maps you create yourself in the map editor. If you wish to use your own map, you should create it first before entering the scenario editor, since once you create a scenario}
+{HPHeading SE Faction Bar}
+{HPText SE Faction Bar1,"At the top of the screen is the faction bar}
+{HPText SE Faction Bar2,"New factions can be created by clicking on the icon on the left of the bar. Each new faction must be based on one of the standard factions in the game. Having selected a base faction, you can just use it as is}
+{HPText SE Faction Bar3,"Try to select a base faction that is similar to the faction you���re creating}
+{HPHeading SE Edit Modes}
+{HPText SE Edit Modes,"On the right of the faction bar are three icons that set the editing mode. These determine what object is placed when you click on the map. There are modes for settlements}
+{HPLink Scenario Editor}
+{HPTitle Faction Settings}
+{HPHeading SE Faction Settings}
+{HPText SE Faction Settings,"Click the setting icons on the faction bar will open the Faction Settings dialog. This presents you with many options to customize the faction. Most are self-explanatory}
+{HPHeading SE Starting Era}
+{HPText SE Starting Era,"If the starting era is set to 0, then the faction will start without any technology (except perhaps agriculture) but if you set it to 1 or 2, then the faction will start with all the technology of preceding eras}
+{HPHeading SE Faction Picture Name}
+{HPText SE Faction Picture Name}
+{HPHeadingt SE Faction Type}
+{HPText SE Faction Type,"Faction type should generally be set to ���standard���, however you can if you wish create factions that can only be played by the A.I., and you may also create custom bandit and rebel factions}
+{HPHeading SE Marker X and Y}
+{HPText SE Marker X and Y,"Marker X and Y positions refer to the position of the faction���s marker on the map in the faction selection page. If you leave these both to zero, the game will set them for you based on the capital location, but you may want to tweak them manually}
+{HPHeading SE Faction Tags}
+{HPText SE Faction Tags,"Tags. Select an appropriate base faction}
+{HPLink Faction Settings}
+{HPTitle Editing Settlements}
+{HPHeading SE Add Settlement}
+{HPText SE Add Settlement,"Select the settlement mode from the faction bar, then click on the map to place a settlement. A dialog will appear letting you set the name, population}
+{HPHeading SE Edit Settlement,"Adding Buildings}
+{HPText SE Edit Settlement,"Clicking the settlement tab opens the settlement display that works in much the same way as in the game. You can build farms, roads and buildings here in the normal way, except that they are placed immediately}
+{HPHeading SE Special Settlement Dialog}
+{HPText SE Special Settlement Dialog,"Right clicking on a settlement tab opens the special settlement dialog that allows options not supported in the main game interface. Here you can set initial population and flocks}
+{HPHeading SE Delete Settlement Items}
+{HPText SE Delete Settlement Items 1,"Delete a building in the usual way from the ���Constructed��� tab. Delete a farm or road, by selecting that mode}
+{HPText SE Delete Settlement Items 2}
+{HPLink Editing Settlements}
+{HPTitle Editing Stacks}
+{HPHeading SE Adding Units}
+{HPText SE Adding Units,"When you select ���Army Mode��� from the faction bar, a window will open with a list of unit types. Various controls below allow you to filter the types of units shown in the list. Select a unit type, then click on the map to create that unit there. If the hex is empty, a new stack will be created}
+{HPText SE Deleting Units,"Delete units or stacks in the same way as in the game, using the disband unit button at the bottom of the screen}
+{HP Heading SE Characters}
+{HPText SE Characters,"To add a character, select ""Character"" from the unit type drop down box}
+{HPLink Editing Stacks}
+{HPTitle SE Editing Other,"Editing Technology}
+{HPHeading SE Technology}
+{HPText SE Technology,"To set the starting technology for the faction}
+{HPHeading SE Edicts}
+{HPText SE Edicts,"To set which edicts are already issued at the start of a game for a faction}
+{HPHeading SE Resources}
+{HPText SE Resources 1,"You can place resources on the map by selecting the resource mode form the faction bar. Select a resource type from the list}
+{HPText SE Resources 2}
+{HPLink SE Editing Other,"Editing Technology}
+{HPTitle SE Files and Images}
+{HPHeading SE File Location}
+{HPText SE File Location}
+{HPHeading SE Custom Symbols}
+{HPText SE Custom Symbols,"You can create custom faction symbols for your factions. These should be 64 x 64 pixel png files}
+{HPHeading Scenario Map Image}
+{HPText Scenario Map Image,"You can also create a custom map image to be shown in the faction selection screen. This should be a 512 x 256 pixel png file}
+{HPHeading SE XML Files}
+{HPText SE XML Files}
+{HPLink SE Files and Images}

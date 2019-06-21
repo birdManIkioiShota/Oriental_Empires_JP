@@ -1,30 +1,30 @@
 {Tech Horse Domestication}
-{Horse Domestication}
+{馬の家畜化}
 {Tech Horse Domestication Desc}
 {Although mankind has long hunted wild horses for their meat, learning how to control and domesticate them brings many additional benefits. They can be raised as food animals, providing meat or milk, provide transportation, and assist with agriculture. However, early means of riding and harnessing them were crude, and additional developments are needed to unlock their true potential. Nevertheless, horse ownership is a symbol of wealth and power.}
 {Tech Light Chariot}
-{Light Chariot}
+{軽戦車}
 {Tech Light Chariot Desc}
 {The chariot provides a massive leap forward in military capabilities, providing mobility that foot soldiers cannot match. It allows elite soldiers to quickly move to the crucial point in a battle, to wear heavier armor than would be feasible on foot, and to easily escape if necessary. An archer mounted in a chariot can pour arrows into an infantry formation with little fear of reprisal. 
 The chariot is a complex piece of technology, requiring sophisticated wood bending techniques to create a cab and wheels and yoke that are both light and strong. The floor must be strong but flexible enough to cushion against bumps, the reigns must be long and strong. Only the richest and most powerful can maintain the team of skilled craftsmen needed to build a chariot.}
 {Tech Heavy Chariot}
-{Heavy Chariot}
+{重戦車}
 {Tech Heavy Chariot Desc}
 {With a larger cab, a heavy chariot can accommodate two warriors besides the driver. The extra man can provide additional firepower, or be armed with a long hafted melee weapon. The latter provides close in combat power in chariot vs chariot engagements, and allows mixing it up with infantry who've been suitably softened up by missile fire. Being mounted allows a warrior to wear heavier armor than would be feasible on foot.}
 {Tech Four Horse Chariot}
-{Four Horse Chariot}
+{駟馬}
 {Tech Four Horse Chariot Desc}
 {Adding two extra draft animals greatly eases the burden on the horses and reduces their fatigue. The ability to move at speed for longer, enhances effective combat power, and with more horse power, a more robust cab construction can be used, and the warriors can wear even heavier armor. }
 {Tech Horse Riding}
-{Horse Riding}
+{乗馬}
 {Tech Horse Riding Desc}
 {Early attempts at riding horses involved the rider sitting on the animals rump, which gave poor control and left the rider in a somewhat precarious position. The development of the bridle and bit, together with larger stronger horses, lead to the rider being able to sit in the middle of the back, giving much better control and balance.}
 {Tech Horse Archery}
-{Horse Archery}
+{騎射}
 {Tech Horse Archery Desc}
 {An archer riding a horse enjoys many advantages in warfare. Against infantry or chariots, he can close to short range, dispatch a volley of projectiles, then retreat with little danger to himself, and the same technique can also be used against heavier less mobile cavalry. However, being able to accurately fire an arrow from a galloping horse requires great technique and much practice. Only nomadic tribes were able to field large numbers of horse archers with sufficient training. }
 {Tech Stirrup}
-{Stirrups}
+{鐙}
 {Tech Stirrup Desc}
 {Stirrups are loops for a horse rider to place his feet in. They allow a rider a wider range of actions, particularly allowing them to stand and strike downwards powerfully. The development of stirrups and horse armor paved the way for battlefields all across Asia to be dominated by versatile cavalry armed with multiple weapons.}
 {Tech Logographic Script}
@@ -32,7 +32,7 @@ The chariot is a complex piece of technology, requiring sophisticated wood bendi
 {Tech Logographic Script Desc}
 {A logographic script is one where each symbol (or logograph) represents a single concept. In the earliest forms of writing, logographs were simple drawings of the things they represented. Over times, these drawings became simplified, stylized, and standardized into a common script. Intangible objects and concepts were often represented by symbols with similar sounds.}
 {Tech Literature}
-{Literature}
+{文学}
 {Tech Literature Desc}
 {The development of paper and an increasing literacy rate, lead to the development as reading as a form of entertainment. Legends, history and travel diaries were the first genres to become popular, but later a wide range of literature evolved including romance and humor. }
 {Tech Literary Criticism}
@@ -40,7 +40,7 @@ The chariot is a complex piece of technology, requiring sophisticated wood bendi
 {Tech Literary Criticism Desc}
 {With the profusion of poetry and other literature, scholars find it useful to discus and compare the various works, to enumerate the various forms, and the most pleasing means to construct each. They also useful compare the merits of various works, and write notes to aid others in understanding and appreciating the most important works.}
 {Tech Poetry}
-{Poetry}
+{詩}
 {Tech Poetry Desc}
 {From the humblest village, to the imperial court, whether spoken, sung or chanted, a poem packs insight and emotion into a memorable verse. Although not all men are great poets, all gentlemen should be schooled in the art of writing poetry.}
 {Tech Divination}
@@ -96,7 +96,7 @@ The chariot is a complex piece of technology, requiring sophisticated wood bendi
 {Tech Neo Confucianism Desc}
 {The scholar Zhou Dunyi has reinterpreted the ideas of classical Confucianism, and incorporated certain ideas from Taoism and Buddhism to create a rational system of morals and ethics. However, it rejects mysticism and holds that the Universe is fundamentally real, understandable by humans. It is each individuals responsibility to find a way to live in harmony with it, and with their fellow men.}
 {Tech Buddhism}
-{Buddhism}
+{仏教}
 {Tech Buddhism Desc}
 {Although originating in India, many in China advocate the teachings of the Buddha. These are that life and all it contains are impermanent, and to achieve release from the cycle of birth and rebirth, people must realize this truth and detach themelves from earthly attachments. Meditation and high moral standards are the steps on this path.}
 {Tech Mohism}
@@ -120,11 +120,11 @@ The chariot is a complex piece of technology, requiring sophisticated wood bendi
 {Tech History Desc}
 {Sometimes In the affairs of men, it seems that the wicked triumph, and the good perish, so if falls to the historian to record their deeds, that future generations shall know the truth, History clarifies right and wrong, and settles points which are uncertain. It calls good good, bad bad, honours the worthy, and condemns the unworthy. It preserves states which are lost and restores the memory of perished families. }
 {Tech Tea Culture}
-{Tea Culture}
+{茶道}
 {Tech Tea Culture Desc}
 {Tea is one of the seven daily necessiteis of life. A simple drink enjoyed with family or friends. It may be drunk at home, or at fashionable tea houses, where scholars like to meet and discus idea. Offering tea may also be done as a mark of respect, apology or gratitude, and in these cases it should be carefully prepared and presented in equisite teapots and cups.}
 {Tech Go}
-{Wei Qi}
+{囲碁}
 {Tech Go Desc}
 {The origins of The Surrounding Game (also known as Go) are lost in history, but some claim it was invented by the sage king Yao to teach his son discipline and concentration. The game is played on a gridded board of 17 x 17 points (later 19 x 19) with player taking turns to lay black or white colored stones, which some say represent Yin and Yang. Although the rules are simple, the strategy is deep, and has been used by philosophers to illustrate many points of life. An appreciation of Wei Qi is a must for a well educated gentleman.}
 {Tech Lineage Groups}
@@ -244,7 +244,7 @@ The chariot is a complex piece of technology, requiring sophisticated wood bendi
 {Tech Iron  Plough Desc}
 {Ploughing is a process of turning over the top layers of soil prior to planting seeds. It brings fresh nutrients to the surface, and buries weeds. A sturdy iron plough has a vee shaped blade to cut the soil and wings to turn it over. Cheap cast iron ploughs are affordable for the humblest peasant farm, and significantly increase crop yield.}
 {Tech Zither}
-{Guzheng }
+{Guzheng}
 {Tech Zither Desc}
 {The guzheng is a large stringed instrument with sixteen or more strings, and movable bridges. A sound board of wutong wood provides resonance. Players use both hands, and often use picks of shell or ivory attached to the fingers of the right hand. The instrument can produce tremolo, vibrato and cascading sounds reminiscent of thunder, waterfalls, or galloping horses. Strings can be made of animal gut, silk, or steel.}
 {Tech Theatre}
@@ -528,10 +528,10 @@ The chariot is a complex piece of technology, requiring sophisticated wood bendi
 {Tech Marine Compass Desc}
 {Although pieces of lodestone have long been known to orient north / south when suspended in floated in water, the effect is weak and unreliable. The development of a magnetized iron needle, and a mounting suitable for a ship at sea, allow the compass to become a most useful instrument, that allows the mariner to know his direction of facing by either day or night.  }
 {Tech Mahjong}
-{Mahjon}
+{麻雀}
 {Tech Mahjong Desc}
 {TODO}
 {Tech Chrome Plating}
-{Chrome Plating}
+{クロムメッキ}
 {Tech Chrome Plating Desc}
 {TODO}

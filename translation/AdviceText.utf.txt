@@ -1,0 +1,331 @@
+{ADV_TITLE_IN_001}
+{ADV_TEXT_IN_001}
+{ADV_TITLE_IN_002}
+{ADV_TEXT_IN_002}
+{ADV_TITLE_ST_001}
+{ADV_TEXT_ST_001}
+{ADV_TITLE_ST_002}
+{ADV_TEXT_ST_002}
+{ADV_TITLE_ST_003}
+{ADV_TEXT_ST_003,"You have given this unit a move order. It will not actually move until the end of the turn. When you have given all the orders you wish}
+{ADV_TITLE_ST_004}
+{ADV_TEXT_ST_004,"When there are more than one unit in a hex}
+{ADV_TITLE_ST_005}
+{ADV_TEXT_ST_005,"Your units cannot move here because one or more of them cannot enter this terrain}
+{ADV_TITLE_ST_006}
+{ADV_TEXT_ST_006}
+{ADV_TITLE_ST_007}
+{ADV_TEXT_ST_007,"Select more than one unit in a stack by holding down the control key}
+{ADV_TITLE_ST_008}
+{ADV_TEXT_ST_008}
+{ADV_TITLE_ST_009}
+{ADV_TEXT_ST_009,"You can change the direction the stack will face after its movement}
+{ADV_TITLE_ST_010}
+{ADV_TEXT_ST_010}
+{ADV_TITLE_ST_011}
+{ADV_TEXT_ST_011}
+{ADV_TITLE_ST_012}
+{ADV_TEXT_ST_012}
+{ADV_TITLE_ST_013}
+{ADV_TEXT_ST_013}
+{ADV_TITLE_ST_014}
+{ADV_TEXT_ST_014}
+{ADV_TITLE_NV_001}
+{ADV_TEXT_NV_001,"To embark onto ships}
+{ADV_TITLE_NV_002}
+{ADV_TEXT_NV_002,"Your stack cannot embark because the ships do not have enough capacity to load all the units. Generally one ship unit can carry one land unit}
+{ADV_TITLE_NV_003}
+{ADV_TEXT_NV_003,"One or more of your units cannot be loaded onto these ships. Only certain larger ship types can carry cavalry}
+{ADV_TITLE_NV_004}
+{ADV_TEXT_NV_004,"Units cannot disembark next to ships or settlements belonging to other players, or into impassable terrain}
+{ADV_TITLE_NV_005}
+{ADV_TEXT_NV_005,"There are various restrictions on where ships can move. River ships can't move onto sea or ocean, large sea going ships can't move into rivers}
+{ADV_TITLE_NV_006}
+{ADV_TEXT_NV_006,"You have embarked some land units. onto naval transports. They will now move with the ships until disembarked. To disembark, simply move adjacent to land}
+{ADV_TITLE_NV_007}
+{ADV_TEXT_NV_007}
+{ADV_TITLE_NV_008}
+{ADV_TEXT_NV_008,"Embarked land units supplement a ship's crew}
+{ADV_TITLE_HS_001}
+{ADV_TEXT_HS_001}
+{ADV_TITLE_HS_002}
+{ADV_TEXT_HS_002}
+{ADV_TITLE_HS_003}
+{ADV_TEXT_HS_003}
+{ADV_TITLE_HS_004}
+{ADV_TEXT_HS_004}
+{ADV_TITLE_HS_005}
+{ADV_TEXT_HS_005}
+{ADV_TITLE_UI_001}
+{ADV_TEXT_UI_001}
+{ADV_TITLE_SET_001}
+{ADV_TEXT_SET_001,"Build more farms to increase the food supply. This will lead to the population growing, providing more tax}
+{ADV_TITLE_SET_002}
+{ADV_TEXT_SET_002,"Some of your farms have been destroyed}
+{ADV_TITLE_SET_003}
+{ADV_TEXT_SET_003,"There are valuable minerals near this settlement that you can mine. Mines are expensive to construct}
+{ADV_TITLE_SET_004}
+{ADV_TEXT_SET_004,"The level of peasant unrest here is too high, and may lead to disruption of tax collection, recruitment}
+{ADV_TITLE_SET_005}
+{ADV_TEXT_SET_005,"There is a shortage of food here}
+{ADV_TITLE_SET_006}
+{ADV_TEXT_SET_006}
+{ADV_TITLE_SET_007}
+{ADV_TEXT_SET_007}
+{ADV_TITLE_SET_008}
+{ADV_TEXT_SET_008,"When bandits appear near your settlement, that is a sign that there is high unrest amongst the peasants}
+{ADV_TITLE_SET_009}
+{ADV_TEXT_SET_009,"If a character with a high Ren(Virtue) rating is garrisoned in a settlement}
+{ADV_TITLE_SET_010}
+{ADV_TEXT_SET_010}
+{ADV_TITLE_SET_011}
+{ADV_TEXT_SET_011,"A revolt is imminent here. In the short term, you can try to prevent it by moving in a character to act as a governor, and raising or moving more troops into the garrison or settlement's territory. However, militia}
+{ADV_TITLE_SET_012}
+{ADV_TEXT_SET_012}
+{ADV_TITLE_SET_013}
+{ADV_TEXT_SET_013,"The types of building you can construct outside the settlement depend on the location}
+{ADV_TITLE_SET_014}
+{ADV_TEXT_SET_014}
+{ADV_TITLE_Auth_001}
+{ADV_TEXT_Auth_001}
+{ADV_TITLE_Auth_002}
+{ADV_TEXT_Auth_002,"Noble unrest here is very high, which may lead to loss of tax revenue, disruption of recruitment}
+{ADV_TITLE_Auth_003}
+{ADV_TEXT_Auth_003,"There is high noble unrest here due to your leader's low personal authority. This is due to his recent succession, and will improve with time. Until then}
+{ADV_TITLE_NSET_001}
+{ADV_TEXT_NSET_001,"Your power and success depends on the number of settlements you control. Don't forget to recruit settler units}
+{ADV_TITLE_NSET_002}
+{ADV_TEXT_NSET_002,"Sometimes you need your settlements close together, but a large city can utilize an area 11 hexes across}
+{ADV_TITLE_NSET_003}
+{ADV_TEXT_NSET_003}
+{ADV_TITLE_Trade_001}
+{ADV_TEXT_Trade_001,"Trade is the key to building a powerful economy. Build Bazaars in settlements to begin trading between them}
+{ADV_TITLE_Trade_002,"Location, Location}
+{ADV_TEXT_Trade_002}
+{ADV_TITLE_Trade_003}
+{ADV_TEXT_Trade_003,"This settlement is too far from others to trade with them}
+{ADV_TITLE_Trade_004}
+{ADV_TEXT_Trade_004,"Building a Caravansary here would allow the goods imported here, to be re-exported}
+{ADV_TITLE_Trade_005}
+{ADV_TEXT_Trade_005,"If you build a Quay here, you will be able to trade with other settlements that also have Quays. Trade by water is more efficient}
+{ADV_TITLE_Trade_006}
+{ADV_TEXT_Trade_006}
+{ADV_TITLE_Trade_007}
+{ADV_TEXT_Trade_007,"One of the trade routes here is blocked. If it is blocked by an enemy, then military action will be needed to re-open it. If not}
+{ADV_TITLE_Armies_001}
+{ADV_TEXT_Armies_001,"The efficiency of this stack is low, due to recent fighting or events. If it stops moving and fighting for a few turns}
+{ADV_TITLE_Armies_002}
+{ADV_TEXT_Armies_002}
+{ADV_TITLE_Armies_003}
+{ADV_TEXT_Armies_003,"This stack is composed of half or more of militia, tribal, or convict units}
+{ADV_TITLE_Armies_004}
+{ADV_TEXT_Armies_004,"Your stacks may revolt and join peasant rebel factions if half or more of the units are militia}
+{ADV_TITLE_Armies_005}
+{ADV_TEXT_Armies_005}
+{ADV_TITLE_Armies_006}
+{ADV_TEXT_Armies_006}
+{ADV_TITLE_Armies_007}
+{ADV_TEXT_Armies_007}
+{ADV_TITLE_Armies_008}
+{ADV_TEXT_Armies_008,"If a stack starts and ends its turn outside of friendly territory while in snow}
+{ADV_TITLE_Armies_009}
+{ADV_TEXT_Armies_009}
+{ADV_TITLE_DIS_001}
+{ADV_TEXT_DIS_001}
+{ADV_TITLE_DIS_002}
+{ADV_TEXT_DIS_002}
+{ADV_TITLE_ED_001}
+{ADV_TEXT_ED_001,"Remember to check out the Edicts screen from time to time. As your technology and culture advances, you will gain access to more edicts that can reduce unrest, boost your economy}
+{ADV_TITLE_FIN_001}
+{ADV_TEXT_FIN_001,"Your treasury is very low}
+{ADV_TITLE_FIN_002}
+{ADV_TEXT_FIN_002,"Your treasury is negative, and you are losing money each turn. Since you can't recruit new units if you have no money}
+{ADV_TITLE_FIN_003}
+{ADV_TEXT_FIN_003,"Most buildings have an upkeep cost shown by the sack of money in the top right of the construction panel. Try to only build what you need}
+{ADV_TITLE_FIN_004}
+{ADV_TEXT_FIN_004,"Your building upkeep is very high. You may have built more than you need}
+{ADV_TITLE_FIN_005}
+{ADV_TEXT_FIN_005,"Militia and noble units have no cost to recruit, so it may be better to disband some units and raise them again when needed}
+{ADV_TITLE_Units_001}
+{ADV_TEXT_Units_001}
+{ADV_TITLE_Units_002}
+{ADV_TEXT_Units_002}
+{ADV_TITLE_Units_003}
+{ADV_TEXT_Units_003,"Cavalry and chariot units fight badly in difficult terrain such as forests, marshes and steep slopes. Prefer to use infantry in such terrain. If attacking from a clear hex}
+{ADV_TITLE_Units_004}
+{ADV_TEXT_Units_004,"Units with long weapons fight badly in forests. Prefer to use infantry with shorter weapons in such terrain. If attacking from a clear hex}
+{ADV_TITLE_Units_005}
+{ADV_TEXT_Units_005,"Missiles fired by your troops can kill your own men as well as the enemy. Archers can usually fire over other infantry ok, but you probably want to put crossbows}
+{ADV_TITLE_Siege_001}
+{ADV_TEXT_Siege_001,"A settlement is lost when an enemy reaches an undefended breach or gate. Therefore you need to have enough defending units to cover all of these}
+{ADV_TITLE_Siege_002}
+{ADV_TEXT_Siege_002,"Unwalled settlements have four entrances that must be defended. To successfully defend one from attack you will need as many defenders as there are attackers}
+{ADV_TITLE_Siege_003}
+{ADV_TEXT_Siege_003,"Some walls, gates or towers here are damaged. The townsfolk will work hard to fix these}
+{ADV_TITLE_Misc_001}
+{ADV_TEXT_Misc_001,"The lists panel on the left of the screen is very useful}
+{The list of settlements is particularly useful, as it lets you see at a glance}
+{ADV_TITLE_Misc_002}
+{ADV_TEXT_Misc_002,"As a ruler}
+{Once a revolt starts}
+{ADV_TITLE_Misc_003}
+{ADV_TEXT_Misc_003,"The nobles like to be in control of their own areas}
+{The strength of the central state is measured by your Authority score shown in the bottom left corner. If you have more settlements than you have Authority}
+{ADV_TITLE_Misc_004}
+{ADV_TEXT_Misc_004,"You always have at least one}
+{ADV_TITLE_Misc_005}
+{ADV_TEXT_Misc_005}
+{ADV_TITLE_Misc_006}
+{ADV_TEXT_Misc_006}
+{At the start of the game, you cannot build farms}
+{ADV_TITLE_Misc_007}
+{To become a great power, you will need some cities. You can either research agriculture yourself}
+{ADV_TITLE_Misc_009}
+{ADV_TITLE_Misc_010}
+{ADV_TEXT_Misc_010,"To catch bandits, try to anticipate where they will move to, as they may move away before your army arrives. Order your army to move through the expected position}
+{ADV_TITLE_UI_002}
+{ADV_TEXT_UI_002,"You can use the  . and , keys to cycle through messages or settlements. Use F5 to F10 to access major screens. Use B and R to access the building and recruitment panels}
+{ADV_TITLE_UI_003}
+{ADV_TEXT_UI_003,"Use keys 1 - 8 to set battle plans, Ctrl + 1 - 4 to set formations, and the . and , keys to rotate stacks. Delete to disband units}
+{ADV_TITLE_Armies_011}
+{ADV_TEXT_Armies_011,"You can give each unit in a stack a battle plan that determines how it acts. See the tool tips on the battle plans for details}
+{ADV_TITLE_Armies_012}
+{ADV_TEXT_Armies_012}
+{ADV_TITLE_Trade_008}
+{ADV_TEXT_Trade_008,"When trade between two settlements is generating a good income}
+{ADV_TITLE_Misc_011}
+{ADV_TEXT_Misc_011,"Your noble warriors are much better trained and equipped than bandits or militia}
+{ADV_TITLE_SET_015}
+{ADV_TEXT_SET_015,"New settlements have very little labor available. If you order them to construct farms, buildings or anything else, there will be no-one to farm, and the population will not increase. If all the figures at the bottom of the screen are blue, then everyone is building}
+{ADV_TITLE_Armies_013}
+{ADV_TEXT_Armies_013,"A unit can replenish its losses by moving to the territory of a friendly settlement that can recruit units of that recruitment type (militia, nobles}
+{ADV_TITLE_GENGHIS_001}
+{ADV_TEXT_GENGHIS_001}
+{ADV_TITLE_GENGHIS_002}
+{ADV_TEXT_GENGHIS_002,"Your horde unit cannot deploy its settlement here}
+{ADV_TITLE_GENGHIS_003}
+{ADV_TEXT_GENGHIS_003}
+{ADV_TITLE_GENGHIS_004}
+{ADV_TEXT_GENGHIS_004,"You can convert this settlement to a horde and move it to a more favourable}
+{ADV_TITLE_C_GC_Shang01}
+{ADV_TEXT_C_GC_Shang01,"You are located on the flood plain of the Yellow River. There is ample good land to settle and farm}
+{I advise taking your settler unit and founding a new settlement about 8 to 10 hexes away. If you can place your settlement within three hexes of a Rhinoceros, Fish}
+{ADV_TITLE_C_GC_Shang02}
+{ADV_TEXT_C_GC_Shang02}
+{ADV_TITLE_C_GC_Shang03}
+{On the other hand}
+{ADV_TITLE_C_GC_Han01}
+{I advise taking your settler unit and founding a new settlement about 8 to 10 hexes away.  If you can place your settlement within three hexes of a Rhinoceros, Fish}
+{ADV_TITLE_C_GC_Han02}
+{ADV_TITLE_C_GC_Han03}
+{ADV_TITLE_C_GC_Chu01}
+{You have two main choices, settle to the east where there is lots of excellent farmland}
+{If you can place your settlement within three hexes of a Rhinoceros, Fish}
+{ADV_TITLE_C_GC_Chu02}
+{ADV_TITLE_C_GC_Chu03}
+{ADV_TITLE_C_GCZhou01}
+{ADV_TEXT_C_GCZhou01}
+{Whichever direction you choose, if you can place your settlement within three hexes of a Rhinoceros, Fish}
+{ADV_TITLE_C_GC_Zhou02}
+{ADV_TITLE_C_GC_Zhou03}
+{ADV_TITLE_C_GCShu01}
+{If you can place your settlement within three hexes of a Rhinoceros, Fish}
+{ADV_TITLE_C_GC_Shu02}
+{ADV_TITLE_C_GC_Shu03}
+{ADV_TITLE_C_GCQin01}
+{The best place to find more farmland is to the east along the river}
+{ADV_TITLE_C_GC_Qin02}
+{ADV_TITLE_C_GCWu01}
+{ADV_TITLE_C_GC_Wu02}
+{ADV_TITLE_C_GCMinYue01}
+{ADV_TEXT_C_GCMinYue01}
+{Your immediate position is very weak}
+{ADV_TITLE_C_GC_MinYue02}
+{Once you have bronze making technology}
+{ADV_TITLE_C_GC_MinYue03}
+{This will let you range along the coast}
+{ADV_TITLE_C_GCBa01}
+{ADV_TITLE_C_GC_Ba02}
+{ADV_TEXT_C_GC_Ba02}
+{Since your people are great warriors, but poor farmers}
+{ADV_TITLE_C_GCDogRong01}
+{ADV_TEXT_C_GCDogRong01}
+{Unfortunately there is little of either in the immediate vicinity}
+{ADV_TITLE_C_GC_DogRong02}
+{ADV_TEXT_C_GC_DogRong02,"Your only rivals are the Qin to the south east. They are fierce, but not numerous, so you may be able to conquer them}
+{ADV_TITLE_C_GC_DogRong03}
+{ADV_TEXT_C_GC_DogRong03,"If you elect to remain as herding faction}
+{ADV_TITLE_C_GCDongYi01}
+{While there is ample land available to expand into, you will inevitably soon come into contact with the powerful farming factions of Shang}
+{ADV_TITLE_C_GC_DongYi02}
+{ADV_TITLE_C_GCWhiteDi01}
+{Since you can use grassland or fertile plain alike, there is plenty of land available to you. There are good sites immediately available to your south}
+{ADV_TITLE_C_GC_WhiteDi02}
+{ADV_TITLE_C_GCXianbei01}
+{ADV_TITLE_C_GC_Xianbei02}
+{ADV_TEXT_C_GC_Xianbei02}
+{ADV_TITLE_C_GCXiongNu01}
+{ADV_TEXT_C_GCXiongNu01,"You are a herding faction located in the Mongolian steppes. To the north are the Dingling}
+{ADV_TITLE_C_GC_XiongNu02}
+{ADV_TITLE_C_GC_XiongNu03}
+{ADV_TEXT_C_GC_XiongNu03}
+{ADV_TITLE_C_GCDingling01}
+{ADV_TEXT_C_GCDingling01,"You start as a rather primitive herding faction in Northern Mongolia on the fringes of Siberia. To your south are the dangerous Xiongnu}
+{ADV_TITLE_C_GC_Dingling02}
+{ADV_TITLE_C_GC_Dingling03}
+{ADV_TEXT_C_GC_Dingling03}
+{If you wish to play a more aggressive game, you will need to conquer factions far to the south. Once you have a few settlements}
+{ADV_TITLE_C_WS_Yan01}
+{ADV_TEXT_C_WS_Yan01}
+{The land to the East is mainly uninhabited, and offers an excellent opportunity to expand your kingdom. However there are many forests to clear}
+{ADV_TITLE_C_WS_Qi01}
+{ADV_TEXT_C_WS_Qi01,"Your state is located in the east of the North China plain}
+{There is some room to expand to the North}
+{ADV_TITLE_C_WS_Zhao01}
+{ADV_TEXT_C_WS_Zhao01}
+{As Zhao}
+{ADV_TITLE_C_WS_Wei01}
+{ADV_TEXT_C_WS_Wei01,"Your state has emerged from the break up of the ancient state of Jin}
+{Wars are inevitable}
+{While your central position is challenging, with skillful diplomacy}
+{ADV_TITLE_C_WS_Yue01}
+{ADV_TEXT_C_WS_Yue01,"Your state was originally founded south of  the Yangtze river}
+{Your lands are quite extensive, but they are sparsely populated, and your settlements scattered}
+{ADV_TITLE_C_WS_Qin01}
+{You have some of room to expand within your own territories, and plenty of potential to expand to the South}
+{ADV_TITLE_C_WS_Han01}
+{ADV_TEXT_C_WS_Han01}
+{There is some room for expansion both north and south of the river, with the south perhaps being a little better. There are also the small states of Zhou and Zheng that you could conquer. However}
+{ADV_TITLE_C_WS_Chu01}
+{ADV_TEXT_C_WS_Chu01,"You start in control of a large swathe of territory on the north bank of the Yangtze River. On paper you are wealthy and powerful, but your cities are far apart. Individually, none of your neighbors is a match for you, but given the distances involved}
+{Your capital is on the banks of the Yangtze river. Consider exploiting this waterway as highway for movement}
+{ADV_TITLE_C_WS_Shu01}
+{ADV_TEXT_C_WS_Shu01,"You start far to the West in the Sichuan basin}
+{ADV_TITLE_C_WS_Ba01}
+{ADV_TEXT_C_WS_Ba01,"You start in the south of China with a state that straddles the middle reaches of the Yangtze river. Your main avenues for expansion are to the South and to the West. The land to the South is uninhabited and undeveloped}
+{Initially you are one of the weaker powers}
+{ADV_TITLE_C_WS_Zhongshan01}
+{ADV_TEXT_C_WS_Zhongshan01,"You are a small state in northern China, surrounded by more powerful ones. Survival should be your main priority to begin with. Given your small starting territory}
+{If you can survive, there is space to expand into to the East around the mouth of the Yellow river, and to the North. Expanding east is easier, but is a high risk strategy, and will expose you to both hostile attacks and frequent flooding. Moving north will expose you to the Xiongnu and Dong Hu}
+{ADV_TITLE_C_WS_Jin01}
+{ADV_TEXT_C_WS_Jin01,"Your once mighty state is now reduced to a single city near the Fen river. The neighboring states of Wei}
+{All in all}
+{ADV_TITLE_C_WS_Zheng01}
+{ADV_TEXT_C_WS_Zheng01,"You begin as a single city state to the south of the Yellow River. Although many of the surrounding states are more powerful}
+{Although playing off your neighbors against each other may seem like the thing to do, much of your wealth comes from trade}
+{ADV_TITLE_C_WS_Zhou01}
+{ADV_TEXT_C_WS_Zhou01,"Your state was once the overlord of all China, but is now reduced to a single city just south of the Yellow River. Restoring Zhou to its former glory will be a mammoth task}
+{The nearby powers of Han and Wei will see you as a tempting target, so your priority should be to secure good relations with them. This will allow you to expand into the surrounding empty lands and become stronger. However, scope for expansion is limited, so you will need to fight to expand further}
+{ADV_TITLE_C_WS_Song01}
+{ADV_TEXT_C_WS_Song01,"You start as a medium sized power}
+{ADV_TITLE_C_WS_Lu01}
+{ADV_TEXT_C_WS_Lu01,"Lu is a small state near the coast to the south of the Shandong Peninsula. All the surrounding powers are much stronger}
+{ADV_TITLE_C_WS_XiongNu01}
+{ADV_TEXT_C_WS_XiongNu01,"You play as a nomadic herding faction to the north. Currently there are no imminent threats}
+{You are not in close contact with the any of the farming states, who lay mostly to the south and east}
+{ADV_TITLE_C_WS_DongHu01}
+{ADV_TEXT_C_WS_DongHu01,"You are unusual in that you have a mixed economy, combining both nomadic herdsmen  and settled farmers. This gives you options to exploit all the land around you. In the long run}
+{You start next to several farming states, and raiding them for loot can be a good extra source of income. However, try to spread the damage you do equally}
+{ADV_TITLE_C_WS_DogRong01}
+{ADV_TEXT_C_WS_DogRong01}
+{The lands in the west are not the best, but some small settlements here will be well protected from enemies, and you may be able to exploit reserves of gold or jade in the mountains. To the north east is a large area of grassland}

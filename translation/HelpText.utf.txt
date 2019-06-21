@@ -1,0 +1,376 @@
+{HPTitle Contents}
+{HPTitle Not Found}
+{HPHead See Also}
+{HPText Not Found}
+{HPTitle Basics}
+{HPHead Info Button}
+{HPText Info Button,"Use the info button in the top right corner to show help for the current game area}
+{HPHead Desktop Camera}
+{HPText Desktop Camera,"Move the camera around by using the keyboard or drag the map by holding the left mouse button and dragging. Rotate by holding down the middle or right button. The indicator in the top right shows the direction you are facing}
+{HPText Desktop Selection,"Click on a banner to select an army or garrison}
+{HPLink Moving Units}
+{HPHead Turns}
+{HPText Turns,"The game is played in a series of turns. During your turn, you plot the movement of your armies, and set construction and other tasks to be performed. When you press the ""End Turn"" button, your armies will begin to march}
+{HPHead Touch Camera}
+{HPText Touch Camera,"Move around the map by dragging with one or two fingers. Pinch to zoom in and out, and rotate with two fingers to change the view direction. The indicator in the top right shows the direction you are facing}
+{HPText Touch Selection,"Tap a banner to select an army or garrison}
+{HPTitle Unit Stacks}
+{HPHead Unit Stacks}
+{HPText Unit Stacks Desktop}
+{HPText Unit Stacks Touch}
+{HPHead Moving Stacks}
+{HPText Moving Stacks Desktop,"Right click on the hex you wish to move to. If the move is possible the path to be taken will appear. When you end the turn, the units will begin marching. If the distance is long}
+{HPText Moving Stacks Desktop 2}
+{HPText Moving Stacks Touch,"Touch and hold on the hex you wish to move to until the movement arrows appear. When you end the turn, the units will begin marching. If the distance is long}
+{HPHead Arranging Stacks}
+{HPText Arranging Stacks Desktop,"You can change the formation and facing of the units in the stack using the buttons below the tiles. If the stack has a move ordered}
+{HPText Arranging Stacks Desktop 2,"If the stack has multiple lines of units}
+{HPText Arranging Stacks Touch,"You can change the formation and facing of the units in the stack using the buttons below the tiles. If the stack has a move ordered}
+{HPText Arranging Stacks Touch 2,"If the stack has multiple lines of units}
+{HPLink Leaders}
+{HPLink Unit Cards}
+{HPTitle Unit Cards}
+{HPHead Unit Cards Introduction}
+{HPText Unit Cards1,"The tiles you see at the bottom of the screen shown when a stack is selected}
+{HPText Unit Cards2,"The symbol on the card shows how the unit is armed, and the color shows the quality (red = nobles, green = militia etc). If it has upgraded armor, this is shown by a colored shield in the top left}
+{HPText Unit Cards3,"The two bars at the bottom represent the unit's strength and readiness. The green bar is strength, and the orange is readiness. Readiness will be reduced by moving and fighting}
+{HPText Unit Cards4,"If a unit has taken losses, these will be gradually replenished when the unit is in the territory of a friendly settlement that can recruit units from that movement pool. For instance, if a unit is a trained army unit}
+{HPText Unit Cards5}
+{HPTitle Naval Units}
+{HPHead Naval Basics}
+{HPText Naval Basics 1,"You can recruit naval units from boatyard or shipyard buildings that you have constructed. Naval units can move along navigable rivers and on the seas. They can carry land units, block sea trade routes, battle other naval units}
+{HPText Naval Basics 2,"Since naval units are large}
+{HPHead Naval Movement}
+{HPText Naval Movement 1,"Where naval units can move depends on their type. Those designed for use on rivers, can only move on rivers}
+{HPText Naval Movement 2,"There are two types of rivers, navigable, and unnavigable. Naval units may not move along the latter, as they are too narrow}
+{HPHead Carry Land Units}
+{HPText Carry Land Units 1,"Most naval units can carry one land unit. Smaller ships and boats can only carry infantry, while larger ones can carry cavalry}
+{HPText Carry Land Units 2,"To embark onto ships, the land units must start adjacent to them. Select the land units to embark}
+{HPText Carry Land Units 3,"To disembark, simple order the fleet to a land hex. The land units will immediately disembark on an adjacent land hex, with orders to move to the target hex. If you select individual land unit cards}
+{HPLink Naval Units}
+{HPTitle Settlement Basics}
+{HPHead Settlement Introduction}
+{HPText Settlement Introduction 1,"This is where you manage your settlements, You can construct buildings inside or outside the settlement, alter the surrounding landscape}
+{HPText Settlement Introduction 2,"When you first open the settlement, you are in the ""Land Improvement"" mode where you can clear forests, build farms and roads}
+{HPHead Settlement Stats}
+{HPText Settlement TopStats,"The area at the top of the screen shows your settlement population, growth rate}
+{HPText Settlement BottomStats,"The area at the bottom shows the number of turns of food stockpiled}
+{HPText Settlement Name}
+{HPLink Recruitment}
+{HPLink Internal Construction}
+{HPLink Terrain Improvement}
+{HPLink Settlement Details}
+{HPLink Settlement Basics}
+{HPTitle Recruitment}
+{HPHead Recruitment Intro}
+{HPText Recruitment Intro,"Here you recruit military units and civilian settlers. The units you recruit are available for use immediately, allowing a large force to be raised when you need it. The small tiles represent the units available. Click or tap a tile to open a panel showing its description}
+{HPHead Recruitment Pools}
+{HPText Recruitment Pools,"Units are grouped into recruitment pools, depending on the type of people who will form them. The dots to the right show how many units are available in each pool. There are often several types of unit available}
+{HPText Recruitment Pools 2}
+{HPHead Recruitment Location}
+{HPText Recruitment Location,"Units may either be recruited in the settlement garrison, or outside one of the gates. Use the arrows at the bottom of the panel to change the location. There is a limit to the number of units allowed in each location}
+{HPHead Recruitment Stats}
+{HPText Recruitment Stats,"The unit description shows the cost to recruit a unit, and the cost each turn to maintain it. At the bottom are numbers for its combat attack and defense skill, armor, morale, and movement rate (hexes per turn). Use the ""Details"" button to reveal further details about a unit}
+{HPHead Cancel Recruitment}
+{HPText Cancel Recruitment,"You can cancel the recruitment of any unit recruited this turn. Just drag it out of the panel}
+{HPTitle Internal Construction}
+{HPHead Construction Intro}
+{HPText Construction Intro,"Most buildings are constructed inside a settlement. The various available buildings are shown by the tiles}
+{HPText Construction Intro 2,"The description shows both the cost to construct a building}
+{HPHead Construction Queue}
+{HPText Construction Queue,"Buildings take several turns to construct, and only one can be worked on at a time. The lower part of the panel shows the queue of buildings under construction, with the number of turns required shown on the tile. You can drag the tiles around to reorder the queue}
+{HPText Construction Queue 2}
+{HPHead Temples and Schools}
+{HPText Temples and Schools,"There are several types of these available, but only one type may be constructed in each settlement. If you want to construct a different type}
+{HPHead Upgrade Settlement}
+{HPText Upgrade Settlement,"When a settlement is large enough}
+{HPHead Existing Buildings}
+{HPText Existing Buildings,"Use the"" Constructed"" tab at the top of the panel to see what buildings have already been constructed. Tap or click a tile to see a description}
+{HPHead Number of Buildings}
+{HPText Number of Buildings 1,"Each settlement has space for one palace, one temple or school, and a limited number of other buildings. The icons below the construction queue show how many buildings you have space for}
+{HPText Number of Buildings 2,"Red and blue colored buildings are upgrades to existing buildings}
+{HPTitle Terrain Improvement}
+{HPHead LandImprovement Intro}
+{HPText LandImprovement Intro,"When no other panel is open, you can improve the land around your settlements, construct buildings in the countryside}
+{HPText LandImprovement Intro 2}
+{HPText LandImprovement Intro 3,"Each category may be worked on independently, but each will require labor that will no longer be available for farming}
+{HPHead Farm Improvements}
+{HPText Farm Improvements}
+{HPHead Clearance Improvements}
+{HPText Clearance Improvements,"Clear hexes to allow a farm or road to be built}
+{HPHead Road Improvements}
+{HPText Road Improvements,"Roads allow faster movement of troops. Roads can be built out from city gates or from existing roads. Roads may be built in nearby hexes outside of a settlement's territory}
+{HPHead External Buildings}
+{HPText External Buildings,"Where suitable sites are available, some building types can be constructed outside of the settlement; for example ports, mines and mountain shrines. Since suitable sites are required, most settlements will only be able to construct one or two external buildings}
+{HPText External Buildings 2,"Tap or click the building tile to open a panel showing its details}
+{HPTitle Settlement Details}
+{HPHead Settlement Details Intro}
+{HPText Settlement Details,"This panel gives a detailed explanation of the factors affecting your settlement. The four tabs give detailed breakdowns of the factors affecting income, unrest, food production, and labor allocation. Examining these details carefully will give clues about how to improve settlement performance}
+{HPLink Food Production}
+{HPTitle Food Production}
+{HPHead Food Production}
+{HPText Food Production,"A settlement can produce food from four sources: animal or fish resources on the map. food produced inside the settlement from gardens or domestic animals}
+{HPText Agriculture,"One or two units of population are assigned to work each farm or terrace hex within the settlement's territory. The amount of food grown will depend on the hex type, the amount of population allocated}
+{HPText Grazing,"Some societies are pastoral, depending on their animals for food, rather practicing agriculture. This requires more land than farming, but fewer people, and allows settlement on land too dry to grow crops. Each unit of population can look after animals grazing in two hexes}
+{HPText Grazing 2,"If your chosen faction is an agricultural one, you will not be able to use flocks. If your faction is a pastoral one}
+{HPTitle Unrest}
+{HPHeading Unrest Basics}
+{HPText Unrest 1,"Unrest occurs when your people are unhappy. Different things make different people unhappy, so there are two types of unrest, ""peasant unrest"" and ""noble unrest"". As a ruler}
+{HPText Unrest 2,"The final unrest for each group is composed of three elements, happiness, dissatisfaction, and suppression. The first two are opposed and can cancel each other out. Suppression is a measure of your ability to suppress dissent by use of force or intimidation}
+{HPHeading Unrest Effects}
+{HPText Unrest Effects 1,"Unrest below 60% has no effect, but remember that random events or fluctuations in local factors can cause it to increase unexpectedly. If unrest goes above this then several bad effects may occur. The income you can collect from the settlement may be reduced, you may not be able to recruit units from some recruitment pools}
+{HPText Unrest Effects 2}
+{HPHeading Unrest Causes}
+{HPText Unrest Causes 1,"Both noble and peasant unrest can be caused by unpopular edicts, military service}
+{HPText Unrest Causes 2,"Local factors can be a major cause of dissatisfaction. They represent factors such as ancient grudges, particularly outspoken individuals or local traditions of independence, as well as minor local events such as fights, insults etc. There is nothing you can do about local factors, except to create happiness or suppression to counter them. They vary randomly over time}
+{HPText Unrest Causes 3,"Peasant unrest will also increase if there is a shortage of food, overcrowding or they are continually asked to perform labor service constructing buildings or land improvements.  Dissatisfaction due to overcrowding can be reduced by expanding the settlement to a city or large city}
+{HPText Unrest Causes 4,"Nobles are inherently independent, and dislike having anyone over them. They will try to assert their independence (which increases their unrest value) when they sense your realm is too large for you to control}
+{HPHeader Dealing With Unrest}
+{HPText Dealing With Unrest 1,"The best way to do deal with unrest, is either to address the root causes of dissatisfaction}
+{HPText Dealing With Unrest 2,"In the short term though, a character with a high Ren(virtue) rating can be sent to the settlement, or military forces placed in the garrison or nearby. Note though, that noble units will not suppress noble unrest}
+{HPLink Unrest}
+{HPTitle Rebellions}
+{HPHeading Noble Rebelllions}
+{HPText Noble Rebellions,"Noble rebellions represent an attempt by one or more prominent noblemen to either overthrow the current faction leader}
+{HPHeading Peasant Rebellions}
+{HPText Peasant Rebellions,"These are revolts by the peasant class against their common enemy, the aristocracy (which includes you). A peasant rebellion is not aimed at any one particular faction, rather they hate all equally. This makes them very dangerous, as once a rebellion begins}
+{HPHeading Army Defections}
+{HPText Army Defections 1,"Rebellions are particularly dangerous, because an army close to a rebel stack may defect to the rebels. An army consisting of mainly nobles may defect to a noble rebellion, and an army of mainly militia or tribesmen may defect to a peasant rebellion. The chances of defection depend on the composition of the stack}
+{HPText Army Defections 2,"If a garrison stack defects}
+{HPLink Rebellions}
+{HPTitle Trade}
+{HPHeading Trade Basics}
+{HPText Trade Basics 1,"Certain buildings and resources on the map provide abstract trade items that can be traded to other settlements generating income. There are a number of different types, including copper, ceramics, silk and jade. They are not directly represented in the game, although sometimes there are benefits to having certain items available at a settlement. To begin trading with nearby settlements, construct a ""bazaar"" building. Upgrading this building will increase the value of trade generated}
+{HPText Trade Basics 2,"The revenue generated trading with a particular settlement depends on the goods traded, and the population of the partner settlement. Since you cannot trade an item to a place that already produces it, try to establish production centers for each item}
+{HPHeading Trade Routes}
+{HPText Trade Routes 1}
+{HPText Trade Routes 2,"Trade routes can't run through forests}
+{HPHeading Water Trade}
+{HPText Water Trade,"Trade may also be conducted along navigable rivers, and across the sea, however it is only possible if both settlements have a ""Quay"" building. Moving goods by water is more efficient, so water borne trade is more valuable}
+{HPHeading Internal Trade}
+{HPText Internal Trade,"Some buildings that generate tradable items (e.g. ceramics or silk) also generate income from internal trade. Within a settlement. It's not necessary to establish a bazaar to receive this}
+{HPHeading Foreign Trade}
+{HPText Foreign Trade,"So long as you are not at war, your settlements may also establish trade routes to settlements owned by other players. The value of some trade items is increased if you have a higher culture rating}
+{HPHeading Caravansaries}
+{HPText Caravansaries,"The length of direct trade routes is limited, but by establishing a Caravansary building, a settlement can re-export goods that is importing. A chain of one or more caravansaries can be used to move goods over long distance}
+{HPLink Trade}
+{HPTitle Execution Phase}
+{HPHead Execution Phase Intro}
+{HPText Execution Phase Intro,"Once you have given your orders, and ended your turn, the orders of all players are executed simultaneously. Units march to their assigned positions}
+{HPText Execution Phase Intro 2D,"The rate at which time progresses depends on the camera height, so if you zoom in close men will move at a realistic rate}
+{HPText Execution Phase Intro 2T,"The rate at which time progresses depends on the camera height, so if you zoom in close men will move at a realistic rate, whereas if you zoom out they will move faster. Using the ""fast forward"" button, forces everything to maximum speed}
+{HPText Execution Phase Intro 2P,"The pause button will pause unit movement and combat}
+{HPHead Execution Phase Battles}
+{HPText Execution Phase Battles,"If two forces clash, a graphic for the battle will appear on the bar at the bottom, showing the sides and strengths. Click or tap the graphic to select the battle and zoom to its location. The battle plays out under computer control}
+{HPTitle Technology}
+{HPHead Technology Intro}
+{HPText Technology Intro,"The Technology and Culture screen lets you guide the social and technological development of your society. There are four different areas that develop simultaneously. Use the tabs at the top of the screen to show the developments available in each area}
+{HPText Technology Power,"Power contains developments that are guided or enforced by the emperor}
+{HPText Technology Craft}
+{HPText Technology Thought,"Thought is the area that deals with abstract ideas. It contains developments for philosophy}
+{HPText Technology Knowledge,"Knowledge contains developments relating to the natural world, science}
+{HPHead Technology Developments}
+{HPText Technology Developments,"Each potential development has a tile representing it, showing an icon for the development, the number of turns required to complete it}
+{HPText Technology Developments 2}
+{HPHead Technology Progress}
+{HPText Technology Progress,"In general the rate of development is the same for all players, so small nations develop at the same rate as large ones. However, the rate of progress in certain areas or for specific types of development can be affected by the faction you control, edicts you issue, or buildings you construct. If there is modification to the progress rate of an entire area, it is shown at the top in the tab for that area. If there is modification to a specific item, it is indicated by a colored tab on the tile. Green indicates faster than usual progress, red slower. However}
+{HPLink Culture and Authority}
+{HPTitle Edicts}
+{HPHead Edicts Intro}
+{HPText Edicts Intro,"Edicts are laws and regulations that you issue to change the functioning of your state. They cover a wide range of measures from raising new taxes, to military reforms. They are also used to keep the balance between the central government}
+{HPText Edicts 1,"Each Edict has its own pros and cons. Some have long term benefits, while causing short term unrest, as changing laws always upsets someone. Others may have a cost per turn, or offer a short term gain in return for long term disadvantages. The panel on the left side shows the edicts that you can issue. Click on one to see details}
+{HPText Edicts 2,"The panel on the right shows edicts that have already been issued. Selecting one shows details, and may give an option to cancel it. Cancelling an edict too soon after issuing it will make you look weak and indecisive}
+{HPText Edicts 3,"Some edicts cannot be cancelled}
+{HPTitle Culture and Authority}
+{HPHead Culture and Authority}
+{HPText Culture and Authority,"These are two important values that reflect the development of your civilization, and how large it can grow. They are shown in the display in the bottom left of the map screen. They mainly increase from developments in Technology and Culture, as your people develop a shared culture}
+{HPHead Authority}
+{HPText Authority 1,"Authority is the quantity that governs the relations between you and the nobles of your realm. These have a natural desire to rebel and govern independently, which your authority discourages. In practical terms your Authority rating is the number of settlements you can keep under control. If you have more settlements than your Authority rating, the noble unrest in each one will be greatly increased}
+{HPText Authority 2,"Authority comes from developments in Technology and Culture, from Edicts and from military success. It can be lost by cancelling Edicts, military defeats}
+{HPHead Culture}
+{HPText Culture 1,"Your Culture rating represents your soft power}
+{HPText Culture 2,"Culture mostly comes from development in Technology and Culture, although there are Edicts that increase it too. Unlike Authority}
+{HPLink Technology}
+{HPLink Edicts}
+{HPTitle Leaders}
+{HPHead Leaders}
+{HPText Leaders 1,"Characters represent the great people of history, and should be used to lead your most important armies, or govern your most difficult cities. One is your faction leader (king or emperor)}
+{HPText Leaders 2,"Each character is attached to a military unit (his bodyguard) and can be moved around by moving this unit. If a stack has a character present}
+{HPText Leaders 3}
+{HPHead Leaders Qi}
+{HPText Leaders Qi}
+{HPHead Leaders De}
+{HPText Leaders De,"Ren (virtue) is shown by the lightning symbols. A character's Ren increases the battle morale of the army he leads}
+{HPHead Succession}
+{HPText Succession,"Your faction leader and heir are special in that they will never rebel against you. When the faction leader dies, the heir will become the new faction leader, and in due course a new heir will be appointed. If your faction leader dies without an heir (who has maybe died or not yet been appointed)}
+{HPTitle Diplomacy}
+{HPHead Diplomacy Intro}
+{HPText Diplomacy Intro}
+{HPHead Diplomacy Info}
+{HPText Diplomacy Display1,"The displays lists all the other players that you have encountered so far, and their allies (including vassals and overlords) and enemies. The colors on each bar show that player's relation to you. Selecting a bar will show some basic information about the state of your relations with them}
+{HPText Diplomacy Display2,"The status column of the display also shows which other player (if any) a given player recognizes as their overlord or as the rightful emperor. An overlord is indicated by showing the overlord's symbol with a black decoration, and an emperor is shown with a gold decoration. Find the players who recognize you as emperor or overlord by scanning this column for you own symbol}
+{HPLink Diplomacy}
+{HPTitle Vassals,"Vassals}
+{HPHead Vassals Intro}
+{HPText Vassals Intro 1,"During the game, players may sometimes submit to other players and become their vassals. The other player is then their overlord. Generally this will be to avoid destruction by the overlord, or to gain protection from a third party. The vassal continues to play the game, but is subject to certain restrictions. The overlord cannot attack his vassal, but gains a number of benefits. However}
+{HPHead Vassals Obligations}
+{HPText Vassals Obligations 1,"When a player becomes a vassal, they lose a great deal of their diplomatic freedom. They may not attack any players that their overlord has a peace, non-aggression or defensive alliance with, nor any of their overlord's other vassals. They must always go to war with any player their overlord is at war with}
+{HPText Vassals Obligations 2,"A vassal can only win the game by a cultural or points victory (although this is unlikely), and losses some authority. A vassal does not necessarily have to pay tribute}
+{HPText Vassals Obligations 3,"If a vassal's overlord is the vassal of another player}
+{HPHead Overlords Obligations}
+{HPText Overlords Obligations 1,"A player's authority is increased for having vassals, but the main benefit of accepting a vassal, is that the vassal's population counts as your own for purposes of Domination and Son of Heaven victory conditions}
+{HPText Overlords Obligations 2,"An overlord may never attack their vassal}
+{HPHead About Emperors}
+{HPText About Emperors 1,"Accepting another player as an overlord is accepting a real position of subordination, while recognizing another player as Emperor is more of a nominal submission}
+{HPText About Emperors 2,"A player who recognizes another as Emperor suffers a small loss of authority, and may not be recognized as Emperor themselves. A player may only recognize one player as Emperor. A vassal automatically recognizes either their overlord}
+{HPText About Emperors 3,"A player recognized as Emperor gains some authority}
+{HPLink Vassals,"Vassals}
+{HPTitle Negotiations}
+{HPHead Negotiations Intro}
+{HPText Negotiations Intro 1,"The Negotiation Screen is where you get down to business, and make deals with your fellow rulers. You put together a proposal by selecting what you will offer, and what you want in return. When satisfied, hit the ""Submit Proposal"" button}
+{HPText Negotiations Intro 2,"Whether they agree, will depend on a number of factors, how much they like you, how much they trust you, and your position in the game. You can increase the amount other players like you by making agreements that are favorable to them, or giving them gifts. Trust is earned by keeping your agreements, and lost by breaking them. Breaking an agreement reduces your trust from all the other players}
+{HPText Negotiations Intro 3}
+{HPHead Negotiations Offers}
+{HPText Negotiations Offers,"Use the panel on the left to select the items you will offer to the other party. They are organized by type, select a heading to show the items under it. You may offer money, information, treaties or make declarations. If you select ""Become Vassal"" from the left side, you are offering to become the other party's vassal. If you select ""Recognize Emperor""}
+{HPHead Negotiations Demands}
+{HPText Negotiations Demands,"On the right side, are the items that you want to receive from the other player. If you select ""Become Vassal"" from the right side, you are demanding that they become your vassal. If you select ""Recognize Emperor""}
+{HPHead Negotiations Declarations}
+{HPText Negotiations Declarations,"Declarations are a unilateral change in relations that you make. In this case the offer merely serves to inform the other player. You may not include declarations with other items. You can declare war with a declaration}
+{HPHead Negotiations Treaties}
+{HPText Negotiations Treaties,"There are various types of treaties you can make. Generally they are bilateral}
+{HPLink Negotiations}
+{HPTitle Treaties}
+{HPHead Non Aggression Pacts}
+{HPText Non Aggression Pacts,"In this agreement, both sides agree to recognize each other as brothers and to exist together in peaceful harmony. They agree not to attack one another, nor to block each other's trade routes, or to block farming if passing through each other's territory. The agreement remains in force until one side breaks it by declaring war}
+{HPHead Defensive Alliances}
+{HPText Defensive Alliances,"In a defensive alliance, each side agrees to declare war against any power that attacks the other. However, if the other player declares war on another power}
+{HPHead Peace Treaties}
+{HPText Peace Treaties,"When a Peace Treaties is made, the two sides agree not to make war on each other for the given time, nor to block each other's trade routes, or to block each other's farming. In essence, it is the same as a Fraternal Harmony agreement, but with a shorter time span. When a Peace Treaty expires, the two parties do not return to a state of war, but either party is free to attack the other again}
+{HPLink Treaties}
+{HPTitle Controls and Hotkeys}
+{HPHead HK Camera Controls}
+{HPHead HK Common Actions}
+{HPText Pan Camera Mouse}
+{HPText Pan Camera Keys}
+{HPText Pan Camera}
+{HPText Rotate Camera Mouse}
+{HPText Rotate Camera Keys}
+{HPText Rotate Camera}
+{HPText Zoon Camera Mouse}
+{HPText Zoon Camera Keys,"Page Up, Page Down}
+{HPText Zoom Camera}
+{HPHead HK Unit Stacks}
+{HPText Left Click Mouse}
+{HPText Select Banner}
+{HPText Right Click Mouse}
+{HPText Move Banner}
+{HPText Double Click Mouse}
+{HPText Open Settlement,"Open the settlement management screen by double clicking its garrison banner}
+{HPText Shift Key}
+{HPText Set Waypoint}
+{HPText Keyname Enter}
+{HPText Action End Turn}
+{HPText Keyname F1}
+{HPText Action Help}
+{HPText Keyname F12}
+{HPText Keyname F11}
+{HPText Action Mute Sound}
+{HPText Keyname Esc}
+{HPText Action Escape}
+{HPText Keyname Space}
+{HPText Action Space}
+{HPHead HK Display}
+{HPText Keyname Alt G}
+{HPText Action Toggle Grid}
+{HPText Keyname Alt B}
+{HPText Action Toggle Banners}
+{HPText Keyname Ctrl S}
+{HPText Keyname Ctrl L}
+{HPText Action Save Game}
+{HPText Action Load Game}
+{HPText KeyName F5}
+{HPText KeyName F6}
+{HPText KeyName F7}
+{HPText KeyName F8}
+{HPText KeyName F9}
+{HPText KeyName F10}
+{HPText Action Diplomacy Screen}
+{HPText Action Technology Screen}
+{HPText Action Edicts Screen}
+{HPText Action Status Screen}
+{HPText Action Finance Screen}
+{HPText Action Charts Screen}
+{HPText KeyName B}
+{HPText KeyName R}
+{HPText Action Build}
+{HPText Action Recruit}
+{HPText Alt T}
+{HPText Hide Trade Routes}
+{HP Link Controls and Hot Keys}
+{HPTitle Battle Plans}
+{HPHead Battle Plans Intro}
+{HPText Battle Plans Intro 1,"During your turn you may assign a battle plans to units, that determines how it will behave in battle. By default it is set to attack, which is fine for most situations, but for important battles you may want to fine tune your tactics. If you set a defensive plan (ambush, defend, reserve or withdraw) for all units in a stack, it will stop when encountering enemy}
+{HPText Battle Plans Intro 2,"To set a battle plan, use the button below the unit stack, then select the plan from the pop up. If you have any units selected in the stack, the plan will be set for just those units}
+{HPText Battle Plans Intro 3,"The plans are listed below in order of aggressiveness. In siege assaults}
+{HPHead Battle Plans Charge}
+{HPText Battle Plans Charge,"Make an immediate all out melee attack. This plan is useful to force units with missile weapons to attack in hand to hand combat, or if you want to attack quickly before the enemy can withdraw}
+{HPHead Battle Plans Attack}
+{HPText Battle Plans Attack,"Attack the enemy using either missiles or hand to hand combat. If other units are perform harass or outflank plans}
+{HPHead Battle Plans Harass}
+{HPText Battle Plans Harass,"Move forwards to threaten the enemy, and engage them with missile fire (if applicable) but only enter combat if the odds are favorable. Fall back if seriously threatened}
+{HPHead Battle Plans Outflank}
+{HPText Battle Plans Outflank,"Attempt to work around the enemy's flank, before launching an attack. This is useful if you outnumber the enemy}
+{HPHead Battle Plans Ambush}
+{HPText Battle Plans Ambush,"Wait in position concealed from the enemy, until there is an opportunity to attack them in flank or rear}
+{HPHead Battle Plans Defend}
+{HPText Battle Plans Defend,"Hold a defensive position, only attack enemy that come close to the position. This is useful to keep a defensive line}
+{HPHead Battle Plans Reserve}
+{HPText Battle Plans Reserve,"Hold position. Only move to engage enemy that are engaging or threatening other friendly units. Can be useful to combat outflanking enemy, to maintain a second line of missile units behind a defensive line}
+{HPHead Battle Plans Withdraw}
+{HPText Battle Plans Withdraw,"Avoid combat. If the battle is going badly, withdraw. It isn't possible for a whole stack to withdraw without engaging}
+{HPLink Battle Plans}
+{HPTitle Battle Basics}
+{HPHeading Battle Intro}
+{HPText Battles Intro 1,"Battles occur when an army moves into a hex adjacent to an enemy army (unless it is already moving away), or when two armies simultaneously move into adjacent hexes. When a battle begins, the armies arrange themselves according to their battle plans, and fight the battle until one side is destroyed}
+{HPText Battles Intro 2,"Unit stacks that are adjacent to a battle will generally be included in it, unless moving away}
+{HPText Battles Intro 3,"Battles proceed entirely under computer control. Players may not control units directly}
+{HPText Battles Intro 4,"Battles that are currently taking place will be shown along the bottom of the screen. Clicking one will move the camera to its location}
+{HPHeading Battle Resolution}
+{HPText Battle Resolution 1,"Battles are resolved on a soldier by soldier basis. When a soldier fires a missile, or takes a swing at an enemy, the chance of scoring a kill is computed using a large number of factors. These include the weapons used, the troop types, the combat skill, experience and readiness of each combatants, the terrain, and of course the defender's armor. The Qi rating of a stack's general also boosts the attack of his men, and many technology advancements will improve effectiveness in combat. In melee}
+{HPText Battle Resolution 2,"As units fight and take casualties, their morale will gradually reduce, and if it falls low enough, they will break and run away. Initial morale depends mainly on the troop type of a unit and the Ren rating of their commanding general. Morale is mainly reduced by casualties suffered}
+{HPLink Battle Basics}
+{HPTitle Post Battle}
+{HPHeading Post Battle}
+{HPText Post Battle 1,"Generally battles continue, until all of one side's units have been destroyed or have run away. The loser's units will retreat to a nearby hex, while the winner's will regroup and may continue moving}
+{HPText Post Battle 2}
+{HPText Post Battle 3}
+{HPHeading Experience}
+{HPText Experience,"Units that have been involved in battle, will gain in experience, depending on their involvement. With enough experience they will gain chevrons on their unit card}
+{HPHeading Battle Reports}
+{HPText Battle Reports,"After a battle, a report will be added to your message list}
+{HPLink Post Battle}
+{HPTitle Battle Unit Types}
+{HPHeading Battle Unit Infantry}
+{HPText Battle Unit Infantry,"Your foot soldiers are the mainstay of most armies. They are particularly useful for siege battles, and suffer little or no penalty for operating in difficult terrain, unless they are armed with long weapons. Infantry can be vulnerable to cavalry or chariots, unless armed with halberds or long spears}
+{HPHeading Battle Unit Chariots}
+{HPText Battle Unit Chariots 1,"The chariot was a significant advance in military technology. Chariot mounted warriors can move faster, wear heavier armor and carry more ammunition than soldiers on foot. The height of their fighting platform gives them another edge over infantry}
+{HPText Battle Unit Chariots 2,"Chariots move faster than infantry in open terrain, but slower in difficult terrain and cannot enter forests. If forced to fight in forests, marshes or on steep slopes}
+{HPHeading Battle Unit Cavalry}
+{HPText Battle Unit Cavalry,"Cavalry are a cheaper and more efficient way of using horses in battle than chariots. They move faster, suffer lower terrain penalties}
+{HPHeading Battle Unit Artillery}
+{HPText Battle Unit Artillery 1,"The main use for artillery is to knock down walls and destroy towers in siege battles. Smaller types of engine may not be able to damage the largest walls}
+{HPText Battle Unit Artillery 2,"Artillery can also be useful in field battles. However, since they cannot move, they will need to be positioned carefully to be useful. Stone throwers can do a lot of damage, but are inaccurate and can sometimes hit your own troops. Bolt shooters are useful for long range sniping at enemy engines}
+{HPText Battle Unit Artillery 3,"When an artillery unit is ordered to move, it is packed up onto carts, and cannot fight in battle. Artillery is thus much easier to use when not moving. If you want to move and fight}
+{HPLink Units In Battle}
+{HPTitle Siege Assaults}
+{HPHeading Siege Assault Intro}
+{HPText Siege Assault Intro 1,"If you attack a settlement, then a siege assault battle will occur. The attacker's siege engines and archers will attack the settlement walls and towers, trying to create a breach in the wall}
+{HPText Siege Assault Intro 2,"The settlement surrenders, and the battle ends when an attacking unit reaches a breach or open gate, and their is no defending unit available to defend it. When the city surrenders}
+{HPHeading Settlement Defenses}
+{HPText Settlement Defenses,"If a settlement has a wall, it will also have some towers that can fire on the attackers. If missile units are garrisoned in the settlement, they are assumed to be garrisoning the towers, boosting their attack rate, and changing the projectiles used from simple arrows, to whatever they are armed with. A strong garrison will combine some missile units to fire on attackers}
+{HPHeading Prolonged Sieges}
+{HPText Prolonged Sieges 1,"The attacker must capture the settlement within the time limit allowed for battles, which is usually not possible if the settlement is well defended. If the settlement is not captured, the siege continues}
+{HPText Prolonged Sieges 2,"Any damage caused to the defenses is remembered from turn to turn. Two damaged pieces (wall, gate or tower) are automatically repaired each turn}
+{HPHeading Unwalled Settlements}
+{HPText Unwalled Settlements,"If a settlement has no walls, then the attackers must force their way in along one of the four entry roads. Defending units will defend these as if defending a wall breach, but without protective walls}
+{HPLink Siege Assaults}

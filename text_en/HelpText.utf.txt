@@ -16,7 +16,7 @@
 {Basic Operations}
 {HPText Desktop Camera}
 {Move the camera around by using the keyboard or drag the map by holding the left mouse button and dragging. Rotate by holding down the middle or right button. The indicator in the top right shows the direction you are facing, with straight up indicating north.}
-{HPText Desktop Selection }
+{HPText Desktop Selection}
 {Click on a banner to select an army or garrison, click on a name tab to select a settlement.}
 {HPLink Moving Units}
 {About Moving Units}
@@ -35,9 +35,9 @@
 {HPHead Unit Stacks}
 {Unit Stacks}
 {HPText Unit Stacks Desktop}
-{Clicking a banner selects a stack of units. Stacks may contain both military units and civilian settlers. Up to eight units are allowed in a stack or city garrison. The tiles at the bottom of the screen show  the units in the stack. }
+{Clicking a banner selects a stack of units. Stacks may contain both military units and civilian settlers. Up to eight units are allowed in a stack or city garrison. The tiles at the bottom of the screen show  the units in the stack.}
 {HPText Unit Stacks Touch}
-{Touching a banner selects a stack of units. Stacks may contain both military units and civilian settlers. Up to eight units are allowed in a stack or city garrison. The tiles at the bottom of the screen show  the units in the stack. }
+{Touching a banner selects a stack of units. Stacks may contain both military units and civilian settlers. Up to eight units are allowed in a stack or city garrison. The tiles at the bottom of the screen show  the units in the stack.}
 {HPHead Moving Stacks}
 {Moving Unit Stacks}
 {HPText Moving Stacks Desktop}

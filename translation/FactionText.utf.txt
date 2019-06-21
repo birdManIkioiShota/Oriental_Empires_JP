@@ -1,0 +1,69 @@
+{Shang Short}
+{Shang Full}
+{Shang Desc,"The Shang are a well organized farming society on the flood plain of the Yellow River. They are ruled over by a priest king who intercedes with Heaven on behalf of the people, and have developed a system of writing which will develop into modern Chinese script. They use this to write questions on bone fragments in a form of divination. Historically, they are reckoned to be the second great dynasty, but thanks to the afore mentioned oracle bones}
+{Zhou Short}
+{Zhou Full}
+{Zhou Desc Old,"The Zhou are a tough Chinese people in the Wei River valley to the west. Their rulers have a reputation as wise sage kings, and are renowned for their skill at chariot warfare. Historically, they overthrew the decadent Shang and formed the third, and longest lived}
+{Qin Short}
+{Qin Full}
+{Qin Desc,"The Qin are a small fiefdom at the western end of the Wei River valley. They are well organized and ruthlessly warlike, if a little uncultured. Historically they used their position at the periphery of the Chinese sphere to expand at the expense of the neighboring barbarians and become a powerful kingdom. Their leader King Zheng conquered all the other Chinese states and assumed the title of ""Shi Huangdi"" or ""First Emperor""}
+{Rong Short}
+{Rong Full}
+{Rong Desc,"The Dog Rong are a people of Tibetan descent}
+{Han Short}
+{Han Full}
+{Han Desc,"Han is a Chinese kingdom to the south of the Yellow River, in the same area once occupied by the semi legendary Xia Dynasty. The people are efficient and well organized, but apart from their skill at crossbow manufacture, not especially warlike. Historically Han was surrounded by too many enemies, and was eventually conquered by Qin. Han shares the same name as the later Han Empire, but its name is written with a different character}
+{Chu Short}
+{Chu Full}
+{Chu Desc,"The state of Chu has a distinct culture combining, that of northern China with that of the many southern tribes it has absorbed. Its nature inspired art, music and pottery are particularly admired. Chu's rulers are spiritual}
+{Wu Short}
+{Wu Full}
+{Wu Desc Old,"Wu occupies the area around the mouth of the Yangtze River. It's rulers are Chinese, but the people engage in practices considered somewhat barbarous}
+{Historically the original kingdom of Wu was destroyed by Min}
+{Min Short}
+{Min Full}
+{Min Desc,"The Kingdom of Min Yue is composed of numerous tribes from the south east region of China. Its leaders are have adopted Chinese culture, but the people are considered barbaric, and lacking in development. Nevertheless they are masters of warfare in the southern jungles}
+{Shu Short}
+{Shu Full}
+{Shu Desc,"Shu is situated in the modern day area of Sichuan in the west of China. They have their own highly distinct culture, focused on the worship of nature and the Sun. While slow to adopt writing, they have great talent in craftwork}
+{Historically, Shu played only a peripheral part in Chinese history, and since they left no writing of their own}
+{Ba Short}
+{Ba Full}
+{Ba Desc,"The Ba are a confederation of several tribes, with a reputation as fierce and disciplined fighters. They have a distinct culture, with their own script, and are particularly famous for their singing, dancing and weaving. They depend heavily on hunting and fishing, as their agriculture is somewhat primitive. They believe themselves descended from the white tiger}
+{Xiongnu Short}
+{Xiongnu Full}
+{Xiongnu Desc,"The Xiongnu are an animal herding people living on the Steppes}
+{Historically}
+{Mongols Short}
+{Mongols Full}
+{Mongols Desc,"Mongolian speaking peoples have been around the east Asian Steppes since the dawn of history, but the term Mongol itself does not appear until around 1000 AD, when it referred to a new grouping of nomadic tribes. Initially they differed little from the many similar groups that had gone before, but their famous leader Genghis Khan was able to instill an exceptional sense of loyalty and discipline in them}
+{Xianbei Short}
+{Xianbei Full}
+{Xianbei Desc,"The Xianbei are a Mongolic people living in the far east of Mongolia and the western part of Manchuria. Like most steppe peoples they are excellent horsemen, and live by herding and hunting. Although militarily formidable, they are rather primitive by Chinese standards. However, their craftsmen are outstanding}
+{Yi Short}
+{Yi Full}
+{Yi Desc,"The Dong Yi are a large group of non Chinese tribes living in the eastern part of China. They are live by herding animals, and considered experts with the bow. They wear their hair loose, have tattoos}
+{Di Short}
+{Di Full}
+{Di Desc,"The White Di are a non Chinese people living in the north east of China, but south of the Mongolian Steppes. They live by hunting, and herding sheep and goats. Indeed, one Chinese image of them is as a monster with the legs of a man, and the head of a goat. Unusually for herders, they have walled cities, and fight fiercely}
+{Dingling Short}
+{Dingling Full}
+{Dingling Desc,"The Dingling are a Siberian people living in the north of Mongolia. They live by hunting and fishing, but have also adopted the animal herding ways of the steppe peoples. They are quite primitive}
+{Noble Rebels Short}
+{Noble Rebels Full}
+{Noble Rebels Desc,"This faction is a collection of rebels who believe their lord has lost the mandate of heaven, and is no longer fit to rule. They are in revolt against him}
+{Red Eyebrow Rebels Short}
+{Red Eyebrow Rebels Full}
+{Red Eyebrow Rebels Desc,"Named from their practice of dying their eyebrows red to identify themselves in battle, these desperate men have been forced by circumstances to rebel against their rightful rulers. Other disaffected peasants may be temped to join them}
+{Yellow Turban Rebels Short}
+{Yellow Turban Rebels Full}
+{Yellow Turban Rebels Desc,"The harshness of peasant life has driven these men to rebel against the central government. They identify themselves by their yellow scarves, and engage in communal religious practices that include music}
+{Red Turban Rebels Short}
+{Red Turban Rebels Full}
+{Red Turban Rebels Desc}
+{White Lotus Rebellion Short}
+{White Lotus Rebellion Full}
+{White Lotus Rebellion Desc,"Driven to rebellion by high taxes and harsh lives}
+{Bandits Short}
+{Bandits Full}
+{Bandits Desc,"Criminals, desperadoes and misfits, bandits are an ever present danger to society, In times of hardship their ranks can be swollen by desperate peasants}

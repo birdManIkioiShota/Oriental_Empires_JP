@@ -124,7 +124,7 @@ Whenever this unit stops at a site suitable to found a settlement, one is automa
 {BD Weaver Desc}
 {Simple cloth can be woven at home, but attractive patterned cloth requires more sophisticated draw-looms. Here, teams of skilled weavers produce quantities of cloth for the local notables, and for trade to other communities.}
 {HS Horde Settlement Default Name}
-{Horde {0}}
+{{Horde {0}}
 {UI CC Not allowed in horde settlement}
 {Not allowed in horde settlements.}
 {TI Zhennan Wood}
@@ -144,11 +144,11 @@ Whenever this unit stops at a site suitable to found a settlement, one is automa
 {MR Bamboo}
 {Bamboo}
 {MR Bamboo Desc}
-{The tall straight bamboo stems that grow here are  valuable for construction. A settlement that controls (or has adjacent territory) to this resource can trade them for additional income. }
+{The tall straight bamboo stems that grow here are  valuable for construction. A settlement that controls (or has adjacent territory) to this resource can trade them for additional income.}
 {MR ZhennanWood}
 {Zhennan Wood}
 {MR ZhennanWood Desc}
-{The tall straight evergreen trees here produce wood that is much prized for furniture making and palace construction. The finest logs are so valuable that only royalty can afford them.  A settlement that controls (or has adjacent territory) to this resource can trade them for additional income. }
+{The tall straight evergreen trees here produce wood that is much prized for furniture making and palace construction. The finest logs are so valuable that only royalty can afford them.  A settlement that controls (or has adjacent territory) to this resource can trade them for additional income.}
 {MR Sable}
 {Sable}
 {MR Sable Desc}
@@ -216,9 +216,9 @@ Whenever this unit stops at a site suitable to found a settlement, one is automa
 {TT Unnamed Horde}
 {Unnamed Horde}
 {TT Moving Horde Stats}
-{Population: {0} -- Flocks: {1}}
+{{Population: {0} -- Flocks: {1}}
 {TT Horde Buildings under Construction}
-{Buildings Under Construction: {0}}
+{{Buildings Under Construction: {0}}
 {TT Convert Horde To Town}
 {Convert to a Fixed Town}
 {TT Trade Network Monopoly}
@@ -284,7 +284,7 @@ Whenever this unit stops at a site suitable to found a settlement, one is automa
 {UI Mission Failed Text}
 {Mission Failed}
 {UI Mission Failed Text 1}
-{You have failed to complete your mission. Your authority is reduced by {0}}
+{{You have failed to complete your mission. Your authority is reduced by {0}}
 {UI Mission Failed Text 2}
 {You have failed to complete your mission. Your allies have cancelled your alliance in disappointment.}
 {UI Faction Tag Muslim}
@@ -314,7 +314,7 @@ Whenever this unit stops at a site suitable to found a settlement, one is automa
 {Life of Genghis Khan Desc}
 {In this campaign you take the role of Temuchin, who would later take the title of Genghis Khan. It presents the key moments in his life as a series missions that you must complete to progress. You win if you can match his conquests within the allowed number of turns.}
 {Help}
-{### Trans ### }
+{### Trans ###}
 {HPTitle Horde Settlements}
 {Horde Settlements}
 {HPHeading Horde Settlements 1}
@@ -343,7 +343,7 @@ Whenever this unit stops at a site suitable to found a settlement, one is automa
 {Horde Settlements}
 {HPTitle Settlement Surrender}
 {Peaceful Surrender}
-{HPHeading Settlement Surrender }
+{HPHeading Settlement Surrender}
 {Peaceful Surrender}
 {HPHeading Settlement Surrender Text 1}
 {Sometimes a settlement will surrender peacefully at the start of a battle, or when an enemy unit reaches a breach.}
@@ -354,7 +354,7 @@ Whenever this unit stops at a site suitable to found a settlement, one is automa
 {HPLink Settlement Surrender}
 {Peaceful Surrender}
 {Advice}
-{### Trans ### }
+{### Trans ###}
 {Advice Title Spread Terror}
 {Spread Terror}
 {Advice Text Spread Terror}

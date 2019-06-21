@@ -27,9 +27,9 @@
 {Misc13}
 {Recruit}
 {Misc14}
-{Battle of {0}}
+{{Battle of {0}}
 {Misc15}
-{Siege of {0}}
+{{Siege of {0}}
 {Misc16}
 {Battle to The North}
 {Misc17}
@@ -47,7 +47,7 @@
 {Misc23}
 {for {0} turns}
 {Misc24}
-{per turn }
+{per turn}
 {Misc25}
 {Uses {0} Population}
 {Misc26}

@@ -1,0 +1,409 @@
+{Tumen Horse Archers}
+{Tumen Horse Archers Desc,"These lightly armored horse archers are the mainstay of the Tumen. With their powerful bows and expert marksmanship, they can subject an enemy to withering fire, before quickly withdrawing if threatened. Their mobility makes them excellent at scouting and outflanking}
+{Tumen Lancers}
+{Tumen Lancers Desc,"These heavy cavalry deliver a heavy charge capable of sweeping away most opponents, be they mounted or on foot. As with all Tumen troops they are organized in troops of ten with each man being responsible for the actions of the others. This fosters courage}
+{Tumen Heavy Cavalry}
+{Tumen Heavy Cavalry Desc,"With solid armor and powerful bows, this unit has the mobility to match enemy light cavalry, and the equipment to outshoot and outfight them. Against other types of opponent, they can delivery a withering barrage of fire that few can endure for long}
+{Keshik}
+{Keshik Desc,"These are the Khan's elite guards. They guard him and his family by day and night, and serve as the reserve in battle. They are recruited from the sons of the commanders of thousands and hundreds, and outrank these commanders. While it is a great honor to serve in the Keshik}
+{Algincin Scouts}
+{Algincin Scouts Desc,"A commander cannot be confident of victory in a military campaign without sound intelligence on the enemy. This is gathered by the Algincin who ride two days ahead of the main body to scout out the opponent's strength and dispositions. Composed of brave-hearted, sharp-sighted men on the swiftest horses}
+{Driven Civilians}
+{Driven Civilians Desc,"These unarmed civilians are rounded up from the countryside or conquered cities, and driven forward in front of the main force by officers with whips. The mass of bodies protect soldiers behind from the missiles of city defenders, and their corpses can help fill ditches and moats. However}
+{Travelling Party}
+{Travelling Party Desc,"This is party of travellers, together with their families}
+{Temuchins Family}
+{Temuchins Family Desc,"This is Temuchin's family. Himself, his mother Hoelun, brothers and sister}
+{Horde}
+{Horde Desc}
+{Whenever this unit stops at a site suitable to found a settlement, one is automatically created with all the buildings and people it previously had. When this unit moves}
+{Iron Pagodas}
+{Iron Pagodas Desc,"This elite unit wears the heaviest armor ever fielded in China. They are armored from head to toe, with even their faces protected by a mask or chainmail veil. They are primarily shock cavalry}
+{Meng'an Cavalry}
+{Meng'an Cavalry Desc,"These units are the backbone of the Jin Dynasty army. Recruited from ethnic Jurchen tribal groups of the same name, each three-thousand households is responsible for raising and equipping one unit of one thousand men. The unit mixes two ranks of heavily armed cavalry lancers, with three ranks of more lightly armed horse archers. Thus mobility}
+{Iron Sparrowhawks}
+{Iron Sparrowhawks Desc,"The Iron Sparrowhawks are the elite unit of the Xi Xia army. They are a heavy cavalry unit that combines both shock power and mobility. They move swiftly to where they are needed, and launch a powerful charge. If this is not successful}
+{Foot Treaders}
+{Foot Treaders Desc,"While the armies of Xi Xia are primarily mounted}
+{Palace Ghulams}
+{Palace Ghulams Desc,"These units are the Sultan's elite guard. As with other Ghulam units, they are composed mainly of Turkish slaves, which does not alter their high status. Well armed and armored lancers}
+{Ghulams Archers}
+{Ghulams Archers Desc,"These are slave soldiers mainly composed of Turks from the Khurasan region. Despite this, they are highly trained professional soldiers. They fight as heavy cavalry mainly relying on archery}
+{Ghulams Heavy Archers}
+{Ghulams Heavy Archers Desc,"These are slave soldiers mainly composed of Turks from the Khurasan region. Despite this, they are highly trained professional soldiers. They fight as heavy cavalry mainly relying on archery, but are also able to fight hand-to-hand with their skull crushing maces. With their armored horses}
+{Atabeg Archers}
+{Atabeg Archers Desc,"There units consist of Iranian noblemen and their retainers. They fight as armored horse archers, clustering together to fire dense volleys of arrows. They also have the skill and morale to fight at close quarters with their scimitars if need be. They are effective troops}
+{Turkoman Mercenaries}
+{Turkoman Mercenaries Desc,"Many small bands of Turkic tribesmen have infiltrated into the spaces between the great cities of Iran. Fighting as fierce light horse archers}
+{Dailami Guard}
+{Dailami Guard Desc,"Recruited from the mountainous regions of Iran, the Dailami's fairly light  equipment and flexible formation allow them to operate effectively in difficult terrain. However}
+{IT Army Swordsmen}
+{IT Army Swordsmen Desc,"These units with their razor sharp swords excel at fighting enemy infantry armed with longer more cumbersome weapons}
+{IT Militia Swordsmen}
+{IT Militia Swordsmen Desc,"Armed with sharp scimitars, these men excel in close-in fighting. Enemy units with spears and halberds may hold them at bay for a while, but eventually the swordsmen will force their way through the enemy spear wall, and engage in some close range butchery. They are also able to operate effectively in difficult terrain}
+{IT Militia Spear Archers}
+{IT Militia Spear Archers Desc,"These solid heavy spearmen are excellent at repelling cavalry attacks. With the rear ranks having bows instead of spears}
+{IT Army Spear Archers}
+{IT Army Spear Archers Desc,"These well trained men are comprised mainly of heavy spearmen who will stoutly resist attacks from both cavalry and infantry. However}
+{Tarim Guard Archers}
+{Tarim Guard Archers Desc,"Recruited mainly from the city folk}
+{BD Town To Horde}
+{BD Town To Horde Desc,"Construct wagons to move all the people and buildings. After completion a horde unit will be added to the garrison}
+{BD Assyrian Church I}
+{BD Assyrian Church I Desc,"This is a place where Christians can meet and pray together. A local priest provides religious instruction and officiates at ceremonies. In the Nestorian Church, the priest and his followers are often skilled in medicine and surgery}
+{BD Mosque I}
+{BD Mosque I Desc,"This a place where followers of the Prophet Muhammad, peace be upon him, gather to pray and listen to religious instruction. It contains separate areas for men and women, and a place to wash before prayer. It also serves as a focus for the community providing education}
+{BD Mosque II}
+{BD Mosque II Desc,"With domes and towers, this is an  impressive building that shows the glory of Islam. Imams call the faithful to prayer five times a day, from its lofty minarets. The mosque also functions as a center of learning}
+{BD Mosque III}
+{BD Mosque III Desc,"This is a fabulous richly decorated building, that shows off the wealth and power of the ruler, who has a special area set aside for himself and his family. The interior space is divided by arches and columns}
+{BD Carpet Maker}
+{BD Carpet Maker Desc,"Here workers spin and card fine wool into the thicker warps needed for carpets. Others work at looms}
+{BD Weaver}
+{BD Weaver Desc,"Simple cloth can be woven at home, but attractive patterned cloth requires more sophisticated draw-looms. Here, teams of skilled weavers produce quantities of cloth for the local notables}
+{HS Horde Settlement Default Name}
+{UI CC Not allowed in horde settlement}
+{TI Zhennan Wood}
+{TI Falcons}
+{TI Bamboo}
+{TI Sable Fur}
+{TI Carpets}
+{TI Textiles}
+{TI Glass}
+{MR Bamboo}
+{MR Bamboo Desc}
+{MR ZhennanWood}
+{MR ZhennanWood Desc}
+{MR Sable}
+{MR Sable Desc,"The small carnivorous animals who live here, have fur which is greatly prized for its warmth and smoothness}
+{MR Falcons}
+{MR Falcons Desc,"Hunting with birds is a favorite pastime of the aristocracy}
+{MR Goats}
+{MR Goats Desc,"A few wild goats scratch a living on the hillside, but are still a valuable source of nourishment. This will increase by {0} the food production of any settlement that controls it}
+{MR Silk Road West}
+{MR Silk Road West Desc}
+{MR Silk Road East}
+{MR Silk Road East Desc}
+{MR Silk Road Central}
+{MR Silk Road Central Desc}
+{MR Spice Road}
+{MR Spice Road Desc}
+{MR Sable Road}
+{MR Sable Road Desc}
+{MR Falcon Road}
+{MR Falcon Road Desc}
+{MR Trade Route2}
+{MR Trade Route2 Desc}
+{MR Sea Trade Route2}
+{MR Sea Trade Route2 Desc}
+{Unit Set Islamic Turk}
+{Unit Set Jurchen Jin}
+{Unit Set Xi Xia}
+{Unit Set TarimB}
+{UI SE Personal Names Islamic}
+{UI SE Place Names Central Asian}
+{UI SE Place Names Tarim Basin}
+{UI SE Place Names Turk}
+{UI SE Place Names Special Use}
+{UI SE Personal Names Turk}
+{TT Unnamed Horde}
+{TT Moving Horde Stats}
+{TT Horde Buildings under Construction}
+{TT Convert Horde To Town}
+{TT Trade Network Monopoly,"If you control all {0} resources with this symbol}
+{TT Trade Network Supply}
+{TT Trade Network Demand}
+{TT Settlement Surrender Text}
+{TT Terror Factors 1}
+{TT Teror Factors 2}
+{TT Teror Factors 3}
+{TT Terror Factors 4}
+{TT Terror Factors 5}
+{UI Confirm Convert Settlement Title}
+{UI Confirm Convert Settlement Msg,"Disband the horde unit and convert the settlement to a fixed town. This will allow land improvements and more buildings}
+{UI No Improvements For Horde}
+{UI CC No Room For Horde Unit}
+{UI CC No Flocks}
+{UI CC Farms}
+{UI CC Non Horde Buildings}
+{UI CC Not Town}
+{UI Player Mission Reminder Title}
+{UI Settlement Surrenders}
+{UI Settlement Falls}
+{UI VC Unavailable}
+{UI Cannot Attack}
+{UI Cannot Issue Edicts}
+{UI Cannot Research}
+{UI Cannot Do Diplomacy}
+{UI Cannot contact until unlocked.}
+{UI Technology Acquired}
+{UI Building cannot be destroyed}
+{UI Destruction unrest message}
+{UI Building destroyed effect}
+{UI Mission Failed Text}
+{UI Mission Failed Text 1}
+{UI Mission Failed Text 2}
+{UI Faction Tag Muslim}
+{UI Faction Tag Christian}
+{UI Faction Tag Buddhist}
+{UI SE Portrait Type}
+{UI SE Portrait Type Chinese}
+{UI SE Portrait Type Mongol}
+{UI SE Button Claim Lands}
+{UI SE Allowed Victory Conditions}
+{UI SE Faction Type Frozen}
+{FE Game Time of the Mongols}
+{Time Of The Mongols Desc}
+{FE Game Life of Genghis Khan}
+{Life of Genghis Khan Desc,"In this campaign you take the role of Temuchin}
+{Help}
+{HPTitle Horde Settlements}
+{HPHeading Horde Settlements 1}
+{HPText Horde Settlements 1,"Horde settlements are a special type of settlement that can be moved around the map. Each horde settlement has an accompanying horde unit. If this unit is moved, the entire settlement is packed up and loaded onto the unit. If the unit finishes its movement on a hex where a settlement could normally be created}
+{HPText Horde Settlements 2,"This mobility can be used defensively to move vulnerable settlements away from threatening enemies, or offensively by providing a travelling support base where you can replenish depleted units}
+{HPHeading Horde Settlements Creation}
+{HPText Horde Settlements Creation 1,"Horde settlements can only be created by herder factions that have the ""Iron-Wheeled Carts"" technology. They can be created in one of two ways. Firstly by recruiting a horde unit in an existing settlement}
+{HPText Horde Settlements Creation 2,"The second way is to convert an existing settlement to a horde by building the ""Town to Horde"" settlement upgrade on the building screen. When completed, this will create a horde unit in the garrison}
+{HPText Horde Settlements Creation 3}
+{HPHeading Horde Settlements Restrictions}
+{HPText Horde Settlements Restrictions,"Horde settlements are not allowed to have any farms or external buildings}
+{HPHeading Horde Settlement Attrition}
+{HPText Horde Settlement Attrition,"A horde unit can only deploy its settlement in a location where a normal settlement could be founded. Therefore it can't deploy within the territory of, or too close to another settlement, adjacent to water etc. If a horde unit is unable to deploy its settlement, then it cannot produce any food, apart from two for domestic production. The population will eat any stored food, and then any flock animals they have. When these are exhausted they will suffer attrition due to starvation. Flock animals will also suffer attrition due to lack of grazing. However}
+{HPLink Horde Settlements}
+{HPTitle Settlement Surrender}
+{HPHeading Settlement Surrender}
+{HPHeading Settlement Surrender Text 1,"Sometimes a settlement will surrender peacefully at the start of a battle}
+{HPHeading Settlement Surrender Text 2,"This is most likely to occur when a barbarian faction employs terror tactics to intimidate the city. These include destroying nearby settlements, assaulting the settlement with driven civilians}
+{HPHeading Settlement Surrender Text 3,"If a character is in the city}
+{HPLink Settlement Surrender}
+{Advice}
+{Advice Title Spread Terror}
+{Advice Text Spread Terror}
+{Advice Title Horde Attrition}
+{Advice Text Horde Attrition,"Your horde unit cannot deploy its settlement here}
+{Advice Title Horde Support}
+{Advice Text Horde Support}
+{Advice Title Convert To Horde}
+{Advice Text Convert To Horde,"You can convert this settlement to a horde and move it to a more favourable}
+{ED Kurultai}
+{ED Kurultai Desc}
+{ED Great Kurultai}
+{ED Great Kurultai Desc,"Now that I have subdued all the people of the felt walled tents, and united them into one nation. It is fitting that I, as leader of this new nation take the title ""Genghis Khan"" as a signal to all of my power and majesty. Let the leaders of the people gather together at a great festival to pledge loyalty to me}
+{ED Yam Messenger System}
+{ED Yam Messenger System Desc,"Our empire is vast and communication within it is slow. Let us establish a system of posts a day's journey apart supplied  with provisions, accommodation and fresh horses. Messengers on important business can exchange their tired horses for fresh ones at these stations}
+{ED Establish Keshik}
+{ED Establish Keshik Desc,"The army is composed of many tribes, and loyalty to the tribe may be greater than loyalty to the Khan. To combat this, let an elite guard be established composed on the sons or younger brothers of the leaders of the thousands and hundreds in the army. The Keshik will serve as the Khan's personal bodyguard, an elite reserve in battle}
+{ED Forbid Looting}
+{ED Forbid Looting Desc,"It is the natural right of the victors to take the possessions and women of the defeated, but looting during a battle takes soldiers away from the fight and allows defeated enemies to escape. Therefore looting during battle is strictly forbidden on pain of death. All loot shall be gathered after the battle}
+{ED Freedom of Worship}
+{ED Freedom of Worship Desc,"There is only one God in Heaven, but men reach him in different ways, and each man should be free to worship God in the way that he sees fit. Furthermore}
+{ED Tax Exemption}
+{ED Tax Exemption Desc,"For the improvement of the realm we should encourage men of learning and skill to ply their trades. Accordingly, doctors, artisans, undertakers}
+{ED Yassa Law}
+{ED Yassa Law Desc}
+{EFF CancelSuccessionPenalty}
+{EFF CancelDistancePenalty}
+{EFF EnablesUnits}
+{EFF IncreaseBooty}
+{Tech Iron Wheeled Carts}
+{Tech Iron Wheeled Carts Desc,"If a nomadic lifestyle is to be anything but basic subsistence, then a means of moving large and heavy tools and possessions is needed. These tough carts have wooden wheels taller than a man, with the rim covered in iron. Pulled by horses or oxen, they allow movement of large tents, food supplies}
+{Tech Terror Tactics}
+{Tech Terror Tactics Desc,"Sieging a well defended city can be a long and costly affair. Much loss can be avoided if the city can be terrified into surrendering without a fight. Tactics to achieve this include using local civilians as human shields in an assault, firing incendiary projectiles or diseased corpses into the city, or promising that any city that resists will be destroyed}
+{Tech Nerge}
+{Tech Nerge Desc,"The Nerge is a large scale winter hunt that also serves  as a military training exercise. The army surrounds a large area of terrain, and over a period of weeks slowly contracts the area in a tighter circle, thus entraping all the local wild animals. Anyone allowing an animal to escape is punished. When the circle has contracted to three miles across}
+{Tech Tengrism}
+{Tech Tengrism Desc,"Tengri is the Blue Sky and Eternal Heaven, the creator of everything. Between the blue sky and brown earth, human beings exist, Tengri tries to guide them by sending his sacred animals among them. Although every man's soul is connected to Tengri, it takes a Shaman to read Heaven's will}
+{Tech Loyal Followers}
+{Tech Loyal Followers Desc,"Traditionally, a leader relies on his extended family as trustworthy advisors and lieutenants, however a khan is not always blessed with smart or reliable relatives. Having been abandoned by his clan when his father died, Temuchin must learn to rely on the friends who have proved loyal and capable over the years}
+{Tech Allegiance}
+{Tech Allegiance Desc,"It is of the utmost importance that a follower is loyal to his Khan, and that his Khan can rely on him. A free man may voluntarily change his Khan}
+{Tech Protection of Heaven}
+{Tech Protection of Heaven Desc,"Temuchin was born with fire in his eyes and light on his face, his fate ordained by Heaven. When in danger, he will be protected by the holy mountain}
+{Tech Mongol Destiny}
+{Tech Mongol Destiny Desc,"As there is one ruler in Heaven, there should be one ruler on Earth. It is the will of Heaven that Temuchin and the Mongol people bring about this situation}
+{Tech Decimal Army Organization}
+{Tech Decimal Army Organization Desc,"Armies can operate more efficiently if they are well organized. In a decimal system, each man is allocated to an Arban of ten men. A man can never change his Arban, and if any one of them commits an infraction all are punished. Ten Arban are organized into a Zuun, and ten Zuun  are organized into a Mingghan. Ten Mingghan  are organized into a Tumen of ten thousand men. This system allows an army to efficiently controlled}
+{Tech Steppe Medicine}
+{Tech Steppe Medicine Desc,"The needs and resources of the pastoral nomad are different from those of sedentary peoples. Their lifestyle of riding and animal breaking can result in many broken bones, and constant warfare involves mainly arrow wounds. Important techniques include manipulation to fix broken bones and dislocations, sucking out poison or infection from a wound}
+{Tech Khanate Administration}
+{Tech Khanate Administration Desc,"A petty Khan may rule by merely voicing his wishes and relying on a few trusted cohorts to enforce them. However, a mighty empire needs fixed rules to ensure obedience, generals to gather the army}
+{Tech Qada Anda Nokor}
+{Tech Qada Anda Nokor Desc,"The ties of marriage, sworn brotherhood and friendship respectively that bind people together in a tribal society. Used skillfully, a lord can built a network of loyal and trusted supporters that can provide information}
+{Tech Reconnaissance}
+{Tech Reconnaissance Desc,"Victory can only be certain if a general has full knowledge of the enemy. Before starting a campaign he should seek knowledge from spies, or by questioning merchants. Once it has begun}
+{Tech Use All Talents}
+{Tech Use All Talents Desc,"The Mongols live a simple life, excelling in the skills needed to survive in the grasslands, forests and mountains. Men of other nations have other skills, have invented many wonderful things}
+{Tech Throat Singing}
+{Tech Throat Singing Desc,"A skilled singer can manipulate their mouth, lips and larynx to simultaneously produce a base note, and one or more overtone notes. Originating as a way to mimic the sounds of nature}
+{Tech Story Telling}
+{Tech Story Telling Desc,"In pre-literate world, information is preserved by story tellers who recount the histories of past peoples and times. Using tricks of meter and stock phrases}
+{Tech Islam}
+{Tech Islam Desc,"Follows of Islam believe that there is only one god, Allah, who is the creator and sustainer of the world. Human beings must surrender to his will, which he revealed to the prophet Muhammad, and which is written down in the holy book, the Koran. Its followers form a worldwide community that transcends race and language}
+{Tech Carpet Weaving}
+{Tech Carpet Weaving Desc,"A woolen carpet may be utilitarian floor covering, but it can also be a work of art suitable for the homes of kings and princes}
+{Tech Draw Loom}
+{Tech Draw Loom Desc,"A draw loom is a second frame that sits on top of a basic hand loom, providing a set of pattern shafts that are operated by an assistant. With this device, complex patterns can be woven into cloth of hemp, ramie, wool or silk}
+{Tech Wrestling}
+{Tech Wrestling Desc,"Wrestling is a manly sport that promotes strength and stamina. Two contestants grip each other and try to force their opponent to touch the ground with some part of their body other than their foot.  Wrestling matches are a popular form of entertainment}
+{Tech Kurultai}
+{Tech Kurultai Desc,"In many societies a ruler is automatically succeeded by his first born son. This system has the advantage of clarity, but can lead to children or unfit leaders being placed on the throne. In a lateral system}
+{Tech Sulde}
+{Tech Sulde Desc,"A sulde is a warriors spirit standard that stands outside his tent. Make from hairs from a stallion attached to a spear, it channels energy from the wind and sun to the warrior. People believe that his spirit becomes entwined with it}
+{Tech Naadam Festival}
+{Tech Naadam Festival Desc,"The Naadam is a festival where nomadic people gather to celebrate a special occasion. Besides feasting and socializing, there will be singing and dancing performances. Contests are held in the three major sports of wrestling}
+{Tech Nestorian Christianity}
+{Tech Nestorian Christianity Desc,"The Nestorians are a branch of Christianity that flourishes in Asia}
+{Khwarezm Short}
+{Khwarezm Full}
+{Khwarezm Desc,"Khwarazem is the marshy region south of the Aral sea, where the desert is watered by the Amu Darya river. Until recently the rulers  were vassals of the Qara Khitans, but have revolted and quickly taken  control of a large area. Although a devout Muslim, their ruler is in dispute with the Caliph in Bagdad, and also with his mother, a princess of the Kangli Turks. These internal divisions, and the resentment of the newly  conquered territories}
+{Qara Khitans Short}
+{Qara Khitans Full}
+{Qara Khitans Desc,"When the Khitan Empire was overthrown by the Jurchen, a group led by Yelu Dashi from the western outposts migrated further West rather than submit. Gathering warriors to the cause as they travelled, they established a kingdom in the  region north of the Tian Shan mountains, and soon subjugated the surrounding kingdoms to establish a huge area of dominance from the edges of Iran to the borders of China. Many powerful kingdoms submitted to them, but now some of these are in revolt. Although their subjects are mainly Muslim, The Qara Khitans themselves retain their Buddhist religion, and maintain the trappings of a Chinese state. Their name gave rise to the term Cathay}
+{Qocho Uyghurs Short}
+{Qocho Uyghurs Full}
+{Qocho Uyghurs Desc,"The Uyghurs were originally a Turkic people who controlled a vast empire across the Asian steppe. Eventually they were overthrown and a remnant of them fled to Qocho, an important city on the Silk Road, and established a kingdom there. Despite their nomadic origins, they now become a settled people living from agriculture and trade. Current day Uyghurs are Muslims}
+{Qangli Turks Short}
+{Qangli Turks Full}
+{Qangli Turks Desc,"The Kangli are a loose confederation of Turkic tribes who have lived in the area of Kazakhstan and Western Siberia for hundreds of years. They are primarily nomadic herders}
+{The Naiman Short}
+{The Naiman Full}
+{The Naiman Desc,"The Naiman are a Turkic people dominating the Altai mountain region. Their flocks thrive in the high meadows, though they also practice settled agriculture. They are unusual among the peoples of the region in having adopted Christianity as their religion, and follow the teachings of the Assyrian Church. Some believe they are the source of the legend of Prester John}
+{Xi Xia Short}
+{Xi Xia Full}
+{Xi Xia Desc,"The Xi Xia, also known as Tanguts are a people originally from Tibet, who took advantage of the chaos following the collapse of the Tang Dynasty to establish a state astride the Silk Road as it runs through the Gansu Corridor. The state combines both the Chinese cities along this route, and nomadic peoples living in the Ordos loop. The state is rich from trade}
+{Jurchen Jin Short}
+{Jurchen Jin Full}
+{Jurchen Jin Desc,"The Jin (Golden) Dynasty was founded by the Jurchen people from the forests of Manchuria, and rules most of Northern China. While the ethnic Jurchen remain an elite, their empire is very much a Chinese one}
+{Khitans Short}
+{Khitans Full}
+{Khitans Desc,"The Khitans are a Mongolian people living on the western edge of Manchuria. They practice a mixture of farming and herding. They once had a significant empire dominating the Mongolian steppe and parts of Northern China, but they were overthrown by the Jurchen people from further east}
+{Tatars Short}
+{Tatars Full}
+{Tatars Desc,"The Tatars are a nomadic herding people living in the eastern part of Mongolia. They are fierce horsemen similar to the other peoples of the area, but also the richest people on the Steppe due to their proximity to, and trade with China. Later the term Tatar became synonymous with Mongol, but at this point in history they are still a distinct}
+{Song Genghis Short}
+{Song Genghis Full}
+{Song Genghis Desc,"The empire ruled by the Song Dynasty is the most advanced in the world, reaching economic and cultural heights that will not be matched elsewhere for hundreds of years. Their wealth come from large scale manufacture of iron, steal, textiles and porcelain, facilitated by banks, paper money and joint stock companies. However their cultural and business pursuits mean they have little interest in war and often struggle to repel the attackers of less civilized, but fiercer, peoples. Most of their empire is in Southern China}
+{Kereits Short}
+{Kereits Full}
+{Kereits Desc,"The Kereits are the most powerful people on the Mongolian Steppe. Similar to other peoples of the area, they are primarily nomadic herders}
+{Merkits Short}
+{Merkits Full}
+{Merkits Desc,"The Merkits are a confederation of tribes living on the northernmost part of Mongolia. They practice both farming and pastoralism, but their bleak cold lands produce little wealth. They are renowned archers}
+{Khamag Mongols Short}
+{Khamag Mongols Full}
+{Khamag Mongols Desc,"The Mongols are a tough herding people living on the northern edge of the Mongolian Steppe. They are poor and uncivilized, but are great horsemen and fierce fighters. Traditionally they  devote much of their energy to fighting each other. However}
+{Karakhanids Short}
+{Karakhanids Full}
+{Karakhanids Desc,"The Karakhanid Khanate is the remaining eastern part of a previously much larger empire that ruled much of Central Asia. The original founders were nomadic Turkic tribes who converted to Islam, but many of them adopted the culture and lifestyle of the mainly Iranian subjects they rule over. Although they are much diminished, they are still wealthy from controlling an important part of the Silk Road and have access to the famous horses of the Ferghana valley. Previously they were vassals of the Kara Khitans}
+{The Kirghiz Short}
+{The Kirghiz Full}
+{The Kirghiz Desc,"The Kirghiz are a people of mixed Caucasian and Asian stock, possibly related to the Dingling. Once they dominated much of Central Asia, with many migrating to the area of modern day Kirghizstan, but others still live in the their original area in the Altai Mountains, an area famous for fine furs and large horses. Many of their people are nomadic herders, but some live in settled farming communities. Their royal family claim descent from Li Ling}
+{Jadaran Mongols Short}
+{Jadaran Mongols Full}
+{Jadaran Mongols Desc}
+{Tayichiud Mongols Short}
+{Tayichiud Mongols Full}
+{Tayichiud Mongols Desc}
+{Olkhonut Mongols Short}
+{Olkhonud Mongols Full}
+{Olkhonud Mongols Desc}
+{UI SE Delete Faction Title}
+{UI SE Delete Faction Msg}
+{CAP Scouting Range}
+{CAP Scouting Range Desc}
+{CAP Surrender Check}
+{CAP Surrender Check Desc1,"If this unit reaches a breach in a wall (not gate)}
+{CAP Surrender Check Desc2,"If this unit reaches a breached wall or destroyed gate}
+{CAP Travelling Horde}
+{CAP Travelling Horde Desc,"The unit is a travelling settlement. Whenever it stops in a suitable location the settlement will be recreated with its population and buildings. If it is unable to recreate the settlement}
+{CAP Terror Tactics}
+{CAP Terror Tactics Desc,"Destroying an enemy settlement will terrify nearby settlements of a similar or smaller size}
+{CAP Capture Tech}
+{CAP Capture Tech Desc,"When an enemy settlement is taken}
+{CAP Terrifying Weapon}
+{CAP Terrifying Weapon Desc}
+{CAP Terrifying Projectiles}
+{CAP Terrifying Projectiles Desc}
+{CAP Leader Invulnerable}
+{CAP Leader Invulnerable Desc,"Your faction leader has special protection. He can only be killed if his entire unit is destroyed}
+{CAP Disaster Medical Care}
+{CAP Disaster Medical Care Desc}
+{CAP Produce Zhennan Wood}
+{CAP Produce Zhennan Wood Desc}
+{CAP Produce Bamboo}
+{CAP Produce Bamboo Desc}
+{CAP Produce Falcons}
+{CAP Produce Falcons Desc}
+{CAP Produce Sable Fur}
+{CAP Produce Sable Fur Desc}
+{CAP Produce Carpets}
+{CAP Produce Carpets Desc}
+{CAP Produce Textiles}
+{CAP Produce Textiles Desc}
+{CAP Produce Glass}
+{CAP Produce Glass Desc}
+{LGK Intro1 Title}
+{LGK Intro1 Text}
+{LGK Intro2 Title}
+{LGK Intro2 Text,"One day Yesugei and his brothers were out hunting when they came across a man of the Merkit tribe. The man, Yeke Ciledu}
+{LGK Intro3 Title}
+{LGK Intro4 Title}
+{LGK Intro4 Text,"You are nine years old. You are the son of a minor chief, who unfortunately has just died. No-one among your clansmen is willing to take care of your family}
+{LGK Mission 1 Title}
+{LGK Mission 1 Text,"You are nine years old. You are the son of a minor chief, who unfortunately has just died. No-one among your clansmen is willing to take care of your family}
+{LGK Mission 2 Title}
+{LGK Event 1 Title}
+{LGK Event West Title}
+{LGK Event West Text,"All good times must come to end}
+{LGK Event Kill Brother Title}
+{LGK Event Kill Brother Text,"You are now fourteen years old, and tension has been building between yourself and your elder half brother Bekter. As he grows into manhood he will become the groups leader, and according to tradition}
+{LGK Event Arrows Title}
+{LGK Event Arrows Text,"Your mother is furious at your actions, and berates you at length, reminding you how few friends you have. She then asks you to break an arrow in half, which you do easily. She then asks to break a bundle of arrows}
+{LGK Mission Borte Title}
+{LGK Mission Sable Coat Title}
+{LGK Mission Sable Coat Text,"Congratulations, you have married Borte. She is your trusted companion and love of your life. As her dowry, her father gives you a valuable sable fur coat. Your mother advises you to take it to Togril who is currently the most powerful man on the steppe}
+{LGK Event Togril Title}
+{LGK Base Camp Title}
+{LGK Base Camp Text}
+{LGK Bortes Abduction Title}
+{LGK Borte Rescued Title}
+{LGK Borte Rescued Text,"Congratulations, your have rescued Borte and looted the Merkit's camp. Borte has been gone eight months and is now pregnant. Although the paternity is questionable, your accept the child as your own}
+{LGK Event Jamuka 2 Title}
+{LGK Event Jamuka 2 Text}
+{However}
+{LGK Event Own Man Title}
+{However}
+{LGK Avenge Your Father Mission Title}
+{LGK Avengue your Father Mission Text}
+{LGK Tartar Captured Title}
+{LGK Tartar Captured Text,"The Tartars are the wealthiest people on the steppe thanks to their proximity to China. You capture much booty from them. Your treasury is boosted by the portion you keep for your share}
+{LGK Young Khan Title}
+{LGK Young Khan Text,"Following your successes in battle, your Khamag tribe appoints you as their Khan. With your immediate tribe united}
+{LGK Mission Naimans Title}
+{LGK Event Togril Betraual Title}
+{LGK Event Togril Betrayal Text,"Your adoptive father Togril has grown old and frail. His son is jealous of you, and fears that Togril may make you his heir. He convinces Togril that you are dangerous and not to be trusted}
+{LGK Mission Genghis Khan Title}
+{LGK Mission Genghis Khans Text}
+{LGK Mission Attack Xi Xia Title}
+{LGK Mission Attack Xi Xia Text}
+{LGK Mission Attack Kara Khitans Title}
+{LGK Mission Atteck Jin Title}
+{LGK Mission Attack Jin Text}
+{LGK Event Merchants Seized Title}
+{LGK Mission Atttack Khwarazem Title}
+{LGK Mission Atttack Khwarazem Text}
+{LGK Mission Xi Xia Betrayal Title}
+{LGK Event Khasar Title}
+{LGK Event Khasar Text,"Your younger brother Khasar has come of age}
+{LGK Event Borochu Title}
+{LGK Event Borochu Text}
+{LGK Event Jelme Title}
+{LGK Event Jelme Text,"Jelme was given to you as a child}
+{LGK Event Jebe Title}
+{LGK Event Jebe Text}
+{LGK Event Subutai Title}
+{LGK Event Subutai Text}
+{LGK Event Muqali Title}
+{LGK Event Muqali Text,"Originally presented to you as a teenage slave, Muqali quickly became one of your most trusted and able servants. You promoted him to the rank of commander of a thousand}
+{LGK Event Tayichiud Title}
+{LGK Event Tayichiud Text,"The Tayichiud clan are your kinsmen who abandoned you on the steppe all those years ago, and who later held you prisoner for a while. They fear your growing power and worry that you thirst for revenge. They are now moving against you openly}
