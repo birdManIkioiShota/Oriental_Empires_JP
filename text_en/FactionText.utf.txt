@@ -1,57 +1,57 @@
 {Shang Short}
-{Shang}
+{殷}
 {Shang Full}
-{Shang}
+{殷}
 {Shang Desc}
-{The Shang are a well organized farming society on the flood plain of the Yellow River. They are ruled over by a priest king who intercedes with Heaven on behalf of the people, and have developed a system of writing which will develop into modern Chinese script. They use this to write questions on bone fragments in a form of divination. Historically, they are reckoned to be the second great dynasty, but thanks to the afore mentioned oracle bones, the first for which we have a real historical record.}
+{殷は黄河の氾濫原に位置する高度に組織化された農耕部族です．彼らは人々を代表して天国と交信を行う司祭の王によって統治されました．また，彼らが占いで骨片に質問を書くために確立された甲骨文字の書記体系は，現在の漢字のもととなっています．歴史的に見て彼らは2番目の王朝と考えられていますが，前述の甲骨文字のおかげで我々は本当の歴史的記録を持っています．}
 {Zhou Short}
-{Zhou}
+{周}
 {Zhou Full}
-{Zhou}
+{周}
 {Zhou Desc Old}
-{The Zhou are a tough Chinese people in the Wei River valley to the west. Their rulers have a reputation as wise sage kings, and are renowned for their skill at chariot warfare. Historically, they overthrew the decadent Shang and formed the third, and longest lived, great dynasty. The time of their rule is known as the Spring and Autumn period.}
+{周は渭水西部に位置する強靭な部族です．彼らの支配者は賢明な王として知られ，戦車戦の技能で名高いです．歴史的には，彼らは退廃的な殷を滅ぼした3番目の王朝であり，最も長く続いた素晴らしい王朝とされます．彼らが支配した時期は春秋時代と呼ばれます．}
 {Qin Short}
-{Qin}
+{秦}
 {Qin Full}
-{Qin}
+{秦}
 {Qin Desc}
 {The Qin are a small fiefdom at the western end of the Wei River valley. They are well organized and ruthlessly warlike, if a little uncultured. Historically they used their position at the periphery of the Chinese sphere to expand at the expense of the neighboring barbarians and become a powerful kingdom. Their leader King Zheng conquered all the other Chinese states and assumed the title of "Shi Huangdi" or "First Emperor", and it is from the name Qin that the English word China is derived.}
 {Rong Short}
-{Dog Rong}
+{犬戎}
 {Rong Full}
-{The Dog Rong}
+{犬戎}
 {Rong Desc}
 {The Dog Rong are a people of Tibetan descent, living around the Yellow River in the west. Their name derives from their worship of a white dog. According to legend they are the sworn enemies of the Chinese peoples living to the east of them. Initially they are animal herders rather than farmers. The Chinese regard them as uncivilized barbarians.}
 {Han Short}
-{Han}
+{漢}
 {Han Full}
-{Han}
+{漢}
 {Han Desc}
 {Han is a Chinese kingdom to the south of the Yellow River, in the same area once occupied by the semi legendary Xia Dynasty. The people are efficient and well organized, but apart from their skill at crossbow manufacture, not especially warlike. Historically Han was surrounded by too many enemies, and was eventually conquered by Qin. Han shares the same name as the later Han Empire, but its name is written with a different character, and is not connected to it.}
 {Chu Short}
-{Chu}
+{楚}
 {Chu Full}
-{Chu}
+{楚}
 {Chu Desc}
 {The state of Chu has a distinct culture combining, that of northern China with that of the many southern tribes it has absorbed. Its nature inspired art, music and pottery are particularly admired. Chu's rulers are spiritual, but somewhat decadent, and their conduct of administrative and military affairs is rather inefficient. Nevertheless Chu is a formidable power, that commands the loyalty of its people. 
 Historically Chu became a great kingdom, but was eventually defeated by Qin.}
 {Wu Short}
-{Wu}
+{呉}
 {Wu Full}
-{Wu}
+{呉}
 {Wu Desc Old}
 {Wu occupies the area around the mouth of the Yangtze River. It's rulers are Chinese, but the people engage in practices considered somewhat barbarous, such as tattooing and cutting hair. They are skilled with boats and ships, and are particularly skilled at making swords. Although their land is bountiful, it is unsuitable for horse rearing.
 Historically the original kingdom of Wu was destroyed by Min, but was revived several times, most notably during the famous Three Kingdoms period.}
 {Min Short}
-{Min Yue}
+{閩越}
 {Min Full}
-{Min Yue}
+{閩越}
 {Min Desc}
 {The Kingdom of Min Yue is composed of numerous tribes from the south east region of China. Its leaders are have adopted Chinese culture, but the people are considered barbaric, and lacking in development. Nevertheless they are masters of warfare in the southern jungles, and also great seafarers.}
 {Shu Short}
-{Shu}
+{蜀}
 {Shu Full}
-{Shu}
+{蜀}
 {Shu Desc}
 {Shu is situated in the modern day area of Sichuan in the west of China. They have their own highly distinct culture, focused on the worship of nature and the Sun. While slow to adopt writing, they have great talent in craftwork, producing a huge array of exquisite objects in gold, bronze and jade. Particularly famous are the gold and bronze masks from, Sanxingdui and Jinsha that inspire their symbol. Their location makes them natural traders.
 Historically, Shu played only a peripheral part in Chinese history, and since they left no writing of their own, not much is known of them. However, the archeological remains make it clear that they had an advanced civilization.}
@@ -62,22 +62,22 @@ Historically, Shu played only a peripheral part in Chinese history, and since th
 {Ba Desc}
 {The Ba are a confederation of several tribes, with a reputation as fierce and disciplined fighters. They have a distinct culture, with their own script, and are particularly famous for their singing, dancing and weaving. They depend heavily on hunting and fishing, as their agriculture is somewhat primitive. They believe themselves descended from the white tiger, which they worship and sacrifice to.}
 {Xiongnu Short}
-{Xiongnu}
+{匈奴}
 {Xiongnu Full}
-{The Xiongnu}
+{匈奴}
 {Xiongnu Desc}
 {The Xiongnu are an animal herding people living on the Steppes, the area of grassland to the north of China. Although the Chinese consider them barbarians, their artisans are highly skilled, and they are at the forefront of military developments.
 Historically, the Xiongnu came into their own when the adoption of horse riding enabled them to cross the great open plains quickly. They subjugated the other nomadic tribes of the Steppe, and for a while even forced the Han Empire to pay them tribute.}
 {Mongols Short}
-{Mongols}
+{モンゴル}
 {Mongols Full}
-{The Mongols}
+{モンゴル}
 {Mongols Desc}
 {Mongolian speaking peoples have been around the east Asian Steppes since the dawn of history, but the term Mongol itself does not appear until around 1000 AD, when it referred to a new grouping of nomadic tribes. Initially they differed little from the many similar groups that had gone before, but their famous leader Genghis Khan was able to instill an exceptional sense of loyalty and discipline in them, and create an unstoppable military machine that created the world's mightiest empire.}
 {Xianbei Short}
-{Xianbei}
+{鮮卑}
 {Xianbei Full}
-{The Xianbei}
+{鮮卑}
 {Xianbei Desc}
 {The Xianbei are a Mongolic people living in the far east of Mongolia and the western part of Manchuria. Like most steppe peoples they are excellent horsemen, and live by herding and hunting. Although militarily formidable, they are rather primitive by Chinese standards. However, their craftsmen are outstanding, and are particularly known for their headdresses of very thinly beaten metal.}
 {Yi Short}

@@ -132,7 +132,7 @@ Whenever this unit stops at a site suitable to found a settlement, one is automa
 {TI Falcons}
 {Falcons}
 {TI Bamboo}
-{Bamboo}
+{竹}
 {TI Sable Fur}
 {Sable Fur}
 {TI Carpets}
@@ -142,7 +142,7 @@ Whenever this unit stops at a site suitable to found a settlement, one is automa
 {TI Glass}
 {Glassware}
 {MR Bamboo}
-{Bamboo}
+{竹}
 {MR Bamboo Desc}
 {The tall straight bamboo stems that grow here are  valuable for construction. A settlement that controls (or has adjacent territory) to this resource can trade them for additional income.}
 {MR ZhennanWood}

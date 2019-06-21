@@ -48,11 +48,11 @@
 {Tech Divination Desc}
 {Only Heaven knows the future, but it often sends signs of what is come. These signs may be in the passage of the seasons, the behavior of animals, or in the shape of clouds. One skilled in the art, can read the fate of a person in the shape of their face, or the lines in their palm.}
 {Tech I Ching}
-{I Ching}
+{易経}
 {Tech I Ching Desc}
 {Also known as the Book of Changes, the I Ching, is not a method to predict the future, but rather to bring the individual soul into closer alignment with the cosmos, and give a glimpse of its deeper workings. Yarrow stalks are used to create sequences of six lines, or hexagrams, and each of the 64 possible hexagrams has a meaning which the user should consider in relation to their question.}
 {Tech Astrology}
-{Astrology}
+{占星術}
 {Tech Astrology Desc}
 {By a careful study of the stars, planets and other celestial bodies, the state of affairs in Heaven may be observed, and from that follow affairs on Earth. Thus, those skilled in the art are able to calculate the most auspicious times for major undertakings, determine whether couples are compatible in marriage, and to divine the character and fortune of a man from the state of Heaven at the moment of his birth.}
 {Tech Oracle Bones}
@@ -212,7 +212,7 @@
 {Tech Illustrated Books Desc}
 {In the same way that wood blocks can used to print characters, they can also be used to print simple diagrams and illustrations which make technical texts much easier to understand. Color illustrations can be made by using several differennt blocks, one for each color.}
 {Tech Silk}
-{Silk}
+{絹織物}
 {Tech Silk Desc}
 {Silk is a marvellous fabric, made from the cocoon of the silk worn moth. The cocoons must be gathered, and softened in hot water, then the strands of silk teased out and woven together. Very fine silks can be made from single strands, while many strands can be twisted into thread for rougher but stronger fabric.}
 {Tech Textile Printing}
@@ -320,7 +320,7 @@
 {Tech Stone Throwing Engine Desc}
 {An engine can be devised to throw rocks and stones over long distances. It can be used to bombard enemy soldiers, or to break down light fortifications. It uses a long bamboo pole balanced on a supporting frame. One end is placed on the ground with a sling or basket to contain a rock to be thrown, while the other end is supported high in the air by the frame. Men pull down on ropes attached to the high end, causing the low end to pivot up and fling the rocks.}
 {Tech Rammed Earth Wall}
-{Rammed Earth Wall}
+{版築}
 {Tech Rammed Earth Wall Desc}
 {The sticky yellow earth of China can be placed in a frame and repeatedly pounded with a special stick until it becomes extremely hard. While there is some technique in this, the real challenge is to organize the thousands of workers needed to create a suitable wall around a large city.}
 {Tech High Walls}

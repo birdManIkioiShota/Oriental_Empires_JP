@@ -1,67 +1,68 @@
 {ADV_TITLE_IN_001}
 {ご挨拶}
 {ADV_TEXT_IN_001}
-{Oriental Empireにようこそ．私がアドバイザーとなり，このゲームで重要となる事項や緊急の報告を行います．
+{Oriental Empireにようこそ．
+私がアドバイザーとなり，このゲームで重要となる事項や緊急の報告を行います．
 画面右上にあるヘルプボタンを押してください．これは現在あなたがいるゲームエリアの機能を説明します．}
 {ADV_TITLE_IN_002}
 {ゲーム中ヘルプ}
 {ADV_TEXT_IN_002}
 {ヘルプにアクセスするには，F1キーを押すか画面右上にあるヘルプボタンを押します．
-ヘルプ画面の左上にあるボタンで，ゲームマニュアルにアクセスします．}
+ヘルプ画面の左上にあるボタンでゲームマニュアルにアクセスします．}
 {ADV_TITLE_ST_001}
 {移動方法}
 {ADV_TEXT_ST_001}
-{ユニットを選択しました．移動の命令を出すには，ターゲットとなる場所を右クリックします．}
+{ユニットを選択しました．移動の命令を出すにはターゲットとなる場所を右クリックします．}
 {ADV_TITLE_ST_002}
 {移動方法}
 {ADV_TEXT_ST_002}
-{You have selected a unit. Order it to move somewhere by pressing and holding until the movement path is displayed.}
+{ユニットを選択しました．移動させるには，移動経路が表示されるまで右クリックし続けます．}
 {ADV_TITLE_ST_003}
-{Move Ordered}
+{移動が命じられました}
 {ADV_TEXT_ST_003}
-{You have given this unit a move order. It will not actually move until the end of the turn. When you have given all the orders you wish, end your turn by pressing the button in the bottom right.}
+{このユニットに移動を命じました．ユニットはターンを終了するまで移動しません．必要な命令をすべて与え終わったら，画面右下のボタンをクリックしてターンを終了します．}
 {ADV_TITLE_ST_004}
-{Move Ordered}
+{移動が命じられました}
 {ADV_TEXT_ST_004}
-{When there are more than one unit in a hex, they will all move together. A number of units in one hex is called a "stack".}
+{ヘックス内に複数のユニットが存在する場合，すべてのユニットが共に移動します．1へクスにいる複数のユニットをスタックと呼びます．}
 {ADV_TITLE_ST_005}
-{Move Failed}
+{移動に失敗しました}
 {ADV_TEXT_ST_005}
-{Your units cannot move here because one or more of them cannot enter this terrain, or they have no suitable path to reach the hex.}
+{ユニットがこの地形に侵入できないか，このヘクスに移動する経路がありません．}
 {ADV_TITLE_ST_006}
 {スタックを分割}
 {ADV_TEXT_ST_006}
-{You can split a stack of units by selecting one or more of the unit tiles at the bottom of the screen. Only the selected units will be ordered to move. You can select different units and order them to different locations.}
+{画面下部にあるユニットタイルを選択し，スタックを分割することで，選択したユニットにのみ移動の命令を与えます．異なるユニットを選択することで，それぞれ異なる場所へ移動させることもできます．}
 {ADV_TITLE_ST_007}
 {複数ユニットの選択}
 {ADV_TEXT_ST_007}
-{Select more than one unit in a stack by holding down the control key, or turning on sticky selection with the button to the right of the unit tiles.}
+{スタックの複数のユニットを選択するには，コントロールキーを押すか，ユニットタイルの右側にある固定選択ボタンをオンにします．}
 {ADV_TITLE_ST_008}
 {複数ユニットの選択}
 {ADV_TEXT_ST_008}
-{Select more than one unit in a stack by turning on sticky selection with the button to the right of the unit tiles.}
+{スタックの複数のユニットを選択するには，ユニットタイルの右側にある固定選択ボタンをオンにします．}
 {ADV_TITLE_ST_009}
-{Set Facing}
+{方向の設定}
 {ADV_TEXT_ST_009}
-{You can change the direction the stack will face after its movement, by using the change facing button underneath the unit tiles.}
+{スタックが移動後にどの方向を向くか指定するには，ユニットタイルの下にある方向変更ボタンを使用します．}
 {ADV_TITLE_ST_010}
-{Set Facing}
+{方向の設定}
 {ADV_TEXT_ST_010}
-{Change the direction this stack is facing by using the change facing button underneath the unit tiles.}
+{スタックがどの方向を向くか指定するには，ユニットタイルの下にある方向変更ボタンを使用します．}
 {ADV_TITLE_ST_011}
-{Garrison Selected}
+{駐屯部隊の選択}
 {ADV_TEXT_ST_011}
-{Clicking the flag selects the settlement's garrison. Click the name tab to open the management screen for the settlement.}
+{入植地の旗をクリックすると駐屯部隊を選択します．入植地の管理画面を開くには入植地の名前タブをクリックします．}
 {ADV_TITLE_ST_012}
-{Garrison Selected}
+{駐屯部隊の選択}
 {ADV_TEXT_ST_012}
-{Tapping the flag selects the settlement's garrison. Tap the name tab to open the management screen for the settlement.}
+{入植地の旗をクリックすると駐屯部隊を選択，名前タブをクリックすると入植地の管理画面を開きます．}
 {ADV_TITLE_ST_013}
-{Arrange Units}
+{ユニットの陣形}
 {ADV_TEXT_ST_013}
-{You can change the arrangement of units in a stack by selecting a formation for them using the button underneath the unit tiles. This is usually only important when a battle is likely.}
+{スタックのユニットの陣形を変更するには，ユニットタイル下のボタンを使用します．陣形は戦闘の際に重要です．}
 {ADV_TITLE_ST_014}
-{Arrange Units}
+{ユニットの陣形}
 {ADV_TEXT_ST_014}
 {The colored lines above the unit tiles indicate the lines in the formation. You can drag a unit tile to move into another line.}
 {ADV_TITLE_NV_001}
@@ -119,7 +120,7 @@
 {ADV_TITLE_UI_001}
 {グリッド}
 {ADV_TEXT_UI_001}
-{Alt + Gでグリッドのオン/オフを切り替えます．}
+{Alt+G でグリッドのオン/オフを切り替えます．}
 {ADV_TITLE_SET_001}
 {発展には農場が必要}
 {ADV_TEXT_SET_001}
@@ -229,7 +230,7 @@
 {ADV_TEXT_Trade_007}
 {One of the trade routes here is blocked. If it is blocked by an enemy, then military action will be needed to re-open it. If not, form a Fraternal Harmony Pact with the blocker to stop them blocking your trade.}
 {ADV_TITLE_Armies_001}
-{Stack Needs Rest}
+{スタックに休息が必要}
 {ADV_TEXT_Armies_001}
 {The efficiency of this stack is low, due to recent fighting or events. If it stops moving and fighting for a few turns, it will recover. The orange bars at the bottom of the unit tiles indicate efficiency.}
 {ADV_TITLE_Armies_002}
@@ -436,19 +437,19 @@ Make sure that in the early part of the game that you keep sending out settlers 
 {ADV_TEXT_GENGHIS_004}
 {You can convert this settlement to a horde and move it to a more favourable, or less threatened location.}
 {ADV_TITLE_C_GC_Shang01}
-{Greetings}
+{ご挨拶}
 {ADV_TEXT_C_GC_Shang01}
 {You are located on the flood plain of the Yellow River. There is ample good land to settle and farm, but there are enemies close by to the North, East and South, so it is important to stake out your claim to the land quickly. 
 
 I advise taking your settler unit and founding a new settlement about 8 to 10 hexes away. If you can place your settlement within three hexes of a Rhinoceros, Fish, or Wild Game resource, you will be able to exploit it for extra income or food.}
 {ADV_TITLE_C_GC_Shang02}
-{A Suggestion}
+{提案}
 {ADV_TEXT_C_GC_Shang02}
 {If you haven't already, it might be a good idea to recruit another settler unit in Yin, and send it out to claim more land while it is still uncontested.
 
 Also be sure to use your characters to explore the map and check out the yellow map encounter opportunities.}
 {ADV_TITLE_C_GC_Shang03}
-{A Suggestion}
+{提案}
 {ADV_TEXT_C_GC_Shang03}
 {It is time to think about recruiting another settler and starting a new settlement. 
 
@@ -456,19 +457,19 @@ A settlement to the south or east near the river will give you the later opportu
 
 On the other hand, a settlement to the West would be less vulnerable to attack, and would be especially valuable if you located any minerals to mine in the mountains.}
 {ADV_TITLE_C_GC_Han01}
-{Greetings}
+{ご挨拶}
 {ADV_TEXT_C_GC_Han01}
 {You are located on the flood plain of the Yellow River. There is ample good land to settle and farm, but there are enemies close by to the  East and West so it is important to stake out your claim to the land quickly. 
 
 I advise taking your settler unit and founding a new settlement about 8 to 10 hexes away.  If you can place your settlement within three hexes of a Rhinoceros, Fish, or Wild Game resource, you will be able to exploit it for extra income or food.}
 {ADV_TITLE_C_GC_Han02}
-{A Suggestion}
+{提案}
 {ADV_TEXT_C_GC_Han02}
 {If you haven't already, it might be a good idea to recruit another settler unit in Zheng and send it out to claim more land while it is still uncontested.
 
 Also be sure to use your characters to explore the map and check out the yellow map encounter opportunities.}
 {ADV_TITLE_C_GC_Han03}
-{A Suggestion}
+{提案}
 {ADV_TEXT_C_GC_Han03}
 {It is time to think about recruiting another settler and starting a new settlement. 
 
@@ -476,7 +477,7 @@ A settlement to the north or east near the river will give you the later opportu
 
 On the other hand, a settlement to the West might be able to exploit any minerals you've located in the mountains there.}
 {ADV_TITLE_C_GC_Chu01}
-{Greetings}
+{ご挨拶}
 {ADV_TEXT_C_GC_Chu01}
 {It's important to spread out quickly and stake out your territory, so send your settler unit out to start a new settlement. 
 
@@ -484,13 +485,13 @@ You have two main choices, settle to the east where there is lots of excellent f
 
 If you can place your settlement within three hexes of a Rhinoceros, Fish, or Wild Game resource, you will be able to exploit it for extra income or food.}
 {ADV_TITLE_C_GC_Chu02}
-{A Suggestion}
+{提案}
 {ADV_TEXT_C_GC_Chu02}
 {If you haven't already, it might be a good idea to recruit another settler unit in Danyang and send it out to claim more land while it is still uncontested.
 
 Also be sure to use your characters to explore the map and check out the yellow map encounter opportunities.}
 {ADV_TITLE_C_GC_Chu03}
-{A Suggestion}
+{提案}
 {ADV_TEXT_C_GC_Chu03}
 {It is time to think about recruiting another settler and starting a new settlement. 
 
@@ -499,7 +500,7 @@ Pushing south will eventually lead you to the great Yangtze river. While there i
 Alternatively, try to find a fertile area to the south east to create a farming settlement.
 }
 {ADV_TITLE_C_GCZhou01}
-{Greetings}
+{ご挨拶}
 {ADV_TEXT_C_GCZhou01}
 {You are located in the "land between the passes", a fertile river valley surrounded by mountains. By quickly dominating this space, you can form a solid base for wider conquests.
 
@@ -507,13 +508,13 @@ The only nearby rival is the to the west. You might consider placing you first s
 
 Whichever direction you choose, if you can place your settlement within three hexes of a Rhinoceros, Fish, or Wild Game resource, you will be able to exploit it for extra income or food.}
 {ADV_TITLE_C_GC_Zhou02}
-{A Suggestion}
+{提案}
 {ADV_TEXT_C_GC_Zhou02}
 {If you haven't already, it might be a good idea to recruit another settler unit in Fengjing and send it out to claim more land while it is still uncontested.
 
 Also be sure to use your characters to explore the map and check out the yellow map encounter opportunities.}
 {ADV_TITLE_C_GC_Zhou03}
-{A Suggestion}
+{提案}
 {ADV_TEXT_C_GC_Zhou03}
 {It is time to think about recruiting another settler and starting a new settlement. 
 
@@ -522,7 +523,7 @@ The most promising lands for cultivation are to the east, but spots to the north
 Your main rival for the "land between the passes" are the Qin to the west, but they are quite weak to begin with. It might also be wise to scout out the mountain passes to the south so that you can block any threat from that direction. 
 }
 {ADV_TITLE_C_GCShu01}
-{Greetings}
+{ご挨拶}
 {ADV_TEXT_C_GCShu01}
 {You are located in Sichuan, a fertile plain surrounded by mountains. Your main threats are from the north and the south east.
 
@@ -530,20 +531,20 @@ I would advise taking your settler unit and settling a little way to east, to pr
 
 If you can place your settlement within three hexes of a Rhinoceros, Fish, or Wild Game resource, you will be able to exploit it for extra income or food.}
 {ADV_TITLE_C_GC_Shu02}
-{A Suggestion}
+{提案}
 {ADV_TEXT_C_GC_Shu02}
 {If you haven't already, it might be a good idea to recruit another settler unit in Pi and send it out to claim more land while it is still uncontested.
 
 Also be sure to use your characters to explore the map and check out the yellow map encounter opportunities.}
 {ADV_TITLE_C_GC_Shu03}
-{A Suggestion}
+{提案}
 {ADV_TEXT_C_GC_Shu03}
 {It is time to think about recruiting another settler and starting a new settlement. 
 
 The best lands for farming are to the south and east, but a settlement to the north would protect against enemies in that direction, and provide access to any minerals you've discovered in the mountains there.
 }
 {ADV_TITLE_C_GCQin01}
-{Greetings}
+{ご挨拶}
 {ADV_TEXT_C_GCQin01}
 {Your nation is an outpost at the edge of Chinese civilization. You have powerful enemies to both east and west, and a limited supply of farmland.
 
@@ -551,7 +552,7 @@ The best place to find more farmland is to the east along the river, just past t
 
 There are potential settlement sites to the north and south too, but they are several turns distant from your capital. Make sure any attempt to settle them has a strong military escort.}
 {ADV_TITLE_C_GC_Qin02}
-{A Suggestion}
+{提案}
 {ADV_TEXT_C_GC_Qin02}
 {Since your land is limited, I advise prioritizing agricultural technologies in your research. 
 
@@ -559,19 +560,19 @@ Try to be at peace with your neighbors, but don't show any weakness that might i
 
 The early part of the game should be about surviving and trying to build a base. Later on you should exploit any difficulties your neighbors might have, to expand your lands.}
 {ADV_TITLE_C_GCWu01}
-{Greetings}
+{ご挨拶}
 {ADV_TEXT_C_GCWu01}
 {You start just south of the Yangtze River. To the south the landscape is mountainous and forested, and would require much land to be cleared for any settlement.
 
 To the north of the river however, is a large area of open fertile plain with no close by enemies. Many settlements could be placed here.}
 {ADV_TITLE_C_GC_Wu02}
-{A Suggestion}
+{提案}
 {ADV_TEXT_C_GC_Wu02}
 {You are excellently placed to dominate the lower Yangtze river. Placing settlements along the river and coast, will let you create a powerful maritime trading empire.
 
 Further north the Huai River would make a strong defensive border which you can prevent hostile forces crossing with a river fleet.}
 {ADV_TITLE_C_GCMinYue01}
-{Greetings}
+{ご挨拶}
 {ADV_TEXT_C_GCMinYue01}
 {You are the furthest south of the Chinese nations. To your south there are vast jungles and mountain ranges, but no enemy of any significance. The only nearby rival is to the north, but conflict with them is best avoided.
 
@@ -579,69 +580,69 @@ Your immediate position is very weak, with little land available to settle. Howe
 
 The only immediately viable settlement site is just across the river. There are some other small clearings along the rivers and coast, but you will have to explore a long way to find them.}
 {ADV_TITLE_C_GC_MinYue02}
-{A Suggestion}
+{提案}
 {ADV_TEXT_C_GC_MinYue02}
 {You will need to clear a lot of land to create a civilization, and need to maximize what you have. Prioritize research into clearing and agricultural technologies.
 
 Once you have bronze making technology, you can start to clear the forests. You can clear areas outside the territory of your main settlements, allowing you to create new settlements in the cleared area. }
 {ADV_TITLE_C_GC_MinYue03}
-{A Suggestion}
+{提案}
 {ADV_TEXT_C_GC_MinYue03}
 {Travelling around in the south is always going to be slow and difficult, unless you travel by boat. Try to develop naval technology as soon as possible.
 
 This will let you range along the coast, the Yangtze river, and other smaller rivers going inland. Settling to the west will eventually bring you to the Yangtze well away from other powers.}
 {ADV_TITLE_C_GCBa01}
-{Greetings}
+{ご挨拶}
 {ADV_TEXT_C_GCBa01}
 {You start just south of the Yangtze River in a secluded mountain valley. There are limited expansion possibilities to the South, but the better land is north of the river. 
 
 Expanding north and west may bring you into conflict with the Shu. Since your people are naturally warlike, don't be afraid to fight to secure an adequate territory.}
 {ADV_TITLE_C_GC_Ba02}
-{A Suggestion}
+{提案}
 {ADV_TEXT_C_GC_Ba02}
 {The settlement sites in the immediate vicinity are limited, but there is a wide open land further to the west. You may need to fight for it, but the prize is well worth it.
 
 Since your people are great warriors, but poor farmers, and your starting position is secure, an aggressive expansive military strategy may work well for Ba.}
 {ADV_TITLE_C_GCDogRong01}
-{Greetings}
+{ご挨拶}
 {ADV_TEXT_C_GCDogRong01}
 {You start way to the west on the banks of a tributary of the yellow river. As a herding people, you need to find grasslands, hills or fertile plains to graze your animals.
 
 Unfortunately there is little of either in the immediate vicinity, so you will need to make best of what you can find. There are many hillsides suitable for terracing though, so an early switch to a farming society may pay dividends.}
 {ADV_TITLE_C_GC_DogRong02}
-{A Suggestion}
+{提案}
 {ADV_TEXT_C_GC_DogRong02}
 {Your only rivals are the Qin to the south east. They are fierce, but not numerous, so you may be able to conquer them, or make them into your vassals.}
 {ADV_TITLE_C_GC_DogRong03}
-{A Suggestion}
+{提案}
 {ADV_TEXT_C_GC_DogRong03}
 {If you elect to remain as herding faction, there is a large area of grassland in the "Ordus Loop" area inside the great loop of the Yellow River some way to the north east. You could establish a strong pressence there.}
 {ADV_TITLE_C_GCDongYi01}
-{Greetings}
+{ご挨拶}
 {ADV_TEXT_C_GCDongYi01}
 {You start in the Shangdong Peninsula in Northern China. As a herding faction, you need to find large areas of fertile plains for your animals.
 
 While there is ample land available to expand into, you will inevitably soon come into contact with the powerful farming factions of Shang, Han and Wu. Don't over extend yourself, but make sure you move quickly to secure enough land before your easy expansion is halted.}
 {ADV_TITLE_C_GC_DongYi02}
-{A Suggestion}
+{提案}
 {ADV_TEXT_C_GC_DongYi02}
 {As you expand you will be occupying the fertile lands of the Yellow River flood plain. These lands are fine for your animals, but would be even more fruitful if you developed agriculture.
 
 An alternative strategy is to leverage the natural fierceness of your people to subjugate your neighbors before their population growth outpaces your own too far.}
 {ADV_TITLE_C_GCWhiteDi01}
-{Greetings}
+{ご挨拶}
 {ADV_TEXT_C_GCWhiteDi01}
 {You are a herding people starting in the north of China between the steppes and deserts to the north, and the fertile flood plains to the south.
 
 Since you can use grassland or fertile plain alike, there is plenty of land available to you. There are good sites immediately available to your south, and settling here would protect your capital. However, the area to the north east is unoccupied and can be settled without opposition.}
 {ADV_TITLE_C_GC_WhiteDi02}
-{A Suggestion}
+{提案}
 {ADV_TEXT_C_GC_WhiteDi02}
 {The land around you is very suited to farming so developing agriculture quickly would give you a denser population, and larger cities.
 
 However, you also well placed to become a more widely spread herding faction ranging across the whole north east. Pursue horse riding and nomadism for this strategy to work well.}
 {ADV_TITLE_C_GCXianbei01}
-{Greetings}
+{ご挨拶}
 {ADV_TEXT_C_GCXianbei01}
 {You are herding people located between the Great Khingan Mountains and the Gobi Desert. You need to find grassland, hills or fertile plains for your animals.
 
@@ -649,7 +650,7 @@ There is a large area suitable for settlement to the north around the lakes, but
 
 There is also plenty of land to the south, and settling there would form a good base for the conquest of China later in the game.}
 {ADV_TITLE_C_GC_Xianbei02}
-{A Suggestion}
+{提案}
 {ADV_TEXT_C_GC_Xianbei02}
 {Your position strongly favors becoming a wide ranging, horse riding culture. Prioritize horse archery and nomadism technologies, and space your settlements widely to allow them maximum room to develop.
 
@@ -661,13 +662,13 @@ Don't neglect to develop whatever minerals you can find in the mountains, to boo
 
 Try to space your settlements ten to twelve hexes apart to give them room to grow.}
 {ADV_TITLE_C_GC_XiongNu02}
-{A Suggestion}
+{提案}
 {ADV_TEXT_C_GC_XiongNu02}
 {Your position strongly favors becoming a wide ranging, horse riding culture. Prioritize horse archery and nomadism technologies to aid in this.
 
 There is a limited amount of potential agricultural land along some of the rivers, so developing agriculture will make it easier to develop larger more advanced settlements..}
 {ADV_TITLE_C_GC_XiongNu03}
-{A Suggestion}
+{提案}
 {ADV_TEXT_C_GC_XiongNu03}
 {You have ample lands to expand into, but your position is rather isolated. To fulfill your destiny and become the Son of Heaven, you will need to subjugate the other factions far to the south.
 
@@ -677,13 +678,13 @@ There is an area of excellent grassland south of the desert, and a little to the
 {ADV_TEXT_C_GCDingling01}
 {You start as a rather primitive herding faction in Northern Mongolia on the fringes of Siberia. To your south are the dangerous Xiongnu, but otherwise there are wide lands for you to occupy to the east and the west.}
 {ADV_TITLE_C_GC_Dingling02}
-{A Suggestion}
+{提案}
 {ADV_TEXT_C_GC_Dingling02}
 {Your position at the edge of the steppe gives you the opportunity to become a wide ranging, horse riding culture. Prioritize horse archery and nomadism technologies to achieve this.
 
 There are some fertile plains for farming available too, which gives you another option to develop agriculture and develop a mixed economy. }
 {ADV_TITLE_C_GC_Dingling03}
-{A Suggestion}
+{提案}
 {ADV_TEXT_C_GC_Dingling03}
 {With your isolated position, one option is to play a peaceful game, and try to win a cultural victory. 
 
@@ -699,7 +700,7 @@ To the West and South are the large states of Zhao and Qi, and the smaller one o
 
 The land to the East is mainly uninhabited, and offers an excellent opportunity to expand your kingdom. However there are many forests to clear, and marshes to drain, so turning the area into productive land will take some time.}
 {ADV_TITLE_C_WS_Qi01}
-{Greetings}
+{ご挨拶}
 {ADV_TEXT_C_WS_Qi01}
 {Your state is located in the east of the North China plain, in the area of Shandong. Your lands are not large, but they are very productive, and your cities are rich from trade.
 
@@ -715,7 +716,7 @@ However, your kingdom has great potential for expansion to the north and to the 
 
 As Zhao, you have the unique ability to reform your military (by issuing an edict) to adopt the horse archer tactics of the steppe peoples. This will aid you in your battles against them, and may also give you an edge over your Chinese rivals.}
 {ADV_TITLE_C_WS_Wei01}
-{Greetings}
+{ご挨拶}
 {ADV_TEXT_C_WS_Wei01}
 {Your state has emerged from the break up of the ancient state of Jin, and as such its holdings are scattered and somewhat intermixed with the other break-away states. Your central position, mean that you are surrounded by many powerful neighbors, but there are also smaller states that you might annex.
 
@@ -723,7 +724,7 @@ Wars are inevitable, but if you can make peace with at least some of your rivals
 
 While your central position is challenging, with skillful diplomacy, you can set your neighbors against each other, and benefit from their misfortunes.}
 {ADV_TITLE_C_WS_Yue01}
-{Greetings}
+{ご挨拶}
 {ADV_TEXT_C_WS_Yue01}
 {Your state was originally founded south of  the Yangtze river, but recently conquered the state of Wu, and expanded to control the area around the mouth of the Yangtze River. Filled with ambition you recently moved your capital far to the north as a springboard for further expansion. Defending this position may be difficult, and you may need to abandon it and concentrate on your core territory. 
 
@@ -731,37 +732,37 @@ Your lands are quite extensive, but they are sparsely populated, and your settle
 
 You are well positioned to create a lucrative water borne trade empire, with trade routes running along the coast and along the major rivers.}
 {ADV_TITLE_C_WS_Qin01}
-{Greetings}
+{ご挨拶}
 {ADV_TEXT_C_WS_Qin01}
 {You enjoy a secure position along  the Wei river valley, which is only accessible by a few easily defended routes. The barbarians to the west and north are the most likely to give you trouble.
 
 You have some of room to expand within your own territories, and plenty of potential to expand to the South, and you should consider trying to conquer the state of Shu and annex its territory. To the East are many powerful states, who will often be fighting each other. Look for opportunities to expand here when they are preoccupied with each other.}
 {ADV_TITLE_C_WS_Han01}
-{Greetings}
+{ご挨拶}
 {ADV_TEXT_C_WS_Han01}
 {Your territory is rather scattered, with settlements both north and south of the Yellow River. Holding on to everything may be a challenge, so you should avoid a two front war and do whatever it takes to secure peace with either the Northern or Southern neighbors.
 
 There is some room for expansion both north and south of the river, with the south perhaps being a little better. There are also the small states of Zhou and Zheng that you could conquer. However, beware of Chu to your south, as they have relatively few targets other than Han.}
 {ADV_TITLE_C_WS_Chu01}
-{Greetings}
+{ご挨拶}
 {ADV_TEXT_C_WS_Chu01}
 {You start in control of a large swathe of territory on the north bank of the Yangtze River. On paper you are wealthy and powerful, but your cities are far apart. Individually, none of your neighbors is a match for you, but given the distances involved, fighting two at once could be difficult. You have much empty territory to exploit, so it might be wise to concentrate on internal development for a while, and let others waste their strength fighting.
 
 Your capital is on the banks of the Yangtze river. Consider exploiting this waterway as highway for movement, and a route for trade. It's also a route you can use to attack Shu and Ba to the West, and Yue to the East.}
 {ADV_TITLE_C_WS_Shu01}
-{Greetings}
+{ご挨拶}
 {ADV_TEXT_C_WS_Shu01}
 {You start far to the West in the Sichuan basin, away from most of the other great powers. Compared to those you are relatively weak, but have plenty of space to develop and grow. Your biggest danger is Qin to the north, so try to secure peace with them until you are strong enough to fight.
 
 The state of Ba is your natural rival for domination of Sichuan, and some conflict with them is probably inevitable. }
 {ADV_TITLE_C_WS_Ba01}
-{Greetings}
+{ご挨拶}
 {ADV_TEXT_C_WS_Ba01}
 {You start in the south of China with a state that straddles the middle reaches of the Yangtze river. Your main avenues for expansion are to the South and to the West. The land to the South is uninhabited and undeveloped, but there are many forests to clear and marshes to drain before you can build great cities. Sichuan, the land to the west is more promising, but will bring you into conflict with Shu and Qin.
 
 Initially you are one of the weaker powers, and so should avoid conflict. However, you need to prepared to assert yourself against Shu to claim your share of Sichuan.}
 {ADV_TITLE_C_WS_Zhongshan01}
-{Greetings}
+{ご挨拶}
 {ADV_TEXT_C_WS_Zhongshan01}
 {You are a small state in northern China, surrounded by more powerful ones. Survival should be your main priority to begin with. Given your small starting territory, any war could be devastating, but may be difficult to avoid since you are tempting target for larger states looking to expand. Try to secure some powerful allies, or consider becoming a vassal to one of your neighbors.
 
@@ -773,25 +774,25 @@ If you can survive, there is space to expand into to the East around the mouth o
 
 All in all, your position is extremely difficult, and survival  should be seen as an achievement in itself.}
 {ADV_TITLE_C_WS_Zheng01}
-{Greetings}
+{ご挨拶}
 {ADV_TEXT_C_WS_Zheng01}
 {You begin as a single city state to the south of the Yellow River. Although many of the surrounding states are more powerful, your city is well fortified and rich, so you are no pushover. There is some land around that you can use to expand, but you'll need careful diplomacy to defend your new settlements.
 
 Although playing off your neighbors against each other may seem like the thing to do, much of your wealth comes from trade, and war is bad for business, even if you're not directly involved.}
 {ADV_TITLE_C_WS_Zhou01}
-{Greetings}
+{ご挨拶}
 {ADV_TEXT_C_WS_Zhou01}
 {Your state was once the overlord of all China, but is now reduced to a single city just south of the Yellow River. Restoring Zhou to its former glory will be a mammoth task, that will require great skill to achieve. However, your remaining city is rich and strong, so there is some hope.
 
 The nearby powers of Han and Wei will see you as a tempting target, so your priority should be to secure good relations with them. This will allow you to expand into the surrounding empty lands and become stronger. However, scope for expansion is limited, so you will need to fight to expand further, and for that you will need allies. If you make the right alliances you will prosper, if not you will be extinguished.}
 {ADV_TITLE_C_WS_Song01}
-{Greetings}
+{ご挨拶}
 {ADV_TEXT_C_WS_Song01}
 {You start as a medium sized power, on the south side of the Yellow River. Your immediate neighbors are smaller states that may look like tempting targets to annex, but beware of them allying themselves with stronger powers. As ever with the smaller states, diplomacy will be the key to advancement.
 
 You have some possibilities to expand your land, especially to the south. Also try to exploit your central position and access to the Yellow River to build a lucrative trade network.}
 {ADV_TITLE_C_WS_Lu01}
-{Greetings}
+{ご挨拶}
 {ADV_TEXT_C_WS_Lu01}
 {Lu is a small state near the coast to the south of the Shandong Peninsula. All the surrounding powers are much stronger, and will be looking to gobble you up, particularly the powerful state of Qi to your north. You will need to ally with some of your neighbors to survive, and it may be necessary to become a vassal of one of them.
 
@@ -803,13 +804,13 @@ There is some limited space to expand, but holding a larger territory will be di
 
 You are not in close contact with the any of the farming states, who lay mostly to the south and east, but the mobility of your light cavalry will let you form raiding parties with little fear of reprisals. This is a good way to raise money, which will otherwise be in short supply.}
 {ADV_TITLE_C_WS_DongHu01}
-{Greetings}
+{ご挨拶}
 {ADV_TEXT_C_WS_DongHu01}
 {You are unusual in that you have a mixed economy, combining both nomadic herdsmen  and settled farmers. This gives you options to exploit all the land around you. In the long run, farming on the fertile plains will be more lucrative, but farms are also harder to protect, so also make sure to have a few settlements of herders in the grassland to the north.
 
 You start next to several farming states, and raiding them for loot can be a good extra source of income. However, try to spread the damage you do equally, lest any one of them become too strong. In particular beware the state of Yan to your south, it will likely defeat you in a full scale war.}
 {ADV_TITLE_C_WS_DogRong01}
-{Greetings}
+{ご挨拶}
 {ADV_TEXT_C_WS_DogRong01}
 {Your faction is a loose confederation of semi-nomadic tribes spread thinly across the western part of the map. Your confederation is weak and divided, but its remote location is its protection, and you have ample room to expand and grow stronger.
 

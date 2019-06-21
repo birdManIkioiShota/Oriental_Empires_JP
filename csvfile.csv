@@ -1,39 +1,40 @@
-./text_en/AdviceText.utf.txt,,達成率,2.611%
+./text_en/AdviceText.utf.txt,,達成率,5.836%
 ADV_TITLE_IN_001,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_IN_001,"Welcome to Oriental Empires. I will be your advisor, pointing out important features of the game, and bringing urgent matters to your attention. 
 Note the help button in the top right of the screen. This will explain the function of whichever game area you are currently in.","東洋帝国へようこそ。私はゲームの重要な特徴を指摘し、あなたの注意に緊急事項をもたらし、あなたの顧問となります。
-画面の右上にあるヘルプボタンを注意してください。これは、あなたが現在どのゲームエリアの機能を説明します。","Oriental Empireにようこそ．私がアドバイザーとなり，このゲームで重要となる事項や緊急の報告を行います．
+画面の右上にあるヘルプボタンを注意してください。これは、あなたが現在どのゲームエリアの機能を説明します。","Oriental Empireにようこそ．
+私がアドバイザーとなり，このゲームで重要となる事項や緊急の報告を行います．
 画面右上にあるヘルプボタンを押してください．これは現在あなたがいるゲームエリアの機能を説明します．"
 ADV_TITLE_IN_002,In Game Help,ゲームのヘルプで,ゲーム中ヘルプ
 ADV_TEXT_IN_002,Press F1 or use the info button in the top right corner to access help. The button in the top left of the help screen will access the contents of the in game manual.,F1キーを押すか、ヘルプにアクセスするには、右上の隅に情報ボタンを使用します。ヘルプ画面の左上にあるボタンは、中のゲームマニュアルの内容にアクセスします。,"ヘルプにアクセスするには，F1キーを押すか画面右上にあるヘルプボタンを押します．
-ヘルプ画面の左上にあるボタンで，ゲームマニュアルにアクセスします．"
+ヘルプ画面の左上にあるボタンでゲームマニュアルにアクセスします．"
 ADV_TITLE_ST_001,How to Move,移動する方法,移動方法
-ADV_TEXT_ST_001,You have selected a unit. Order it to move somewhere by right clicking the target location.,あなたは、ユニットを選択しました。右のターゲットの場所をクリックしてどこかに移動するには、それを注文。,ユニットを選択しました．移動の命令を出すには，ターゲットとなる場所を右クリックします．
+ADV_TEXT_ST_001,You have selected a unit. Order it to move somewhere by right clicking the target location.,あなたは、ユニットを選択しました。右のターゲットの場所をクリックしてどこかに移動するには、それを注文。,ユニットを選択しました．移動の命令を出すにはターゲットとなる場所を右クリックします．
 ADV_TITLE_ST_002,How to Move,移動する方法,移動方法
-ADV_TEXT_ST_002,You have selected a unit. Order it to move somewhere by pressing and holding until the movement path is displayed.,あなたは、ユニットを選択しました。移動経路が表示されるまで押し続けてどこかに移動するには、それを注文。,
-ADV_TITLE_ST_003,Move Ordered,移動順序,
-ADV_TEXT_ST_003,"You have given this unit a move order. It will not actually move until the end of the turn. When you have given all the orders you wish, end your turn by pressing the button in the bottom right.",あなたは、このユニットの移動順与えています。これは、実際にはターン終了時まで移動しません。あなたが望むすべての注文を与えている場合は、右下のボタンを押すことによって、あなたのターンを終了。,
-ADV_TITLE_ST_004,Move Ordered,移動順序,
-ADV_TEXT_ST_004,"When there are more than one unit in a hex, they will all move together. A number of units in one hex is called a ""stack"".",進に複数のユニットが存在する場合、それらはすべて一緒に移動します。 1つのヘクス内のユニットの数は、「スタック」と呼ばれています。,
-ADV_TITLE_ST_005,Move Failed,移動に失敗しました,
-ADV_TEXT_ST_005,"Your units cannot move here because one or more of them cannot enter this terrain, or they have no suitable path to reach the hex.",それらの1つ以上がこの地形を入力することはできませんので、あなたのユニットは、ここでは動くことができない、または彼らはヘックスに到達するためのいかなる適したパスを持っていません。,
+ADV_TEXT_ST_002,You have selected a unit. Order it to move somewhere by pressing and holding until the movement path is displayed.,あなたは、ユニットを選択しました。移動経路が表示されるまで押し続けてどこかに移動するには、それを注文。,ユニットを選択しました．移動させるには，移動経路が表示されるまで右クリックし続けます．
+ADV_TITLE_ST_003,Move Ordered,移動順序,移動が命じられました
+ADV_TEXT_ST_003,"You have given this unit a move order. It will not actually move until the end of the turn. When you have given all the orders you wish, end your turn by pressing the button in the bottom right.",あなたは、このユニットの移動順与えています。これは、実際にはターン終了時まで移動しません。あなたが望むすべての注文を与えている場合は、右下のボタンを押すことによって、あなたのターンを終了。,このユニットに移動を命じました．ユニットはターンを終了するまで移動しません．必要な命令をすべて与え終わったら，画面右下のボタンをクリックしてターンを終了します．
+ADV_TITLE_ST_004,Move Ordered,移動順序,移動が命じられました
+ADV_TEXT_ST_004,"When there are more than one unit in a hex, they will all move together. A number of units in one hex is called a ""stack"".",進に複数のユニットが存在する場合、それらはすべて一緒に移動します。 1つのヘクス内のユニットの数は、「スタック」と呼ばれています。,ヘックス内に複数のユニットが存在する場合，すべてのユニットが共に移動します．1へクスにいる複数のユニットをスタックと呼びます．
+ADV_TITLE_ST_005,Move Failed,移動に失敗しました,移動に失敗しました
+ADV_TEXT_ST_005,"Your units cannot move here because one or more of them cannot enter this terrain, or they have no suitable path to reach the hex.",それらの1つ以上がこの地形を入力することはできませんので、あなたのユニットは、ここでは動くことができない、または彼らはヘックスに到達するためのいかなる適したパスを持っていません。,ユニットがこの地形に侵入できないか，このヘクスに移動する経路がありません．
 ADV_TITLE_ST_006,Splitting a Stack,スタックを分割,スタックを分割
-ADV_TEXT_ST_006,You can split a stack of units by selecting one or more of the unit tiles at the bottom of the screen. Only the selected units will be ordered to move. You can select different units and order them to different locations.,あなたは、画面の一番下にあるユニットのタイルの1つまたは複数を選択することで、ユニットのスタックを分割することができます。のみ選択したユニットが移動するために注文することになります。あなたは別の単位を選択して別の場所にそれらを注文することができます。,
+ADV_TEXT_ST_006,You can split a stack of units by selecting one or more of the unit tiles at the bottom of the screen. Only the selected units will be ordered to move. You can select different units and order them to different locations.,あなたは、画面の一番下にあるユニットのタイルの1つまたは複数を選択することで、ユニットのスタックを分割することができます。のみ選択したユニットが移動するために注文することになります。あなたは別の単位を選択して別の場所にそれらを注文することができます。,画面下部にあるユニットタイルを選択し，スタックを分割することで，選択したユニットにのみ移動の命令を与えます．異なるユニットを選択することで，それぞれ異なる場所へ移動させることもできます．
 ADV_TITLE_ST_007,Selecting Multiple Units,複数のユニットを選択します,複数ユニットの選択
-ADV_TEXT_ST_007,"Select more than one unit in a stack by holding down the control key, or turning on sticky selection with the button to the right of the unit tiles.",コントロールキーを押しながら、またはユニットタイルの右にあるボタンで粘着性の選択をオンにして、スタック内の複数のユニットを選択します。,
+ADV_TEXT_ST_007,"Select more than one unit in a stack by holding down the control key, or turning on sticky selection with the button to the right of the unit tiles.",コントロールキーを押しながら、またはユニットタイルの右にあるボタンで粘着性の選択をオンにして、スタック内の複数のユニットを選択します。,スタックの複数のユニットを選択するには，コントロールキーを押すか，ユニットタイルの右側にある固定選択ボタンをオンにします．
 ADV_TITLE_ST_008,Selecting Multiple Units,複数のユニットを選択します,複数ユニットの選択
-ADV_TEXT_ST_008,Select more than one unit in a stack by turning on sticky selection with the button to the right of the unit tiles.,ユニットタイルの右にあるボタンで粘着性の選択をオンにして、スタック内の複数のユニットを選択します。,
-ADV_TITLE_ST_009,Set Facing,直面して設定します,
-ADV_TEXT_ST_009,"You can change the direction the stack will face after its movement, by using the change facing button underneath the unit tiles.",あなたは、スタックは、ユニットタイルの下にボタンが直面している変化を利用して、その動きの後に直面するであろう方向を変更することができます。,
-ADV_TITLE_ST_010,Set Facing,直面して設定します,
-ADV_TEXT_ST_010,Change the direction this stack is facing by using the change facing button underneath the unit tiles.,このスタックは、ユニットタイルの下のボタンを向い変化を利用して向いている方向を変えます。,
-ADV_TITLE_ST_011,Garrison Selected,ギャリソン選択,
-ADV_TEXT_ST_011,Clicking the flag selects the settlement's garrison. Click the name tab to open the management screen for the settlement.,フラグをクリックすると、決済の駐屯地を選択します。決済のための管理画面を開くには、名前のタブをクリックします。,
-ADV_TITLE_ST_012,Garrison Selected,ギャリソン選択,
-ADV_TEXT_ST_012,Tapping the flag selects the settlement's garrison. Tap the name tab to open the management screen for the settlement.,フラグをタップすると決済の駐屯地を選択します。決済のために管理画面を開くには、名前のタブをタップします。,
-ADV_TITLE_ST_013,Arrange Units,ユニットの手配,
-ADV_TEXT_ST_013,You can change the arrangement of units in a stack by selecting a formation for them using the button underneath the unit tiles. This is usually only important when a battle is likely.,あなたは、ユニットタイル下のボタンを使用してそれらの形成を選択することにより、スタック内のユニットの配置を変更することができます。これは通常の戦いの可能性がある場合にのみ重要です。,
-ADV_TITLE_ST_014,Arrange Units,ユニットの手配,
+ADV_TEXT_ST_008,Select more than one unit in a stack by turning on sticky selection with the button to the right of the unit tiles.,ユニットタイルの右にあるボタンで粘着性の選択をオンにして、スタック内の複数のユニットを選択します。,スタックの複数のユニットを選択するには，ユニットタイルの右側にある固定選択ボタンをオンにします．
+ADV_TITLE_ST_009,Set Facing,直面して設定します,方向の設定
+ADV_TEXT_ST_009,"You can change the direction the stack will face after its movement, by using the change facing button underneath the unit tiles.",あなたは、スタックは、ユニットタイルの下にボタンが直面している変化を利用して、その動きの後に直面するであろう方向を変更することができます。,スタックが移動後にどの方向を向くか指定するには，ユニットタイルの下にある方向変更ボタンを使用します．
+ADV_TITLE_ST_010,Set Facing,直面して設定します,方向の設定
+ADV_TEXT_ST_010,Change the direction this stack is facing by using the change facing button underneath the unit tiles.,このスタックは、ユニットタイルの下のボタンを向い変化を利用して向いている方向を変えます。,スタックがどの方向を向くか指定するには，ユニットタイルの下にある方向変更ボタンを使用します．
+ADV_TITLE_ST_011,Garrison Selected,ギャリソン選択,駐屯部隊の選択
+ADV_TEXT_ST_011,Clicking the flag selects the settlement's garrison. Click the name tab to open the management screen for the settlement.,フラグをクリックすると、決済の駐屯地を選択します。決済のための管理画面を開くには、名前のタブをクリックします。,入植地の旗をクリックすると駐屯部隊を選択します．入植地の管理画面を開くには入植地の名前タブをクリックします．
+ADV_TITLE_ST_012,Garrison Selected,ギャリソン選択,駐屯部隊の選択
+ADV_TEXT_ST_012,Tapping the flag selects the settlement's garrison. Tap the name tab to open the management screen for the settlement.,フラグをタップすると決済の駐屯地を選択します。決済のために管理画面を開くには、名前のタブをタップします。,入植地の旗をクリックすると駐屯部隊を選択，名前タブをクリックすると入植地の管理画面を開きます．
+ADV_TITLE_ST_013,Arrange Units,ユニットの手配,ユニットの陣形
+ADV_TEXT_ST_013,You can change the arrangement of units in a stack by selecting a formation for them using the button underneath the unit tiles. This is usually only important when a battle is likely.,あなたは、ユニットタイル下のボタンを使用してそれらの形成を選択することにより、スタック内のユニットの配置を変更することができます。これは通常の戦いの可能性がある場合にのみ重要です。,スタックのユニットの陣形を変更するには，ユニットタイル下のボタンを使用します．陣形は戦闘の際に重要です．
+ADV_TITLE_ST_014,Arrange Units,ユニットの手配,ユニットの陣形
 ADV_TEXT_ST_014,The colored lines above the unit tiles indicate the lines in the formation. You can drag a unit tile to move into another line.,ユニットタイル上記着色ラインは形成のラインを示します。あなたは別の行に移動するユニットタイルをドラッグすることができます。,
 ADV_TITLE_NV_001,Embarking on Ships,船に着手,
 ADV_TEXT_NV_001,"To embark onto ships, a stack must be adjacent to the stack containing the ships.",船に乗り出すために、スタックは、船を含むスタックに隣接している必要があります。,
@@ -62,7 +63,7 @@ ADV_TEXT_HS_004,NA,NA,NA
 ADV_TITLE_HS_005,NA,NA,NA
 ADV_TEXT_HS_005,NA,NA,NA
 ADV_TITLE_UI_001,Hex Grid,六角グリッド,グリッド
-ADV_TEXT_UI_001,Press Alt + G to turn the hex grid on or off.,Altキー+ Gをオンまたはオフに六角グリッドをオンにします。,Alt + Gでグリッドのオン/オフを切り替えます．
+ADV_TEXT_UI_001,Press Alt + G to turn the hex grid on or off.,Altキー+ Gをオンまたはオフに六角グリッドをオンにします。,Alt+G でグリッドのオン/オフを切り替えます．
 ADV_TITLE_SET_001,Need Farms to Grow,成長するために農場を必要とします,発展には農場が必要
 ADV_TEXT_SET_001,"Build more farms to increase the food supply. This will lead to the population growing, providing more tax, and increasing your power.",食糧供給を増やすために、よりファームを構築します。これは、人口、成長しているより多くの税を提供し、あなたの力を高めることにつながります。,農場を建設し，食糧供給を増やしましょう．農場は人口を増大させるとともに多くの税収をもたらし，あなたの力を高めます．
 ADV_TITLE_SET_002,Repair Looted Farms,略奪農場を修復,略奪された農地を修復
@@ -117,10 +118,10 @@ ADV_TITLE_Trade_006,Connect By Roads,道路によって接続します,
 ADV_TEXT_Trade_006,Connecting settlements with roads increases the value of trade between them.,道路との和解を接続すると、それらの間の貿易額が増加します。,
 ADV_TITLE_Trade_007,Trade Route Blocked,交易路は、ブロックされました,
 ADV_TEXT_Trade_007,"One of the trade routes here is blocked. If it is blocked by an enemy, then military action will be needed to re-open it. If not, form a Fraternal Harmony Pact with the blocker to stop them blocking your trade.",ここでの貿易ルートの一つがブロックされています。それは敵によってブロックされている場合は、軍事行動は、それを再度開くことが必要になります。ない場合は、あなたの貿易を阻止するそれらを停止するブロッカーとの友愛ハーモニー協定を形成します。,
-ADV_TITLE_Armies_001,Stack Needs Rest,スタックは休息が必要,
+ADV_TITLE_Armies_001,Stack Needs Rest,スタックは休息が必要,スタックに休息が必要
 ADV_TEXT_Armies_001,"The efficiency of this stack is low, due to recent fighting or events. If it stops moving and fighting for a few turns, it will recover. The orange bars at the bottom of the unit tiles indicate efficiency.",このスタックの効率は、最近の戦闘やイベントのために、低いです。それが移動し、数ターンのために戦って停止した場合、それが回復します。ユニットタイルの底部のオレンジ色のバーは効率を示します。,
 ADV_TITLE_Armies_002,Unit Replenishment,ユニットの補充,
-ADV_TEXT_Armies_002,The units in this stack are not at full strength. Move them to the territory of a friendly settlement to start replenishing. Units can replenish at a settlement that can recruit units from the same recruitment pool. The green bars on the unit card show strength.,本スタック内のユニットは完全な強さではありません。補充を開始するために友好和解の領土に移動します。ユニットは同じリクルートプールからユニットを募集することができ和解で補充することができます。ユニットカード上の緑色のバーは、強さを示しています。,
+ADV_TEXT_Armies_002,The units in this stack are not at full strength. Move them to the territory of a friendly settlement to start replenishing. Units can replenish at a settlement that can recruit units from the same recruitment pool. The green bars on the unit card show strength.,このスタック内のユニットは完全な強さではありません。補充を開始するために友好和解の領土に移動します。ユニットは同じリクルートプールからユニットを募集することができ決済で補充することができます。ユニットカード上の緑色のバーは、強さを示しています。,
 ADV_TITLE_Armies_003,Beware Revolt,反乱を用心,
 ADV_TEXT_Armies_003,"This stack is composed of half or more of militia, tribal, or convict units, and may revolt and join the rebels if it stays in the vicinity of Peasant Rebel stacks.",このスタックは民兵、部族、あるいは囚人単位の半分以上で構成され、それが農民反乱スタックの近くに留まる場合反乱軍の反乱と参加することができます。,
 ADV_TITLE_Armies_004,Stack Revolted,スタックの反乱,
@@ -172,7 +173,7 @@ ADV_TEXT_Misc_001,"The lists panel on the left of the screen is very useful, and
 
 The list of settlements is particularly useful, as it lets you see at a glance, whether your settlements are building things, growing properly, or have unrest.
 
-The army stack panel lets you see which stacks currently don't have orders, and makes it easy to find a particular force.","画面左のリストパネルは、非常に有用であり、あなたは、多くの場合、それを見なければなりません。それはあなたの入植地、軍のスタック、およびメッセージを表示する3つのタブを持っています。
+The army stack panel lets you see which stacks currently don't have orders, and makes it easy to find a particular force.","画面左のリストパネルは、非常に有用であり、あなたは、多くの場合、それを見なければなりません。それはあなたの入植地、軍のスタック、およびメッセージを表示する3つのタブがあります。
 
 それはあなたの集落は、物事を構築し、適切に成長している、または不安を持っているかどうか、あなたが一目で確認することができますよう集落のリストは、特に便利です。
 
@@ -255,19 +256,19 @@ ADV_TITLE_GENGHIS_003,Horde Support,大群のサポート,
 ADV_TEXT_GENGHIS_003,A horde settlement can advance with your armies and provide a convenient place to replenish depleted units. If deployed it replenishes units in the same way as a normal settlement.,大群決済は、あなたの軍隊を進め、枯渇のユニットを補充するのに便利な場所を提供することができます。デプロイした場合には、通常の決済と同じように単位を補充します。,
 ADV_TITLE_GENGHIS_004,Convert to Horde,大群に変換,
 ADV_TEXT_GENGHIS_004,"You can convert this settlement to a horde and move it to a more favourable, or less threatened location.",あなたは大群に、この和解を変換し、より有利な、以下の脅威にさらされた場所に移動することができます。,
-ADV_TITLE_C_GC_Shang01,Greetings,ご挨拶,
+ADV_TITLE_C_GC_Shang01,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_C_GC_Shang01,"You are located on the flood plain of the Yellow River. There is ample good land to settle and farm, but there are enemies close by to the North, East and South, so it is important to stake out your claim to the land quickly. 
 
 I advise taking your settler unit and founding a new settlement about 8 to 10 hexes away. If you can place your settlement within three hexes of a Rhinoceros, Fish, or Wild Game resource, you will be able to exploit it for extra income or food.","あなたは、黄河の氾濫原に位置しています。落ち着くとファームに十分な良い土地がありますが、北、東と南に近くの敵がありますので、それはすぐに土地にあなたの主張を杭打ちすることが重要です。
 
 私はあなたのセトラーユニットを服用し、約8〜10ヘクス離れ、新たな決済を設立お勧めします。あなたはサイ、魚、またはワイルドゲームリソースの3ヘクス以内にご決済を置くことができれば、あなたは余分な収入や食料のためにそれを利用することができるようになります。",
-ADV_TITLE_C_GC_Shang02,A Suggestion,提案,
+ADV_TITLE_C_GC_Shang02,A Suggestion,提案,提案
 ADV_TEXT_C_GC_Shang02,"If you haven't already, it might be a good idea to recruit another settler unit in Yin, and send it out to claim more land while it is still uncontested.
 
 Also be sure to use your characters to explore the map and check out the yellow map encounter opportunities.","あなたがまだの場合は、陰で別のセトラーユニットを募集し、それがまだ無競争である一方、より多くの土地を主張するためにそれを送信することをお勧めします。
 
 また、マップを探索し、黄色のマップの出会いの機会をチェックアウトし、あなたの文字を使用してください。",
-ADV_TITLE_C_GC_Shang03,A Suggestion,提案,
+ADV_TITLE_C_GC_Shang03,A Suggestion,提案,提案
 ADV_TEXT_C_GC_Shang03,"It is time to think about recruiting another settler and starting a new settlement. 
 
 A settlement to the south or east near the river will give you the later opportunity to trade along the river, and to build a fleet to prevent your enemies from crossing. 
@@ -277,19 +278,19 @@ On the other hand, a settlement to the West would be less vulnerable to attack, 
 川の近くの南または東に決済があなたに川に沿って取引すると、交差点から敵を防ぐために艦隊を構築するために、後で機会を提供します。
 
 一方、西への決済が攻撃を受けにくくなり、そしてあなたが山の中の鉱山に任意のミネラルを置か場合に特に有益であろう。",
-ADV_TITLE_C_GC_Han01,Greetings,ご挨拶,
+ADV_TITLE_C_GC_Han01,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_C_GC_Han01,"You are located on the flood plain of the Yellow River. There is ample good land to settle and farm, but there are enemies close by to the  East and West so it is important to stake out your claim to the land quickly. 
 
 I advise taking your settler unit and founding a new settlement about 8 to 10 hexes away.  If you can place your settlement within three hexes of a Rhinoceros, Fish, or Wild Game resource, you will be able to exploit it for extra income or food.","あなたは、黄河の氾濫原に位置しています。落ち着くとファームに十分な良い土地がありますが、それはすぐに土地にあなたの主張を杭打ちすることが重要ですので、東と西に近くの敵があります。
 
 私はあなたのセトラーユニットを服用し、約8〜10ヘクス離れ、新たな決済を設立お勧めします。あなたはサイ、魚、またはワイルドゲームリソースの3ヘクス以内にご決済を置くことができれば、あなたは余分な収入や食料のためにそれを利用することができるようになります。",
-ADV_TITLE_C_GC_Han02,A Suggestion,提案,
+ADV_TITLE_C_GC_Han02,A Suggestion,提案,提案
 ADV_TEXT_C_GC_Han02,"If you haven't already, it might be a good idea to recruit another settler unit in Zheng and send it out to claim more land while it is still uncontested.
 
 Also be sure to use your characters to explore the map and check out the yellow map encounter opportunities.","あなたがまだの場合は、鄭内の別のセトラーユニットを募集し、それがまだ無競争である一方、より多くの土地を主張するためにそれを送信することをお勧めします。
 
 また、マップを探索し、黄色のマップの出会いの機会をチェックアウトし、あなたの文字を使用してください。",
-ADV_TITLE_C_GC_Han03,A Suggestion,提案,
+ADV_TITLE_C_GC_Han03,A Suggestion,提案,提案
 ADV_TEXT_C_GC_Han03,"It is time to think about recruiting another settler and starting a new settlement. 
 
 A settlement to the north or east near the river will give you the later opportunity to trade along the river, and to build a fleet to prevent your enemies from crossing. You might even consider settling across the river. This will open new opportunities, but may invite conflict with powers to the north.
@@ -299,7 +300,7 @@ On the other hand, a settlement to the West might be able to exploit any mineral
 川の近くの北または東の決済は、あなたの川に沿って取引すると、交差点から敵を防ぐために艦隊を構築するために、後で機会を提供します。あなたも、川を渡ってセトリング考えるかもしれません。これは、新たな機会を開くだろうが、北への権力との対立を招くことがあります。
 
 一方、西への決済は、あなたがそこに山に位置したすべての鉱物を利用することができるかもしれません。",
-ADV_TITLE_C_GC_Chu01,Greetings,ご挨拶,
+ADV_TITLE_C_GC_Chu01,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_C_GC_Chu01,"It's important to spread out quickly and stake out your territory, so send your settler unit out to start a new settlement. 
 
 You have two main choices, settle to the east where there is lots of excellent farmland, but also dangerous enemies, or explore the mountainous area to the west, and build an economy based on exploiting whatever minerals you can find there.
@@ -309,13 +310,13 @@ If you can place your settlement within three hexes of a Rhinoceros, Fish, or Wi
 あなたは、主に2つの選択肢があり、優れた農地の多くが、また、危険な敵がある東に落ち着く、または西に山岳地帯を探検し、あなたがそこに見つけることができるものは何でもミネラル悪用に基づいて経済を構築します。
 
 あなたはサイ、魚、またはワイルドゲームリソースの3ヘクス以内にご決済を置くことができれば、あなたは余分な収入や食料のためにそれを利用することができるようになります。",
-ADV_TITLE_C_GC_Chu02,A Suggestion,提案,
+ADV_TITLE_C_GC_Chu02,A Suggestion,提案,提案
 ADV_TEXT_C_GC_Chu02,"If you haven't already, it might be a good idea to recruit another settler unit in Danyang and send it out to claim more land while it is still uncontested.
 
 Also be sure to use your characters to explore the map and check out the yellow map encounter opportunities.","あなたがまだの場合は、丹陽で別のセトラーユニットを募集し、それがまだ無競争である一方、より多くの土地を主張するためにそれを送信することをお勧めします。
 
 また、マップを探索し、黄色のマップの出会いの機会をチェックアウトし、あなたの文字を使用してください。",
-ADV_TITLE_C_GC_Chu03,A Suggestion,提案,
+ADV_TITLE_C_GC_Chu03,A Suggestion,提案,提案
 ADV_TEXT_C_GC_Chu03,"It is time to think about recruiting another settler and starting a new settlement. 
 
 Pushing south will eventually lead you to the great Yangtze river. While there is much land to be cleared to enable sizable settlements there, in the long term domination of the river would be very beneficial.
@@ -323,11 +324,11 @@ Pushing south will eventually lead you to the great Yangtze river. While there i
 Alternatively, try to find a fertile area to the south east to create a farming settlement.
 ","別の入植者を募集し、新しい決済の開始について考える時間です。
 
-南押すと、最終的には素晴らしい長江にあなたを導くでしょう。そこにかなりの集落を有効にするには、クリアするために多くの土地がありますが、川の長期支配に非常に有益だろう。
+南押すと、最終的には素晴らしい長江にあなたを導くでしょう。そこにかなりの決済を可能にするためにクリアするために多くの土地がありますが、川の長期支配に非常に有益であろう。
 
 また、農業集落を作成するために、南東に肥沃な地域を探してみてください。
 ",
-ADV_TITLE_C_GCZhou01,Greetings,ご挨拶,
+ADV_TITLE_C_GCZhou01,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_C_GCZhou01,"You are located in the ""land between the passes"", a fertile river valley surrounded by mountains. By quickly dominating this space, you can form a solid base for wider conquests.
 
 The only nearby rival is the to the west. You might consider placing you first settlement just to the west to block, them, but there are better spots further east along the river.
@@ -337,13 +338,13 @@ Whichever direction you choose, if you can place your settlement within three he
 唯一の近くのライバルは西にあります。あなたは、それらをブロックする西にあなたの最初の決済を配置することを検討かもしれませんが、より良いスポットは川に沿ってさらに東にあります。
 
 どちらの方向あなたはサイ、魚、またはワイルドゲームのリソースの3ヘクス以内にご決済を置くことができれば、あなたは余分な収入や食料のためにそれを利用することができます、選択します。",
-ADV_TITLE_C_GC_Zhou02,A Suggestion,提案,
+ADV_TITLE_C_GC_Zhou02,A Suggestion,提案,提案
 ADV_TEXT_C_GC_Zhou02,"If you haven't already, it might be a good idea to recruit another settler unit in Fengjing and send it out to claim more land while it is still uncontested.
 
 Also be sure to use your characters to explore the map and check out the yellow map encounter opportunities.","あなたがまだの場合は、Fengjingに別のセトラーユニットを募集し、それがまだ無競争である一方、より多くの土地を主張するためにそれを送信することをお勧めします。
 
 また、マップを探索し、黄色のマップの出会いの機会をチェックアウトし、あなたの文字を使用してください。",
-ADV_TITLE_C_GC_Zhou03,A Suggestion,提案,
+ADV_TITLE_C_GC_Zhou03,A Suggestion,提案,提案
 ADV_TEXT_C_GC_Zhou03,"It is time to think about recruiting another settler and starting a new settlement. 
 
 The most promising lands for cultivation are to the east, but spots to the north or south of the river might give you access valuable minerals.
@@ -355,7 +356,7 @@ Your main rival for the ""land between the passes"" are the Qin to the west, but
 
 「パス間の土地」のためのあなたの主なライバルは西へ秦ですが、彼らはそもそも非常に弱いです。また、あなたがその方向から任意の脅威をブロックすることができるように南に山のパスを偵察するのが賢明かもしれません。
 ",
-ADV_TITLE_C_GCShu01,Greetings,ご挨拶,
+ADV_TITLE_C_GCShu01,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_C_GCShu01,"You are located in Sichuan, a fertile plain surrounded by mountains. Your main threats are from the north and the south east.
 
 I would advise taking your settler unit and settling a little way to east, to protect your capital against any attack from that direction. After that, I suggest expanding into the unoccupied land to the south and west.
@@ -365,13 +366,13 @@ If you can place your settlement within three hexes of a Rhinoceros, Fish, or Wi
 私はその方向から任意の攻撃からあなたの資本を保護するために、あなたのセトラーユニットを取り、東に少し道をセトリング助言します。その後、私は南と西に空いた土地への進出をお勧めします。
 
 あなたはサイ、魚、またはワイルドゲームリソースの3ヘクス以内にご決済を置くことができれば、あなたは余分な収入や食料のためにそれを利用することができるようになります。",
-ADV_TITLE_C_GC_Shu02,A Suggestion,提案,
+ADV_TITLE_C_GC_Shu02,A Suggestion,提案,提案
 ADV_TEXT_C_GC_Shu02,"If you haven't already, it might be a good idea to recruit another settler unit in Pi and send it out to claim more land while it is still uncontested.
 
 Also be sure to use your characters to explore the map and check out the yellow map encounter opportunities.","あなたがまだの場合は、パイで別のセトラーユニットを募集し、それがまだ無競争である一方、より多くの土地を主張するためにそれを送信することをお勧めします。
 
 また、マップを探索し、黄色のマップの出会いの機会をチェックアウトし、あなたの文字を使用してください。",
-ADV_TITLE_C_GC_Shu03,A Suggestion,提案,
+ADV_TITLE_C_GC_Shu03,A Suggestion,提案,提案
 ADV_TEXT_C_GC_Shu03,"It is time to think about recruiting another settler and starting a new settlement. 
 
 The best lands for farming are to the south and east, but a settlement to the north would protect against enemies in that direction, and provide access to any minerals you've discovered in the mountains there.
@@ -379,7 +380,7 @@ The best lands for farming are to the south and east, but a settlement to the no
 
 農業のための最良の土地は、南と東にありますが、北に決済がその方向に敵から守る、そしてあなたがそこに山の中で発見した任意のミネラルへのアクセスを提供します。
 ",
-ADV_TITLE_C_GCQin01,Greetings,ご挨拶,
+ADV_TITLE_C_GCQin01,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_C_GCQin01,"Your nation is an outpost at the edge of Chinese civilization. You have powerful enemies to both east and west, and a limited supply of farmland.
 
 The best place to find more farmland is to the east along the river, just past the mountains, however, founding a settlement there does risk an early conflict.
@@ -389,7 +390,7 @@ There are potential settlement sites to the north and south too, but they are se
 より多くの農地を見つける最適な場所は、ちょうど山を過ぎて、しかし、和解を設立することは、早期の紛争のリスクがない、川に沿って東にあります。
 
 そこ北と南への潜在的な決済サイトは、あまりにもですが、彼らはあなたの首都から遠く離れた数ターンです。それらを解決する試みは、強力な軍事護衛を持っていることを確認してください。",
-ADV_TITLE_C_GC_Qin02,A Suggestion,提案,
+ADV_TITLE_C_GC_Qin02,A Suggestion,提案,提案
 ADV_TEXT_C_GC_Qin02,"Since your land is limited, I advise prioritizing agricultural technologies in your research. 
 
 Try to be at peace with your neighbors, but don't show any weakness that might invite attack. It might be necessary to become a vassal to one or other for a while in order to survive.
@@ -399,19 +400,19 @@ The early part of the game should be about surviving and trying to build a base.
 あなたの隣人との平和になるようにしてみたが、攻撃を招く可能性の弱さを示していません。生き残るためにしばらくの間、どちらか一方に家臣になるために必要な場合があります。
 
 ゲームの初めの部分は存続し、ベースを構築しようとしている程度でなければなりません。後であなたの土地を拡大するために、あなたの隣人が持つかもしれないあらゆる困難を活用すべきです。",
-ADV_TITLE_C_GCWu01,Greetings,ご挨拶,
+ADV_TITLE_C_GCWu01,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_C_GCWu01,"You start just south of the Yangtze River. To the south the landscape is mountainous and forested, and would require much land to be cleared for any settlement.
 
 To the north of the river however, is a large area of open fertile plain with no close by enemies. Many settlements could be placed here.","あなたはすぐ南揚子江の開始します。南には風景が山岳や森林で、任意の決済のためにクリアするために多くの土地を必要とします。
 
 しかし、川の北側には、敵に無近くにオープン肥沃な平野の大面積です。多くの集落がここに配置することができます。",
-ADV_TITLE_C_GC_Wu02,A Suggestion,提案,
+ADV_TITLE_C_GC_Wu02,A Suggestion,提案,提案
 ADV_TEXT_C_GC_Wu02,"You are excellently placed to dominate the lower Yangtze river. Placing settlements along the river and coast, will let you create a powerful maritime trading empire.
 
 Further north the Huai River would make a strong defensive border which you can prevent hostile forces crossing with a river fleet.","あなたが良好低く長江を支配するように配置されています。川や海岸沿いの集落を置く、あなたは強力な海上貿易帝国を作成できます。
 
 さらに北淮河はあなたが川の艦隊との交配敵対勢力を防ぐことができ、強力な守備の境界線になるだろう。",
-ADV_TITLE_C_GCMinYue01,Greetings,ご挨拶,
+ADV_TITLE_C_GCMinYue01,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_C_GCMinYue01,"You are the furthest south of the Chinese nations. To your south there are vast jungles and mountain ranges, but no enemy of any significance. The only nearby rival is to the north, but conflict with them is best avoided.
 
 Your immediate position is very weak, with little land available to settle. However, the land to the south is vast and unclaimed. It will take many turns to clear it, but you have the potential to become a great power towards the end of the game.
@@ -421,65 +422,65 @@ The only immediately viable settlement site is just across the river. There are 
 あなたの当面の位置が少し土地で、和解するために利用できる非常に弱いです。しかし、南に土地が広大で引き取り手のないです。それは、それをクリアするために多くのターンかかりますが、あなたはこのゲームの終わりに向かって大きな力になる可能性を秘めています。
 
 唯一すぐに実行可能な決済サイトは、ちょうど川を渡っています。そこ河川や海岸に沿っていくつかの他の小さな空き地がありますが、あなたはそれらを見つけるための長い道のりを模索する必要があります。",
-ADV_TITLE_C_GC_MinYue02,A Suggestion,提案,
+ADV_TITLE_C_GC_MinYue02,A Suggestion,提案,提案
 ADV_TEXT_C_GC_MinYue02,"You will need to clear a lot of land to create a civilization, and need to maximize what you have. Prioritize research into clearing and agricultural technologies.
 
 Once you have bronze making technology, you can start to clear the forests. You can clear areas outside the territory of your main settlements, allowing you to create new settlements in the cleared area. ","あなたは文明を作成するために、土地の多くをクリアする必要があり、あなたが持っているものを最大限にする必要があります。クリアと農業技術の研究に優先順位を付けます。
 
 あなたは青銅作る技術を持っていたら、森林をクリアするために開始することができます。あなたはクリアエリアに新しい入植地を作成することができ、あなたの主な集落の領域外の領域をクリアすることができます。",
-ADV_TITLE_C_GC_MinYue03,A Suggestion,提案,
+ADV_TITLE_C_GC_MinYue03,A Suggestion,提案,提案
 ADV_TEXT_C_GC_MinYue03,"Travelling around in the south is always going to be slow and difficult, unless you travel by boat. Try to develop naval technology as soon as possible.
 
 This will let you range along the coast, the Yangtze river, and other smaller rivers going inland. Settling to the west will eventually bring you to the Yangtze well away from other powers.","南の周りに旅行するいつもあなたが船で旅行する場合を除き、遅いと困難になるだろう。できるだけ早く海軍技術を開発してみてください。
 
 これは、あなたが海岸に沿って範囲ましょう長江、およびその他の小さな川は内陸に行くだろう。西にセトリング最終的に十分に離れ、他の勢力から長江にあなたをもたらすでしょう。",
-ADV_TITLE_C_GCBa01,Greetings,ご挨拶,
+ADV_TITLE_C_GCBa01,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_C_GCBa01,"You start just south of the Yangtze River in a secluded mountain valley. There are limited expansion possibilities to the South, but the better land is north of the river. 
 
 Expanding north and west may bring you into conflict with the Shu. Since your people are naturally warlike, don't be afraid to fight to secure an adequate territory.","あなたは人里離れた山の谷間にすぐ南揚子江の開始します。そこ南に制限の拡張の可能性がありますが、より良い土地は川の北側です。
 
 北と西を展開すると、シュウとの競合にあなたをもたらす可能性があります。あなたの人々は自然に好戦的であるため、十分な領土を確保するために戦うことを恐れてはいけません。",
-ADV_TITLE_C_GC_Ba02,A Suggestion,提案,
+ADV_TITLE_C_GC_Ba02,A Suggestion,提案,提案
 ADV_TEXT_C_GC_Ba02,"The settlement sites in the immediate vicinity are limited, but there is a wide open land further to the west. You may need to fight for it, but the prize is well worth it.
 
 Since your people are great warriors, but poor farmers, and your starting position is secure, an aggressive expansive military strategy may work well for Ba.","すぐ近くに決済サイトは限られているが、広く開いた土地は西へ、さらにそこにあります。あなたはそれのために戦う必要があるかもしれませんが、賞は、それだけの価値があります。
 
 あなたの人々は偉大な戦士ですが、貧しい農民、そしてあなたの開始位置が安全であることから、積極的な広大な軍事戦略は、Baのためにうまく機能することがあります。",
-ADV_TITLE_C_GCDogRong01,Greetings,ご挨拶,
+ADV_TITLE_C_GCDogRong01,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_C_GCDogRong01,"You start way to the west on the banks of a tributary of the yellow river. As a herding people, you need to find grasslands, hills or fertile plains to graze your animals.
 
 Unfortunately there is little of either in the immediate vicinity, so you will need to make best of what you can find. There are many hillsides suitable for terracing though, so an early switch to a farming society may pay dividends.","あなたは黄河の支流のほとりに西への道を開始します。牧畜民として、あなたはあなたの動物を放牧する草原、丘や肥沃な平野を見つける必要があります。
 
 残念ながら、そこにどちらかのすぐ近くに少しはあるので、あなたはあなたが見つけることができるものを最大限に活用する必要があります。そこ台地に適した多くの山腹はしかしあるので、農業社会への早期スイッチは、配当金を支払ってもよいです。",
-ADV_TITLE_C_GC_DogRong02,A Suggestion,提案,
+ADV_TITLE_C_GC_DogRong02,A Suggestion,提案,提案
 ADV_TEXT_C_GC_DogRong02,"Your only rivals are the Qin to the south east. They are fierce, but not numerous, so you may be able to conquer them, or make them into your vassals.",あなたの唯一のライバルは、南の東に秦です。彼らは激しいが、多数ではありませんので、あなたはそれらを征服する、またはあなたの家臣にそれらを作ることができるかもしれません。,
-ADV_TITLE_C_GC_DogRong03,A Suggestion,提案,
+ADV_TITLE_C_GC_DogRong03,A Suggestion,提案,提案
 ADV_TEXT_C_GC_DogRong03,"If you elect to remain as herding faction, there is a large area of grassland in the ""Ordus Loop"" area inside the great loop of the Yellow River some way to the north east. You could establish a strong pressence there.",あなたは牧畜派閥として残ることを選択した場合、黄河の大きなループ北東にいくつかの方法内部「Ordusループ」エリアの草原の大きな領域があります。あなたはそこに強いpressenceを確立することができます。,
-ADV_TITLE_C_GCDongYi01,Greetings,ご挨拶,
+ADV_TITLE_C_GCDongYi01,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_C_GCDongYi01,"You start in the Shangdong Peninsula in Northern China. As a herding faction, you need to find large areas of fertile plains for your animals.
 
 While there is ample land available to expand into, you will inevitably soon come into contact with the powerful farming factions of Shang, Han and Wu. Don't over extend yourself, but make sure you move quickly to secure enough land before your easy expansion is halted.","あなたは、中国北部での山東半島に開始します。牧畜派として、あなたはあなたの動物のための肥沃な平野の大部分を見つける必要があります。
 
 展開するために利用できる十分な土地がありますが、あなたは必然的にすぐシャン、漢と呉の強力な農業派閥と接触することになります。以上、自分自身を拡張しますが、あなたはあなたの容易な拡張が停止する前に十分な土地を確保するために迅速に行動しないでください。",
-ADV_TITLE_C_GC_DongYi02,A Suggestion,提案,
+ADV_TITLE_C_GC_DongYi02,A Suggestion,提案,提案
 ADV_TEXT_C_GC_DongYi02,"As you expand you will be occupying the fertile lands of the Yellow River flood plain. These lands are fine for your animals, but would be even more fruitful if you developed agriculture.
 
 An alternative strategy is to leverage the natural fierceness of your people to subjugate your neighbors before their population growth outpaces your own too far.","あなたが拡大するにつれ、あなたは黄河の氾濫原の肥沃な土地を占有します。これらの土地は、あなたの動物のための罰金ですが、あなたは農業を開発した場合でも、より実り多いでしょう。
 
 代替戦略は、彼らの人口増加が離れすぎて自分自身をしのぐ前に、あなたの隣人を征服するためにあなたの人々の自然な激しさを活用することです。",
-ADV_TITLE_C_GCWhiteDi01,Greetings,ご挨拶,
+ADV_TITLE_C_GCWhiteDi01,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_C_GCWhiteDi01,"You are a herding people starting in the north of China between the steppes and deserts to the north, and the fertile flood plains to the south.
 
 Since you can use grassland or fertile plain alike, there is plenty of land available to you. There are good sites immediately available to your south, and settling here would protect your capital. However, the area to the north east is unoccupied and can be settled without opposition.","あなたは北に草原と砂漠の間に中国の北に開始牧畜民、そして南に肥沃な氾濫原です。
 
 あなたが似て草原や肥沃な平野を使用することができますので、あなたに利用可能な土地がたくさんあります。そこにあなたの南にすぐに利用できる良いサイトがあり、ここにセトリングすると、あなたの首都を保護します。しかし、北東に面積が占有されていないと野党なしで決着することができます。",
-ADV_TITLE_C_GC_WhiteDi02,A Suggestion,提案,
+ADV_TITLE_C_GC_WhiteDi02,A Suggestion,提案,提案
 ADV_TEXT_C_GC_WhiteDi02,"The land around you is very suited to farming so developing agriculture quickly would give you a denser population, and larger cities.
 
 However, you also well placed to become a more widely spread herding faction ranging across the whole north east. Pursue horse riding and nomadism for this strategy to work well.","あなたの周りの土地はこんなに早く農業を開発することはあなたに、より高密度の人口、および大都市を与える農業に非常に適しています。
 
 しかし、あなたも良く、全体北東渡っまでより広く普及牧畜派になるように配置します。この戦略がうまく機能するために乗馬や遊牧を追求。",
-ADV_TITLE_C_GCXianbei01,Greetings,ご挨拶,
+ADV_TITLE_C_GCXianbei01,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_C_GCXianbei01,"You are herding people located between the Great Khingan Mountains and the Gobi Desert. You need to find grassland, hills or fertile plains for your animals.
 
 There is a large area suitable for settlement to the north around the lakes, but it is a little isolated.
@@ -489,7 +490,7 @@ There is also plenty of land to the south, and settling there would form a good 
 そこ湖の周りの北への決済に適した大面積であるが、それは少し隔離されています。
 
 そこから南への土地の多くもあり、後のゲームで中国の征服のための優れた基盤をそこに形成することになるセトリング。",
-ADV_TITLE_C_GC_Xianbei02,A Suggestion,提案,
+ADV_TITLE_C_GC_Xianbei02,A Suggestion,提案,提案
 ADV_TEXT_C_GC_Xianbei02,"Your position strongly favors becoming a wide ranging, horse riding culture. Prioritize horse archery and nomadism technologies, and space your settlements widely to allow them maximum room to develop.
 
 Don't neglect to develop whatever minerals you can find in the mountains, to boost your income.","あなたの位置を強く幅広い、乗馬文化になりつつ好みます。それらを開発するために最大のスペースを確保するために、幅広くお使いの集落馬アーチェリーや遊牧技術に優先順位を付け、そしてスペース。
@@ -501,13 +502,13 @@ ADV_TEXT_C_GCXiongNu01,"You are a herding faction located in the Mongolian stepp
 Try to space your settlements ten to twelve hexes apart to give them room to grow.","あなたは、モンゴルの草原にある牧畜派です。北側に丁零ですが、そうでなければ近くのライバルはありません、あなたは、東、西、南に広く展開することは自由です。
 
 彼らに成長する余地を与えるために離れてあなたの集落空間に1012年にヘクスを試してみてください。",
-ADV_TITLE_C_GC_XiongNu02,A Suggestion,提案,
+ADV_TITLE_C_GC_XiongNu02,A Suggestion,提案,提案
 ADV_TEXT_C_GC_XiongNu02,"Your position strongly favors becoming a wide ranging, horse riding culture. Prioritize horse archery and nomadism technologies to aid in this.
 
 There is a limited amount of potential agricultural land along some of the rivers, so developing agriculture will make it easier to develop larger more advanced settlements..","あなたの位置を強く幅広い、乗馬文化になりつつ好みます。この中で支援する馬アーチェリーや遊牧技術に優先順位を付けます。
 
 そこ川の一部に沿ったポテンシャル農地の限られた量があるので、開発農業はそれが簡単に、より大きな、より高度な入植地を開発するようになります。..",
-ADV_TITLE_C_GC_XiongNu03,A Suggestion,提案,
+ADV_TITLE_C_GC_XiongNu03,A Suggestion,提案,提案
 ADV_TEXT_C_GC_XiongNu03,"You have ample lands to expand into, but your position is rather isolated. To fulfill your destiny and become the Son of Heaven, you will need to subjugate the other factions far to the south.
 
 There is an area of excellent grassland south of the desert, and a little to the west in the Ordus Loop area just across the Yellow River. It would make an excellent base of operations if you move swiftly to claim it before the other tribes.","あなたはに展開するための十分な土地を持っていますが、自分の位置はかなり孤立しています。天国の息子を、あなたの運命を果たすとなるために、あなたは南に遠く、他の派閥を征服する必要があります。
@@ -515,13 +516,13 @@ There is an area of excellent grassland south of the desert, and a little to the
 ただ黄河横断Ordusループ領域内の南の砂漠の優れた草原の面積、および西に少しはあります。あなたが他の部族の前にそれを主張するために素早く移動する場合には、操作の優れた基盤になるだろう。",
 ADV_TITLE_C_GCDingling01,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_C_GCDingling01,"You start as a rather primitive herding faction in Northern Mongolia on the fringes of Siberia. To your south are the dangerous Xiongnu, but otherwise there are wide lands for you to occupy to the east and the west.",あなたは、シベリアの縞の北モンゴルではなく、原始的な牧畜派としてスタート。あなたの南には危険な匈奴ですが、そうでなければ、東と西に占有するための広い土地があります。,
-ADV_TITLE_C_GC_Dingling02,A Suggestion,提案,
+ADV_TITLE_C_GC_Dingling02,A Suggestion,提案,提案
 ADV_TEXT_C_GC_Dingling02,"Your position at the edge of the steppe gives you the opportunity to become a wide ranging, horse riding culture. Prioritize horse archery and nomadism technologies to achieve this.
 
 There are some fertile plains for farming available too, which gives you another option to develop agriculture and develop a mixed economy. ","草原の端にあなたの位置はあなたに幅広い、乗馬文化になるための機会を与えてくれます。これを達成するための馬アーチェリーや遊牧技術に優先順位を付けます。
 
 あなたの農業を開発し、混合経済を発展させる別のオプションを与える、あまりにも利用できる農業のためのいくつかの肥沃な平野があります。",
-ADV_TITLE_C_GC_Dingling03,A Suggestion,提案,
+ADV_TITLE_C_GC_Dingling03,A Suggestion,提案,提案
 ADV_TEXT_C_GC_Dingling03,"With your isolated position, one option is to play a peaceful game, and try to win a cultural victory. 
 
 If you wish to play a more aggressive game, you will need to conquer factions far to the south. Once you have a few settlements, you might be able to sneak a settler two south beyond the desert, and establish a base of operations there.","あなたの孤立位置での1つの方法は、平和的なゲームをプレイし、文化的な勝利を獲得しようとすることです。
@@ -541,7 +542,7 @@ The land to the East is mainly uninhabited, and offers an excellent opportunity 
 西と南に趙とチーの大きな状態があり、中山の小さい方。中国北部の複雑な提携に関与し得ることは、高価な絡み合いになるかもしれないが、野心的な支配者は、状況を監視し、彼の隣人が弱い時に彼の領土を拡大する機会を探します。
 
 東への土地は主に無人で、あなたの王国を拡大する絶好の機会を提供しています。しかしそこクリアするには多くの森林があり、湿地は排出するので、生産地にエリアを回すには時間がかかります。",
-ADV_TITLE_C_WS_Qi01,Greetings,ご挨拶,
+ADV_TITLE_C_WS_Qi01,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_C_WS_Qi01,"Your state is located in the east of the North China plain, in the area of Shandong. Your lands are not large, but they are very productive, and your cities are rich from trade.
 
 Many states are vying for control of the plains, and you will need to keep a close eye on the shifting alliances, and stop any one of them becoming too powerful. Bear in mind that too much war is bad for trade.
@@ -561,7 +562,7 @@ As Zhao, you have the unique ability to reform your military (by issuing an edic
 しかし、あなたの王国はあなたがモンゴルの草原から下って来る野蛮人からあなたの入植者を保護することができることを提供し、北へ西への拡大のための大きな可能性を秘めています。
 
 趙として、あなたは草原の人々の馬の射手戦術を採用する（勅令を発行して）あなたの軍を改革するためのユニークな能力を持っています。これは、彼らに対するあなたの戦いであなたを支援し、また、あなたの中国のライバル以上のエッジを与える可能性があります。",
-ADV_TITLE_C_WS_Wei01,Greetings,ご挨拶,
+ADV_TITLE_C_WS_Wei01,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_C_WS_Wei01,"Your state has emerged from the break up of the ancient state of Jin, and as such its holdings are scattered and somewhat intermixed with the other break-away states. Your central position, mean that you are surrounded by many powerful neighbors, but there are also smaller states that you might annex.
 
 Wars are inevitable, but if you can make peace with at least some of your rivals, then there are uninhabited lands that you can settle, and turn your state into a stronger more cohesive realm.
@@ -571,7 +572,7 @@ While your central position is challenging, with skillful diplomacy, you can set
 戦争は避けられないですが、あなたのライバルの少なくとも一部との平和を作ることができれば、あなたが落ち着くと、より強く、より凝集領域にあなたの状態を回すことができる無人の土地があります。
 
 あなたの中心位置が困難であるものの、巧みな外交で、あなたはお互いにあなたの隣人を設定することができ、そしてその不幸の恩恵を受ける。",
-ADV_TITLE_C_WS_Yue01,Greetings,ご挨拶,
+ADV_TITLE_C_WS_Yue01,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_C_WS_Yue01,"Your state was originally founded south of  the Yangtze river, but recently conquered the state of Wu, and expanded to control the area around the mouth of the Yangtze River. Filled with ambition you recently moved your capital far to the north as a springboard for further expansion. Defending this position may be difficult, and you may need to abandon it and concentrate on your core territory. 
 
 Your lands are quite extensive, but they are sparsely populated, and your settlements scattered, leaving you vulnerable to attack by more powerful neighbors. Therefore, your immediate goals should be to secure peace with the surrounding states, while you consolidate and strengthen your realm.
@@ -581,37 +582,37 @@ You are well positioned to create a lucrative water borne trade empire, with tra
 あなたの土地は非常に広範ですが、より強力な隣人の攻撃に対して脆弱にあなたを残して、彼らはまばらに移入され、そしてあなたの集落が点在します。したがって、あなたの当面の目標は、あなたの領域を統合し、強化しながら、周囲の状態と平和を確保しなければなりません。
 
 あなたはよく海岸沿いや主要河川に沿って実行している貿易ルートで、収益性の高い水系貿易帝国を作成するように配置されています。",
-ADV_TITLE_C_WS_Qin01,Greetings,ご挨拶,
+ADV_TITLE_C_WS_Qin01,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_C_WS_Qin01,"You enjoy a secure position along  the Wei river valley, which is only accessible by a few easily defended routes. The barbarians to the west and north are the most likely to give you trouble.
 
 You have some of room to expand within your own territories, and plenty of potential to expand to the South, and you should consider trying to conquer the state of Shu and annex its territory. To the East are many powerful states, who will often be fighting each other. Look for opportunities to expand here when they are preoccupied with each other.","あなたは、いくつかの簡単擁護経路によってのみアクセス可能である魏川の渓谷に沿って安全な位置を、お楽しみください。西と北への野蛮人はあなたに迷惑を与える可能性が最も高いです。
 
 あなたは、あなた自身の領土内で膨張する部屋、南に拡大する可能性をたくさんのいくつかを持っていて、シュウの状態を征服し、その領土を併合しようとして検討すべきです。東にしばしばお互いに戦うことができる多くの強力な状態が、あります。彼らはお互いに気を取られたときにここに拡大する機会を探してください。",
-ADV_TITLE_C_WS_Han01,Greetings,ご挨拶,
+ADV_TITLE_C_WS_Han01,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_C_WS_Han01,"Your territory is rather scattered, with settlements both north and south of the Yellow River. Holding on to everything may be a challenge, so you should avoid a two front war and do whatever it takes to secure peace with either the Northern or Southern neighbors.
 
 There is some room for expansion both north and south of the river, with the south perhaps being a little better. There are also the small states of Zhou and Zheng that you could conquer. However, beware of Chu to your south, as they have relatively few targets other than Han.","あなたの領土ではなく、黄河の集落北と南の両方で、散乱されます。あなたが二正面作戦を避け、それは北部や南部の隣人のいずれかとの平和を確保するために取るものは何でもする必要がありますのですべてに上保持することは、挑戦することがあります。
 
 南は、おそらく少し良くしていると、川の拡充北と南の両方のためのいくつかの部屋には、があります。あなたは征服でき周と鄭の小国もあります。彼らは漢以外の比較的少数の目標を持っているようしかし、あなたの南にチューの用心。",
-ADV_TITLE_C_WS_Chu01,Greetings,ご挨拶,
+ADV_TITLE_C_WS_Chu01,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_C_WS_Chu01,"You start in control of a large swathe of territory on the north bank of the Yangtze River. On paper you are wealthy and powerful, but your cities are far apart. Individually, none of your neighbors is a match for you, but given the distances involved, fighting two at once could be difficult. You have much empty territory to exploit, so it might be wise to concentrate on internal development for a while, and let others waste their strength fighting.
 
 Your capital is on the banks of the Yangtze river. Consider exploiting this waterway as highway for movement, and a route for trade. It's also a route you can use to attack Shu and Ba to the West, and Yue to the East.","あなたは長江の北岸の領土の大包帯の制御に開始します。紙の上では、裕福で強力ですが、あなたの都市は遠く離れています。個別には、あなたの隣人のどれもあなたのための試合ではありませんが、関与の距離を考えると、一度に2を戦うことは困難である可能性があります。しばらくの間、社内の開発に専念するのが賢明であること、そして他の人が戦って自分の強さを無駄にさせて頂く場合がございますので、あなたは、悪用する多くの空の領土を持っています。
 
 あなたの首都は長江のほとりにあります。運動のための高速道路、および貿易のためのルートとして、この水路を活用することを検討してください。それはまた、あなたが西と東に越にシュウ及びBaを攻撃するために使用することができるルートです。",
-ADV_TITLE_C_WS_Shu01,Greetings,ご挨拶,
+ADV_TITLE_C_WS_Shu01,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_C_WS_Shu01,"You start far to the West in the Sichuan basin, away from most of the other great powers. Compared to those you are relatively weak, but have plenty of space to develop and grow. Your biggest danger is Qin to the north, so try to secure peace with them until you are strong enough to fight.
 
 The state of Ba is your natural rival for domination of Sichuan, and some conflict with them is probably inevitable. ","あなたは離れて他の大国のほとんどから、四川盆地の西にはるかに開始します。それらと比較すると、あなたは比較的弱いですが、開発し、成長する十分なスペースを持っています。あなたの最大の危険は北に秦ですので、あなたが戦うのに十分な強されるまで彼らと平和を確保しようとします。
 
 Baの状態は、四川省の支配のためのあなたの自然なライバルである、と彼らといくつかの競合は、おそらく避けられません。",
-ADV_TITLE_C_WS_Ba01,Greetings,ご挨拶,
+ADV_TITLE_C_WS_Ba01,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_C_WS_Ba01,"You start in the south of China with a state that straddles the middle reaches of the Yangtze river. Your main avenues for expansion are to the South and to the West. The land to the South is uninhabited and undeveloped, but there are many forests to clear and marshes to drain before you can build great cities. Sichuan, the land to the west is more promising, but will bring you into conflict with Shu and Qin.
 
 Initially you are one of the weaker powers, and so should avoid conflict. However, you need to prepared to assert yourself against Shu to claim your share of Sichuan.","あなたは長江の中流にまたがる状態での中国の南に開始します。拡張のためのあなたの主な道を南へと西にあります。南の土地は無人島と未開発ですが、あなたは偉大な都市を構築することができます前に排水する多くクリアする森林や沼地があります。四川省、西への土地は、より有望であるが、シュウと秦との競合にあなたをもたらすでしょう。
 
 最初はあなたが弱い勢力の一つであるので、競合を避ける必要があります。ただし、四川省のシェアを請求するシュウに対して自分自身を主張するために準備する必要があります。",
-ADV_TITLE_C_WS_Zhongshan01,Greetings,ご挨拶,
+ADV_TITLE_C_WS_Zhongshan01,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_C_WS_Zhongshan01,"You are a small state in northern China, surrounded by more powerful ones. Survival should be your main priority to begin with. Given your small starting territory, any war could be devastating, but may be difficult to avoid since you are tempting target for larger states looking to expand. Try to secure some powerful allies, or consider becoming a vassal to one of your neighbors.
 
 If you can survive, there is space to expand into to the East around the mouth of the Yellow river, and to the North. Expanding east is easier, but is a high risk strategy, and will expose you to both hostile attacks and frequent flooding. Moving north will expose you to the Xiongnu and Dong Hu, but these have plenty of land available, so you may be able to buy them off.","あなたはより強力なものに囲まれた中国北部の小さな状態、です。生存率は、そもそもあなたの主な優先事項であるべきです。あなたの小さな開始領土が得られるのであれば、戦争は壊滅的かもしれないが、あなたが拡大して見て大きな状態のターゲットを誘惑しているので、回避することは困難かもしれません。いくつかの強力な同盟国を確保しようとする、またはあなたの隣人のいずれかに家臣になって検討してください。
@@ -623,28 +624,28 @@ ADV_TEXT_C_WS_Jin01,"Your once mighty state is now reduced to a single city near
 All in all, your position is extremely difficult, and survival  should be seen as an achievement in itself.","あなたのかつて強大な状態が今フェン川の近くの単一の街に縮小されます。魏、趙漢の隣接状態がこれだけいくつかの抜け目のない外交は、あなたが生き残るようになる、あなたを飲み込むことになるだろう。そこ拡張のために西に利用できるスペースがあるが、それはおそらくあなたの秦の対象となります。
 
 すべてのすべては、あなたの位置は非常に困難であり、生存自体が成果として見られるべきです。",
-ADV_TITLE_C_WS_Zheng01,Greetings,ご挨拶,
+ADV_TITLE_C_WS_Zheng01,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_C_WS_Zheng01,"You begin as a single city state to the south of the Yellow River. Although many of the surrounding states are more powerful, your city is well fortified and rich, so you are no pushover. There is some land around that you can use to expand, but you'll need careful diplomacy to defend your new settlements.
 
 Although playing off your neighbors against each other may seem like the thing to do, much of your wealth comes from trade, and war is bad for business, even if you're not directly involved.","あなたは黄河の南に、単一の都市国家として始めます。周囲の状態の多くは、より強力ですが、あなたの街はよく要塞と豊富ですので、あなたにはだまされやすい人ではありません。そこには、拡大するために使用できるいくつかの土地の周りにはあるが、あなたはあなたの新しい入植地を守るために慎重な外交が必要になります。
 
 お互いにあなたの隣人をオフにプレイするためにやることのように思えるかもしれませんが、あなたの富の多くは、貿易から来ている、との戦争は、あなたが直接関与していない場合でも、ビジネスのために悪いです。",
-ADV_TITLE_C_WS_Zhou01,Greetings,ご挨拶,
+ADV_TITLE_C_WS_Zhou01,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_C_WS_Zhou01,"Your state was once the overlord of all China, but is now reduced to a single city just south of the Yellow River. Restoring Zhou to its former glory will be a mammoth task, that will require great skill to achieve. However, your remaining city is rich and strong, so there is some hope.
 
 The nearby powers of Han and Wei will see you as a tempting target, so your priority should be to secure good relations with them. This will allow you to expand into the surrounding empty lands and become stronger. However, scope for expansion is limited, so you will need to fight to expand further, and for that you will need allies. If you make the right alliances you will prosper, if not you will be extinguished.","あなたの状態は、一度、すべての中国の君主だったが、今すぐ南黄河の単一都市に縮小されます。かつての栄光に周を復元すると、達成するために偉大なスキルが必要になります巨大な作業になります。しかし、あなたの残りの都市は、豊かで強いので、いくつかの希望があります。
 
 漢と魏の近くの権限は、ので、あなたの優先順位は彼らと良好な関係を確保することであるべき、魅力的なターゲットとして、あなたが表示されます。これは、周囲の空の土地に展開して強くなることができます。ただし、拡張の余地は限られているので、あなたはさらに拡大するために戦うために必要があるでしょうし、そのためにあなたが同盟国が必要になります。あなたが右の提携を作る場合、あなたは消滅するだろうされていない場合、繁栄します。",
-ADV_TITLE_C_WS_Song01,Greetings,ご挨拶,
+ADV_TITLE_C_WS_Song01,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_C_WS_Song01,"You start as a medium sized power, on the south side of the Yellow River. Your immediate neighbors are smaller states that may look like tempting targets to annex, but beware of them allying themselves with stronger powers. As ever with the smaller states, diplomacy will be the key to advancement.
 
 You have some possibilities to expand your land, especially to the south. Also try to exploit your central position and access to the Yellow River to build a lucrative trade network.","あなたは黄河の南側に、中規模の電源としてスタート。あなたのすぐ隣には、併合する目標を魅力的なように見えるが、強い力で自分自身を同盟それらの用心も小さい状態です。今まで小さい状態と同じように、外交は進歩への鍵となります。
 
 あなたは、特に南に、あなたの土地を拡大するためにいくつかの可能性を持っています。また、有利な貿易ネットワークを構築するために黄河にあなたの中心位置とアクセスを活用してみてください。",
-ADV_TITLE_C_WS_Lu01,Greetings,ご挨拶,
+ADV_TITLE_C_WS_Lu01,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_C_WS_Lu01,"Lu is a small state near the coast to the south of the Shandong Peninsula. All the surrounding powers are much stronger, and will be looking to gobble you up, particularly the powerful state of Qi to your north. You will need to ally with some of your neighbors to survive, and it may be necessary to become a vassal of one of them.
 
-There is some limited space to expand, but holding a larger territory will be difficult. Expanding militarily will require joining in the wars of larger powers. Carefully picking the winning side will be key.","呂は山東半島の南に海岸近くの小さな状態です。すべての周りの力がはるかに強いです、そして、あなたの北に、チーの特に強力な状態にあなたをガツガツすることになるだろう。あなたは、生き残るためにあなたの隣人の一部と同盟する必要があります、そしてそのうちの一つの家臣になるために必要な場合があります。
+There is some limited space to expand, but holding a larger territory will be difficult. Expanding militarily will require joining in the wars of larger powers. Carefully picking the winning side will be key.","呂山東半島の南に海岸近くの小さな状態です。すべての周りの力がはるかに強いです、そして、あなたの北に、チーの特に強力な状態にあなたをガツガツすることになるだろう。あなたは、生き残るためにあなたの隣人の一部と同盟する必要があります、そしてそのうちの一つの家臣になるために必要な場合があります。
 
 そこ拡大するためのいくつかの限られた空間であるが、より大きな領土を保持することは困難であろう。軍事的に展開すると、より大きな力の戦争に参加する必要があります。慎重に勝利側を選ぶことが鍵となります。",
 ADV_TITLE_C_WS_XiongNu01,Greetings,ご挨拶,
@@ -653,65 +654,65 @@ ADV_TEXT_C_WS_XiongNu01,"You play as a nomadic herding faction to the north. Cur
 You are not in close contact with the any of the farming states, who lay mostly to the south and east, but the mobility of your light cavalry will let you form raiding parties with little fear of reprisals. This is a good way to raise money, which will otherwise be in short supply.","あなたは北への遊牧牧畜派としてプレー。現在、そこには差し迫った脅威ではないが、あなたは非常に弱く、広げ、成長する必要があります。ドン胡はあなたの進歩をブロックするなどの限られた空間は、はるか北の草原の上にありますが、南に黄河の大きなループに拡大する余地があります。
 
 あなたは南と東に主に横たわっていた農業の状態、のいずれかと密接に接触していないが、あなたの光の騎兵の移動度は、あなたが報復の少し恐怖に襲撃パーティーを形成するようになります。これは、そうでない場合は供給不足になります資金を調達するための良い方法です。",
-ADV_TITLE_C_WS_DongHu01,Greetings,ご挨拶,
+ADV_TITLE_C_WS_DongHu01,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_C_WS_DongHu01,"You are unusual in that you have a mixed economy, combining both nomadic herdsmen  and settled farmers. This gives you options to exploit all the land around you. In the long run, farming on the fertile plains will be more lucrative, but farms are also harder to protect, so also make sure to have a few settlements of herders in the grassland to the north.
 
 You start next to several farming states, and raiding them for loot can be a good extra source of income. However, try to spread the damage you do equally, lest any one of them become too strong. In particular beware the state of Yan to your south, it will likely defeat you in a full scale war.","あなたは遊牧民遊牧民の両方を組み合わせた、混合経済を持っており、農家の定住という点で、あなたは珍しいです。これは、あなたの周りのすべての土地を活用するためのオプションを提供します。長期的には、肥沃な平野に農業をすることは、より有利になりますが、農家も保護することが困難であるため、また北の草原で遊牧民のいくつかの集落を持っていることを確認してください。
 
 あなたは次のいくつかの農業の状態に開始し、戦利品のためにそれらを襲撃することは収入の良い余分なソースにすることができます。しかし、あなたが同じように、それらのいずれかのないよう強くなり過ぎないダメージを広めてみてください。特に、あなたの南にヤンの状態を注意してください、それはおそらく、フルスケールの戦争であなたを打ち負かします。",
-ADV_TITLE_C_WS_DogRong01,Greetings,ご挨拶,
+ADV_TITLE_C_WS_DogRong01,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_C_WS_DogRong01,"Your faction is a loose confederation of semi-nomadic tribes spread thinly across the western part of the map. Your confederation is weak and divided, but its remote location is its protection, and you have ample room to expand and grow stronger.
 
 The lands in the west are not the best, but some small settlements here will be well protected from enemies, and you may be able to exploit reserves of gold or jade in the mountains. To the north east is a large area of grassland, that offers great opportunities for expansion. There are also opportunities in Sichuan to the south, particularly when the state of Shu is weak.","あなたの派閥は、半遊牧民の緩やかな連合は、マップの西部全体に薄く広がっています。あなたの連合は弱いと分かれているが、その遠隔地は、その保護され、そしてあなたが拡大し、より強力な成長する余地があります。
 
 西の土地は最高ではありませんが、ここではいくつかの小さな集落がうまく敵から保護されます、そしてあなたは山中に金やヒスイの準備金を活用できる可能性があります。北東への拡張のための素晴らしい機会を提供しています草原の大面積、です。シュウの状態が弱い場合は特に機会は、南に四川省でもあります。",
 ./text_en/FactionText.utf.txt,,#VALUE!,
-Shang Short,Shang,シャン,
-Shang Full,Shang,シャン,
-Shang Desc,"The Shang are a well organized farming society on the flood plain of the Yellow River. They are ruled over by a priest king who intercedes with Heaven on behalf of the people, and have developed a system of writing which will develop into modern Chinese script. They use this to write questions on bone fragments in a form of divination. Historically, they are reckoned to be the second great dynasty, but thanks to the afore mentioned oracle bones, the first for which we have a real historical record.",シャンは、黄河の氾濫原によく組織農耕社会です。彼らは人々に代わって天国にとりなし司祭王によって治められ、現代中国のスクリプトに発展する書き込みのシステムを開発しました。彼らは占いの形で骨片に関する質問を書き込むために、これを使用しています。歴史的に、彼らは、第二の偉大な王朝であることを一目置かれているが、前述上記甲骨、最初のおかげでそのために、私たちは本当の歴史的な記録を持っています。,
-Zhou Short,Zhou,周,
-Zhou Full,Zhou,周,
-Zhou Desc Old,"The Zhou are a tough Chinese people in the Wei River valley to the west. Their rulers have a reputation as wise sage kings, and are renowned for their skill at chariot warfare. Historically, they overthrew the decadent Shang and formed the third, and longest lived, great dynasty. The time of their rule is known as the Spring and Autumn period.",周は西に魏川渓谷の厳しい中国の人々です。彼らの支配者は、賢明セージの王としての評判を持って、そして戦車戦で自分のスキルのために知られています。歴史的に、彼らは退廃シャンを打倒しと、第三、及び最長住んでいた偉大な王朝を形成しました。そのルールの時間は春秋時代として知られています。,
-Qin Short,Qin,秦,
-Qin Full,Qin,秦,
+Shang Short,Shang,シャン,殷
+Shang Full,Shang,シャン,殷
+Shang Desc,"The Shang are a well organized farming society on the flood plain of the Yellow River. They are ruled over by a priest king who intercedes with Heaven on behalf of the people, and have developed a system of writing which will develop into modern Chinese script. They use this to write questions on bone fragments in a form of divination. Historically, they are reckoned to be the second great dynasty, but thanks to the afore mentioned oracle bones, the first for which we have a real historical record.",シャンは、黄河の氾濫原によく組織農耕社会です。彼らは人々に代わって天国にとりなし司祭王によって治められ、現代中国のスクリプトに発展する書き込みのシステムを開発しました。彼らは占いの形で骨片に関する質問を書き込むために、これを使用しています。歴史的に、彼らは、第二の偉大な王朝であることを一目置かれているが、前述上記甲骨、最初のおかげでそのために、私たちは本当の歴史的な記録を持っています。,殷は黄河の氾濫原に位置する高度に組織化された農耕部族です．彼らは人々を代表して天国と交信を行う司祭の王によって統治されました．また，彼らが占いで骨片に質問を書くために確立された甲骨文字の書記体系は，現在の漢字のもととなっています．歴史的に見て彼らは2番目の王朝と考えられていますが，前述の甲骨文字のおかげで我々は本当の歴史的記録を持っています．
+Zhou Short,Zhou,周,周
+Zhou Full,Zhou,周,周
+Zhou Desc Old,"The Zhou are a tough Chinese people in the Wei River valley to the west. Their rulers have a reputation as wise sage kings, and are renowned for their skill at chariot warfare. Historically, they overthrew the decadent Shang and formed the third, and longest lived, great dynasty. The time of their rule is known as the Spring and Autumn period.",周は西に魏川渓谷の厳しい中国の人々です。彼らの支配者は、賢明セージの王としての評判を持って、そして戦車戦で自分のスキルのために知られています。歴史的に、彼らは退廃シャンを打倒しと、第三、及び最長住んでいた偉大な王朝を形成しました。そのルールの時間は春秋時代として知られています。,周は渭水西部に位置する強靭な部族です．彼らの支配者は賢明な王として知られ，戦車戦の技能で名高いです．歴史的には，彼らは退廃的な殷を滅ぼした3番目の王朝であり，最も長く続いた素晴らしい王朝とされます．彼らが支配した時期は春秋時代と呼ばれます．
+Qin Short,Qin,秦,秦
+Qin Full,Qin,秦,秦
 Qin Desc,"The Qin are a small fiefdom at the western end of the Wei River valley. They are well organized and ruthlessly warlike, if a little uncultured. Historically they used their position at the periphery of the Chinese sphere to expand at the expense of the neighboring barbarians and become a powerful kingdom. Their leader King Zheng conquered all the other Chinese states and assumed the title of ""Shi Huangdi"" or ""First Emperor"", and it is from the name Qin that the English word China is derived.",秦は魏川の谷の西の端にある小さな領地です。少し未培養のなら、彼らは、よく組織と情け容赦なく好戦的です。歴史的に、彼らは近隣の野蛮人を犠牲にして拡大し、強力な王国になるために中国の球体の周囲に自分の位置を使用していました。彼らの指導者キング鄭は、他のすべての中国の州を征服し、「始皇帝」または「始皇帝」のタイトルを想定し、それが英語の単語中国が導出されていることを名前秦からです。,
-Rong Short,Dog Rong,犬栄,
-Rong Full,The Dog Rong,犬栄,
+Rong Short,Dog Rong,犬栄,犬戎
+Rong Full,The Dog Rong,犬栄,犬戎
 Rong Desc,"The Dog Rong are a people of Tibetan descent, living around the Yellow River in the west. Their name derives from their worship of a white dog. According to legend they are the sworn enemies of the Chinese peoples living to the east of them. Initially they are animal herders rather than farmers. The Chinese regard them as uncivilized barbarians.",犬栄西に黄河周辺に住む、チベット系の人々です。彼らの名前は、白い犬の彼らの崇拝に由来します。伝説によると、彼らは彼らの東に住む中国人の人々の不倶戴天の敵です。当初、彼らは動物の遊牧民ではなく、農家です。中国は未開の野蛮人としてそれらを考えています。,
-Han Short,Han,ハン,
-Han Full,Han,ハン,
+Han Short,Han,ハン,漢
+Han Full,Han,ハン,漢
 Han Desc,"Han is a Chinese kingdom to the south of the Yellow River, in the same area once occupied by the semi legendary Xia Dynasty. The people are efficient and well organized, but apart from their skill at crossbow manufacture, not especially warlike. Historically Han was surrounded by too many enemies, and was eventually conquered by Qin. Han shares the same name as the later Han Empire, but its name is written with a different character, and is not connected to it.",ハンはかつて半伝説の夏王朝によって占め同じ領域に、黄河の南に中国の王国です。人々は、効率的でよく組織が、離れてクロスボウ製造の能力から、特に好戦的ではありません。歴史的に漢があまりにも多くの敵に囲まれた、そして最終的には秦によって征服されました。漢は後漢帝国と同じ名前を共有しますが、その名前が異なる文字で書かれ、それに接続されていません。,
-Chu Short,Chu,チュー,
-Chu Full,Chu,チュー,
+Chu Short,Chu,チュー,楚
+Chu Full,Chu,チュー,楚
 Chu Desc,"The state of Chu has a distinct culture combining, that of northern China with that of the many southern tribes it has absorbed. Its nature inspired art, music and pottery are particularly admired. Chu's rulers are spiritual, but somewhat decadent, and their conduct of administrative and military affairs is rather inefficient. Nevertheless Chu is a formidable power, that commands the loyalty of its people. 
 Historically Chu became a great kingdom, but was eventually defeated by Qin.","楚の状態は、それが吸収した多くの南部の部族のもので、中国北部のものを組み合わせて明確な文化を持っています。その性質触発芸術、音楽、陶器は特に賞賛されています。チューの支配者は精神的な、やや退廃であり、行政や軍事の彼らの行動は、むしろ非効率的です。それでもチューは、その人の忠誠心を指令する恐るべきパワー、です。
 歴史的にチューは偉大な王国となったが、最終的には秦によって敗北しました。",
-Wu Short,Wu,呉,
-Wu Full,Wu,呉,
+Wu Short,Wu,呉,呉
+Wu Full,Wu,呉,呉
 Wu Desc Old,"Wu occupies the area around the mouth of the Yangtze River. It's rulers are Chinese, but the people engage in practices considered somewhat barbarous, such as tattooing and cutting hair. They are skilled with boats and ships, and are particularly skilled at making swords. Although their land is bountiful, it is unsuitable for horse rearing.
 Historically the original kingdom of Wu was destroyed by Min, but was revived several times, most notably during the famous Three Kingdoms period.","呉は長江の河口付近を占めています。それの支配者は中国人ですが、人々は、このような入れ墨や髪をカットするなど、多少野蛮と考え慣行に従事します。彼らはボートや船を持つ熟練している、と剣を作るのが特に熟練しています。彼らの土地は豊かですが、それは馬の飼育には不向きです。
 歴史的には、呉の元王国はミンによって破壊されたが、有名な三国時代の間に最も顕著なのは、いくつかの回を復活させました。",
-Min Short,Min Yue,ミン越,
-Min Full,Min Yue,ミン越,
+Min Short,Min Yue,ミン越,閩越
+Min Full,Min Yue,ミン越,閩越
 Min Desc,"The Kingdom of Min Yue is composed of numerous tribes from the south east region of China. Its leaders are have adopted Chinese culture, but the people are considered barbaric, and lacking in development. Nevertheless they are masters of warfare in the southern jungles, and also great seafarers.",ミン越の王国は中国の南東地域から多数の部族で構成されています。その指導者たちは、中国の文化を採用しているされているが、人々は野蛮と考え、開発に欠けています。それでも彼らは、南部のジャングルでの戦闘の達人、また偉大な船乗りです。,
-Shu Short,Shu,シュウ,
-Shu Full,Shu,シュウ,
+Shu Short,Shu,シュウ,蜀
+Shu Full,Shu,シュウ,蜀
 Shu Desc,"Shu is situated in the modern day area of Sichuan in the west of China. They have their own highly distinct culture, focused on the worship of nature and the Sun. While slow to adopt writing, they have great talent in craftwork, producing a huge array of exquisite objects in gold, bronze and jade. Particularly famous are the gold and bronze masks from, Sanxingdui and Jinsha that inspire their symbol. Their location makes them natural traders.
 Historically, Shu played only a peripheral part in Chinese history, and since they left no writing of their own, not much is known of them. However, the archeological remains make it clear that they had an advanced civilization.","シュウは、中国西部の四川省の現代エリアに位置しています。彼らは、自分自身の非常に明確な文化は、自然の崇拝と日曜に焦点を当てています遅い書き込みを採用するが、それらは金、青銅やヒスイで絶妙なオブジェクトの巨大な配列を生成する、工芸品で素晴らしい才能を持っています。特に有名な彼らのシンボルを鼓舞三星堆と沙から、金とブロンズマスクがあります。その場所は、それらの自然のトレーダーになります。
 歴史的に、シュウは中国の歴史の中で唯一の周辺部を演奏し、彼らは自分のない書き込みを残していないので、あまりそれらを知られています。しかし、遺跡は、それを明確に彼らは高度な文明を持っていたことを確認します。",
 Ba Short,Ba,Ba,
 Ba Full,Ba,Ba,
 Ba Desc,"The Ba are a confederation of several tribes, with a reputation as fierce and disciplined fighters. They have a distinct culture, with their own script, and are particularly famous for their singing, dancing and weaving. They depend heavily on hunting and fishing, as their agriculture is somewhat primitive. They believe themselves descended from the white tiger, which they worship and sacrifice to.",Baが激しいと規律戦闘機として評判で、いくつかの部族の連合体です。彼らは独自のスクリプトで、明確な文化を持っており、彼らの歌、ダンス、織りのために特に有名です。彼らの農業はやや原始的であるとして彼らは、狩猟や釣りに大きく依存しています。彼らは、自分たちは、彼らが崇拝とに犠牲白虎、子孫から信じています。,
-Xiongnu Short,Xiongnu,匈奴,
-Xiongnu Full,The Xiongnu,匈奴,
+Xiongnu Short,Xiongnu,匈奴,匈奴
+Xiongnu Full,The Xiongnu,匈奴,匈奴
 Xiongnu Desc,"The Xiongnu are an animal herding people living on the Steppes, the area of grassland to the north of China. Although the Chinese consider them barbarians, their artisans are highly skilled, and they are at the forefront of military developments.
 Historically, the Xiongnu came into their own when the adoption of horse riding enabled them to cross the great open plains quickly. They subjugated the other nomadic tribes of the Steppe, and for a while even forced the Han Empire to pay them tribute.","匈奴は、中国の北に草原、草原の面積に生きている動物の牧畜民です。中国はそれら野蛮検討しますが、その職人は非常に熟練している、と彼らは軍事開発の最前線にあります。
 乗馬の採用が急速に偉大な平原を横断するためにそれらを有効にすると歴史的に、匈奴は独自に入ってきました。彼らは、草原の他の遊牧民の部族を征服し、しばらくしても、彼らに敬意を払うために漢帝国を余儀なくされました。",
-Mongols Short,Mongols,モンゴル,
-Mongols Full,The Mongols,モンゴル,
+Mongols Short,Mongols,モンゴル,モンゴル
+Mongols Full,The Mongols,モンゴル,モンゴル
 Mongols Desc,"Mongolian speaking peoples have been around the east Asian Steppes since the dawn of history, but the term Mongol itself does not appear until around 1000 AD, when it referred to a new grouping of nomadic tribes. Initially they differed little from the many similar groups that had gone before, but their famous leader Genghis Khan was able to instill an exceptional sense of loyalty and discipline in them, and create an unstoppable military machine that created the world's mightiest empire.",モンゴルを話す人々は、有史以来、東アジアの草原の周りされているが、用語はモンゴル自体が、それは遊牧民の新しいグループと呼ば約1000 ADまで表示されません。当初、彼らは前に行っていた多くの同様のグループから少し異なっていたが、彼らの有名な指導者チンギス・ハーンは、彼らに忠誠心と規律の例外的な感覚を植え付ける、そして世界最強の帝国を作成止められない軍事マシンを作成することができました。,
-Xianbei Short,Xianbei,鮮卑,
-Xianbei Full,The Xianbei,鮮卑,
+Xianbei Short,Xianbei,鮮卑,鮮卑
+Xianbei Full,The Xianbei,鮮卑,鮮卑
 Xianbei Desc,"The Xianbei are a Mongolic people living in the far east of Mongolia and the western part of Manchuria. Like most steppe peoples they are excellent horsemen, and live by herding and hunting. Although militarily formidable, they are rather primitive by Chinese standards. However, their craftsmen are outstanding, and are particularly known for their headdresses of very thinly beaten metal.",鮮卑はモンゴルの極東と満州の西部に住むモンゴル人です。ほとんどの草原の人々と同じように、彼らは優秀な騎手であり、牧畜や狩猟によって生きます。軍事的に手ごわいが、それらは中国の基準ではかなり原始的です。しかし、彼らの職人が優れており、特に非常に薄く殴ら金属の彼らの頭飾りのために知られています。,
 Yi Short,Dong Yi,トンイ,
 Yi Full,The Dong Yi,トンイ,
@@ -721,7 +722,7 @@ Di Full,The White Di,ホワイトディ,
 Di Desc,"The White Di are a non Chinese people living in the north east of China, but south of the Mongolian Steppes. They live by hunting, and herding sheep and goats. Indeed, one Chinese image of them is as a monster with the legs of a man, and the head of a goat. Unusually for herders, they have walled cities, and fight fiercely, mainly on foot. Historically they were conquered and absorbed by the Chinese.",ホワイトディ、中国の北東部に住む非中国の人々ですが、モンゴル草原の南。彼らは狩猟、および牧畜羊とヤギで住んでいます。確かに、そのうちの一つ、中国の画像は、人間の足でモンスター、ヤギの頭のとおりです。珍しく遊牧民のために、彼らは壁の都市を持っており、主に足の上に、激しく戦います。歴史的に彼らが征服し、中国に吸収されました。,
 Dingling Short,Dingling,丁零,
 Dingling Full,The Dingling,丁零,
-Dingling Desc,"The Dingling are a Siberian people living in the north of Mongolia. They live by hunting and fishing, but have also adopted the animal herding ways of the steppe peoples. They are quite primitive, but historically they were tough and adaptable enough to endure over a long period of time. They are often thought to be the ancestors of the Turks.",丁零は、モンゴルの北部に住むシベリア人です。彼らは狩猟や釣りで住んでいるが、また草原の人々の動物牧畜方法を採用しています。彼らは非常に原始的ですが、歴史的に、彼らは時間の長い期間にわたって耐えるのに十分なタフで適応しました。彼らはしばしば、トルコ人の祖先であると考えられています。,
+Dingling Desc,"The Dingling are a Siberian people living in the north of Mongolia. They live by hunting and fishing, but have also adopted the animal herding ways of the steppe peoples. They are quite primitive, but historically they were tough and adaptable enough to endure over a long period of time. They are often thought to be the ancestors of the Turks.",丁零はモンゴルの北部に住むシベリア人です。彼らは狩猟や釣りで住んでいるが、また草原の人々の動物牧畜方法を採用しています。彼らは非常に原始的ですが、歴史的に、彼らは時間の長い期間にわたって耐えるのに十分なタフで適応しました。彼らはしばしば、トルコ人の祖先であると考えられています。,
 Noble Rebels Short,{0} : Rebels,{0}：反乱,
 Noble Rebels Full,{0} : Rebels,{0}：反乱,
 Noble Rebels Desc,"This faction is a collection of rebels who believe their lord has lost the mandate of heaven, and is no longer fit to rule. They are in revolt against him, and seek his overthrow.",この派閥は彼らの主が天の任務を失ったと考えている反政府勢力の集まりではありません、もはやルールに適合しています。彼らは、彼に対する反乱であり、そして彼の打倒を求めます。,
@@ -809,12 +810,12 @@ HS Horde Settlement Default Name,Horde {0},大群{0},
 UI CC Not allowed in horde settlement,Not allowed in horde settlements.,大群の集落では使用できません。,
 TI Zhennan Wood,Zhennan Wood,Zhennanウッド,
 TI Falcons,Falcons,ファルコンズ,
-TI Bamboo,Bamboo,竹,
+TI Bamboo,Bamboo,竹,竹
 TI Sable Fur,Sable Fur,セーブル毛皮,
 TI Carpets,Fine Carpets,ファインカーペット,
 TI Textiles,Textiles,テキスタイル,
 TI Glass,Glassware,ガラス製品,
-MR Bamboo,Bamboo,竹,
+MR Bamboo,Bamboo,竹,竹
 MR Bamboo Desc,The tall straight bamboo stems that grow here are  valuable for construction. A settlement that controls (or has adjacent territory) to this resource can trade them for additional income.,背の高いストレート竹は、それがここで育つ茎の建設のために貴重です。このリソースへの制御（または隣接する領土を持っている）決済は、追加の収入のためにそれらを交換することができます。,
 MR ZhennanWood,Zhennan Wood,Zhennanウッド,
 MR ZhennanWood Desc,The tall straight evergreen trees here produce wood that is much prized for furniture making and palace construction. The finest logs are so valuable that only royalty can afford them.  A settlement that controls (or has adjacent territory) to this resource can trade them for additional income.,ここでは背の高いストレート常緑の木は、多くの家具作りや宮殿の建設のために珍重された木材を生産します。最高級のログは唯一のロイヤルティがそれらを買う余裕ができることをとても貴重なものです。このリソースへの制御（または隣接する領土を持っている）決済は、追加の収入のためにそれらを交換することができます。,
@@ -826,7 +827,7 @@ MR Goats,Goats,ヤギ,
 MR Goats Desc,"A few wild goats scratch a living on the hillside, but are still a valuable source of nourishment. This will increase by {0} the food production of any settlement that controls it, or has adjacent territory.",いくつかの野生のヤギは、丘の中腹に生活を傷つける、まだ栄養の貴重な情報源です。これは、それを制御する、または隣接領域を有する任意の決済の{0}食糧生産増加します。,
 MR Silk Road West,Silk Road West,シルクロード西,
 MR Silk Road West Desc,Merchants travelling to and from the East pass through here. A settlement controlling this resource can tax them for {0}.,Horde {0},
-MR Silk Road East,Silk Road East,シルクロード東,
+MR Silk Road East,Silk Road East,シルクロードEast,
 MR Silk Road East Desc,Merchants travelling to and from the West pass through here. A settlement controlling this resource can tax them for {0}.,西へと旅から商人がここを通過します。このリソースを制御決済は{0}のためにそれらを課税することができます。,
 MR Silk Road Central,Silk Road Central,シルクロード中央,
 MR Silk Road Central Desc,Merchants travelling between the East and  the West pass through here. A settlement controlling this resource can tax them for {0}.,東と西の間を移動する商人がここを通過します。このリソースを制御決済は{0}のためにそれらを課税することができます。,
@@ -940,7 +941,7 @@ ED Yam Messenger System Desc,"Our empire is vast and communication within it is 
 ED Establish Keshik,Establish Keshik,Keshikを確立,
 ED Establish Keshik Desc,"The army is composed of many tribes, and loyalty to the tribe may be greater than loyalty to the Khan. To combat this, let an elite guard be established composed on the sons or younger brothers of the leaders of the thousands and hundreds in the army. The Keshik will serve as the Khan's personal bodyguard, an elite reserve in battle, and a training ground for future officers. It will also instill loyalty to the Khan in its members.",軍隊は多くの部族で構成され、部族の忠誠は、カーンに忠誠心よりも大きくすることができます。これに対処するには、エリートガードは息子や軍隊で数千人と数百人の指導者の弟に構成確立することができます。 Keshikはカーンの個人的なボディーガード、戦闘のエリート予備、および将来の役員のための訓練の場として機能します。また、そのメンバーにカーンへの忠誠心を植え付けるます。,
 ED Forbid Looting,Forbid Looting,略奪を禁止,
-ED Forbid Looting Desc,"It is the natural right of the victors to take the possessions and women of the defeated, but looting during a battle takes soldiers away from the fight and allows defeated enemies to escape. Therefore looting during battle is strictly forbidden on pain of death. All loot shall be gathered after the battle, and divided fairly among the soldiers present.",敗北の所有物と女性を取るために勝者の自然権であるが、戦闘中に略奪することは離れて戦いから兵士を取り、倒した敵が脱出することができます。したがって、戦闘中に略奪は厳しく、死の痛みに禁じられています。すべての戦利品は、戦いの後に集められ、そして本の兵士の間で公平に分割されなければなりません。,
+ED Forbid Looting Desc,"It is the natural right of the victors to take the possessions and women of the defeated, but looting during a battle takes soldiers away from the fight and allows defeated enemies to escape. Therefore looting during battle is strictly forbidden on pain of death. All loot shall be gathered after the battle, and divided fairly among the soldiers present.",敗北の所有物と女性を取るために勝者の自然権であるが、戦闘中に略奪することは離れて戦いから兵士を取り、倒した敵が脱出することができます。したがって、戦闘中に略奪は厳しく、死の痛みに禁止されています。すべての戦利品は、戦いの後に集められ、そして本の兵士の間で公平に分割されなければなりません。,
 ED Freedom of Worship,Freedom of Worship,崇拝の自由,
 ED Freedom of Worship Desc,"There is only one God in Heaven, but men reach him in different ways, and each man should be free to worship God in the way that he sees fit. Furthermore, let all religious leaders of whatever faith be exempt from taxation and public service.",そこ天国で唯一の神ですが、男性はさまざまな方法で彼に到達し、それぞれの男は、彼が適当と考えるような方法で神を礼拝する自由でなければなりません。さらに、どんな信仰のすべての宗教指導者が課税と公共サービスを免除とします。,
 ED Tax Exemption,Tax Exemption,非課税,
@@ -1039,7 +1040,7 @@ Merkits Full,The Merkits,Merkits,
 Merkits Desc,"The Merkits are a confederation of tribes living on the northernmost part of Mongolia. They practice both farming and pastoralism, but their bleak cold lands produce little wealth. They are renowned archers, and also famous for their magic.",Merkitsは、モンゴルの最北端に住む部族の連合体です。彼らは農業と牧畜の両方を練習し、彼らの暗い寒い土地が少し富を生み出します。彼らは有名な射手、そしてその魔法のためにも有名です。,
 Khamag Mongols Short,Mongols,モンゴル,
 Khamag Mongols Full,The Mongols,モンゴル,
-Khamag Mongols Desc,"The Mongols are a tough herding people living on the northern edge of the Mongolian Steppe. They are poor and uncivilized, but are great horsemen and fierce fighters. Traditionally they  devote much of their energy to fighting each other. However, a new young leader has brought temporary unity and a chance for them to be a force in the world.",モンゴルはモンゴルの草原の北の縁に住んでタフな牧畜民です。彼らは貧しいと未開のですが、偉大な騎手との熾烈な戦闘機です。伝統的に、彼らはお互いに戦うに自分のエネルギーの多くを捧げます。しかし、新しい若いリーダーは、一時的な団結と彼らが世界の力であるためにチャンスをもたらしました。,
+Khamag Mongols Desc,"The Mongols are a tough herding people living on the northern edge of the Mongolian Steppe. They are poor and uncivilized, but are great horsemen and fierce fighters. Traditionally they  devote much of their energy to fighting each other. However, a new young leader has brought temporary unity and a chance for them to be a force in the world.",モンゴルはモンゴルの草原の北の端に住んでタフな牧畜民です。彼らは貧しいと未開のですが、偉大な騎手との熾烈な戦闘機です。伝統的に、彼らはお互いに戦うに自分のエネルギーの多くを捧げます。しかし、新しい若いリーダーは、一時的な団結と彼らが世界の力であるためにチャンスをもたらしました。,
 Karakhanids Short,Karakhanids,Karakhanids,
 Karakhanids Full,Karakhanid Khanate,Karakhanid汗国,
 Karakhanids Desc,"The Karakhanid Khanate is the remaining eastern part of a previously much larger empire that ruled much of Central Asia. The original founders were nomadic Turkic tribes who converted to Islam, but many of them adopted the culture and lifestyle of the mainly Iranian subjects they rule over. Although they are much diminished, they are still wealthy from controlling an important part of the Silk Road and have access to the famous horses of the Ferghana valley. Previously they were vassals of the Kara Khitans, but are now in revolt.",Karakhanid汗国は、中央アジアの大部分を支配した以前はるかに大きい帝国の残りの東部です。創始者は、イスラム教に改宗し遊牧テュルク部族あったが、それらの多くは、彼らがオーバー支配主にイランの被験者の文化やライフスタイルを採用しました。彼らは非常に減少しているが、彼らはまだシルクロードの重要な部分を制御し、フェルガナ渓谷の有名な馬へのアクセス権を持っているから裕福です。以前、彼らはカラKhitansの家臣だったが、反乱になりました。,
@@ -1275,7 +1276,7 @@ China is the richest and most populous region in the world. To successfully comp
 
 あなたは、あなたの偉大な祖父を提出するジンの裁判所に魅了し、裏切られ、そこに殺されたかの話を思い出します。あなたは復讐することが決定されています。
 
-中国は世界で最も豊かな、最も人口の多い地域です。首尾よくあなたがそれをキャプチャする必要があり、このキャンペーンを完了します。しかし、ジンとの戦いは長く、難しいでしょう。ですから、あなたの同盟国を収集し、それをうまく計画しています。",
+中国は世界で最も豊かな、最も人口の多い地域です。首尾よくあなたがそれをキャプチャする必要があり、このキャンペーンを完了します。しかし、ジンとの戦いは長く、難しいでしょう。だからあなたの同盟国を収集し、それをうまく計画しています。",
 LGK Event Merchants Seized Title,Merchants Seized,押収商人,
 LGK Event Merchants Seized Text,"You recently dispatched a merchant caravan  to the realm of Khwarazem in the West. Ostensibly to open friendly trading relations, but also because reports from merchants are a rich source of intelligence about rival states.
 
@@ -1352,7 +1353,7 @@ HPText Unit Stacks Touch,Touching a banner selects a stack of units. Stacks may 
 HPHead Moving Stacks,Moving Unit Stacks,ユニットスタックを移動します,
 HPText Moving Stacks Desktop,"Right click on the hex you wish to move to. If the move is possible the path to be taken will appear. When you end the turn, the units will begin marching. If the distance is long, several turns will be required to complete it. Cancel the move with the button at the bottom of the screen.",右あなたが移動したい進をクリックしてください。移動が可能である場合に取るべき道が表示されます。あなたはターンを終了すると、ユニットが行進を開始します。距離が長い場合は、いくつかのターンはそれを完了する必要があります。画面の下部にあるボタンで移動をキャンセルします。,
 HPText Moving Stacks Desktop 2,Hold the shift key while right clicking to make the stack move to the location after reaching its previously ordered one. This lets you set waypoints if you need to go via a particular route.,右に到達した後の場所にスタックの動きを作るためにクリックしてShiftキーを押しながらその前に1を命じました。これは、特定のルートを経由して行く必要がある場合は、ウェイポイントを設定できます。,
-HPText Moving Stacks Touch,"Touch and hold on the hex you wish to move to until the movement arrows appear. When you end the turn, the units will begin marching. If the distance is long, several turns will be required to complete it. Cancel the move with the button at the bottom of the screen.",タッチして、あなたは運動矢印が表示されるまでに移動したいの六角に保持します。あなたはターンを終了すると、ユニットが行進を開始します。距離が長い場合は、いくつかのターンはそれを完了する必要があります。画面の下部にあるボタンで移動をキャンセルします。,
+HPText Moving Stacks Touch,"Touch and hold on the hex you wish to move to until the movement arrows appear. When you end the turn, the units will begin marching. If the distance is long, several turns will be required to complete it. Cancel the move with the button at the bottom of the screen.",タッチして、あなたは運動矢印が表示されるまでに移動したいの六角を押したままにします。あなたはターンを終了すると、ユニットが行進を開始します。距離が長い場合は、いくつかのターンはそれを完了する必要があります。画面の下部にあるボタンで移動をキャンセルします。,
 HPHead Arranging Stacks,Arranging Unit Stacks,ユニットスタックの配置,
 HPText Arranging Stacks Desktop,"You can change the formation and facing of the units in the stack using the buttons below the tiles. If the stack has a move ordered, any change to facing will only affect its facing at its final destination.",あなたは、タイルの下にあるボタンを使用して、スタック内のユニットの形成と対面を変更することができます。スタックが注文した動きを持っている場合は、対面への変更は、そのは、その最終目的地に直面影響します。,
 HPText Arranging Stacks Desktop 2,"If the stack has multiple lines of units, the colored lines above the tiles show which units are in each line. You can drag unit tiles into another line to rearrange the formation. The left hand side is the front line.",スタックは、単位の複数の行を有する場合、タイル上記着色線が各行に記載されていたユニットを示しています。あなたは形成を再配置するために、別のラインにユニットタイルをドラッグすることができます。左側フロントラインです。,
@@ -1871,7 +1872,7 @@ Tribal Horse Archers Desc,"These men are born to a life in the saddle, practical
 ENB Noble Horse Archers,Noble Horse Archers,ノーブル馬の射手,
 ENB Noble Horse Archers Desc,"These men are the leaders of the tribe. Well equipped, and trained for war since birth, they are formidable and determined warriors. Although by no means unwilling to engage in close combat, they consider it no disgrace to destroy their enemies at a distance using their superior archery skills.",これらの男性は、部族のリーダーです。設備の整った、と誕生以来、戦争のための訓練を受け、彼らは手ごわいと決定した戦士です。なしで近接戦闘に従事したがらないことが、彼らはそれ、その優れたアーチェリーのスキルを使用して距離で敵を破壊する無不名誉を検討してください。,
 Nomad Settlers,Nomad Settlers,ノマド入植,
-Nomad Settlers Desc,"Perhaps they seek greener pastures, or maybe just a change of scenery or company, but this band of nomads has broken off from the main party, to seek a place to make their own encampment. Sustained by their animals, they can wander far and wide until they find a spot that suits them.",おそらく彼らは、緑の牧草地を求めて、あるいは景観や会社の多分ちょうど変更が、遊牧民のこのバンドは、自分の野営地を作るための場所を求めて、メインパーティから折れています。彼らは自分に合った場所を見つけるまで、その動物によって持続的な、彼らは広範囲にさまようことができます。,
+Nomad Settlers Desc,"Perhaps they seek greener pastures, or maybe just a change of scenery or company, but this band of nomads has broken off from the main party, to seek a place to make their own encampment. Sustained by their animals, they can wander far and wide until they find a spot that suits them.",おそらく彼らは、緑の牧草地を求めて、あるいは景観や会社の多分ちょうど変更が、遊牧民のこのバンドは、自分の野営地を作るための場所を求めて、メインパーティから折れています。彼らは自分に合った場所を見つけるまでは、動物によって支え、彼らは遠く広くさまようことができます。,
 Militia Heavy Spearmen old,Militia Heavy Spearmen,民兵重い槍兵,
 Militia Heavy Spearmen Desc,"With long spears and stout shields, these men form a solid defensive unit. They make excellent garrison troops capable of defending any breach, or in open battle they can form a solid anchor point.",長い槍と盾スタウトと、これらの男性は、固体守備のユニットを形成します。彼らは違反を守るの優れた守備隊の部隊が可能にする、または開いた戦いで、彼らは固体のアンカーポイントを形成することができます。,
 NB Noble Heavy Spearmen,Noble Heavy Spearmen,ノーブル重い槍兵,
@@ -1891,7 +1892,7 @@ Bandit Light Spearmen Desc,"These men were once bandits, but are now in your ser
 Encounter Nobles Foot,Warrior Retinue,戦士の従者,
 Encounter Nobles Foot Desc,"This unit is the retinue of a famous warrior who has joined your service. They are well trained, well lead, and well equipped, making them a formidable unit of shock infantry.",このユニットは、あなたのサービスに参加している有名な戦士の従者です。彼らは、ウェル鉛、訓練を受け、充分に衝撃歩兵の手強いユニット作り、装備されています。,
 Encounter Nobles Cavalry,Warrior Retinue,戦士の従者,
-Encounter Nobles Cavalry Desc,"This unit is the retinue of a famous warrior who has joined your service. They are well trained, well lead, and well equipped. They form a powerful unit of shock cavalry.",このユニットは、あなたのサービスに参加している有名な戦士の従者です。彼らはよく、訓練を受けただけでなく鉛、よく整っています。彼らはショック騎兵の強力なユニットを形成します。,
+Encounter Nobles Cavalry Desc,"This unit is the retinue of a famous warrior who has joined your service. They are well trained, well lead, and well equipped. They form a powerful unit of shock cavalry.",このユニットは、あなたのサービスに参加している有名な戦士の従者です。彼らは、ウェル鉛、訓練を受けた、とよく装備されています。彼らはショック騎兵の強力なユニットを形成します。,
 Northern Tribal Archers,Northern Tribal Archers,北の部族の射手,
 Northern Tribal Archers Desc,"These men are outcasts from their tribes, or have been displaced by famine, flood or war. They are happy to serve any lord who will give them a place. As skilled hunters, they have great archery skills, and form an effective unit of light archers. ",これらの男性は自分の部族からのけ者あり、または飢饉、洪水や戦争によって変位されています。彼らは彼らに場所を与える任意の領主に仕えさせていただきます。熟練ハンターとして、彼らは偉大なアーチェリーのスキルを持っている、と光射手の効果的なユニットを形成します。,
 Mercenary Horse Archers,Mercenary Horse Archers,傭兵馬の射手,
@@ -2434,7 +2435,7 @@ RE Red Rain,Red Rain,レッド・レイン,
 RE Phoenix Sighting,Phoenix Sighting,フェニックスの目撃情報,
 DS Earthquake Msg,Earthquake,地震,
 DS Earthquake Text,"This place has been rocked by a major earthquake, causing widespread death and destruction. Many say that such an event can only be a sign from Heaven that it is displeased with the rulers on Earth.",この場所は広範囲の死と破壊を引き起こし、大地震で揺れてきました。多くは、このようなイベントが唯一、それは地球上の支配者との不満である天国からの徴候である可能性があると言います。,
-DS Major Earthquake Text,"This place was the epicenter of a huge earthquake. The devastation is massive, not just here, but in the regions around. Those that survive still cower in fear of the aftershocks. Such a display of wrath by Heaven, must surely indicate that our rulers no longer enjoy its support.",この場所は巨大地震の震源地でした。荒廃はなく、周りの地域では、だけではなく、ここでは、大規模です。まだ生き残るものは、余震の恐怖に萎縮します。天国による怒りのような表示は、確かに私たちの支配者は、もはやそのサポートを楽しんでいないことを示す必要があります。,
+DS Major Earthquake Text,"This place was the epicenter of a huge earthquake. The devastation is massive, not just here, but in the regions around. Those that survive still cower in fear of the aftershocks. Such a display of wrath by Heaven, must surely indicate that our rulers no longer enjoy its support.",この場所は、大地震の震源地でした。荒廃はなく、周りの地域では、だけではなく、ここでは、大規模です。まだ生き残るものは、余震の恐怖に萎縮します。天国による怒りのような表示は、確かに私たちの支配者は、もはやそのサポートを楽しんでいないことを示す必要があります。,
 DS 3P Earthquake Msg,News: Quake,ニュース：クエイク,
 DS 3P Earthquake Text,News has come in that an earthquake has caused widespread damage and destruction in this city. Many say that it must be Heaven's display of displeasure at their wickedness.,ニュースは地震がこの都市で広く損傷や破壊を引き起こしたことで来ています。多くは、それが彼らの悪事に不満の天のディスプレイでなければならないと言います。,
 DS Fire Msg,Fire,火災,
@@ -2565,7 +2566,7 @@ ENC PhilosopherB,Noted Thinker,注意思想家,
 ENC PhilosopherB Desc,"My lord, I have spent many years pondering deeply on the affairs of Heaven and man. I believe I am close to discovering great truths, but I need the support of a patron so that I may continue my work.",私の主人は、私は天国と男の業務に深く熟考長年過ごしてきました。私は偉大な真理を発見に近いだと考えているが、私は自分の仕事を続けることができるように、私はパトロンの支援を必要としています。,
 ENC PhilosopherB TT,"A noted philosopher lives here. He seeks a patron, and may be persuaded to join your service.",注意哲学者はここに住んでいます。彼はパトロンを求めて、あなたのサービスに参加するように説得することができます。,
 ENC ScholarA,Famous Scholar,有名な学者,
-ENC ScholarA Desc,"Noble lord, I am honored to receive you. My studies of nature have revealed great secrets, that I would be happy to share with you. I ask only a small recompense for the fruits of my labor.",ノーブル主人は、私はあなたを受け取るために光栄に思います。自然の私の研究では、私はあなたと共有して幸せになると、大きな秘密を明らかにしました。私は自分の労働の成果のためにわずかな報いをお願いします。,
+ENC ScholarA Desc,"Noble lord, I am honored to receive you. My studies of nature have revealed great secrets, that I would be happy to share with you. I ask only a small recompense for the fruits of my labor.",ノーブル主人は、私はあなたを受け取るために光栄に思います。自然の私の研究では、私はあなたと共有して幸せになると、大きな秘密を明らかにしました。私は自分の労働の成果のためにわずかな報酬をお願いします。,
 ENC ScholarA TT,A famous scholar lives here. He may be able to teach you new secrets.,有名な学者がここに住んでいます。彼はあなたに新しい秘密を教えることができるかもしれません。,
 ENC ScholarB,Famous Scholar,有名な学者,
 ENC ScholarB Desc,"My lord, as you know I am a keen student of the world of nature, and seek knowledge that may be of practical use to mankind. I would be happy to join your service, and share my discoveries with you, if in return you will fund my work.",ご存知のように私の主よ、私は自然の世界の熱心な学生です、そして人類への実用のものとすることができる知識を求めています。私はあなたのサービスに参加させていただき、そして見返りにあなたが私の仕事に資金を供給する場合は、あなたと私の発見を共有することになります。,
@@ -2714,7 +2715,7 @@ CAP Recruit Mercenary Desc,Add {0} to mercenary recruitment pool.,傭兵採用�
 CAP Recruit Naval,Recruit Naval Units,リクルート海軍ユニット,
 CAP Recruit Naval Desc,Add {0} to naval recruitment pool.,海軍採用プールに{0}を加えます。,
 CAP Recruit TestAndDebug,Recruit Test and Debug TEST ONLY,リクルートのテストとデバッグTEST ONLY,
-CAP Recruit TestAndDebug Desc,Add {0} to test and debug recruitment pool. TEST ONLY,{0}動員プールをテストし、デバッグするために追加。テストのみ,
+CAP Recruit TestAndDebug Desc,Add {0} to test and debug recruitment pool. TEST ONLY,{0}採用プールをテストし、デバッグするために追加。テストのみ,
 CAP City Min Territory,City Territory,シティテリトリー,
 CAP City Min Territory Desc,City claims territory within {0} hexes.,都市{0}はヘクス内の領土を主張します。,
 CAP City Max Improvement Distance,Max Improvement Range,マックス改善レンジ,
@@ -3263,7 +3264,7 @@ TT DI Demand Settlement,Demand that they immediately transfer control of this se
 TT DI Offer Enemy Information,Offer them the location of settlements belong to their enemies.,敵に属している彼らに集落の場所を提供します。,
 TT DI Demand Enemy Information,"Ask that they share the location of settlements they know about, that belong to our enemies.",彼らは我々の敵に属し、彼らは知っている集落の場所を共有することを確認して下さい。,
 ED Well Field System,Well Field System,まあフィールドシステム,
-ED Well Field System Desc,"Decree that each village's land be divided into lots farmed by eight families. Each lot shall be divided into nine equal divisions, one outer section for each family, and the central one for the local lord. The families shall work the lord's land before attending to their own. The division of the land into nine squares resembles the Chinese character for a well, hence the name.",各村の土地は8人の家族が養殖ロットに分割すること令。各ロットは9等分、1つのそれぞれの家族のための外側部分、および現地領主のために中央1分けされなければなりません。家族は自分自身に参加する前藩主の土地を働くものとします。 9つの正方形への土地の分割はうまく漢字、その名に似ています。,
+ED Well Field System Desc,"Decree that each village's land be divided into lots farmed by eight families. Each lot shall be divided into nine equal divisions, one outer section for each family, and the central one for the local lord. The families shall work the lord's land before attending to their own. The division of the land into nine squares resembles the Chinese character for a well, hence the name.",各村の土地は8人の家族が養殖ロットに分割すること令。各ロットは9等分、1つのそれぞれの家族のための外側部分、および現地領主のために中央1分けされなければなりません。家族は自分自身に参加する前に、主の土地を働くものとします。 9つの正方形への土地の分割はうまく漢字、その名に似ています。,
 ED Private Land,Private Land Ownership,プライベート土地所有,
 ED Private Land Desc,Instruct the civil service to establish a registry of land ownership. Henceforth the land may be bought and sold by all subjects.,土地所有権の登録を確立するため、市民サービスに指示します。今後土地はすべての被験者で購入し、販売することができます。,
 ED Land Redistribution,Land Redistribution,土地の再配布,
@@ -3353,7 +3354,7 @@ EDM Issue Confirmation Text,This edict may not be cancelled. Are you sure you wa
 EDM Cancel Confirmation Text,Are you sure you want to cancel this edict. It may not be reissued until any cancellation effects have ceased.,あなたは、この布告をキャンセルしてもよろしいです。任意のキャンセル効果が停止するまで、それは再発行されない場合があります。,
 EDM Edict Expired Title,Edict Expired,勅令が期限切れ,
 EDM Edict Expired Message,This term of this edict has expired. You may be able to issue it again.,この勅令のこの用語は、有効期限が切れています。あなたは再びそれを発行することができるかもしれません。,
-Map Editor,Map Editor,マップエディタ,
+Map Editor,Map Editor,マップエディタ,マップエディタ
 Object Editor,Object Editor,エディタオブジェクト,
 Menu,Menu,メニュー,
 Terrain,Terrain,地形,
@@ -3416,9 +3417,9 @@ UI No Edict Selected,"Edicts are laws and regulations issued by the king or empe
 You may issue only one edict per turn. Generally this will remain in effect until cancelled (though a few edicts may not be cancelled, or auto expire after a set number of turns) .Cancelling edicts will also have effects. These vary, but most commonly your authority will be reduced for looking weak or indecisive. However, you can generally cancel an edict the turn it was issued, allowing you to check its effect on your empire.","布告は、国王や皇帝によって発行された法律や規制されています。布告は、さまざまな効果を持っているが、人々が調整しながら多くは、いくつかの短期的な不幸を引き起こします。
 あなたはターンごとに1つだけの勅令を発行することができます。一般的にキャンセルされるまで、これは有効のままになります（いくつかの布告がキャンセルされないかもしれないが、またはオートターンのセット番号の後に期限切れ）.Cancelling布告にも効果があります。これらは異なりますが、最も一般的に、あなたの権限が弱いか優柔不断探して削減されます。ただし、一般的に、あなたの帝国にその効果を確認することができ、勅令にそれが発行されたターンをキャンセルすることができます。",
 UI Edict already issued,"You have already issued an edict this turn, so must wait until next turn before issuing more.",あなたは既にこのターン勅令を出しているので、より多くのを発行する前に、次のターンまで待たなければなりません。,
-UI Effects Header,Effects,効果,
-UI Temporary Effects Header,Temporary Effects,一時的な影響,
-UI Permanent Effects Header,Permanent Effects,恒久的な効果,
+UI Effects Header,Effects,効果,効果
+UI Temporary Effects Header,Temporary Effects,一時的な影響,一時的な効果
+UI Permanent Effects Header,Permanent Effects,恒久的な効果,恒久的な効果
 UI Unlocked Edicts Header,Unlocks Edicts,布告のロックを解除,
 UI Cancels Edicts Header,Cancels Edicts,布告をキャンセル,
 UI Cancellation Effects Header,Cancellation Effects,キャンセル効果,
@@ -3428,15 +3429,15 @@ UI Repeating Edict Turns,This edict lasts {0} turns and may not be cancelled dur
 UI Edict has dependents,This edict may not be cancelled until the following are also cancelled :,次もキャンセルされるまで、この勅令は解除されないことがあります。,
 UI Edict can not be cancelled,This edict may not be cancelled.,この勅令は解除されない場合があります。,
 UI Unlocks Edicts,Unlocks Edicts,布告のロックを解除,
-UI Select Tech,Select,選択,
-UI Tech Screen Title,Technology and Culture,技術と文化,
-Tech Field Thought,Thought,思想,
-Tech Field Knowledge,Knowledge,知識,
-Tech Field Craft,Craft,クラフト,
-Tech Field Power,Power,力,
-Tech Progress,Progress,進捗,
-Tech Enables Building,Enables construction of :,の建設を可能にします：,
-Tech Needed For Building,Needed for construction of :,の構築のために必要：,
+UI Select Tech,Select,選択,選択
+UI Tech Screen Title,Technology and Culture,技術と文化,技術と文化
+Tech Field Thought,Thought,思想,思想
+Tech Field Knowledge,Knowledge,知識,知識
+Tech Field Craft,Craft,クラフト,技術
+Tech Field Power,Power,力,軍事力
+Tech Progress,Progress,進捗,進捗
+Tech Enables Building,Enables construction of :,の建設を可能にします：,建設が可能：
+Tech Needed For Building,Needed for construction of :,の構築のために必要：,建設に必要：
 Tech Enables Unit,Enables recruitment of :,の動員を可能にします：,
 Tech Needed For Unit,Needed for recruitment of:,募集のために必要：,
 Tech Enables Edict,Enables Edicts:,布告を有効にします：,
@@ -3605,7 +3606,7 @@ FE Continue,Continue Campaign,キャンペーンを続行,コンティニュー
 FE Quit,Quit,終了する,終了
 FE Load,Load Game,ロードゲーム,ロード
 FE Options,Options,オプション,オプション
-FE Play,Play Game,ゲームします,
+FE Play,Play Game,ゲームします,プレイ
 FE Back,Back,バック,戻る
 FE Human Control,This faction is selected to play.,この派閥は、プレイするために選択されています。,
 FE AI Control,Press to select this faction to play.,押して再生するには、この派閥を選択します。,
@@ -3654,26 +3655,26 @@ UI No Points Victory Text,"This game has no defined time limit, and must be won 
 UI Influence Cancelled Edict,Cancelled Edicts,キャンセル布告,
 UI Automation New Settlements,Automanage New Settlements,Automanage新しい決済,
 UI Automation Technology,Automate Technology,テクノロジーを自動化,
-UI Automation Farming,Automate Farming,農業を自動化,
-UI End Quit Button,Quit Game,ゲームをやめる,
-UI End Continue Button,Continue Playing,再生を続けます,
-UI End Stats Button,View Stats,ビュー統計,
-UI Victory Eliminated Title,You Are Eliminated!,あなたは解消されます！,
+UI Automation Farming,Automate Farming,農業を自動化,農業を自動化
+UI End Quit Button,Quit Game,ゲームをやめる,ゲームを終了
+UI End Continue Button,Continue Playing,再生を続けます,プレイを続ける
+UI End Stats Button,View Stats,ビュー統計,統計を見る
+UI Victory Eliminated Title,You Are Eliminated!,あなたは解消されます！,滅亡しました！
 UI Victory Eliminated Text,"Your regime has been extinguished, and henceforth will exist only as a footnote to the histories of more glorious empires. Your brief glories will be forgotten, and such of your people who remain must look to others for their salvation. Such is the bitter gall that fills the cup of the defeated.",あなたの政権は消滅した、と今後より多くの栄光の帝国の歴史への脚注としてのみ存在します。あなたの簡単な栄光を忘れ、そして彼らの救いのために他の人に見なければならないまま、あなたの人々のようになります。このような敗北のカップを埋める苦い胆嚢です。,
-UI Victory Conquest Title,Conquest Victory!,征服勝利！,
+UI Victory Conquest Title,Conquest Victory!,征服勝利！,征服勝利！
 UI Victory Conquest Text Nomad,"The greatest joy is to defeat your enemy, to drive him before you, to take everything he posses, to see his cities reduced to ash, and to hear the lamentations of his women.",最大の喜びは、あなたの敵を倒すためにあなたの前に彼を駆動するために、彼が保有し、すべてを取るために灰に減少彼の都市を見て、彼の女性の嘆きを聞くことです。,
 UI Victory Conquest Text Settled,"You are the lord of the Middle Kingdom. Your armies have conquered all, and none can stand before them. Now is the moment of your glory, but remember that it is easier to conquer than to rule.",あなたは中王国の領主です。あなたの軍隊はすべてを征服している、と誰も彼らの前に立つことはできません。今すぐあなたの栄光の瞬間ですが、ルールよりも征服することが容易であることを覚えておいてください。,
-UI Victory SOH Title,Son of Heaven Victory!,天国勝利の息子！,
+UI Victory SOH Title,Son of Heaven Victory!,天国勝利の息子！,天子勝利！
 UI Victory SOH Text Old,"Congratulations! You are Shi Huang Di, The First Emperor, The Son of Heaven, and ruler of the Middle Kingdom. Upon this, all agree. Rule wisely, rule well, and by Heaven's grace you may also rule long.",おめでとうございます！あなたは始皇帝ディ、まず天皇、天子、及び中間の王国の支配者です。この時には、すべてが同意します。賢くルール、よく支配、そして天の恵みによって、あなたはまた、長いルールがあります。,
-UI Victory Culture Title,Cultural Victory!,文化勝利！,
+UI Victory Culture Title,Cultural Victory!,文化勝利！,文化勝利！
 UI Victory Culture Text,"Your people may not be the most numerous, nor your army the largest, but you have created a civilization that will endure through the ages. The glory of your palaces is unmatched, the rituals in your temples unrivalled, and your wisdom unquestioned Throughout the world, minstrels play the tunes that were first played at your court, noble women wear the fashions that were first seen there, and men of learning and repute vie for your patronage.",あなたの人々は、最大の、最も数多く、またあなたの軍隊ではないかもしれないが、あなたは古くから耐える文明を作成しました。あなたの宮殿の栄光があなたの寺院での儀式は他の追随を許さない、比類のない、そしてあなたの知恵は、世界中で不問、吟遊詩人が最初にあなたの宮廷で演奏された曲を再生し、高貴な女性が最初にそこに見られたファッション、そして学習の男性を着用しますそして、評判のご愛顧を争います。,
-UI Victory Points Title,Points Victory,ポイント勝利,
+UI Victory Points Title,Points Victory,ポイント勝利,ポイント勝利
 UI Victory Points Text,"The turn limit for the game has been reached. There are many notable kingdoms still remaining, but the wise agree that, all things considered, yours is the greatest among them Maybe with more time you will reach still greater glories.",ゲームターンの上限に達しました。まだそこに残っている多くの注目に値するの王国がありますが、賢明ではすべてのものが考えられ、あなたはより多くの時間とあなたはまだ大きいの栄光に達するだろう多分それらの中で最大である、ということに同意するものとします。,
 UI Victory Other Conquest Text,The world trembles before the armies of another power. You would be wise to bend with the wind and accept the situation.,世界は別の電源の軍隊の前に震え。あなたは風で曲げ、状況を受け入れることが賢明だろう。,
 UI Victory Other Culture Text,"Your people sing the songs of another land, wear the clothes of another place, worship the gods of another people, and argue about ideas first given voice elsewhere. Whatever achievements you may boast, the future will consider another land the true fount of civilization.",あなたの人々は、別の場所の服を着用し、他の土地の歌を歌い、他の人の神々を崇拝し、最初の他の場所で声を与えられたアイデアについて議論します。あなたが誇ることがどのような成果、将来は別の土地に文明の真の源泉を検討します。,
 UI Victory Other SOH Text,"Heaven has made its choice, and chosen another to be its Emperor on Earth. It would be wise to bow to Heaven's will.",天国は、その選択をした、そして地球上の皇帝であることを別のものを選択しました。天の意志に屈するのが賢明だろう。,
 UI Victory Other Points Text,"The turn limit for the game has been reached. There are many notable kingdoms still remaining, but sadly few believe yours to be the greatest of them. That accolade belongs to another.",ゲームターンの上限に達しました。まだそこに残っている多くの注目に値するの王国がありますが、悲しいことに、いくつかは、あなたが彼らの最大のであると信じます。その栄誉は別のものに属します。,
-UI Charts Screen Title,Statistics,統計,
+UI Charts Screen Title,Statistics,統計,統計
 UI Charts Show Only Known,Only Known Players,知られている唯一の選手,
 UI Stat Category Glory VP,Victory Points,勝利ポイント,
 UI Stat Category Culture VP,Culture Victory Points,文化勝利ポイント,
@@ -3686,7 +3687,7 @@ UI Stat Category Own Soldiers Killed,Own Soldiers Killed,自分の兵士殺し�
 UI Stat Category Enemy Civilians Killed,Enemy Civilians Killed,敵の民間人を殺しました,
 UI Stat Category Construction Development,Construction Development,建設開発,
 UI Settings Game Turns,Turn Limit,リミットを回し,
-UI Settings AI Level,Difficulty,困難,
+UI Settings AI Level,Difficulty,困難,難易度
 UI Settings Hex Grid,Show Grid,グリッドを表示します,
 UI Settings Scroll Rate,Keyboard Scroll Rate,キーボードのスクロール速度,
 UI Settings Master Volume,Master Volume,マスターボリューム,
@@ -3695,14 +3696,14 @@ UI Settings FX Volume,Effects Volume,エフェクト音量,
 UI Settings UI Volume,UI Volume,UIボリューム,
 UI Settings Mute,Mute,ミュート,ミュート
 UI Settings Graphics Quality,Graphics Quality,グラフィックの質,グラフィック
-UI Settings Screen Resolution,Screen Resolution,画面の解像度,
+UI Settings Screen Resolution,Screen Resolution,画面の解像度,解像度
 UI Settings Windowed,Windowed,ウィンドウ表示,ウィンドウ化
 UI Settings Title,Settings,設定,設定
 UI Settings Audio Tab,Sound Settings,サウンド設定,
 UI Settings Video Tab,Video Settings,ビデオ設定,
 UI Settings Game Settings Tab,Game Settings,ゲームの設定,
 UI Settings Back Button,Back,バック,
-UI Settings OK,OK,OK,
+UI Settings OK,OK,OK,OK
 UI Action Paused,Action Paused,アクション一時停止,
 PM Paused,Paused,一時停止,
 PM Load,Load,負荷,
@@ -3756,7 +3757,7 @@ UI Our Obligations,We have agreed to:,我々は合意しています：,
 UI Their Obligations,They have agreed to:,彼らはに合意しています：,
 UI Shared Obligations,We have both agreed to:,我々は両方のに合意しました：,
 UI Declare War Title,War!,戦争！,
-UI Declare War Text,This nation has declared war against you.,この国はあなたに対して戦争を宣言しました。,
+UI Declare War Text,This nation has declared war against you.,この国はあなたに対して戦争を宣言しました。,この国はあなたに対して宣戦布告しました．
 UI Other Honored Alliance,We have honored our alliance and declared war against your enemy.,我々は、我々の同盟関係を光栄し、あなたの敵との戦いを宣言しました。,
 UI Other Honored Alliance Speech,We come to your aid in your time of need.,私たちは必要のあなたの時間のあなたの援助に来ます。,
 UI Alliance Honored,Alliance Honored,アライアンス表彰,
@@ -4003,8 +4004,8 @@ UI Notify attack  in own territory,"You can attack this army without a declarati
 UI Limited Attack,Limited Attack,リミテッドアタック,
 UI No Contacts Msg,You are not currently in contact with any other factions.,あなたは、他の派閥と接触し、現在ではありません。,
 UI No Contacts Header,No Contacts,連絡先はありません,
-FE Game Grand Campaign,The Grand Campaign,グランドキャンペーン,
-FE Game Custom Game,Custom Game,カスタムゲーム,
+FE Game Grand Campaign,The Grand Campaign,グランドキャンペーン,キャンペーン
+FE Game Custom Game,Custom Game,カスタムゲーム,カスタムゲーム
 FE Game Load Scenario,Load Scenario,ロードシナリオ,
 FE Map Style,Map Style,マップスタイル,
 FE Map Size Label,Map Size,地図サイズ,
@@ -4062,7 +4063,7 @@ TT Cost Per Turn,Cost per turn.,ターンあたりのコスト。,
 TT Resources In Range,A settlement here could use these resources,ここでの決済は、これらのリソースを使用することができます,
 TT Settlements Can Export To Location,These places could immediately export to this location,これらの場所はすぐにこの場所にエクスポートすることができ,
 TT Settlements In Trade Range,These places are in basic trade distance,これらの場所は、基本的な貿易の距離にあり,
-ADV_IN_002_Title,In Game Help,ゲームのヘルプで,
+ADV_IN_002_Title,In Game Help,ゲームのヘルプで,ゲーム中ヘルプ
 ADV_IN_002_Text,Press F1 or use the info button in the top right corner to access help. The button in the top left of the help screen will access the contents of the in game manual.,F1キーを押すか、ヘルプにアクセスするには、右上の隅に情報ボタンを使用します。ヘルプ画面の左上にあるボタンは、中のゲームマニュアルの内容にアクセスします。,
 CR Iceberg Credits,"Erik Schreuder
 CEO
@@ -4168,15 +4169,15 @@ Panachoi Pichetsiriporn
 
 カール・クラークなど
 音楽とSFX",
-CR Developer Title,Development Team,開発チーム,
-CR Publisher Title,Iceberg Interactive,氷山インタラクティブ,
-CR Credits Title,Credits,クレジット,
+CR Developer Title,Development Team,開発チーム,開発チーム
+CR Publisher Title,Iceberg Interactive,氷山インタラクティブ,Iceberg Interactive
+CR Credits Title,Credits,クレジット,クレジット
 Legal Front End Text,"Oriental Empires �� 2017 J. Carline and R.T. Smith. Developed by Shining Pixel Studios. Licensed exclusively worldwide to and published by Iceberg Interactive B.V.  
 All brands, product names, and logos are trademarks or registered trademarks of their respective owners. All rights reserved. Made in the UK.","オリエンタル帝国2017 J.カーラインとR.T.スミス。ピクセルスタジオシャイニングによって開発されました。世界的な独占的にライセンスして氷山インタラクティブB.V.社によって出版
 すべてのブランド、製品名、およびロゴは、各社の商標または登録商標です。全著作権所有。英国で行われました。",
 Additions Post Oct 4,### Trans ###,###トランス###,
-UI Confirm Quit Game Title,Quit Game,ゲームをやめる,
-UI Confirm Quit Game Msg,Quit game and return to main menu ?,ゲームを終了し、メインメニューに戻りますか？,
+UI Confirm Quit Game Title,Quit Game,ゲームをやめる,ゲームを終了
+UI Confirm Quit Game Msg,Quit game and return to main menu ?,ゲームを終了し、メインメニューに戻りますか？,ゲームを終了しメインメニューに戻りますか？
 UI Gate Blocked Turmoil,Turmoil prevents all recruitment.,混乱がすべての募集を防ぐことができます。,
 UI Enemy Block All Gates,Enemies block all gates. No recruitment allowed.,敵はすべてのゲートをブロックします。何の募集は許可されません。,
 UI Gate Blocked Enemy,Gate blocked by adjacent enemy.,ゲートは、隣接する敵にブロックされています。,
@@ -4302,7 +4303,7 @@ HPText Trade Settlement2,"A settlement may change hands as part of a peace negot
 HPHead Enemy Information,Enemy Information,敵の情報,
 HPText Enemy Information,"If you receive this, the other faction will reveal the location of all settlements that it knows of, that belong to its enemies, except for its previous settlements currently held by rebels. You may similarly offer to share the location of your enemies cities with another player.",これを受け取った場合は、他の派閥は現在、反乱軍によって開催された前回の入植地を除いて、その敵に属し、それはを知っているすべての入植地の位置を明らかにします。あなたは同様に他のプレイヤーと敵の都市の場所を共有するために提供することがあります。,
 HPHead Trade Embargo,Trade Embargo,禁輸,
-HPText Trade Embargo,"If you declare a trade embargo against another player, then trade is cut off both ways, you can neither export to, nor import from them. This may hurt you more than it hurts them, so check your trade routes before issuing an embargo. This is a declaration, and they do not have to agree to it, but are unlikely to be happy about it.",あなたが他のプレイヤーに対して貿易禁輸を宣言した場合、取引はすることができますどちらの輸出に、両方の方法を切断し、また彼らから輸入されます。これは、彼らを傷つけるよりも、より多くのあなたを傷つけるので、禁輸を発行する前に、あなたの貿易ルートをチェックすることができます。これは宣言され、そして、彼らはそれに同意する必要がありますが、それについて満足しているしにくいません。,
+HPText Trade Embargo,"If you declare a trade embargo against another player, then trade is cut off both ways, you can neither export to, nor import from them. This may hurt you more than it hurts them, so check your trade routes before issuing an embargo. This is a declaration, and they do not have to agree to it, but are unlikely to be happy about it.",あなたが他のプレイヤーに対して貿易禁輸を宣言した場合、取引はすることができますどちらの輸出に、両方の方法を切断し、また彼らから輸入されます。これは、彼らを傷つけるよりも、より多くのあなたを傷つけるので、禁輸を発行する前に、あなたの貿易ルートをチェックすることができます。これは宣言され、そして、彼らはそれに同意する必要がありますが、それについて満足している可能性は低いしません。,
 HPLink Other Diplomatic Trades,Other Diplomatic Trades,その他の外交取引,
 Additions Post Feb 17,### Trans ###,###トランス###,
 Imp Generic Completed Msg,This improvement has been completed.,この改善が完了しました。,
@@ -4693,7 +4694,7 @@ You have some possibilities to expand your land, especially to the south. Also t
 あなたは、特に南に、あなたの土地を拡大するためにいくつかの可能性を持っています。また、有利な貿易ネットワークを構築するために黄河にあなたの中心位置とアクセスを活用してみてください。",
 WS Advice Lu,"Lu is a small state near the coast to the south of the Shandong Peninsula. All the surrounding powers are much stronger, and will be looking to gobble you up, particularly the powerful state of Qi to your north. You will need to ally with some of your neighbors to survive, and it may be necessary to become a vassal of one of them.
 
-There is some limited space to expand, but holding a larger territory will be difficult. Expanding militarily will require joining in the wars of larger powers. Carefully picking the winning side will be key.","呂は山東半島の南に海岸近くの小さな状態です。すべての周りの力がはるかに強いです、そして、あなたの北に、チーの特に強力な状態にあなたをガツガツすることになるだろう。あなたは、生き残るためにあなたの隣人の一部と同盟する必要があります、そしてそのうちの一つの家臣になるために必要な場合があります。
+There is some limited space to expand, but holding a larger territory will be difficult. Expanding militarily will require joining in the wars of larger powers. Carefully picking the winning side will be key.","呂山東半島の南に海岸近くの小さな状態です。すべての周りの力がはるかに強いです、そして、あなたの北に、チーの特に強力な状態にあなたをガツガツすることになるだろう。あなたは、生き残るためにあなたの隣人の一部と同盟する必要があります、そしてそのうちの一つの家臣になるために必要な場合があります。
 
 そこ拡大するためのいくつかの限られた空間であるが、より大きな領土を保持することは困難であろう。軍事的に展開すると、より大きな力の戦争に参加する必要があります。慎重に勝利側を選ぶことが鍵となります。",
 WS Advice Xianbei,"You play as a nomadic herding faction to the north. Currently there are no imminent threats, but you are quite weak and need to spread out and grow. There is limited space on the steppes to the far north, as the Dong Hu will block your progress, but there is plenty of room to expand in the big loop of the Yellow River to the south.
@@ -5062,9 +5063,9 @@ Tech Poetry,Poetry,詩,詩
 Tech Poetry Desc,"From the humblest village, to the imperial court, whether spoken, sung or chanted, a poem packs insight and emotion into a memorable verse. Although not all men are great poets, all gentlemen should be schooled in the art of writing poetry.",humblest村から、宮廷に、話か、歌わか唱え、詩は、思い出に残る詩への洞察や感情をパックします。いないすべての人は偉大な詩人ですが、すべての紳士は詩を書くの分野で教育をしなければなりません。,
 Tech Divination,Divination,占い,
 Tech Divination Desc,"Only Heaven knows the future, but it often sends signs of what is come. These signs may be in the passage of the seasons, the behavior of animals, or in the shape of clouds. One skilled in the art, can read the fate of a person in the shape of their face, or the lines in their palm.",唯一の天国は未来を知っているが、それはしばしば来ている何の兆候を送信します。これらの兆候は、季節の経過、動物の行動に、又は雲の形状であってもよいです。当業者は、自分の顔の形をした人、または自分の手のひらにラインの運命を読むことができます。,
-Tech I Ching,I Ching,易経,
+Tech I Ching,I Ching,易経,易経
 Tech I Ching Desc,"Also known as the Book of Changes, the I Ching, is not a method to predict the future, but rather to bring the individual soul into closer alignment with the cosmos, and give a glimpse of its deeper workings. Yarrow stalks are used to create sequences of six lines, or hexagrams, and each of the 64 possible hexagrams has a meaning which the user should consider in relation to their question.",また、変更の書籍、易経として知られ、将来を予測するのではなく、宇宙に近い整列するように、個々の魂を持って、そしてその深い働きを垣間見るを与える方法ではありません。ノコギリソウの茎は6行、またはhexagramsのシーケンスを作成するために使用され、64件の可能hexagramsのそれぞれは、ユーザーが自分の問題に関連して検討すべきである意味を持っています。,
-Tech Astrology,Astrology,占星術,
+Tech Astrology,Astrology,占星術,占星術
 Tech Astrology Desc,"By a careful study of the stars, planets and other celestial bodies, the state of affairs in Heaven may be observed, and from that follow affairs on Earth. Thus, those skilled in the art are able to calculate the most auspicious times for major undertakings, determine whether couples are compatible in marriage, and to divine the character and fortune of a man from the state of Heaven at the moment of his birth.",星、惑星や他の天体の慎重に検討することにより、天の事務の状態を観察することができる、そしてそれから、地球上の業務に従ってください。このように、当業者は、カップルが結婚で互換性があるかどうかを判断し、彼の誕生の瞬間に天の状態から人の性格と運勢を占うために、主要な事業のために最も縁起の良い時間を計算することができます。,
 Tech Oracle Bones,Oracle Bones,Oracleの骨,
 Tech Oracle Bones Desc,"When a ruler is in doubt, he may wish to know the will of heaven. A shaman is summoned, and the requisite ceremonies performed, then the ruler's question is written onto a turtle shell, or ox bone, and a red hot stick touched to it. The Shaman can then interpret the resulting pattern of cracks to provide guidence to his king.",ルーラーは疑問があるとき、彼は天の意志を知ることを望むかもしれません。シャーマンは召喚され、かつ必要な儀式が行われ、その後、定規の質問は亀のシェル、または牛骨上に書かれた、と赤のホットスティックは、それに触れています。シャーマンはその後、彼の王にguidenceを提供するために、亀裂の得られたパターンを解釈することができます。,
@@ -5133,7 +5134,7 @@ Tech Mountain Armor Desc,"This is the finest quality armor, affordable only to t
 Tech Horse Armor,Horse Armor,馬の鎧,馬鎧
 Tech Horse Armor Desc,"The development of horse armor, and horses strong enough to wear it, greatly reduces a horses vulnerability in battle, particularly against soldiers on foot, and against arrows. The development of horse armor paved the way for cavalry to dominate the battlefield.",馬の鎧、およびそれを着用するのに十分強い馬の開発は、非常に特に足の兵士たちに対して、戦いで馬の脆弱性を減少させ、矢印に対して。馬の鎧の開発は騎兵が戦場を支配するための道を開きました。,
 Tech Iron Armor,Iron Armor,アイアンアーマー,
-Tech Iron Armor Desc,"Although iron is not of itself superior to bronze as a material for constructing armor, it is much cheaper. This makes it feasible to for the rank file soldiers to be issued metal armor that protects most of their body. Tough steel can be used for breastplates and helmets used by the best protected troops.",鉄は自身の鎧を構築するための材料として青銅に優れていないが、それははるかに安いです。これは、自分の体のほとんどを保護金属鎧を発行するランク・ファイルの兵士のためにそれが可能になります。タフ鋼は最高の保護された部隊で使用される胸当てとヘルメットのために使用することができます。,
+Tech Iron Armor Desc,"Although iron is not of itself superior to bronze as a material for constructing armor, it is much cheaper. This makes it feasible to for the rank file soldiers to be issued metal armor that protects most of their body. Tough steel can be used for breastplates and helmets used by the best protected troops.",鉄は自身の鎧を構築するための材料として青銅に優れていないが、それははるかに安いです。これは、自分の体のほとんどを保護金属鎧を発行するランク・ファイルの兵士のためにそれが可能になります。タフ鋼は最高の保護された部隊で使用さ胸当てとヘルメットのために使用することができます。,
 Tech Bamboo Strips,Bamboo Strips,竹ストリップ,
 Tech Bamboo Strips Desc,"Writing is more easily shared if written on a portable medium. Slips of wood or bamboo the length of a chopstick, and the width of two, are convenient for writing a column of twenty or so characters with a brush. Many such strips can be laced together with twine to form longer works.",ポータブルメディアに書かれている場合の書き込みは、より容易に共有されています。木や竹箸の長さ、および2つの幅のスリップは、ブラシで20かそこらの文字列を記述するための便利です。多くのそのようなストリップは、長い作品を形成するために、ひもと一緒に混入することができます。,
 Tech Paper,Paper,紙,紙
@@ -5144,7 +5145,7 @@ Tech Wood Block Printing,Wood Block Printing,ウッドブロックの印刷,
 Tech Wood Block Printing Desc,"The most famous books are in great demand, but copying them is a labor intensive and error prone process. However, if the pages are carved in relief onto a wooden block, then the protruding writing can be inked, and the image transferred by placing a sheet of paper over it and rubbing the back of the paper firmly. In this way many true copies can be quickly and easily produced, and the works of the great scholars made available to all.",最も有名な本は大きな需要がありますが、それらをコピーすることは労働集約的でエラーが発生しやすいプロセスです。ページは木製のブロック上に浮き彫りにされている場合は、その後、突出した書面を結んすることができ、画像がその上に紙を置き、しっかりと紙の裏をこすることで転送します。このように多くの真のコピーが迅速かつ容易に製造することができ、そして偉大な学者の作品は、すべてが利用できます。,
 Tech Illustrated Books,Illustrated Books,絵本,
 Tech Illustrated Books Desc,"In the same way that wood blocks can used to print characters, they can also be used to print simple diagrams and illustrations which make technical texts much easier to understand. Color illustrations can be made by using several differennt blocks, one for each color.",木のブロックは文字を印刷するのに使用できるのと同じように、彼らはまた、理解することが技術的な文章がはるかに容易になり、簡単な図やイラストを印刷するために使用することができます。カラーイラストは、いくつかdifferenntブロック、各色のいずれかを使用して作製することができます。,
-Tech Silk,Silk,シルク,
+Tech Silk,Silk,シルク,絹織物
 Tech Silk Desc,"Silk is a marvellous fabric, made from the cocoon of the silk worn moth. The cocoons must be gathered, and softened in hot water, then the strands of silk teased out and woven together. Very fine silks can be made from single strands, while many strands can be twisted into thread for rougher but stronger fabric.",シルクはシルク着用蛾の繭から作られた、素晴らしい生地です。繭を集め、温水で軟化し、その後絹の鎖は一緒にいじめと織られなければなりません。多くのストランドが荒いが、より強力なファブリックのスレッドにねじれすることができますしながら、非常に微細なシルクは、一本鎖から作ることができます。,
 Tech Textile Printing,Textile Printing,捺染,
 Tech Textile Printing Desc,"Wooden blocks can be used to print patterns onto silk or other fabric, increasing its beauty and value. The pattern must be carved in relief onto the block, then ink or dye is applied to the raised part of the block, and the fabric rubbed firmly against it to transfer the pattern.",木製のブロックは、その美しさと値を増加させる、絹または他の布地にパターンを印刷するために使用することができます。パターンは、その後、インク又は染料は、ブロックの隆起した部分に適用され、織物パターンを転写することにしっかりと擦ら、ブロックの上に浮き彫りにされなければなりません。,
@@ -5198,7 +5199,7 @@ Tech Crouching Tiger,Crouching Tiger,しゃがみタイガー,
 Tech Crouching Tiger Desc,"The Crouching Tiger is a sturdy form of stone throwing engine, capable of breaking down rammed earth walls. Two sturdy upright triangular frames support the pivot bar, and cross bracing makes the machine strong and stable. The throwing arm may be made from several bamboo poles, so that it is strong enough to throw larger rocks. ",身をかがめるトラは地球の壁を突っ込んだを破壊できる石投げエンジンの頑丈な形です。二つの頑丈な直立三角形のフレームは、ピボットバーをサポートし、クロスブレースは、マシンが強力で安定します。大きな石を投げるのに十分な強度であるように投げアームは、いくつかの竹の棒から作ることができます。,
 Tech Stone Throwing Engine,Stone Throwing Engine,石投げエンジン,
 Tech Stone Throwing Engine Desc,"An engine can be devised to throw rocks and stones over long distances. It can be used to bombard enemy soldiers, or to break down light fortifications. It uses a long bamboo pole balanced on a supporting frame. One end is placed on the ground with a sling or basket to contain a rock to be thrown, while the other end is supported high in the air by the frame. Men pull down on ropes attached to the high end, causing the low end to pivot up and fling the rocks.",エンジンは、長距離岩や石を投げるために考案することができます。敵兵を砲撃するために使用することができ、または光要塞を破壊します。これは、支持フレーム上のバランスが長い竹のポールを使用しています。他端はフレームによって空中に高く支持され、一方の端部は、スローされる岩を含有するスリングまたはバスケットで地面上に置かれます。男性はアップピボットや岩を投げつけるためにローエンドを引き起こし、高端に取り付けられたロープにプルダウン。,
-Tech Rammed Earth Wall,Rammed Earth Wall,版築壁,
+Tech Rammed Earth Wall,Rammed Earth Wall,版築壁,版築
 Tech Rammed Earth Wall Desc,"The sticky yellow earth of China can be placed in a frame and repeatedly pounded with a special stick until it becomes extremely hard. While there is some technique in this, the real challenge is to organize the thousands of workers needed to create a suitable wall around a large city.",中国の粘着性の黄色の地球は、フレームに入れて、それが非常に困難になるまで繰り返し、特別なスティックで砲撃することができます。この中にいくつかの手法があるが、本当の挑戦は、大都市を中心に、適切な壁を作成するために必要な数千人の労働者を組織化することです。,
 Tech High Walls,Improved Wall Construction,改善された壁構造,
 Tech High Walls Desc,"By improving the techniques of construction, attention to foundations, organization or works crews etc, it is possible to construct fortifications of imposing height, and great thickness. Historically, major cities had walls up to 20 m high, with a width even greater.",建設、財団への配慮、組織や乗組員などの作品の技術を改善することによって、高さ、そして偉大な厚さを課すの要塞を構築することが可能です。歴史的に、主要都市ではさらに大きな幅で、最大20メートルの高さの壁を持っていました。,
@@ -5225,7 +5226,7 @@ Tech Seedling Transplantation Desc,"Crop yields for rice can be improved signifi
 Tech Brick Faced Wells,Brick Faced Wells,ブリック直面ウェルズ,
 Tech Brick Faced Wells Desc,"The climate is often dry, and it is necessary to draw up water from wells to water the crops, and provide for people and animals. While wells can be dug easily, they collapse quickly if not well lined. A lining of trapezoidal shaped bricks (smaller on the inside than the outside) is easy to lay, and will keep the well open permanently.",気候は、多くの場合、乾燥している、そして作物に水を井戸から水を吸い上げ、そして人や動物のために提供することが必要です。ウェルが簡単に掘っすることができるが、うまく並んでいない場合、彼らはすぐに崩壊します。台形レンガ（外よりも内側に小さい）のライニングが横たわっていたが簡単で、かつ恒久的にも開いていきます。,
 Tech Crop Rotation,Crop Rotation,輪作,輪作
-Tech Crop Rotation Desc,"The five sacred grains that have been grown from ancient times are millet, wheat, rice, soya beans, and sesame. They may be grown at different times of the year, or in different climates. It is better if they are not grown in the same spot each year, as this leads to depletion of the soil, and a build up of weeds and pests. Rotating the different crops between different fields significantly increases the yield.",古代から栽培されている5神聖な粒子はキビ、小麦、米、大豆、ゴマです。彼らは今年の異なる時間に、または異なる気候で成長させることができます。これは、土壌の枯渇、および雑草や害虫のビルドアップにつながるとして、彼らは、毎年同じ場所で栽培されていない場合、それは良いです。異なるフィールド間で異なる作物を回転させると著しく収率を増加させます。,
+Tech Crop Rotation Desc,"The five sacred grains that have been grown from ancient times are millet, wheat, rice, soya beans, and sesame. They may be grown at different times of the year, or in different climates. It is better if they are not grown in the same spot each year, as this leads to depletion of the soil, and a build up of weeds and pests. Rotating the different crops between different fields significantly increases the yield.",古代から栽培されている5つの神聖な粒子はキビ、小麦、米、大豆、ゴマです。彼らは今年の異なる時間に、または異なる気候で成長させることができます。これは、土壌の枯渇、および雑草や害虫のビルドアップにつながるとして、彼らは、毎年同じ場所で栽培されていない場合、それは良いです。異なるフィールド間で異なる作物を回転させると著しく収率を増加させます。,
 Tech Composite Bow,Composite Bow,コンポジットボウ,複合弓
 Tech Composite Bow Desc,"Unlike a simple bow, a composite bow is made of multiple materials, wood, sinew or horn, glued together. Using different materials on inner and outer edges allows it to bend further, allowing construction of bows that are powerful without being unduly large.",単純な弓とは異なり、複合弓を一緒に接着され、複数の材料、木材、腱又はホーンで構成されています。内側及び外側の縁に異なる材料を使用することは、過度に大きいことなく強力な弓の構築を可能にする、さらに屈曲することを可能にします。,
 Tech Crossbow,Crossbow,クロスボウ,

@@ -3065,7 +3065,7 @@ This is something of a diplomatic nicety, as it involves no particular obligatio
 {EDM Edict Expired Message}
 {This term of this edict has expired. You may be able to issue it again.}
 {Map Editor}
-{Map Editor}
+{マップエディタ}
 {Object Editor}
 {Object Editor}
 {Menu}
@@ -3188,11 +3188,11 @@ You may issue only one edict per turn. Generally this will remain in effect unti
 {UI Edict already issued}
 {You have already issued an edict this turn, so must wait until next turn before issuing more.}
 {UI Effects Header}
-{Effects}
+{効果}
 {UI Temporary Effects Header}
-{Temporary Effects}
+{一時的な効果}
 {UI Permanent Effects Header}
-{Permanent Effects}
+{恒久的な効果}
 {UI Unlocked Edicts Header}
 {Unlocks Edicts}
 {UI Cancels Edicts Header}
@@ -3212,23 +3212,23 @@ You may issue only one edict per turn. Generally this will remain in effect unti
 {UI Unlocks Edicts}
 {Unlocks Edicts}
 {UI Select Tech}
-{Select}
+{選択}
 {UI Tech Screen Title}
-{Technology and Culture}
+{技術と文化}
 {Tech Field Thought}
-{Thought}
+{思想}
 {Tech Field Knowledge}
-{Knowledge}
+{知識}
 {Tech Field Craft}
-{Craft}
+{技術}
 {Tech Field Power}
-{Power}
+{軍事力}
 {Tech Progress}
-{Progress}
+{進捗}
 {Tech Enables Building}
-{Enables construction of :}
+{建設が可能：}
 {Tech Needed For Building}
-{Needed for construction of :}
+{建設に必要：}
 {Tech Enables Unit}
 {Enables recruitment of :}
 {Tech Needed For Unit}
@@ -3551,7 +3551,7 @@ If disbanded within the territory of one of your own settlements, the soldiers f
 {FE Options}
 {オプション}
 {FE Play}
-{Play Game}
+{プレイ}
 {FE Back}
 {戻る}
 {FE Human Control}
@@ -3649,33 +3649,33 @@ If disbanded within the territory of one of your own settlements, the soldiers f
 {UI Automation Technology}
 {Automate Technology}
 {UI Automation Farming}
-{Automate Farming}
+{農業を自動化}
 {UI End Quit Button}
-{Quit Game}
+{ゲームを終了}
 {UI End Continue Button}
-{Continue Playing}
+{プレイを続ける}
 {UI End Stats Button}
-{View Stats}
+{統計を見る}
 {UI Victory Eliminated Title}
-{You Are Eliminated!}
+{滅亡しました！}
 {UI Victory Eliminated Text}
 {Your regime has been extinguished, and henceforth will exist only as a footnote to the histories of more glorious empires. Your brief glories will be forgotten, and such of your people who remain must look to others for their salvation. Such is the bitter gall that fills the cup of the defeated.}
 {UI Victory Conquest Title}
-{Conquest Victory!}
+{征服勝利！}
 {UI Victory Conquest Text Nomad}
 {The greatest joy is to defeat your enemy, to drive him before you, to take everything he posses, to see his cities reduced to ash, and to hear the lamentations of his women.}
 {UI Victory Conquest Text Settled}
 {You are the lord of the Middle Kingdom. Your armies have conquered all, and none can stand before them. Now is the moment of your glory, but remember that it is easier to conquer than to rule.}
 {UI Victory SOH Title}
-{Son of Heaven Victory!}
+{天子勝利！}
 {UI Victory SOH Text Old}
 {Congratulations! You are Shi Huang Di, The First Emperor, The Son of Heaven, and ruler of the Middle Kingdom. Upon this, all agree. Rule wisely, rule well, and by Heaven's grace you may also rule long.}
 {UI Victory Culture Title}
-{Cultural Victory!}
+{文化勝利！}
 {UI Victory Culture Text}
 {Your people may not be the most numerous, nor your army the largest, but you have created a civilization that will endure through the ages. The glory of your palaces is unmatched, the rituals in your temples unrivalled, and your wisdom unquestioned Throughout the world, minstrels play the tunes that were first played at your court, noble women wear the fashions that were first seen there, and men of learning and repute vie for your patronage.}
 {UI Victory Points Title}
-{Points Victory}
+{ポイント勝利}
 {UI Victory Points Text}
 {The turn limit for the game has been reached. There are many notable kingdoms still remaining, but the wise agree that, all things considered, yours is the greatest among them Maybe with more time you will reach still greater glories.}
 {UI Victory Other Conquest Text}
@@ -3687,7 +3687,7 @@ If disbanded within the territory of one of your own settlements, the soldiers f
 {UI Victory Other Points Text}
 {The turn limit for the game has been reached. There are many notable kingdoms still remaining, but sadly few believe yours to be the greatest of them. That accolade belongs to another.}
 {UI Charts Screen Title}
-{Statistics}
+{統計}
 {UI Charts Show Only Known}
 {Only Known Players}
 {UI Stat Category Glory VP}
@@ -3713,7 +3713,7 @@ If disbanded within the territory of one of your own settlements, the soldiers f
 {UI Settings Game Turns}
 {Turn Limit}
 {UI Settings AI Level}
-{Difficulty}
+{難易度}
 {UI Settings Hex Grid}
 {Show Grid}
 {UI Settings Scroll Rate}
@@ -3731,7 +3731,7 @@ If disbanded within the territory of one of your own settlements, the soldiers f
 {UI Settings Graphics Quality}
 {グラフィック}
 {UI Settings Screen Resolution}
-{Screen Resolution}
+{解像度}
 {UI Settings Windowed}
 {ウィンドウ化}
 {UI Settings Title}
@@ -3835,7 +3835,7 @@ Do you want to end the turn now ?}
 {UI Declare War Title}
 {War!}
 {UI Declare War Text}
-{This nation has declared war against you.}
+{この国はあなたに対して宣戦布告しました．}
 {UI Other Honored Alliance}
 {We have honored our alliance and declared war against your enemy.}
 {UI Other Honored Alliance Speech}
@@ -4320,9 +4320,9 @@ Attack immediately preferring melee attack to missile fire. Be first to assault 
 {UI No Contacts Header}
 {No Contacts}
 {FE Game Grand Campaign}
-{The Grand Campaign}
+{キャンペーン}
 {FE Game Custom Game}
-{Custom Game}
+{カスタムゲーム}
 {FE Game Load Scenario}
 {Load Scenario}
 {FE Map Style}
@@ -4438,7 +4438,7 @@ Attack immediately preferring melee attack to missile fire. Be first to assault 
 {TT Settlements In Trade Range}
 {These places are in basic trade distance}
 {ADV_IN_002_Title}
-{In Game Help}
+{ゲーム中ヘルプ}
 {ADV_IN_002_Text}
 {Press F1 or use the info button in the top right corner to access help. The button in the top left of the help screen will access the contents of the in game manual.}
 {CR Iceberg Credits}
@@ -4497,20 +4497,20 @@ Artists
 Carl Clark and others
 Music and SFX}
 {CR Developer Title}
-{Development Team}
+{開発チーム}
 {CR Publisher Title}
 {Iceberg Interactive}
 {CR Credits Title}
-{Credits}
+{クレジット}
 {Legal Front End Text}
 {Oriental Empires �� 2017 J. Carline and R.T. Smith. Developed by Shining Pixel Studios. Licensed exclusively worldwide to and published by Iceberg Interactive B.V.  
 All brands, product names, and logos are trademarks or registered trademarks of their respective owners. All rights reserved. Made in the UK.}
 {Additions Post Oct 4}
 {### Trans ###}
 {UI Confirm Quit Game Title}
-{Quit Game}
+{ゲームを終了}
 {UI Confirm Quit Game Msg}
-{Quit game and return to main menu ?}
+{ゲームを終了しメインメニューに戻りますか？}
 {UI Gate Blocked Turmoil}
 {Turmoil prevents all recruitment.}
 {UI Enemy Block All Gates}
