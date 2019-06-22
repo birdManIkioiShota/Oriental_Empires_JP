@@ -1,4 +1,4 @@
-./text_en/AdviceText.utf.txt,,達成率,5.836%
+./text_en/AdviceText.utf.txt,,達成率,5.881%
 ADV_TITLE_IN_001,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_IN_001,"Welcome to Oriental Empires. I will be your advisor, pointing out important features of the game, and bringing urgent matters to your attention. 
 Note the help button in the top right of the screen. This will explain the function of whichever game area you are currently in.","東洋帝国へようこそ。私はゲームの重要な特徴を指摘し、あなたの注意に緊急事項をもたらし、あなたの顧問となります。
@@ -1716,8 +1716,8 @@ Misc5,Build,築きます,
 Misc6,Constructed,建設,
 Misc7,Details,細部,
 Misc8,Browse,ブラウズ,
-Misc9,Palace,宮殿,
-Misc10,Defenses,防御,
+Misc9,Palace,宮殿,宮殿
+Misc10,Defenses,防御,防衛
 Misc11,City,シティ,
 Misc12,Temples and Schools,寺院や学校,
 Misc13,Recruit,リクルート,

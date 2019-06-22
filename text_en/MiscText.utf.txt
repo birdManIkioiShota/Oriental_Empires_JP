@@ -17,9 +17,9 @@
 {Misc8}
 {Browse}
 {Misc9}
-{Palace}
+{宮殿}
 {Misc10}
-{Defenses}
+{防衛}
 {Misc11}
 {City}
 {Misc12}
