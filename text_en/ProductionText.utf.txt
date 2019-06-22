@@ -55,7 +55,7 @@
 {Army Light Archers Desc}
 {A force of low born men kept permanently under arms, will acquire skill with weapons far beyond barely trained militias. Although they may not quite equal those born to a life of war, they can still put down an impressive rain of arrows. }
 {Settlers}
-{Settlers}
+{開拓者}
 {Settlers Desc}
 {Maybe this is a group of adventurous souls setting off to create a new life for themselves in an unclaimed area of the world, maybe they are refugees from an advancing enemy, maybe they are being forced to relocate by the whims of an unscrupulous overlord. Whatever their reasons, you can use them to found a new settlement in a suitable location. Be sure to protect them carefully, as they have little defense against enemy soldiers.}
 {Bodyguard}
@@ -501,7 +501,7 @@
 {BD Wooden Palisade Desc}
 {A stout wooden wall will keep out bandits and raiders, and makes the inhabitants feel secure. This boosts happiness and encourages the growth of the settlement.}
 {BD Rammed Earth Wall}
-{Rammed Earth Wall}
+{版築}
 {BD Rammed Earth Wall Desc}
 {Made by continually pounding earth within a frame, rammed earth is as hard as concrete. Such a wall is a formidable obstacle to any attacking army.}
 {BD High Earth Wall}
@@ -790,7 +790,7 @@ This building provide horses for export. Having horses available will increase t
 {BP Temples and Schools}
 {Temples and Schools}
 {TI Farm}
-{Farm}
+{農地}
 {TI Clearing}
 {Clearance}
 {TI Road}
@@ -808,7 +808,7 @@ This building provide horses for export. Having horses available will increase t
 {TI Irrigated Farmland}
 {Create Irrigated Farms}
 {TI Farmland}
-{Create Farms}
+{農地の作成}
 {TI Terrace Gentle Hills}
 {Terrace Gentle Hills}
 {TI Terrace Steep Hills}
@@ -1070,9 +1070,9 @@ Open the screen for the captured settlement to decide whether to occupy, sack or
 {EV New Settler Msg}
 {A settler is now available here for recruitment.}
 {ERA Name 0}
-{Early Bronze Age}
+{青銅器時代}
 {ERA Name 1}
-{Warring States Era}
+{戦国時代}
 {ERA Name 2}
 {Imperial Era}
 {UI Want to rebel title}
@@ -2018,7 +2018,7 @@ Open the screen for the captured settlement to decide whether to occupy, sack or
 {CAP Boost Power}
 {Boost Power}
 {CAP Boost Power Desc}
-{Power development rate increased by {0}%}
+{軍事の開発が{0}％増加}
 {CAP Reduce Thought}
 {Reduce Thought}
 {CAP Reduce Thought Desc}
@@ -2082,7 +2082,7 @@ Open the screen for the captured settlement to decide whether to occupy, sack or
 {CAP Authority}
 {Authority}
 {CAP Authority Desc}
-{Increase authority by {0}}
+{権力が{0}増加}
 {CAP Culture}
 {Culture}
 {CAP Culture Desc}
@@ -3214,7 +3214,7 @@ You may issue only one edict per turn. Generally this will remain in effect unti
 {UI Select Tech}
 {選択}
 {UI Tech Screen Title}
-{技術と文化}
+{テクノロジーと文化}
 {Tech Field Thought}
 {思想}
 {Tech Field Knowledge}
@@ -3222,7 +3222,7 @@ You may issue only one edict per turn. Generally this will remain in effect unti
 {Tech Field Craft}
 {技術}
 {Tech Field Power}
-{軍事力}
+{軍事}
 {Tech Progress}
 {進捗}
 {Tech Enables Building}
@@ -3230,23 +3230,23 @@ You may issue only one edict per turn. Generally this will remain in effect unti
 {Tech Needed For Building}
 {建設に必要：}
 {Tech Enables Unit}
-{Enables recruitment of :}
+{動員が可能：}
 {Tech Needed For Unit}
-{Needed for recruitment of:}
+{動員に必要：}
 {Tech Enables Edict}
-{Enables Edicts:}
+{布告が可能：}
 {Tech Needed For Edict}
-{Needed for Edicts:}
+{布告に必要：}
 {Tech Enables Improvement}
-{Enables Terrain Improvements}
+{地形改善が可能：}
 {Tech Effects}
-{Effects}
+{効果}
 {Event Effects}
-{Event Effects}
+{イベント効果}
 {Tech Branch Bonus}
-{(Bonus: {0}%)}
+{（ボーナス：{0}％）}
 {Tech Branch Penalty}
-{(Penalty: {0}%)}
+{（ペナルティ：{0}％）}
 {Tech Issue Edict To Unlock}
 {(Issue Edict to unlock)}
 {Tech Items To Advance}
@@ -3689,17 +3689,17 @@ If disbanded within the territory of one of your own settlements, the soldiers f
 {UI Charts Screen Title}
 {統計}
 {UI Charts Show Only Known}
-{Only Known Players}
+{既知のプレイヤーのみを表示}
 {UI Stat Category Glory VP}
-{Victory Points}
+{勝利ポイント}
 {UI Stat Category Culture VP}
-{Culture Victory Points}
+{文化勝利ポイント}
 {UI Stat Category Settlements}
-{Number of Settlements}
+{入植地の数}
 {UI Stat Category Population}
-{Own Population}
+{人口}
 {UI Stat Category Military}
-{Military Strength}
+{軍事力}
 {UI Stat Category Battles}
 {Battles Fought}
 {UI Stat Category Enemy Soldiers Killed}
@@ -3715,17 +3715,17 @@ If disbanded within the territory of one of your own settlements, the soldiers f
 {UI Settings AI Level}
 {難易度}
 {UI Settings Hex Grid}
-{Show Grid}
+{グリッドを表示}
 {UI Settings Scroll Rate}
 {Keyboard Scroll Rate}
 {UI Settings Master Volume}
-{Master Volume}
+{マスター音量}
 {UI Settings Music Volume}
-{Music Volume}
+{音楽の音量}
 {UI Settings FX Volume}
-{Effects Volume}
+{エフェクトの音量}
 {UI Settings UI Volume}
-{UI Volume}
+{UIの音量}
 {UI Settings Mute}
 {ミュート}
 {UI Settings Graphics Quality}
@@ -4544,9 +4544,9 @@ All brands, product names, and logos are trademarks or registered trademarks of 
 {UI Tech Rate}
 {Research Rate}
 {UI Allow Cultural Victory}
-{Allow Cultural Victory}
+{文化勝利を許可}
 {UI Language}
-{Language}
+{ 言語}
 {UI Language Warning}
 {You must quit and restart the game for the language change to take effect.}
 {DO Not Strong Enough For Overlord}
@@ -5888,7 +5888,7 @@ In this mode, select a resource type from the list, and click on the map to plac
 {HPText SE Edit Modes}
 {On the right of the faction bar are three icons that set the editing mode. These determine what object is placed when you click on the map. There are modes for settlements, armies and resources.}
 {HPLink Scenario Editor}
-{Scenario Editor}
+{シナリオエディタ}
 {HPTitle Faction Settings}
 {Faction Details}
 {HPHeading SE Faction Settings}

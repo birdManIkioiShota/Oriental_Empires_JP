@@ -9,23 +9,23 @@
 {HPTitle Basics}
 {The Basics}
 {HPHead Info Button}
-{How To Get Help}
+{ヘルプを閲覧するには}
 {HPText Info Button}
-{Use the info button in the top right corner to show help for the current game area, or press the F1 key.}
+{ヘルプを閲覧するには，ゲームエリア右上のヘルプボタンを押すか，F1キーを押します．}
 {HPHead Desktop Camera}
-{Basic Operations}
+{基本操作}
 {HPText Desktop Camera}
-{Move the camera around by using the keyboard or drag the map by holding the left mouse button and dragging. Rotate by holding down the middle or right button. The indicator in the top right shows the direction you are facing, with straight up indicating north.}
+{カメラを移動するには矢印キーを用いるか，マウスをドラッグします．カメラを回転するには右ボタンもしくはマウスホイールを使用します．右上にある計器はカメラが現在向いている方位を示しています．}
 {HPText Desktop Selection}
 {Click on a banner to select an army or garrison, click on a name tab to select a settlement.}
 {HPLink Moving Units}
-{About Moving Units}
+{ユニットの移動について}
 {HPHead Turns}
-{Turns}
+{ターン}
 {HPText Turns}
 {The game is played in a series of turns. During your turn, you plot the movement of your armies, and set construction and other tasks to be performed. When you press the "End Turn" button, your armies will begin to march, together with those of all the other players. }
 {HPHead Touch Camera}
-{Basic Operations}
+{基本操作}
 {HPText Touch Camera}
 {Move around the map by dragging with one or two fingers. Pinch to zoom in and out, and rotate with two fingers to change the view direction. The indicator in the top right shows the direction you are facing, with straight up indicating north.}
 {HPText Touch Selection}

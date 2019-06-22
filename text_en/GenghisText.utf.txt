@@ -150,15 +150,15 @@ Whenever this unit stops at a site suitable to found a settlement, one is automa
 {MR ZhennanWood Desc}
 {The tall straight evergreen trees here produce wood that is much prized for furniture making and palace construction. The finest logs are so valuable that only royalty can afford them.  A settlement that controls (or has adjacent territory) to this resource can trade them for additional income.}
 {MR Sable}
-{Sable}
+{クロテン}
 {MR Sable Desc}
 {The small carnivorous animals who live here, have fur which is greatly prized for its warmth and smoothness, A settlement that controls (or has adjacent territory) to this resource can trade the fur for additional income. }
 {MR Falcons}
-{Falcons}
+{ハヤブサ}
 {MR Falcons Desc}
 {Hunting with birds is a favorite pastime of the aristocracy, and they will pay handsomely for fine falcons. A settlement that controls (or has adjacent territory) to this resource can trade them for additional income. }
 {MR Goats}
-{Goats}
+{ヤギ}
 {MR Goats Desc}
 {A few wild goats scratch a living on the hillside, but are still a valuable source of nourishment. This will increase by {0} the food production of any settlement that controls it, or has adjacent territory.}
 {MR Silk Road West}

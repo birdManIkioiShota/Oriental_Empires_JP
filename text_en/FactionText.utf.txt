@@ -129,8 +129,8 @@ Historically, the Xiongnu came into their own when the adoption of horse riding 
 {White Lotus Rebellion Desc}
 {Driven to rebellion by high taxes and harsh lives, the White Lotus Rebels enjoy much support among the common people. Armies of militia and tribesmen may even rebel and join them.}
 {Bandits Short}
-{Bandits}
+{蛮族}
 {Bandits Full}
-{Bandits}
+{蛮族}
 {Bandits Desc}
 {Criminals, desperadoes and misfits, bandits are an ever present danger to society, In times of hardship their ranks can be swollen by desperate peasants, and their numbers can approach that of small armies.}

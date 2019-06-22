@@ -28,7 +28,7 @@
 {Tech Stirrup Desc}
 {Stirrups are loops for a horse rider to place his feet in. They allow a rider a wider range of actions, particularly allowing them to stand and strike downwards powerfully. The development of stirrups and horse armor paved the way for battlefields all across Asia to be dominated by versatile cavalry armed with multiple weapons.}
 {Tech Logographic Script}
-{Logographic Script}
+{表語文字}
 {Tech Logographic Script Desc}
 {A logographic script is one where each symbol (or logograph) represents a single concept. In the earliest forms of writing, logographs were simple drawings of the things they represented. Over times, these drawings became simplified, stylized, and standardized into a common script. Intangible objects and concepts were often represented by symbols with similar sounds.}
 {Tech Literature}
@@ -268,7 +268,7 @@
 {Tech Precious Metal Work Desc}
 {The art of gold working is associated with the barbarians to the North. They excel at making fine object depicting real or mythical animals, often as broaches, buckles or amulets. Possesion of such fine works in silver or gold shows the power and status of the owner.}
 {Tech Jade Working}
-{Jade Working}
+{翡翠加工}
 {Tech Jade Working Desc}
 {Jade has always had a special place in Eastern culture. The stone is said to posses many virtues, for instance its ability to take an edge but not be sharp is said to represent justice,  and the flaws within revealed by its translucency represent sincerity. The very hard raw stone can be shaped by abrasive means into a variety of  beautiful ornamental and ceremonial objects. Quality objects shaped by a master craftsman are more valuable than gold. }
 {Tech Coinage}
@@ -364,7 +364,7 @@
 {Tech Marsh Drainage Desc}
 {Much otherwise useful flat land is too water logged to allow farming or grazing. Although it is very labor intensive, it is possible to construct drainage works to control water flow into and out of a marsh, and thus convert it into a fertile plain that can be farmed or used for grazing flocks.}
 {Tech Seedling Transplantation}
-{Seedling Transplantation}
+{定植}
 {Tech Seedling Transplantation Desc}
 {Crop yields for rice can be improved significantly if rice plants are grown from seeds in a nursery area for two to three weeks, before being transplanted to the main field. The small plants in the nursery are easy to care for, and when transplanted, they have a head start over any weeds that would compete with them. Transplanting also allows the part grown plants to be evenly spaced, further increasing yield.}
 {Tech Brick Faced Wells}
@@ -380,9 +380,9 @@
 {Tech Composite Bow Desc}
 {Unlike a simple bow, a composite bow is made of multiple materials, wood, sinew or horn, glued together. Using different materials on inner and outer edges allows it to bend further, allowing construction of bows that are powerful without being unduly large.}
 {Tech Crossbow}
-{Crossbow}
+{弩}
 {Tech Crossbow Desc}
-{It takes years of practice to make a good archer, but new recruits can be trained quickly to use a crossbow. While it's rate of fire is slower, this is offset by the crossbow's superior killing power and armor penetration. The secret to making a crossbow is the sophisticated bronze trigger mechanism.}
+{良い射手になるには長年の訓練を擁しますが，弩は新兵でも簡単に使用することができます．連射性能こそ弓に劣りますが，それは弩の威力や防具の普及によって相殺されます．弩製造の秘密は，洗練された青銅製のトリガ機構です．}
 {Tech Chu ko nu}
 {Chu Ko Nu}
 {Tech Chu ko nu Desc}
@@ -392,7 +392,7 @@
 {Tech Flaming Pitch Desc}
 {Pitch is a sticky flammable substance that can be extracted from wood, or found naturally in tar pits. It can be used to coat arrows or boulders. It allows artillery engines to fire flaming rocks, and improves the effectiveness of infantry flaming arrows.}
 {Tech Gunpowder}
-{Gunpowder}
+{火薬}
 {Tech Gunpowder Desc}
 {Alchemists searching for an elixir of immortality have chanced upon a most useful "fire medicine" that burns extremely fiercely, even explosively in some compounds. Bundles of the  powder can be attached to arrows to provide much more effective incendiaries than was previously possible.}
 {Tech Beehive Rocket Launcher}
@@ -408,7 +408,7 @@
 {Tech Three Eyed Gun Desc}
 {If gunpowder is confined in a closed tube, and a lead ball that fills the tube completely placed atop it, the ball will be expelled with great force when the gunpowder explodes. The range of the ball is short, but it strikes with a lethal force far greater than any arrow. Three such tubes can be attached to a handle to create the three eyed gun.}
 {Tech Hot Cold Theory}
-{Hot Cold Theory}
+{寒熱理論}
 {Tech Hot Cold Theory Desc}
 {Good health depends on maintaining the internal Qi balance between the major organs. Different foods affect different organs, and may also be divided into hot and cold types depending on their overall effect. Cold foods include fruits, vegetables and grains, whereas salty or fried foods are considered hot.}
 {Tech Medicine}
@@ -432,7 +432,7 @@
 {Tech Yin and Yang Desc}
 {Yang is the light, Yin is the shade. Without one, there cannot be the other. Yang and yin are the opposing but complementary forces that permeate nature. Hot and cold, life and death, fire and water, action and passivity, male and female. These ideas underpin most of Chinese thought.}
 {Tech Massage}
-{Massage}
+{マッサージ}
 {Tech Massage Desc}
 {The flow of Qi and blood through the body may be stimulated and improved by expert manipulation of the limbs, pressuring of the muscles, promoting good health and providing relief from pain and weariness.}
 {Tech The Five Elements}
@@ -448,7 +448,7 @@
 {Tech Kung Fu Desc}
 {There are many different styles of fighting. Some mimic the styles of animals, some emphasize speed and fluidity, other stability and strength. To master any of these, both the body and mind must be trained. The basic stances must be learned, breathing mastered and the mind cleared, to allow the student to focus his Qi.}
 {Tech Military Drill}
-{Military Drill}
+{軍事教練}
 {Tech Military Drill Desc}
 {Moving a group of men in close formation requires special techniques to maneuver and maintain formation. The ability to do this provides an impressive spectacle, and enables the creation of new types of military units.}
 {Tech Signaling}

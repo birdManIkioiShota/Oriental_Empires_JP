@@ -64,39 +64,39 @@
 {ADV_TITLE_ST_014}
 {ユニットの陣形}
 {ADV_TEXT_ST_014}
-{The colored lines above the unit tiles indicate the lines in the formation. You can drag a unit tile to move into another line.}
+{ユニットタイル上のラインはユニットの陣形を示しています．ユニットをドラッグすることでユニットの陣形を変更できます．}
 {ADV_TITLE_NV_001}
-{Embarking on Ships}
+{乗船}
 {ADV_TEXT_NV_001}
-{To embark onto ships, a stack must be adjacent to the stack containing the ships.}
+{乗船するには，スタックが船のあるスタックに隣接している必要があります．}
 {ADV_TITLE_NV_002}
-{Embarking on Ships}
+{乗船}
 {ADV_TEXT_NV_002}
-{Your stack cannot embark because the ships do not have enough capacity to load all the units. Generally one ship unit can carry one land unit, although some larger ships can carry more.}
+{船にはすべてのユニットを乗船させるだけのスペースがありません．一部の大型船は一度に複数のユニットを乗船させることができますが，一般的に1隻の船に乗船できるのは1ユニットのみです．}
 {ADV_TITLE_NV_003}
-{Embarking on Ships}
+{乗船}
 {ADV_TEXT_NV_003}
-{One or more of your units cannot be loaded onto these ships. Only certain larger ship types can carry cavalry, chariot or artillery units.}
+{何らかのユニットが乗船できません．戦車や大砲を乗船させられるのは一部の大型船のみです．}
 {ADV_TITLE_NV_004}
-{Disembarking}
+{下船}
 {ADV_TEXT_NV_004}
-{Units cannot disembark next to ships or settlements belonging to other players, or into impassable terrain, or onto hexes that are already occupied by too many units.}
+{通行不能な地形，または下船地にユニットが多すぎる，もしくは下船地が他のプレイヤーの入植地に隣接しているので下船できません．}
 {ADV_TITLE_NV_005}
-{Naval Move Restrictions}
+{海軍の移動制限}
 {ADV_TEXT_NV_005}
-{There are various restrictions on where ships can move. River ships can't move onto sea or ocean, large sea going ships can't move into rivers, and no ships can move onto unnavigable rivers. Unnavigable rivers have rocks at various points to show that you can't sail along them.}
+{船が移動できる場所にはさまざまな制限があります．川の船は海に入ることはできず，海洋の大型船は川に入ることができません．また，航行不能な川にはいかなる船も入ることはできません．航行不能な川にはそれを示すために多くの岩が示されています．}
 {ADV_TITLE_NV_006}
-{Embarked Units}
+{乗船}
 {ADV_TEXT_NV_006}
-{You have embarked some land units. onto naval transports. They will now move with the ships until disembarked. To disembark, simply move adjacent to land, then order the stack to a land hex. The land units will immediately disembark next to the ships with an order to move to the target hex.}
+{陸上ユニットが乗船しました．乗船したユニットは下船するまで船と行動を共にします．下船するには船を陸地に隣接させ，ユニットを陸地に向けて移動します．}
 {ADV_TITLE_NV_007}
-{Embarked Units}
+{乗船}
 {ADV_TEXT_NV_007}
-{You can rearrange which units are carried on which ship by dragging the unit's tile onto the tile of the ship you want to carry it. The chain link shows which units are in which ships.}
+{ユニットタイルをドラッグすることで，どの船がどのユニットを輸送するか選択することができます．チェーンリンクはどのユニットがどの船に乗船しているかを示します．}
 {ADV_TITLE_NV_008}
-{Embarked Units}
+{乗船}
 {ADV_TEXT_NV_008}
-{Embarked land units supplement a ship's crew, increasing the number of archers available. This makes the ship more effective in combat.}
+{乗船したユニットは船の乗組員を補い，射手の数を増加させます．これは船での戦闘をより効果的にします．}
 {ADV_TITLE_HS_001}
 {NA}
 {ADV_TEXT_HS_001}
@@ -132,25 +132,25 @@
 {ADV_TITLE_SET_003}
 {鉱山を建設}
 {ADV_TEXT_SET_003}
-{There are valuable minerals near this settlement that you can mine. Mines are expensive to construct, but are a good investment over the long term. Use the "Buildings" button on the Land Improvements screen to show possible mine locations.}
+{入植地の近くに採掘できる貴重な鉱物があります．鉱山は高価ですが，長期的に見れば良い投資となるでしょう．建築可能な高山の場所を見るためには，地形改善画面の「建物」ボタンを押してください．}
 {ADV_TITLE_SET_004}
-{High Unrest}
+{高い不満}
 {ADV_TEXT_SET_004}
-{The level of peasant unrest here is too high, and may lead to disruption of tax collection, recruitment, and eventually even outright revolt. Click or tap the peasant unrest icon a the top of the screen to see what is causing the problem.}
+{農民の不満が極端に上昇すると，税の徴収や徴兵に影響が発生し，反乱を引き起こす可能性があります．問題が起きているか確認するには，農民の不満アイコンをクリックします．}
 {ADV_TITLE_SET_005}
 {食糧不足}
 {ADV_TEXT_SET_005}
-{There is a shortage of food here, leading to high peasant unrest. Build more farms to alleviate this.}
+{食糧不足により農民の不満が高まっています．農場を建設し不満を軽減しましょう．}
 {ADV_TITLE_SET_006}
-{Unrest and Overcrowding}
+{過密による不満}
 {ADV_TEXT_SET_006}
-{There is unrest here due to overcrowding. Upgrade the settlement to alleviate this.}
+{人口過密により農民の不満が高まっています．入植地をアップグレードし不満を軽減しましょう．}
 {ADV_TITLE_SET_007}
 {農民の過労}
 {ADV_TEXT_SET_007}
-{There is high unrest here due to overwork. Stop all land improvements and construction for a few turns to give the peasants a rest.}
+{過労により農民の不満が高まっています．すべての土地改善と建設を停止して農民に休息を与え，不満を軽減しましょう．}
 {ADV_TITLE_SET_008}
-{Bandits Show Unrest}
+{蛮族による不満}
 {ADV_TEXT_SET_008}
 {When bandits appear near your settlement, that is a sign that there is high unrest amongst the peasants, and desperation is forcing men into banditry.}
 {ADV_TITLE_SET_009}
@@ -439,15 +439,15 @@ Make sure that in the early part of the game that you keep sending out settlers 
 {ADV_TITLE_C_GC_Shang01}
 {ご挨拶}
 {ADV_TEXT_C_GC_Shang01}
-{You are located on the flood plain of the Yellow River. There is ample good land to settle and farm, but there are enemies close by to the North, East and South, so it is important to stake out your claim to the land quickly. 
+{この都市は黄河の氾濫原に位置しています．農耕に適した広大な土地がありますが，南北と東に敵がいるので早急に土地を囲い込むことが重要です．
 
-I advise taking your settler unit and founding a new settlement about 8 to 10 hexes away. If you can place your settlement within three hexes of a Rhinoceros, Fish, or Wild Game resource, you will be able to exploit it for extra income or food.}
+開拓者を用い，8～10ヘクス離れた土地に新たな入植地を建てることをお勧めします．サイ，魚などの資源が都市にあれば，余剰の収入や食料として利用することができます．}
 {ADV_TITLE_C_GC_Shang02}
 {提案}
 {ADV_TEXT_C_GC_Shang02}
-{If you haven't already, it might be a good idea to recruit another settler unit in Yin, and send it out to claim more land while it is still uncontested.
+{もしまだ持っていないのであれば，殷で新たな開拓者を作成して新たな入植地を建てることをお勧めします．
 
-Also be sure to use your characters to explore the map and check out the yellow map encounter opportunities.}
+また，キャラクターにマップを探索させ，マップ上黄色の出会いの機会を見つけましょう．}
 {ADV_TITLE_C_GC_Shang03}
 {提案}
 {ADV_TEXT_C_GC_Shang03}

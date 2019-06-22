@@ -1,4 +1,4 @@
-./text_en/AdviceText.utf.txt,,達成率,5.881%
+./text_en/AdviceText.utf.txt,,達成率,7.675%
 ADV_TITLE_IN_001,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_IN_001,"Welcome to Oriental Empires. I will be your advisor, pointing out important features of the game, and bringing urgent matters to your attention. 
 Note the help button in the top right of the screen. This will explain the function of whichever game area you are currently in.","東洋帝国へようこそ。私はゲームの重要な特徴を指摘し、あなたの注意に緊急事項をもたらし、あなたの顧問となります。
@@ -35,23 +35,23 @@ ADV_TEXT_ST_012,Tapping the flag selects the settlement's garrison. Tap the name
 ADV_TITLE_ST_013,Arrange Units,ユニットの手配,ユニットの陣形
 ADV_TEXT_ST_013,You can change the arrangement of units in a stack by selecting a formation for them using the button underneath the unit tiles. This is usually only important when a battle is likely.,あなたは、ユニットタイル下のボタンを使用してそれらの形成を選択することにより、スタック内のユニットの配置を変更することができます。これは通常の戦いの可能性がある場合にのみ重要です。,スタックのユニットの陣形を変更するには，ユニットタイル下のボタンを使用します．陣形は戦闘の際に重要です．
 ADV_TITLE_ST_014,Arrange Units,ユニットの手配,ユニットの陣形
-ADV_TEXT_ST_014,The colored lines above the unit tiles indicate the lines in the formation. You can drag a unit tile to move into another line.,ユニットタイル上記着色ラインは形成のラインを示します。あなたは別の行に移動するユニットタイルをドラッグすることができます。,
-ADV_TITLE_NV_001,Embarking on Ships,船に着手,
-ADV_TEXT_NV_001,"To embark onto ships, a stack must be adjacent to the stack containing the ships.",船に乗り出すために、スタックは、船を含むスタックに隣接している必要があります。,
-ADV_TITLE_NV_002,Embarking on Ships,船に着手,
-ADV_TEXT_NV_002,"Your stack cannot embark because the ships do not have enough capacity to load all the units. Generally one ship unit can carry one land unit, although some larger ships can carry more.",船は、すべてのユニットをロードするのに十分な能力を持っていないので、あなたのスタックが乗船することはできません。一部の大型船が多くを運ぶことができるが、一般1つの船ユニットは、1つの土地の単位を運ぶことができます。,
-ADV_TITLE_NV_003,Embarking on Ships,船に着手,
-ADV_TEXT_NV_003,"One or more of your units cannot be loaded onto these ships. Only certain larger ship types can carry cavalry, chariot or artillery units.",あなたのユニットのうちの1つ以上はこれらの船にロードすることはできません。のみ、特定の大きな船種は騎兵、戦車や大砲ユニットを運ぶことができます。,
-ADV_TITLE_NV_004,Disembarking,下船,
-ADV_TEXT_NV_004,"Units cannot disembark next to ships or settlements belonging to other players, or into impassable terrain, or onto hexes that are already occupied by too many units.",ユニットは、または通行不能な地形に、またはすでにあまりにも多くのユニットで占められているヘクスに他のプレイヤーに属する船や集落の隣に下船することはできません。,
-ADV_TITLE_NV_005,Naval Move Restrictions,海軍の移動の制限,
-ADV_TEXT_NV_005,"There are various restrictions on where ships can move. River ships can't move onto sea or ocean, large sea going ships can't move into rivers, and no ships can move onto unnavigable rivers. Unnavigable rivers have rocks at various points to show that you can't sail along them.",船が移動できる場所に様々な制限があります。川の船が海や海の上に移動することができない、大きな海行く船が川の中に移動することはできませんし、何に発送しますunnavigable川の上に移動することはできません。 Unnavigable川は、あなたがそれらに沿って航行することができないことを示すために、さまざまなポイントで石を持っています。,
-ADV_TITLE_NV_006,Embarked Units,乗り出し単位,
-ADV_TEXT_NV_006,"You have embarked some land units. onto naval transports. They will now move with the ships until disembarked. To disembark, simply move adjacent to land, then order the stack to a land hex. The land units will immediately disembark next to the ships with an order to move to the target hex.",あなたは、いくつかの陸上ユニットを乗り出してきました。海軍の輸送へ。下船するまで、彼らは今、船で移動します。上陸するために、単にランドヘクスにスタックを注文し、その後、土地に隣接して移動します。陸上ユニットは、直ちに目標ヘクスに移動するために付属の隣に下船します。,
-ADV_TITLE_NV_007,Embarked Units,乗り出し単位,
-ADV_TEXT_NV_007,You can rearrange which units are carried on which ship by dragging the unit's tile onto the tile of the ship you want to carry it. The chain link shows which units are in which ships.,あなたは、ユニットは、あなたがそれを運ぶしたい船のタイルにユニットのタイルをドラッグしている船に搭載されている再配置することができます。ユニットはその船にあるチェーンリンクを示しています。,
-ADV_TITLE_NV_008,Embarked Units,乗り出し単位,
-ADV_TEXT_NV_008,"Embarked land units supplement a ship's crew, increasing the number of archers available. This makes the ship more effective in combat.",陸上ユニットが使用可能な射手の数を増やし、船の乗組員を補完乗り出しました。これは戦闘で船がより効果的になります。,
+ADV_TEXT_ST_014,The colored lines above the unit tiles indicate the lines in the formation. You can drag a unit tile to move into another line.,ユニットタイル上記着色ラインは形成のラインを示します。あなたは別の行に移動するユニットタイルをドラッグすることができます。,ユニットタイル上のラインはユニットの陣形を示しています．ユニットをドラッグすることでユニットの陣形を変更できます．
+ADV_TITLE_NV_001,Embarking on Ships,船に着手,乗船
+ADV_TEXT_NV_001,"To embark onto ships, a stack must be adjacent to the stack containing the ships.",船に乗り出すために、スタックは、船を含むスタックに隣接している必要があります。,乗船するには，スタックが船のあるスタックに隣接している必要があります．
+ADV_TITLE_NV_002,Embarking on Ships,船に着手,乗船
+ADV_TEXT_NV_002,"Your stack cannot embark because the ships do not have enough capacity to load all the units. Generally one ship unit can carry one land unit, although some larger ships can carry more.",船は、すべてのユニットをロードするのに十分な能力を持っていないので、あなたのスタックが乗船することはできません。一部の大型船が多くを運ぶことができるが、一般1つの船ユニットは、1つの土地の単位を運ぶことができます。,船にはすべてのユニットを乗船させるだけのスペースがありません．一部の大型船は一度に複数のユニットを乗船させることができますが，一般的に1隻の船に乗船できるのは1ユニットのみです．
+ADV_TITLE_NV_003,Embarking on Ships,船に着手,乗船
+ADV_TEXT_NV_003,"One or more of your units cannot be loaded onto these ships. Only certain larger ship types can carry cavalry, chariot or artillery units.",あなたのユニットのうちの1つ以上はこれらの船にロードすることはできません。のみ、特定の大きな船種は騎兵、戦車や大砲ユニットを運ぶことができます。,何らかのユニットが乗船できません．戦車や大砲を乗船させられるのは一部の大型船のみです．
+ADV_TITLE_NV_004,Disembarking,下船,下船
+ADV_TEXT_NV_004,"Units cannot disembark next to ships or settlements belonging to other players, or into impassable terrain, or onto hexes that are already occupied by too many units.",ユニットは、または通行不能な地形に、またはすでにあまりにも多くのユニットで占められているヘクスに他のプレイヤーに属する船や集落の隣に下船することはできません。,通行不能な地形，または下船地にユニットが多すぎる，もしくは下船地が他のプレイヤーの入植地に隣接しているので下船できません．
+ADV_TITLE_NV_005,Naval Move Restrictions,海軍の移動の制限,海軍の移動制限
+ADV_TEXT_NV_005,"There are various restrictions on where ships can move. River ships can't move onto sea or ocean, large sea going ships can't move into rivers, and no ships can move onto unnavigable rivers. Unnavigable rivers have rocks at various points to show that you can't sail along them.",船が移動できる場所に様々な制限があります。川の船が海や海の上に移動することができない、大きな海行く船が川の中に移動することはできませんし、何に発送しますunnavigable川の上に移動することはできません。 Unnavigable川は、あなたがそれらに沿って航行することができないことを示すために、さまざまなポイントで石を持っています。,船が移動できる場所にはさまざまな制限があります．川の船は海に入ることはできず，海洋の大型船は川に入ることができません．また，航行不能な川にはいかなる船も入ることはできません．航行不能な川にはそれを示すために多くの岩が示されています．
+ADV_TITLE_NV_006,Embarked Units,乗り出し単位,乗船
+ADV_TEXT_NV_006,"You have embarked some land units. onto naval transports. They will now move with the ships until disembarked. To disembark, simply move adjacent to land, then order the stack to a land hex. The land units will immediately disembark next to the ships with an order to move to the target hex.",あなたは、いくつかの陸上ユニットを乗り出してきました。海軍の輸送へ。下船するまで、彼らは今、船で移動します。上陸するために、単にランドヘクスにスタックを注文し、その後、土地に隣接して移動します。陸上ユニットは、直ちに目標ヘクスに移動するために付属の隣に下船します。,陸上ユニットが乗船しました．乗船したユニットは下船するまで船と行動を共にします．下船するには船を陸地に隣接させ，ユニットを陸地に向けて移動します．
+ADV_TITLE_NV_007,Embarked Units,乗り出し単位,乗船
+ADV_TEXT_NV_007,You can rearrange which units are carried on which ship by dragging the unit's tile onto the tile of the ship you want to carry it. The chain link shows which units are in which ships.,あなたは、ユニットは、あなたがそれを運ぶしたい船のタイルにユニットのタイルをドラッグしている船に搭載されている再配置することができます。ユニットはその船にあるチェーンリンクを示しています。,ユニットタイルをドラッグすることで，どの船がどのユニットを輸送するか選択することができます．チェーンリンクはどのユニットがどの船に乗船しているかを示します．
+ADV_TITLE_NV_008,Embarked Units,乗り出し単位,乗船
+ADV_TEXT_NV_008,"Embarked land units supplement a ship's crew, increasing the number of archers available. This makes the ship more effective in combat.",陸上ユニットが使用可能な射手の数を増やし、船の乗組員を補完乗り出しました。これは戦闘で船がより効果的になります。,乗船したユニットは船の乗組員を補い，射手の数を増加させます．これは船での戦闘をより効果的にします．
 ADV_TITLE_HS_001,NA,NA,NA
 ADV_TEXT_HS_001,NA,NA,NA
 ADV_TITLE_HS_002,NA,NA,NA
@@ -69,16 +69,16 @@ ADV_TEXT_SET_001,"Build more farms to increase the food supply. This will lead t
 ADV_TITLE_SET_002,Repair Looted Farms,略奪農場を修復,略奪された農地を修復
 ADV_TEXT_SET_002,"Some of your farms have been destroyed, so this settlement is not producing enough food now. You need to rebuild the farms.",あなたの農場の一部が破壊されているので、この決済は現在十分な食料を生産されていません。あなたは農場を再構築する必要があります。,農地の一部が破壊されており，この入植地は十分な食料を生産できていません．農地を再建設する必要があります．
 ADV_TITLE_SET_003,Build A Mine,鉱山を構築,鉱山を建設
-ADV_TEXT_SET_003,"There are valuable minerals near this settlement that you can mine. Mines are expensive to construct, but are a good investment over the long term. Use the ""Buildings"" button on the Land Improvements screen to show possible mine locations.",あなたが採掘することができます。この決済近くの貴重な鉱物があります。鉱山は、構築するために高価ですが、長期的に良い投資です。可能な鉱山の場所を示すために、土地改良画面上の「建物」ボタンを使用してください。,
-ADV_TITLE_SET_004,High Unrest,高不安,
-ADV_TEXT_SET_004,"The level of peasant unrest here is too high, and may lead to disruption of tax collection, recruitment, and eventually even outright revolt. Click or tap the peasant unrest icon a the top of the screen to see what is causing the problem.",ここでは農民の不安のレベルが高すぎると、徴税、採用、そして最終的にさえあからさまな反乱の混乱につながる可能性があります。問題を引き起こしているかを確認するには、画面の最上部A農民の不安のアイコンをクリックするかタップします。,
+ADV_TEXT_SET_003,"There are valuable minerals near this settlement that you can mine. Mines are expensive to construct, but are a good investment over the long term. Use the ""Buildings"" button on the Land Improvements screen to show possible mine locations.",あなたが採掘することができます。この決済近くの貴重な鉱物があります。鉱山は、構築するために高価ですが、長期的に良い投資です。可能な鉱山の場所を示すために、土地改良画面上の「建物」ボタンを使用してください。,入植地の近くに採掘できる貴重な鉱物があります．鉱山は高価ですが，長期的に見れば良い投資となるでしょう．建築可能な高山の場所を見るためには，地形改善画面の「建物」ボタンを押してください．
+ADV_TITLE_SET_004,High Unrest,高不安,高い不満
+ADV_TEXT_SET_004,"The level of peasant unrest here is too high, and may lead to disruption of tax collection, recruitment, and eventually even outright revolt. Click or tap the peasant unrest icon a the top of the screen to see what is causing the problem.",ここでは農民の不安のレベルが高すぎると、徴税、採用、そして最終的にさえあからさまな反乱の混乱につながる可能性があります。問題を引き起こしているかを確認するには、画面の最上部A農民の不安のアイコンをクリックするかタップします。,農民の不満が極端に上昇すると，税の徴収や徴兵に影響が発生し，反乱を引き起こす可能性があります．問題が起きているか確認するには，農民の不満アイコンをクリックします．
 ADV_TITLE_SET_005,Food Shortage,食糧不足,食糧不足
-ADV_TEXT_SET_005,"There is a shortage of food here, leading to high peasant unrest. Build more farms to alleviate this.",食糧の不足が高い農民の不安につながる、ここにあります。これを軽減するために、よりファームを構築します。,
-ADV_TITLE_SET_006,Unrest and Overcrowding,不安と過密,
-ADV_TEXT_SET_006,There is unrest here due to overcrowding. Upgrade the settlement to alleviate this.,不安が伴う過密にここにあります。これを軽減するために決済をアップグレードします。,
+ADV_TEXT_SET_005,"There is a shortage of food here, leading to high peasant unrest. Build more farms to alleviate this.",食糧の不足が高い農民の不安につながる、ここにあります。これを軽減するために、よりファームを構築します。,食糧不足により農民の不満が高まっています．農場を建設し不満を軽減しましょう．
+ADV_TITLE_SET_006,Unrest and Overcrowding,不安と過密,過密による不満
+ADV_TEXT_SET_006,There is unrest here due to overcrowding. Upgrade the settlement to alleviate this.,不安が伴う過密にここにあります。これを軽減するために決済をアップグレードします。,人口過密により農民の不満が高まっています．入植地をアップグレードし不満を軽減しましょう．
 ADV_TITLE_SET_007,Overworked Peasants,過労農民,農民の過労
-ADV_TEXT_SET_007,There is high unrest here due to overwork. Stop all land improvements and construction for a few turns to give the peasants a rest.,高不安が過労にここにあります。農民に休息を与えるために数ターンのためのすべての土地改良法と建設を停止します。,
-ADV_TITLE_SET_008,Bandits Show Unrest,バンディッツは不安を表示します,
+ADV_TEXT_SET_007,There is high unrest here due to overwork. Stop all land improvements and construction for a few turns to give the peasants a rest.,高不安が過労にここにあります。農民に休息を与えるために数ターンのためのすべての土地改良法と建設を停止します。,過労により農民の不満が高まっています．すべての土地改善と建設を停止して農民に休息を与え，不満を軽減しましょう．
+ADV_TITLE_SET_008,Bandits Show Unrest,バンディッツは不安を表示します,蛮族による不満
 ADV_TEXT_SET_008,"When bandits appear near your settlement, that is a sign that there is high unrest amongst the peasants, and desperation is forcing men into banditry.",山賊はあなたの和解の近くに表示されたら、それは農民の間で高い不安があるというサインである、と絶望が強盗に男性を強制されます。,
 ADV_TITLE_SET_009,Use A Governor,知事を使用してください,
 ADV_TEXT_SET_009,"If a character with a high Ren(Virtue) rating is garrisoned in a settlement, he will reduce unrest considerably. This can be useful to prevent a revolt until you can fix the underlying cause of unrest.",ハイレン（美徳）の評価との文字が和解に駐屯している場合、彼はかなりの不安を軽減します。これは、あなたが不安の根本的な原因を修正することができますまで、反乱を防ぐのに役立ちます。,
@@ -121,7 +121,7 @@ ADV_TEXT_Trade_007,"One of the trade routes here is blocked. If it is blocked by
 ADV_TITLE_Armies_001,Stack Needs Rest,スタックは休息が必要,スタックに休息が必要
 ADV_TEXT_Armies_001,"The efficiency of this stack is low, due to recent fighting or events. If it stops moving and fighting for a few turns, it will recover. The orange bars at the bottom of the unit tiles indicate efficiency.",このスタックの効率は、最近の戦闘やイベントのために、低いです。それが移動し、数ターンのために戦って停止した場合、それが回復します。ユニットタイルの底部のオレンジ色のバーは効率を示します。,
 ADV_TITLE_Armies_002,Unit Replenishment,ユニットの補充,
-ADV_TEXT_Armies_002,The units in this stack are not at full strength. Move them to the territory of a friendly settlement to start replenishing. Units can replenish at a settlement that can recruit units from the same recruitment pool. The green bars on the unit card show strength.,このスタック内のユニットは完全な強さではありません。補充を開始するために友好和解の領土に移動します。ユニットは同じリクルートプールからユニットを募集することができ決済で補充することができます。ユニットカード上の緑色のバーは、強さを示しています。,
+ADV_TEXT_Armies_002,The units in this stack are not at full strength. Move them to the territory of a friendly settlement to start replenishing. Units can replenish at a settlement that can recruit units from the same recruitment pool. The green bars on the unit card show strength.,本スタック内のユニットは完全な強さではありません。補充を開始するために友好和解の領土に移動します。ユニットは同じリクルートプールからユニットを募集することができ和解で補充することができます。ユニットカード上の緑色のバーは、強さを示しています。,
 ADV_TITLE_Armies_003,Beware Revolt,反乱を用心,
 ADV_TEXT_Armies_003,"This stack is composed of half or more of militia, tribal, or convict units, and may revolt and join the rebels if it stays in the vicinity of Peasant Rebel stacks.",このスタックは民兵、部族、あるいは囚人単位の半分以上で構成され、それが農民反乱スタックの近くに留まる場合反乱軍の反乱と参加することができます。,
 ADV_TITLE_Armies_004,Stack Revolted,スタックの反乱,
@@ -173,7 +173,7 @@ ADV_TEXT_Misc_001,"The lists panel on the left of the screen is very useful, and
 
 The list of settlements is particularly useful, as it lets you see at a glance, whether your settlements are building things, growing properly, or have unrest.
 
-The army stack panel lets you see which stacks currently don't have orders, and makes it easy to find a particular force.","画面左のリストパネルは、非常に有用であり、あなたは、多くの場合、それを見なければなりません。それはあなたの入植地、軍のスタック、およびメッセージを表示する3つのタブがあります。
+The army stack panel lets you see which stacks currently don't have orders, and makes it easy to find a particular force.","画面左のリストパネルは、非常に有用であり、あなたは、多くの場合、それを見なければなりません。それはあなたの入植地、軍のスタック、およびメッセージを表示する3つのタブを持っています。
 
 それはあなたの集落は、物事を構築し、適切に成長している、または不安を持っているかどうか、あなたが一目で確認することができますよう集落のリストは、特に便利です。
 
@@ -261,13 +261,17 @@ ADV_TEXT_C_GC_Shang01,"You are located on the flood plain of the Yellow River. T
 
 I advise taking your settler unit and founding a new settlement about 8 to 10 hexes away. If you can place your settlement within three hexes of a Rhinoceros, Fish, or Wild Game resource, you will be able to exploit it for extra income or food.","あなたは、黄河の氾濫原に位置しています。落ち着くとファームに十分な良い土地がありますが、北、東と南に近くの敵がありますので、それはすぐに土地にあなたの主張を杭打ちすることが重要です。
 
-私はあなたのセトラーユニットを服用し、約8〜10ヘクス離れ、新たな決済を設立お勧めします。あなたはサイ、魚、またはワイルドゲームリソースの3ヘクス以内にご決済を置くことができれば、あなたは余分な収入や食料のためにそれを利用することができるようになります。",
+私はあなたのセトラーユニットを服用し、約8〜10ヘクス離れ、新たな決済を設立お勧めします。あなたはサイ、魚、またはワイルドゲームリソースの3ヘクス以内にご決済を置くことができれば、あなたは余分な収入や食料のためにそれを利用することができるようになります。","この都市は黄河の氾濫原に位置しています．農耕に適した広大な土地がありますが，南北と東に敵がいるので早急に土地を囲い込むことが重要です．
+
+開拓者を用い，8～10ヘクス離れた土地に新たな入植地を建てることをお勧めします．サイ，魚などの資源が都市にあれば，余剰の収入や食料として利用することができます．"
 ADV_TITLE_C_GC_Shang02,A Suggestion,提案,提案
 ADV_TEXT_C_GC_Shang02,"If you haven't already, it might be a good idea to recruit another settler unit in Yin, and send it out to claim more land while it is still uncontested.
 
 Also be sure to use your characters to explore the map and check out the yellow map encounter opportunities.","あなたがまだの場合は、陰で別のセトラーユニットを募集し、それがまだ無競争である一方、より多くの土地を主張するためにそれを送信することをお勧めします。
 
-また、マップを探索し、黄色のマップの出会いの機会をチェックアウトし、あなたの文字を使用してください。",
+また、マップを探索し、黄色のマップの出会いの機会をチェックアウトし、あなたの文字を使用してください。","もしまだ持っていないのであれば，殷で新たな開拓者を作成して新たな入植地を建てることをお勧めします．
+
+また，キャラクターにマップを探索させ，マップ上黄色の出会いの機会を見つけましょう．"
 ADV_TITLE_C_GC_Shang03,A Suggestion,提案,提案
 ADV_TEXT_C_GC_Shang03,"It is time to think about recruiting another settler and starting a new settlement. 
 
@@ -324,7 +328,7 @@ Pushing south will eventually lead you to the great Yangtze river. While there i
 Alternatively, try to find a fertile area to the south east to create a farming settlement.
 ","別の入植者を募集し、新しい決済の開始について考える時間です。
 
-南押すと、最終的には素晴らしい長江にあなたを導くでしょう。そこにかなりの決済を可能にするためにクリアするために多くの土地がありますが、川の長期支配に非常に有益であろう。
+南押すと、最終的には素晴らしい長江にあなたを導くでしょう。そこにかなりの集落を有効にするには、クリアするために多くの土地がありますが、川の長期支配に非常に有益だろう。
 
 また、農業集落を作成するために、南東に肥沃な地域を探してみてください。
 ",
@@ -645,7 +649,7 @@ You have some possibilities to expand your land, especially to the south. Also t
 ADV_TITLE_C_WS_Lu01,Greetings,ご挨拶,ご挨拶
 ADV_TEXT_C_WS_Lu01,"Lu is a small state near the coast to the south of the Shandong Peninsula. All the surrounding powers are much stronger, and will be looking to gobble you up, particularly the powerful state of Qi to your north. You will need to ally with some of your neighbors to survive, and it may be necessary to become a vassal of one of them.
 
-There is some limited space to expand, but holding a larger territory will be difficult. Expanding militarily will require joining in the wars of larger powers. Carefully picking the winning side will be key.","呂山東半島の南に海岸近くの小さな状態です。すべての周りの力がはるかに強いです、そして、あなたの北に、チーの特に強力な状態にあなたをガツガツすることになるだろう。あなたは、生き残るためにあなたの隣人の一部と同盟する必要があります、そしてそのうちの一つの家臣になるために必要な場合があります。
+There is some limited space to expand, but holding a larger territory will be difficult. Expanding militarily will require joining in the wars of larger powers. Carefully picking the winning side will be key.","呂は山東半島の南に海岸近くの小さな状態です。すべての周りの力がはるかに強いです、そして、あなたの北に、チーの特に強力な状態にあなたをガツガツすることになるだろう。あなたは、生き残るためにあなたの隣人の一部と同盟する必要があります、そしてそのうちの一つの家臣になるために必要な場合があります。
 
 そこ拡大するためのいくつかの限られた空間であるが、より大きな領土を保持することは困難であろう。軍事的に展開すると、より大きな力の戦争に参加する必要があります。慎重に勝利側を選ぶことが鍵となります。",
 ADV_TITLE_C_WS_XiongNu01,Greetings,ご挨拶,
@@ -722,7 +726,7 @@ Di Full,The White Di,ホワイトディ,
 Di Desc,"The White Di are a non Chinese people living in the north east of China, but south of the Mongolian Steppes. They live by hunting, and herding sheep and goats. Indeed, one Chinese image of them is as a monster with the legs of a man, and the head of a goat. Unusually for herders, they have walled cities, and fight fiercely, mainly on foot. Historically they were conquered and absorbed by the Chinese.",ホワイトディ、中国の北東部に住む非中国の人々ですが、モンゴル草原の南。彼らは狩猟、および牧畜羊とヤギで住んでいます。確かに、そのうちの一つ、中国の画像は、人間の足でモンスター、ヤギの頭のとおりです。珍しく遊牧民のために、彼らは壁の都市を持っており、主に足の上に、激しく戦います。歴史的に彼らが征服し、中国に吸収されました。,
 Dingling Short,Dingling,丁零,
 Dingling Full,The Dingling,丁零,
-Dingling Desc,"The Dingling are a Siberian people living in the north of Mongolia. They live by hunting and fishing, but have also adopted the animal herding ways of the steppe peoples. They are quite primitive, but historically they were tough and adaptable enough to endure over a long period of time. They are often thought to be the ancestors of the Turks.",丁零はモンゴルの北部に住むシベリア人です。彼らは狩猟や釣りで住んでいるが、また草原の人々の動物牧畜方法を採用しています。彼らは非常に原始的ですが、歴史的に、彼らは時間の長い期間にわたって耐えるのに十分なタフで適応しました。彼らはしばしば、トルコ人の祖先であると考えられています。,
+Dingling Desc,"The Dingling are a Siberian people living in the north of Mongolia. They live by hunting and fishing, but have also adopted the animal herding ways of the steppe peoples. They are quite primitive, but historically they were tough and adaptable enough to endure over a long period of time. They are often thought to be the ancestors of the Turks.",丁零は、モンゴルの北部に住むシベリア人です。彼らは狩猟や釣りで住んでいるが、また草原の人々の動物牧畜方法を採用しています。彼らは非常に原始的ですが、歴史的に、彼らは時間の長い期間にわたって耐えるのに十分なタフで適応しました。彼らはしばしば、トルコ人の祖先であると考えられています。,
 Noble Rebels Short,{0} : Rebels,{0}：反乱,
 Noble Rebels Full,{0} : Rebels,{0}：反乱,
 Noble Rebels Desc,"This faction is a collection of rebels who believe their lord has lost the mandate of heaven, and is no longer fit to rule. They are in revolt against him, and seek his overthrow.",この派閥は彼らの主が天の任務を失ったと考えている反政府勢力の集まりではありません、もはやルールに適合しています。彼らは、彼に対する反乱であり、そして彼の打倒を求めます。,
@@ -738,8 +742,8 @@ Red Turban Rebels Desc,Harsh lives and high handed treatment by government offic
 White Lotus Rebellion Short,White Lotus,ホワイトロータス,
 White Lotus Rebellion Full,White Lotus Rebels,ホワイトロータス反乱軍,
 White Lotus Rebellion Desc,"Driven to rebellion by high taxes and harsh lives, the White Lotus Rebels enjoy much support among the common people. Armies of militia and tribesmen may even rebel and join them.",高い税金等の過酷な生活で反乱を駆動し、ホワイトロータスの反乱軍は、一般の人々の間で多くのサポートをお楽しみください。民兵や部族の軍隊ても、反政府勢力とそれらを結合。,
-Bandits Short,Bandits,バンディッツ,
-Bandits Full,Bandits,バンディッツ,
+Bandits Short,Bandits,バンディッツ,蛮族
+Bandits Full,Bandits,バンディッツ,蛮族
 Bandits Desc,"Criminals, desperadoes and misfits, bandits are an ever present danger to society, In times of hardship their ranks can be swollen by desperate peasants, and their numbers can approach that of small armies.",犯罪者、無法者たちと不適応、山賊は、苦難の時代に彼らのランクは、絶望的な農民によって膨潤することができ、社会に常に存在する危険であり、その数字は小さな軍隊のそれに近づくことができます。,
 ./text_en/GenghisText.utf.txt,,#VALUE!,
 Tumen Horse Archers,Tumen Horse Archers,図們馬の射手,
@@ -819,15 +823,15 @@ MR Bamboo,Bamboo,竹,竹
 MR Bamboo Desc,The tall straight bamboo stems that grow here are  valuable for construction. A settlement that controls (or has adjacent territory) to this resource can trade them for additional income.,背の高いストレート竹は、それがここで育つ茎の建設のために貴重です。このリソースへの制御（または隣接する領土を持っている）決済は、追加の収入のためにそれらを交換することができます。,
 MR ZhennanWood,Zhennan Wood,Zhennanウッド,
 MR ZhennanWood Desc,The tall straight evergreen trees here produce wood that is much prized for furniture making and palace construction. The finest logs are so valuable that only royalty can afford them.  A settlement that controls (or has adjacent territory) to this resource can trade them for additional income.,ここでは背の高いストレート常緑の木は、多くの家具作りや宮殿の建設のために珍重された木材を生産します。最高級のログは唯一のロイヤルティがそれらを買う余裕ができることをとても貴重なものです。このリソースへの制御（または隣接する領土を持っている）決済は、追加の収入のためにそれらを交換することができます。,
-MR Sable,Sable,セーブル,
+MR Sable,Sable,セーブル,クロテン
 MR Sable Desc,"The small carnivorous animals who live here, have fur which is greatly prized for its warmth and smoothness, A settlement that controls (or has adjacent territory) to this resource can trade the fur for additional income. ",ここに住む小さな肉食動物は、大幅にその暖かさと滑らかさ、追加的な収入のための毛皮を取引することができ、このリソースを制御します（または隣接する領土を持っている）決済のために珍重された毛皮を持っています。,
-MR Falcons,Falcons,ファルコンズ,
+MR Falcons,Falcons,ファルコンズ,ハヤブサ
 MR Falcons Desc,"Hunting with birds is a favorite pastime of the aristocracy, and they will pay handsomely for fine falcons. A settlement that controls (or has adjacent territory) to this resource can trade them for additional income. ",鳥と狩猟することは貴族のお気に入りの気晴らしである、と彼らは罰金ハヤブサのために気前よく支払うことになります。このリソースへの制御（または隣接する領土を持っている）決済は、追加の収入のためにそれらを交換することができます。,
-MR Goats,Goats,ヤギ,
+MR Goats,Goats,ヤギ,ヤギ
 MR Goats Desc,"A few wild goats scratch a living on the hillside, but are still a valuable source of nourishment. This will increase by {0} the food production of any settlement that controls it, or has adjacent territory.",いくつかの野生のヤギは、丘の中腹に生活を傷つける、まだ栄養の貴重な情報源です。これは、それを制御する、または隣接領域を有する任意の決済の{0}食糧生産増加します。,
 MR Silk Road West,Silk Road West,シルクロード西,
 MR Silk Road West Desc,Merchants travelling to and from the East pass through here. A settlement controlling this resource can tax them for {0}.,Horde {0},
-MR Silk Road East,Silk Road East,シルクロードEast,
+MR Silk Road East,Silk Road East,シルクロード東,
 MR Silk Road East Desc,Merchants travelling to and from the West pass through here. A settlement controlling this resource can tax them for {0}.,西へと旅から商人がここを通過します。このリソースを制御決済は{0}のためにそれらを課税することができます。,
 MR Silk Road Central,Silk Road Central,シルクロード中央,
 MR Silk Road Central Desc,Merchants travelling between the East and  the West pass through here. A settlement controlling this resource can tax them for {0}.,東と西の間を移動する商人がここを通過します。このリソースを制御決済は{0}のためにそれらを課税することができます。,
@@ -941,7 +945,7 @@ ED Yam Messenger System Desc,"Our empire is vast and communication within it is 
 ED Establish Keshik,Establish Keshik,Keshikを確立,
 ED Establish Keshik Desc,"The army is composed of many tribes, and loyalty to the tribe may be greater than loyalty to the Khan. To combat this, let an elite guard be established composed on the sons or younger brothers of the leaders of the thousands and hundreds in the army. The Keshik will serve as the Khan's personal bodyguard, an elite reserve in battle, and a training ground for future officers. It will also instill loyalty to the Khan in its members.",軍隊は多くの部族で構成され、部族の忠誠は、カーンに忠誠心よりも大きくすることができます。これに対処するには、エリートガードは息子や軍隊で数千人と数百人の指導者の弟に構成確立することができます。 Keshikはカーンの個人的なボディーガード、戦闘のエリート予備、および将来の役員のための訓練の場として機能します。また、そのメンバーにカーンへの忠誠心を植え付けるます。,
 ED Forbid Looting,Forbid Looting,略奪を禁止,
-ED Forbid Looting Desc,"It is the natural right of the victors to take the possessions and women of the defeated, but looting during a battle takes soldiers away from the fight and allows defeated enemies to escape. Therefore looting during battle is strictly forbidden on pain of death. All loot shall be gathered after the battle, and divided fairly among the soldiers present.",敗北の所有物と女性を取るために勝者の自然権であるが、戦闘中に略奪することは離れて戦いから兵士を取り、倒した敵が脱出することができます。したがって、戦闘中に略奪は厳しく、死の痛みに禁止されています。すべての戦利品は、戦いの後に集められ、そして本の兵士の間で公平に分割されなければなりません。,
+ED Forbid Looting Desc,"It is the natural right of the victors to take the possessions and women of the defeated, but looting during a battle takes soldiers away from the fight and allows defeated enemies to escape. Therefore looting during battle is strictly forbidden on pain of death. All loot shall be gathered after the battle, and divided fairly among the soldiers present.",敗北の所有物と女性を取るために勝者の自然権であるが、戦闘中に略奪することは離れて戦いから兵士を取り、倒した敵が脱出することができます。したがって、戦闘中に略奪は厳しく、死の痛みに禁じられています。すべての戦利品は、戦いの後に集められ、そして本の兵士の間で公平に分割されなければなりません。,
 ED Freedom of Worship,Freedom of Worship,崇拝の自由,
 ED Freedom of Worship Desc,"There is only one God in Heaven, but men reach him in different ways, and each man should be free to worship God in the way that he sees fit. Furthermore, let all religious leaders of whatever faith be exempt from taxation and public service.",そこ天国で唯一の神ですが、男性はさまざまな方法で彼に到達し、それぞれの男は、彼が適当と考えるような方法で神を礼拝する自由でなければなりません。さらに、どんな信仰のすべての宗教指導者が課税と公共サービスを免除とします。,
 ED Tax Exemption,Tax Exemption,非課税,
@@ -1040,7 +1044,7 @@ Merkits Full,The Merkits,Merkits,
 Merkits Desc,"The Merkits are a confederation of tribes living on the northernmost part of Mongolia. They practice both farming and pastoralism, but their bleak cold lands produce little wealth. They are renowned archers, and also famous for their magic.",Merkitsは、モンゴルの最北端に住む部族の連合体です。彼らは農業と牧畜の両方を練習し、彼らの暗い寒い土地が少し富を生み出します。彼らは有名な射手、そしてその魔法のためにも有名です。,
 Khamag Mongols Short,Mongols,モンゴル,
 Khamag Mongols Full,The Mongols,モンゴル,
-Khamag Mongols Desc,"The Mongols are a tough herding people living on the northern edge of the Mongolian Steppe. They are poor and uncivilized, but are great horsemen and fierce fighters. Traditionally they  devote much of their energy to fighting each other. However, a new young leader has brought temporary unity and a chance for them to be a force in the world.",モンゴルはモンゴルの草原の北の端に住んでタフな牧畜民です。彼らは貧しいと未開のですが、偉大な騎手との熾烈な戦闘機です。伝統的に、彼らはお互いに戦うに自分のエネルギーの多くを捧げます。しかし、新しい若いリーダーは、一時的な団結と彼らが世界の力であるためにチャンスをもたらしました。,
+Khamag Mongols Desc,"The Mongols are a tough herding people living on the northern edge of the Mongolian Steppe. They are poor and uncivilized, but are great horsemen and fierce fighters. Traditionally they  devote much of their energy to fighting each other. However, a new young leader has brought temporary unity and a chance for them to be a force in the world.",モンゴルはモンゴルの草原の北の縁に住んでタフな牧畜民です。彼らは貧しいと未開のですが、偉大な騎手との熾烈な戦闘機です。伝統的に、彼らはお互いに戦うに自分のエネルギーの多くを捧げます。しかし、新しい若いリーダーは、一時的な団結と彼らが世界の力であるためにチャンスをもたらしました。,
 Karakhanids Short,Karakhanids,Karakhanids,
 Karakhanids Full,Karakhanid Khanate,Karakhanid汗国,
 Karakhanids Desc,"The Karakhanid Khanate is the remaining eastern part of a previously much larger empire that ruled much of Central Asia. The original founders were nomadic Turkic tribes who converted to Islam, but many of them adopted the culture and lifestyle of the mainly Iranian subjects they rule over. Although they are much diminished, they are still wealthy from controlling an important part of the Silk Road and have access to the famous horses of the Ferghana valley. Previously they were vassals of the Kara Khitans, but are now in revolt.",Karakhanid汗国は、中央アジアの大部分を支配した以前はるかに大きい帝国の残りの東部です。創始者は、イスラム教に改宗し遊牧テュルク部族あったが、それらの多くは、彼らがオーバー支配主にイランの被験者の文化やライフスタイルを採用しました。彼らは非常に減少しているが、彼らはまだシルクロードの重要な部分を制御し、フェルガナ渓谷の有名な馬へのアクセス権を持っているから裕福です。以前、彼らはカラKhitansの家臣だったが、反乱になりました。,
@@ -1276,7 +1280,7 @@ China is the richest and most populous region in the world. To successfully comp
 
 あなたは、あなたの偉大な祖父を提出するジンの裁判所に魅了し、裏切られ、そこに殺されたかの話を思い出します。あなたは復讐することが決定されています。
 
-中国は世界で最も豊かな、最も人口の多い地域です。首尾よくあなたがそれをキャプチャする必要があり、このキャンペーンを完了します。しかし、ジンとの戦いは長く、難しいでしょう。だからあなたの同盟国を収集し、それをうまく計画しています。",
+中国は世界で最も豊かな、最も人口の多い地域です。首尾よくあなたがそれをキャプチャする必要があり、このキャンペーンを完了します。しかし、ジンとの戦いは長く、難しいでしょう。ですから、あなたの同盟国を収集し、それをうまく計画しています。",
 LGK Event Merchants Seized Title,Merchants Seized,押収商人,
 LGK Event Merchants Seized Text,"You recently dispatched a merchant caravan  to the realm of Khwarazem in the West. Ostensibly to open friendly trading relations, but also because reports from merchants are a rich source of intelligence about rival states.
 
@@ -1335,15 +1339,15 @@ HPTitle Not Found,Page Not Found,ページが見つかりません,
 HPHead See Also,See Also,参照してください,
 HPText Not Found,The requested page could not be found.,要求されたページが見つかりませんでした。,
 HPTitle Basics,The Basics,基礎,
-HPHead Info Button,How To Get Help,ヘルプを取得する方法,
-HPText Info Button,"Use the info button in the top right corner to show help for the current game area, or press the F1 key.",現在のゲームエリアのヘルプを表示する、またはF1キーを押して右上隅にある情報ボタンを使用します。,
-HPHead Desktop Camera,Basic Operations,基本操作,
-HPText Desktop Camera,"Move the camera around by using the keyboard or drag the map by holding the left mouse button and dragging. Rotate by holding down the middle or right button. The indicator in the top right shows the direction you are facing, with straight up indicating north.",キーボードを使用して、カメラを周囲に移動するか、マウスの左ボタンを保持し、ドラッグしてマップをドラッグします。真ん中または右ボタンを押したままにして回転させます。右上にあるインジケータは、あなたがまっすぐに北を示すとともに、直面している方向を示しています。,
+HPHead Info Button,How To Get Help,ヘルプを取得する方法,ヘルプを閲覧するには
+HPText Info Button,"Use the info button in the top right corner to show help for the current game area, or press the F1 key.",現在のゲームエリアのヘルプを表示する、またはF1キーを押して右上隅にある情報ボタンを使用します。,ヘルプを閲覧するには，ゲームエリア右上のヘルプボタンを押すか，F1キーを押します．
+HPHead Desktop Camera,Basic Operations,基本操作,基本操作
+HPText Desktop Camera,"Move the camera around by using the keyboard or drag the map by holding the left mouse button and dragging. Rotate by holding down the middle or right button. The indicator in the top right shows the direction you are facing, with straight up indicating north.",キーボードを使用して、カメラを周囲に移動するか、マウスの左ボタンを保持し、ドラッグしてマップをドラッグします。真ん中または右ボタンを押したままにして回転させます。右上にあるインジケータは、あなたがまっすぐに北を示すとともに、直面している方向を示しています。,カメラを移動するには矢印キーを用いるか，マウスをドラッグします．カメラを回転するには右ボタンもしくはマウスホイールを使用します．右上にある計器はカメラが現在向いている方位を示しています．
 HPText Desktop Selection,"Click on a banner to select an army or garrison, click on a name tab to select a settlement.",軍隊や駐屯地を選択するために、バナーをクリックして、決済を選択するために、名]タブをクリックします。,
-HPLink Moving Units,About Moving Units,ユニットの移動について,
-HPHead Turns,Turns,ターン,
+HPLink Moving Units,About Moving Units,ユニットの移動について,ユニットの移動について
+HPHead Turns,Turns,ターン,ターン
 HPText Turns,"The game is played in a series of turns. During your turn, you plot the movement of your armies, and set construction and other tasks to be performed. When you press the ""End Turn"" button, your armies will begin to march, together with those of all the other players. ",ゲームはターンの連続で再生されます。あなたのターン中、あなたの軍隊の動きをプロットし、設定建設や他のタスクが実行されます。あなたは「エンドターン」ボタンを押すと、あなたの軍隊が一緒に他のすべてのプレイヤーのものと、行進を開始します。,
-HPHead Touch Camera,Basic Operations,基本操作,
+HPHead Touch Camera,Basic Operations,基本操作,基本操作
 HPText Touch Camera,"Move around the map by dragging with one or two fingers. Pinch to zoom in and out, and rotate with two fingers to change the view direction. The indicator in the top right shows the direction you are facing, with straight up indicating north.",1または2本の指でドラッグすることでマップを移動。ズームイン、ズームアウトするピンチ、およびビュー方向を変更するために2本の指で回転させます。右上にあるインジケータは、あなたがまっすぐに北を示すとともに、直面している方向を示しています。,
 HPText Touch Selection,"Tap a banner to select an army or garrison, tap a name tab to select a settlement.",軍隊や駐屯地を選択するためのバナーをタップして、決済を選択するために、名前のタブをタップします。,
 HPTitle Unit Stacks,Unit Stacks,ユニットスタック,
@@ -1353,7 +1357,7 @@ HPText Unit Stacks Touch,Touching a banner selects a stack of units. Stacks may 
 HPHead Moving Stacks,Moving Unit Stacks,ユニットスタックを移動します,
 HPText Moving Stacks Desktop,"Right click on the hex you wish to move to. If the move is possible the path to be taken will appear. When you end the turn, the units will begin marching. If the distance is long, several turns will be required to complete it. Cancel the move with the button at the bottom of the screen.",右あなたが移動したい進をクリックしてください。移動が可能である場合に取るべき道が表示されます。あなたはターンを終了すると、ユニットが行進を開始します。距離が長い場合は、いくつかのターンはそれを完了する必要があります。画面の下部にあるボタンで移動をキャンセルします。,
 HPText Moving Stacks Desktop 2,Hold the shift key while right clicking to make the stack move to the location after reaching its previously ordered one. This lets you set waypoints if you need to go via a particular route.,右に到達した後の場所にスタックの動きを作るためにクリックしてShiftキーを押しながらその前に1を命じました。これは、特定のルートを経由して行く必要がある場合は、ウェイポイントを設定できます。,
-HPText Moving Stacks Touch,"Touch and hold on the hex you wish to move to until the movement arrows appear. When you end the turn, the units will begin marching. If the distance is long, several turns will be required to complete it. Cancel the move with the button at the bottom of the screen.",タッチして、あなたは運動矢印が表示されるまでに移動したいの六角を押したままにします。あなたはターンを終了すると、ユニットが行進を開始します。距離が長い場合は、いくつかのターンはそれを完了する必要があります。画面の下部にあるボタンで移動をキャンセルします。,
+HPText Moving Stacks Touch,"Touch and hold on the hex you wish to move to until the movement arrows appear. When you end the turn, the units will begin marching. If the distance is long, several turns will be required to complete it. Cancel the move with the button at the bottom of the screen.",タッチして、あなたは運動矢印が表示されるまでに移動したいの六角に保持します。あなたはターンを終了すると、ユニットが行進を開始します。距離が長い場合は、いくつかのターンはそれを完了する必要があります。画面の下部にあるボタンで移動をキャンセルします。,
 HPHead Arranging Stacks,Arranging Unit Stacks,ユニットスタックの配置,
 HPText Arranging Stacks Desktop,"You can change the formation and facing of the units in the stack using the buttons below the tiles. If the stack has a move ordered, any change to facing will only affect its facing at its final destination.",あなたは、タイルの下にあるボタンを使用して、スタック内のユニットの形成と対面を変更することができます。スタックが注文した動きを持っている場合は、対面への変更は、そのは、その最終目的地に直面影響します。,
 HPText Arranging Stacks Desktop 2,"If the stack has multiple lines of units, the colored lines above the tiles show which units are in each line. You can drag unit tiles into another line to rearrange the formation. The left hand side is the front line.",スタックは、単位の複数の行を有する場合、タイル上記着色線が各行に記載されていたユニットを示しています。あなたは形成を再配置するために、別のラインにユニットタイルをドラッグすることができます。左側フロントラインです。,
@@ -1783,7 +1787,7 @@ Army Dagger Axemen,Trained Dagger Axemen,訓練を受けたダガーAxemen,
 Army Dagger Axemen Desc,"A force of trained men will be much superior to part time militias in combat. Their sharp bronze dagger axes can inflict lethal blows any enemies, even those in heavy armor.",訓練を受けた人の力は、戦闘でタイム民兵を部分に非常に優れていることでしょう。彼らの鋭い青銅戈も、それらの重い鎧で、致命的な打撃に任意の敵を与えることができます。,
 Army Light Archers,Trained Archers,訓練を受けた射手,
 Army Light Archers Desc,"A force of low born men kept permanently under arms, will acquire skill with weapons far beyond barely trained militias. Although they may not quite equal those born to a life of war, they can still put down an impressive rain of arrows. ",低生まれの人の力ははるかにほとんど訓練を受けた民兵組織を超えた武器とスキルを取得しますが、腕の下永続的に保持しました。彼らは非常に戦争の生活に生まれた者と等しくないかもしれないが、彼らはまだ矢の印象的な雨を置くことができます。,
-Settlers,Settlers,入植者,
+Settlers,Settlers,入植者,開拓者
 Settlers Desc,"Maybe this is a group of adventurous souls setting off to create a new life for themselves in an unclaimed area of the world, maybe they are refugees from an advancing enemy, maybe they are being forced to relocate by the whims of an unscrupulous overlord. Whatever their reasons, you can use them to found a new settlement in a suitable location. Be sure to protect them carefully, as they have little defense against enemy soldiers.",多分これは多分、彼らが進んで敵からの難民があり、世界の引き取り手のない領域に自分のために新しい生活を作成するためにオフに設定冒険魂のグループがあり、おそらく彼らは不謹慎な君主の気まぐれにより移転を余儀なくされています。どのような彼らの理由から、あなたは、適切な場所に新しい決済を発見するためにそれらを使用することができます。彼らは敵兵に対する少しの防御を持っているように、慎重にそれらを保護するようにしてください。,
 Bodyguard,Bodyguard,ボディーガード,
 Bodyguard Desc,"This unit represents a great leader and the small group of hand picked men who protect him in battle. With the finest equipment, high morale and excellent training, this unit can exercise an influence in battle out of all proportion to its numbers. In do or die battles the leader should lead his bodyguard in the vanguard of the attack, to inspire his men, and break the enemy lines.",このユニットは、偉大な指導者との戦いで彼を守る手選んだ人の小グループを表します。最高級の設備、高い士気と優れたトレーニングで、このユニットは、その番号へのすべての割合のうちの戦いに影響力を行使することができます。やるか死ぬかの戦いではリーダーは、攻撃の先駆者で彼のボディーガードを導くべきである部下を鼓舞し、敵ラインを破ります。,
@@ -1872,7 +1876,7 @@ Tribal Horse Archers Desc,"These men are born to a life in the saddle, practical
 ENB Noble Horse Archers,Noble Horse Archers,ノーブル馬の射手,
 ENB Noble Horse Archers Desc,"These men are the leaders of the tribe. Well equipped, and trained for war since birth, they are formidable and determined warriors. Although by no means unwilling to engage in close combat, they consider it no disgrace to destroy their enemies at a distance using their superior archery skills.",これらの男性は、部族のリーダーです。設備の整った、と誕生以来、戦争のための訓練を受け、彼らは手ごわいと決定した戦士です。なしで近接戦闘に従事したがらないことが、彼らはそれ、その優れたアーチェリーのスキルを使用して距離で敵を破壊する無不名誉を検討してください。,
 Nomad Settlers,Nomad Settlers,ノマド入植,
-Nomad Settlers Desc,"Perhaps they seek greener pastures, or maybe just a change of scenery or company, but this band of nomads has broken off from the main party, to seek a place to make their own encampment. Sustained by their animals, they can wander far and wide until they find a spot that suits them.",おそらく彼らは、緑の牧草地を求めて、あるいは景観や会社の多分ちょうど変更が、遊牧民のこのバンドは、自分の野営地を作るための場所を求めて、メインパーティから折れています。彼らは自分に合った場所を見つけるまでは、動物によって支え、彼らは遠く広くさまようことができます。,
+Nomad Settlers Desc,"Perhaps they seek greener pastures, or maybe just a change of scenery or company, but this band of nomads has broken off from the main party, to seek a place to make their own encampment. Sustained by their animals, they can wander far and wide until they find a spot that suits them.",おそらく彼らは、緑の牧草地を求めて、あるいは景観や会社の多分ちょうど変更が、遊牧民のこのバンドは、自分の野営地を作るための場所を求めて、メインパーティから折れています。彼らは自分に合った場所を見つけるまで、その動物によって持続的な、彼らは広範囲にさまようことができます。,
 Militia Heavy Spearmen old,Militia Heavy Spearmen,民兵重い槍兵,
 Militia Heavy Spearmen Desc,"With long spears and stout shields, these men form a solid defensive unit. They make excellent garrison troops capable of defending any breach, or in open battle they can form a solid anchor point.",長い槍と盾スタウトと、これらの男性は、固体守備のユニットを形成します。彼らは違反を守るの優れた守備隊の部隊が可能にする、または開いた戦いで、彼らは固体のアンカーポイントを形成することができます。,
 NB Noble Heavy Spearmen,Noble Heavy Spearmen,ノーブル重い槍兵,
@@ -1892,7 +1896,7 @@ Bandit Light Spearmen Desc,"These men were once bandits, but are now in your ser
 Encounter Nobles Foot,Warrior Retinue,戦士の従者,
 Encounter Nobles Foot Desc,"This unit is the retinue of a famous warrior who has joined your service. They are well trained, well lead, and well equipped, making them a formidable unit of shock infantry.",このユニットは、あなたのサービスに参加している有名な戦士の従者です。彼らは、ウェル鉛、訓練を受け、充分に衝撃歩兵の手強いユニット作り、装備されています。,
 Encounter Nobles Cavalry,Warrior Retinue,戦士の従者,
-Encounter Nobles Cavalry Desc,"This unit is the retinue of a famous warrior who has joined your service. They are well trained, well lead, and well equipped. They form a powerful unit of shock cavalry.",このユニットは、あなたのサービスに参加している有名な戦士の従者です。彼らは、ウェル鉛、訓練を受けた、とよく装備されています。彼らはショック騎兵の強力なユニットを形成します。,
+Encounter Nobles Cavalry Desc,"This unit is the retinue of a famous warrior who has joined your service. They are well trained, well lead, and well equipped. They form a powerful unit of shock cavalry.",このユニットは、あなたのサービスに参加している有名な戦士の従者です。彼らはよく、訓練を受けただけでなく鉛、よく整っています。彼らはショック騎兵の強力なユニットを形成します。,
 Northern Tribal Archers,Northern Tribal Archers,北の部族の射手,
 Northern Tribal Archers Desc,"These men are outcasts from their tribes, or have been displaced by famine, flood or war. They are happy to serve any lord who will give them a place. As skilled hunters, they have great archery skills, and form an effective unit of light archers. ",これらの男性は自分の部族からのけ者あり、または飢饉、洪水や戦争によって変位されています。彼らは彼らに場所を与える任意の領主に仕えさせていただきます。熟練ハンターとして、彼らは偉大なアーチェリーのスキルを持っている、と光射手の効果的なユニットを形成します。,
 Mercenary Horse Archers,Mercenary Horse Archers,傭兵馬の射手,
@@ -2006,7 +2010,7 @@ BD Confucian Temple III,Famous Confucian Temple,有名な儒教の寺,
 BD Confucian Temple III Desc,"This temple is a major center for the veneration of Confucius, containing statues of the great master, and his most famous followers. People come from all around to make offerings, and to observe the ritual performances of music and dance that take place on major festival days.",この寺院は、巨匠の彫像、そして彼の最も有名な信者を含む、孔子の崇拝の中心地です。人々は製品を作るために、主要な祭りの日に行われた音楽とダンスの儀式のパフォーマンスを観察するためにすべての周りから来ます。,
 BD Wooden Palisade,Wooden Palisade,木製の柵,
 BD Wooden Palisade Desc,"A stout wooden wall will keep out bandits and raiders, and makes the inhabitants feel secure. This boosts happiness and encourages the growth of the settlement.",スタウト木製の壁には、山賊や侵略者を維持し、住民が安全な感じになります。これは、幸福を向上させ、決済の成長を奨励しています。,
-BD Rammed Earth Wall,Rammed Earth Wall,版築壁,
+BD Rammed Earth Wall,Rammed Earth Wall,版築壁,版築
 BD Rammed Earth Wall Desc,"Made by continually pounding earth within a frame, rammed earth is as hard as concrete. Such a wall is a formidable obstacle to any attacking army.",継続的にフレーム内の地球を叩い製、地球は、コンクリートと同じくらい難しいです突っ込みました。このような壁はどんな攻撃軍に手ごわい障害となっています。,
 BD High Earth Wall,High Earth Wall,ハイ地球ウォール,
 BD High Earth Wall Desc,"The thicker and higher the wall, the harder it is to breach. Only the most determined and well organized enemy will be able to capture a settlement protected by such a defense.",厚く高い壁が、難しくは破るためにあります。唯一の最も決定し、よく組織の敵は、このような守備で保護された和解をキャプチャすることができるようになります。,
@@ -2152,7 +2156,7 @@ BP Military Buildings,Military Buildings,軍事建物,
 BP Civic Buildings,Civic Buildings,シビック建物,
 BP External Buildings,Outside Buildings,外の建物,
 BP Temples and Schools,Temples and Schools,寺院や学校,
-TI Farm,Farm,ファーム,
+TI Farm,Farm,ファーム,農地
 TI Clearing,Clearance,クリアランス,
 TI Road,Road,道路,
 TI Building,Building,建物,
@@ -2161,7 +2165,7 @@ TI Cancel,Cancel,キャンセル,
 TI Clear Forests,Clear Forests,クリア森林,
 TI Drain Marshes,Drain Marshes,ドレン沼地,
 TI Irrigated Farmland,Create Irrigated Farms,灌漑農場を作成します。,
-TI Farmland,Create Farms,ファームを作成します,
+TI Farmland,Create Farms,ファームを作成します,農地の作成
 TI Terrace Gentle Hills,Terrace Gentle Hills,テラスなだらかな丘陵,
 TI Terrace Steep Hills,Terrace Steep Hills,テラス急な坂,
 UI Confirm Cancel Construction No Refund,Do you want to cancel construction? The cost already spent will NOT be refunded.,あなたは建設を中止しますか？すでに費やした費用は返金されません。,
@@ -2301,8 +2305,8 @@ Open the screen for the captured settlement to decide whether to occupy, sack or
 EV New Settler Msg Name,Settler,開拓者,
 EV New Settler Title,Settler Available,利用可能な開拓者,
 EV New Settler Msg,A settler is now available here for recruitment.,入植者は、募集のためにここに利用できるようになりました。,
-ERA Name 0,Early Bronze Age,初期青銅器時代,
-ERA Name 1,Warring States Era,戦国時代,
+ERA Name 0,Early Bronze Age,初期青銅器時代,青銅器時代
+ERA Name 1,Warring States Era,戦国時代,戦国時代
 ERA Name 2,Imperial Era,皇紀,
 UI Want to rebel title,Rebel Against Overlord ?,覇王に反逆？,
 UI Want to rebel text,"Do you want to rebel against your overlord, and attack his army ?",あなたの君主に対して反抗したい、と彼の軍隊を攻撃しますか？,
@@ -2435,7 +2439,7 @@ RE Red Rain,Red Rain,レッド・レイン,
 RE Phoenix Sighting,Phoenix Sighting,フェニックスの目撃情報,
 DS Earthquake Msg,Earthquake,地震,
 DS Earthquake Text,"This place has been rocked by a major earthquake, causing widespread death and destruction. Many say that such an event can only be a sign from Heaven that it is displeased with the rulers on Earth.",この場所は広範囲の死と破壊を引き起こし、大地震で揺れてきました。多くは、このようなイベントが唯一、それは地球上の支配者との不満である天国からの徴候である可能性があると言います。,
-DS Major Earthquake Text,"This place was the epicenter of a huge earthquake. The devastation is massive, not just here, but in the regions around. Those that survive still cower in fear of the aftershocks. Such a display of wrath by Heaven, must surely indicate that our rulers no longer enjoy its support.",この場所は、大地震の震源地でした。荒廃はなく、周りの地域では、だけではなく、ここでは、大規模です。まだ生き残るものは、余震の恐怖に萎縮します。天国による怒りのような表示は、確かに私たちの支配者は、もはやそのサポートを楽しんでいないことを示す必要があります。,
+DS Major Earthquake Text,"This place was the epicenter of a huge earthquake. The devastation is massive, not just here, but in the regions around. Those that survive still cower in fear of the aftershocks. Such a display of wrath by Heaven, must surely indicate that our rulers no longer enjoy its support.",この場所は巨大地震の震源地でした。荒廃はなく、周りの地域では、だけではなく、ここでは、大規模です。まだ生き残るものは、余震の恐怖に萎縮します。天国による怒りのような表示は、確かに私たちの支配者は、もはやそのサポートを楽しんでいないことを示す必要があります。,
 DS 3P Earthquake Msg,News: Quake,ニュース：クエイク,
 DS 3P Earthquake Text,News has come in that an earthquake has caused widespread damage and destruction in this city. Many say that it must be Heaven's display of displeasure at their wickedness.,ニュースは地震がこの都市で広く損傷や破壊を引き起こしたことで来ています。多くは、それが彼らの悪事に不満の天のディスプレイでなければならないと言います。,
 DS Fire Msg,Fire,火災,
@@ -2566,7 +2570,7 @@ ENC PhilosopherB,Noted Thinker,注意思想家,
 ENC PhilosopherB Desc,"My lord, I have spent many years pondering deeply on the affairs of Heaven and man. I believe I am close to discovering great truths, but I need the support of a patron so that I may continue my work.",私の主人は、私は天国と男の業務に深く熟考長年過ごしてきました。私は偉大な真理を発見に近いだと考えているが、私は自分の仕事を続けることができるように、私はパトロンの支援を必要としています。,
 ENC PhilosopherB TT,"A noted philosopher lives here. He seeks a patron, and may be persuaded to join your service.",注意哲学者はここに住んでいます。彼はパトロンを求めて、あなたのサービスに参加するように説得することができます。,
 ENC ScholarA,Famous Scholar,有名な学者,
-ENC ScholarA Desc,"Noble lord, I am honored to receive you. My studies of nature have revealed great secrets, that I would be happy to share with you. I ask only a small recompense for the fruits of my labor.",ノーブル主人は、私はあなたを受け取るために光栄に思います。自然の私の研究では、私はあなたと共有して幸せになると、大きな秘密を明らかにしました。私は自分の労働の成果のためにわずかな報酬をお願いします。,
+ENC ScholarA Desc,"Noble lord, I am honored to receive you. My studies of nature have revealed great secrets, that I would be happy to share with you. I ask only a small recompense for the fruits of my labor.",ノーブル主人は、私はあなたを受け取るために光栄に思います。自然の私の研究では、私はあなたと共有して幸せになると、大きな秘密を明らかにしました。私は自分の労働の成果のためにわずかな報いをお願いします。,
 ENC ScholarA TT,A famous scholar lives here. He may be able to teach you new secrets.,有名な学者がここに住んでいます。彼はあなたに新しい秘密を教えることができるかもしれません。,
 ENC ScholarB,Famous Scholar,有名な学者,
 ENC ScholarB Desc,"My lord, as you know I am a keen student of the world of nature, and seek knowledge that may be of practical use to mankind. I would be happy to join your service, and share my discoveries with you, if in return you will fund my work.",ご存知のように私の主よ、私は自然の世界の熱心な学生です、そして人類への実用のものとすることができる知識を求めています。私はあなたのサービスに参加させていただき、そして見返りにあなたが私の仕事に資金を供給する場合は、あなたと私の発見を共有することになります。,
@@ -2715,7 +2719,7 @@ CAP Recruit Mercenary Desc,Add {0} to mercenary recruitment pool.,傭兵採用�
 CAP Recruit Naval,Recruit Naval Units,リクルート海軍ユニット,
 CAP Recruit Naval Desc,Add {0} to naval recruitment pool.,海軍採用プールに{0}を加えます。,
 CAP Recruit TestAndDebug,Recruit Test and Debug TEST ONLY,リクルートのテストとデバッグTEST ONLY,
-CAP Recruit TestAndDebug Desc,Add {0} to test and debug recruitment pool. TEST ONLY,{0}採用プールをテストし、デバッグするために追加。テストのみ,
+CAP Recruit TestAndDebug Desc,Add {0} to test and debug recruitment pool. TEST ONLY,{0}動員プールをテストし、デバッグするために追加。テストのみ,
 CAP City Min Territory,City Territory,シティテリトリー,
 CAP City Min Territory Desc,City claims territory within {0} hexes.,都市{0}はヘクス内の領土を主張します。,
 CAP City Max Improvement Distance,Max Improvement Range,マックス改善レンジ,
@@ -2775,7 +2779,7 @@ CAP Boost Craft Desc,Craft development rate increased by {0}%,{0}％増加クラ
 CAP Boost Knowledge,Boost Knowledge,ブースト知識,
 CAP Boost Knowledge Desc,Knowledge development rate increased by {0}%,{0}％増加知識開発率,
 CAP Boost Power,Boost Power,ブーストパワー,
-CAP Boost Power Desc,Power development rate increased by {0}%,{0}％増加電源開発率,
+CAP Boost Power Desc,Power development rate increased by {0}%,{0}％増加電源開発率,軍事の開発が{0}％増加
 CAP Reduce Thought,Reduce Thought,思想を削減,
 CAP Reduce Thought Desc,Thought development reduced by {0}%,開発{0}％減少考え,
 CAP Reduce Craft,Reduce Craft,クラフトを削減,
@@ -2807,7 +2811,7 @@ CAP Reduce Naval Desc,Naval development rate reduced by {0}%,{0}％減少海軍�
 CAP Primitive,Primitive,プリミティブ,
 CAP Primitive Desc,Thought and Knowledge rate reduced by {0}%,考え知識率{0}％減少,
 CAP Authority,Authority,権限,
-CAP Authority Desc,Increase authority by {0},{0}によって権限を高めます,
+CAP Authority Desc,Increase authority by {0},{0}によって権限を高めます,権力が{0}増加
 CAP Culture,Culture,文化,
 CAP Culture Desc,Increase culture by {0},{0}により培養を増加させます,
 CAP NewLeaderVirtue,New Leader Virtue,新しいリーダー美徳,
@@ -3264,7 +3268,7 @@ TT DI Demand Settlement,Demand that they immediately transfer control of this se
 TT DI Offer Enemy Information,Offer them the location of settlements belong to their enemies.,敵に属している彼らに集落の場所を提供します。,
 TT DI Demand Enemy Information,"Ask that they share the location of settlements they know about, that belong to our enemies.",彼らは我々の敵に属し、彼らは知っている集落の場所を共有することを確認して下さい。,
 ED Well Field System,Well Field System,まあフィールドシステム,
-ED Well Field System Desc,"Decree that each village's land be divided into lots farmed by eight families. Each lot shall be divided into nine equal divisions, one outer section for each family, and the central one for the local lord. The families shall work the lord's land before attending to their own. The division of the land into nine squares resembles the Chinese character for a well, hence the name.",各村の土地は8人の家族が養殖ロットに分割すること令。各ロットは9等分、1つのそれぞれの家族のための外側部分、および現地領主のために中央1分けされなければなりません。家族は自分自身に参加する前に、主の土地を働くものとします。 9つの正方形への土地の分割はうまく漢字、その名に似ています。,
+ED Well Field System Desc,"Decree that each village's land be divided into lots farmed by eight families. Each lot shall be divided into nine equal divisions, one outer section for each family, and the central one for the local lord. The families shall work the lord's land before attending to their own. The division of the land into nine squares resembles the Chinese character for a well, hence the name.",各村の土地は8人の家族が養殖ロットに分割すること令。各ロットは9等分、1つのそれぞれの家族のための外側部分、および現地領主のために中央1分けされなければなりません。家族は自分自身に参加する前藩主の土地を働くものとします。 9つの正方形への土地の分割はうまく漢字、その名に似ています。,
 ED Private Land,Private Land Ownership,プライベート土地所有,
 ED Private Land Desc,Instruct the civil service to establish a registry of land ownership. Henceforth the land may be bought and sold by all subjects.,土地所有権の登録を確立するため、市民サービスに指示します。今後土地はすべての被験者で購入し、販売することができます。,
 ED Land Redistribution,Land Redistribution,土地の再配布,
@@ -3430,23 +3434,23 @@ UI Edict has dependents,This edict may not be cancelled until the following are 
 UI Edict can not be cancelled,This edict may not be cancelled.,この勅令は解除されない場合があります。,
 UI Unlocks Edicts,Unlocks Edicts,布告のロックを解除,
 UI Select Tech,Select,選択,選択
-UI Tech Screen Title,Technology and Culture,技術と文化,技術と文化
+UI Tech Screen Title,Technology and Culture,技術と文化,テクノロジーと文化
 Tech Field Thought,Thought,思想,思想
 Tech Field Knowledge,Knowledge,知識,知識
 Tech Field Craft,Craft,クラフト,技術
-Tech Field Power,Power,力,軍事力
+Tech Field Power,Power,力,軍事
 Tech Progress,Progress,進捗,進捗
 Tech Enables Building,Enables construction of :,の建設を可能にします：,建設が可能：
 Tech Needed For Building,Needed for construction of :,の構築のために必要：,建設に必要：
-Tech Enables Unit,Enables recruitment of :,の動員を可能にします：,
-Tech Needed For Unit,Needed for recruitment of:,募集のために必要：,
-Tech Enables Edict,Enables Edicts:,布告を有効にします：,
-Tech Needed For Edict,Needed for Edicts:,布告のために必要：,
-Tech Enables Improvement,Enables Terrain Improvements,地形改善が可能に,
-Tech Effects,Effects,効果,
-Event Effects,Event Effects,イベント効果,
-Tech Branch Bonus,(Bonus: {0}%),（ボーナス：{0}％）,
-Tech Branch Penalty,(Penalty: {0}%),（罰：{0}％）,
+Tech Enables Unit,Enables recruitment of :,の動員を可能にします：,動員が可能：
+Tech Needed For Unit,Needed for recruitment of:,募集のために必要：,動員に必要：
+Tech Enables Edict,Enables Edicts:,布告を有効にします：,布告が可能：
+Tech Needed For Edict,Needed for Edicts:,布告のために必要：,布告に必要：
+Tech Enables Improvement,Enables Terrain Improvements,地形改善が可能に,地形改善が可能：
+Tech Effects,Effects,効果,効果
+Event Effects,Event Effects,イベント効果,イベント効果
+Tech Branch Bonus,(Bonus: {0}%),（ボーナス：{0}％）,（ボーナス：{0}％）
+Tech Branch Penalty,(Penalty: {0}%),（罰：{0}％）,（ペナルティ：{0}％）
 Tech Issue Edict To Unlock,(Issue Edict to unlock),（ロックを解除する令を発行）,
 Tech Items To Advance,(Complete {0} items to unlock),（完全{0}の項目がロックを解除します）,
 Tech Enables Ammo,Allows use of ammunition :,弾薬の使用を可能にします：,
@@ -3675,12 +3679,12 @@ UI Victory Other Culture Text,"Your people sing the songs of another land, wear 
 UI Victory Other SOH Text,"Heaven has made its choice, and chosen another to be its Emperor on Earth. It would be wise to bow to Heaven's will.",天国は、その選択をした、そして地球上の皇帝であることを別のものを選択しました。天の意志に屈するのが賢明だろう。,
 UI Victory Other Points Text,"The turn limit for the game has been reached. There are many notable kingdoms still remaining, but sadly few believe yours to be the greatest of them. That accolade belongs to another.",ゲームターンの上限に達しました。まだそこに残っている多くの注目に値するの王国がありますが、悲しいことに、いくつかは、あなたが彼らの最大のであると信じます。その栄誉は別のものに属します。,
 UI Charts Screen Title,Statistics,統計,統計
-UI Charts Show Only Known,Only Known Players,知られている唯一の選手,
-UI Stat Category Glory VP,Victory Points,勝利ポイント,
-UI Stat Category Culture VP,Culture Victory Points,文化勝利ポイント,
-UI Stat Category Settlements,Number of Settlements,決済の数,
-UI Stat Category Population,Own Population,自分の人口,
-UI Stat Category Military,Military Strength,軍事力,
+UI Charts Show Only Known,Only Known Players,知られている唯一の選手,既知のプレイヤーのみを表示
+UI Stat Category Glory VP,Victory Points,勝利ポイント,勝利ポイント
+UI Stat Category Culture VP,Culture Victory Points,文化勝利ポイント,文化勝利ポイント
+UI Stat Category Settlements,Number of Settlements,決済の数,入植地の数
+UI Stat Category Population,Own Population,自分の人口,人口
+UI Stat Category Military,Military Strength,軍事力,軍事力
 UI Stat Category Battles,Battles Fought,戦った戦い,
 UI Stat Category Enemy Soldiers Killed,Enemy Soldiers Killed,敵兵を殺しました,
 UI Stat Category Own Soldiers Killed,Own Soldiers Killed,自分の兵士殺しました,
@@ -3688,12 +3692,12 @@ UI Stat Category Enemy Civilians Killed,Enemy Civilians Killed,敵の民間人�
 UI Stat Category Construction Development,Construction Development,建設開発,
 UI Settings Game Turns,Turn Limit,リミットを回し,
 UI Settings AI Level,Difficulty,困難,難易度
-UI Settings Hex Grid,Show Grid,グリッドを表示します,
+UI Settings Hex Grid,Show Grid,グリッドを表示します,グリッドを表示
 UI Settings Scroll Rate,Keyboard Scroll Rate,キーボードのスクロール速度,
-UI Settings Master Volume,Master Volume,マスターボリューム,
-UI Settings Music Volume,Music Volume,音楽の音量,
-UI Settings FX Volume,Effects Volume,エフェクト音量,
-UI Settings UI Volume,UI Volume,UIボリューム,
+UI Settings Master Volume,Master Volume,マスターボリューム,マスター音量
+UI Settings Music Volume,Music Volume,音楽の音量,音楽の音量
+UI Settings FX Volume,Effects Volume,エフェクト音量,エフェクトの音量
+UI Settings UI Volume,UI Volume,UIボリューム,UIの音量
 UI Settings Mute,Mute,ミュート,ミュート
 UI Settings Graphics Quality,Graphics Quality,グラフィックの質,グラフィック
 UI Settings Screen Resolution,Screen Resolution,画面の解像度,解像度
@@ -4194,8 +4198,8 @@ UI MP Game List Join,Join Game,ゲームに参加します,
 UI MP Game List Create Game,Create Game,ゲームを作る,
 UI MP Game List Heading,Multiplayer Game List,マルチプレイヤーゲーム一覧,
 UI Tech Rate,Research Rate,リサーチレート,
-UI Allow Cultural Victory,Allow Cultural Victory,許可文化勝利,
-UI Language,Language,言語,
+UI Allow Cultural Victory,Allow Cultural Victory,許可文化勝利,文化勝利を許可
+UI Language,Language,言語, 言語
 UI Language Warning,You must quit and restart the game for the language change to take effect.,あなたは、有効にする言語の変更のためのゲームを終了して再起動する必要があります。,
 DO Not Strong Enough For Overlord,Do you think that your might is such that others should tremble and submit just because you demand it. Your arrogance insults us.,あなたのかもしれないが、他の人が震え、あなたがそれを要求するという理由だけで提出しなければならないようなものであると思います。あなたの傲慢さは、私たちを侮辱します。,
 DO Not Enough Threat For Overlord,"Your nation is mighty, but offers little threat to us. Why should we submit.",あなたの国は強大ですが、私たちに少し脅威を提供しています。なぜ我々は提出してください。,
@@ -4303,7 +4307,7 @@ HPText Trade Settlement2,"A settlement may change hands as part of a peace negot
 HPHead Enemy Information,Enemy Information,敵の情報,
 HPText Enemy Information,"If you receive this, the other faction will reveal the location of all settlements that it knows of, that belong to its enemies, except for its previous settlements currently held by rebels. You may similarly offer to share the location of your enemies cities with another player.",これを受け取った場合は、他の派閥は現在、反乱軍によって開催された前回の入植地を除いて、その敵に属し、それはを知っているすべての入植地の位置を明らかにします。あなたは同様に他のプレイヤーと敵の都市の場所を共有するために提供することがあります。,
 HPHead Trade Embargo,Trade Embargo,禁輸,
-HPText Trade Embargo,"If you declare a trade embargo against another player, then trade is cut off both ways, you can neither export to, nor import from them. This may hurt you more than it hurts them, so check your trade routes before issuing an embargo. This is a declaration, and they do not have to agree to it, but are unlikely to be happy about it.",あなたが他のプレイヤーに対して貿易禁輸を宣言した場合、取引はすることができますどちらの輸出に、両方の方法を切断し、また彼らから輸入されます。これは、彼らを傷つけるよりも、より多くのあなたを傷つけるので、禁輸を発行する前に、あなたの貿易ルートをチェックすることができます。これは宣言され、そして、彼らはそれに同意する必要がありますが、それについて満足している可能性は低いしません。,
+HPText Trade Embargo,"If you declare a trade embargo against another player, then trade is cut off both ways, you can neither export to, nor import from them. This may hurt you more than it hurts them, so check your trade routes before issuing an embargo. This is a declaration, and they do not have to agree to it, but are unlikely to be happy about it.",あなたが他のプレイヤーに対して貿易禁輸を宣言した場合、取引はすることができますどちらの輸出に、両方の方法を切断し、また彼らから輸入されます。これは、彼らを傷つけるよりも、より多くのあなたを傷つけるので、禁輸を発行する前に、あなたの貿易ルートをチェックすることができます。これは宣言され、そして、彼らはそれに同意する必要がありますが、それについて満足しているしにくいません。,
 HPLink Other Diplomatic Trades,Other Diplomatic Trades,その他の外交取引,
 Additions Post Feb 17,### Trans ###,###トランス###,
 Imp Generic Completed Msg,This improvement has been completed.,この改善が完了しました。,
@@ -4694,7 +4698,7 @@ You have some possibilities to expand your land, especially to the south. Also t
 あなたは、特に南に、あなたの土地を拡大するためにいくつかの可能性を持っています。また、有利な貿易ネットワークを構築するために黄河にあなたの中心位置とアクセスを活用してみてください。",
 WS Advice Lu,"Lu is a small state near the coast to the south of the Shandong Peninsula. All the surrounding powers are much stronger, and will be looking to gobble you up, particularly the powerful state of Qi to your north. You will need to ally with some of your neighbors to survive, and it may be necessary to become a vassal of one of them.
 
-There is some limited space to expand, but holding a larger territory will be difficult. Expanding militarily will require joining in the wars of larger powers. Carefully picking the winning side will be key.","呂山東半島の南に海岸近くの小さな状態です。すべての周りの力がはるかに強いです、そして、あなたの北に、チーの特に強力な状態にあなたをガツガツすることになるだろう。あなたは、生き残るためにあなたの隣人の一部と同盟する必要があります、そしてそのうちの一つの家臣になるために必要な場合があります。
+There is some limited space to expand, but holding a larger territory will be difficult. Expanding militarily will require joining in the wars of larger powers. Carefully picking the winning side will be key.","呂は山東半島の南に海岸近くの小さな状態です。すべての周りの力がはるかに強いです、そして、あなたの北に、チーの特に強力な状態にあなたをガツガツすることになるだろう。あなたは、生き残るためにあなたの隣人の一部と同盟する必要があります、そしてそのうちの一つの家臣になるために必要な場合があります。
 
 そこ拡大するためのいくつかの限られた空間であるが、より大きな領土を保持することは困難であろう。軍事的に展開すると、より大きな力の戦争に参加する必要があります。慎重に勝利側を選ぶことが鍵となります。",
 WS Advice Xianbei,"You play as a nomadic herding faction to the north. Currently there are no imminent threats, but you are quite weak and need to spread out and grow. There is limited space on the steppes to the far north, as the Dong Hu will block your progress, but there is plenty of room to expand in the big loop of the Yellow River to the south.
@@ -4983,7 +4987,7 @@ HPText SE Faction Bar2,"New factions can be created by clicking on the icon on t
 HPText SE Faction Bar3,"Try to select a base faction that is similar to the faction you���re creating, so that you don���t need to edit many of the faction settings.",あなたは派閥の設定の多くを編集する必要がいけないように、youreの作成派閥に似ているベース派閥を選択するようにしてください。,
 HPHeading SE Edit Modes,Editing Modes,編集モード,
 HPText SE Edit Modes,"On the right of the faction bar are three icons that set the editing mode. These determine what object is placed when you click on the map. There are modes for settlements, armies and resources.",派閥バーの右側に編集モードを設定する3つのアイコンがあります。これらは、地図をクリックしたときに置かれているもののオブジェクトを決定します。集落、軍隊やリソースのためのモードがあります。,
-HPLink Scenario Editor,Scenario Editor,シナリオエディタ,
+HPLink Scenario Editor,Scenario Editor,シナリオエディタ,シナリオエディタ
 HPTitle Faction Settings,Faction Details,派閥の詳細,
 HPHeading SE Faction Settings,Introduction,前書き,
 HPText SE Faction Settings,"Click the setting icons on the faction bar will open the Faction Settings dialog. This presents you with many options to customize the faction. Most are self-explanatory, but a few need further explanation.",派閥の設定]ダイアログを開きます派閥バーに設定アイコンをクリックしてください。これは派閥をカスタマイズするために多くのオプションをご提示します。ほとんどは自明ですが、いくつかは、さらなる説明を必要とします。,
@@ -5053,7 +5057,7 @@ Tech Horse Archery,Horse Archery,馬アーチェリー,騎射
 Tech Horse Archery Desc,"An archer riding a horse enjoys many advantages in warfare. Against infantry or chariots, he can close to short range, dispatch a volley of projectiles, then retreat with little danger to himself, and the same technique can also be used against heavier less mobile cavalry. However, being able to accurately fire an arrow from a galloping horse requires great technique and much practice. Only nomadic tribes were able to field large numbers of horse archers with sufficient training. ",馬に乗った射手は、戦争で多くの利点を楽しんでいます。歩兵や戦車に対して、彼は、短距離に近い発射のボレーを派遣し、自分自身に少し危険で後退し、同じ技術が重い少ないモバイル騎兵に対しても使用することができますすることができます。しかし、正確に疾走する馬から矢を発射することができるということは素晴らしい技術と多くの練習が必要です。唯一の遊牧民は、十分なトレーニングを馬の射手の多数をフィールドすることができました。,
 Tech Stirrup,Stirrups,鐙,鐙
 Tech Stirrup Desc,"Stirrups are loops for a horse rider to place his feet in. They allow a rider a wider range of actions, particularly allowing them to stand and strike downwards powerfully. The development of stirrups and horse armor paved the way for battlefields all across Asia to be dominated by versatile cavalry armed with multiple weapons.",鐙は彼の足を置くための馬のライダーのためにループしている。彼らは特に彼らが立って、下方向に力強く打つすることができ、ライダーにアクションの広い範囲を可能にします。鐙と馬の鎧の開発は、複数の武器で武装した汎用性の高い騎兵によって支配されるすべてのアジアの戦場のための道を開きました。,
-Tech Logographic Script,Logographic Script,表語文字,
+Tech Logographic Script,Logographic Script,表語文字,表語文字
 Tech Logographic Script Desc,"A logographic script is one where each symbol (or logograph) represents a single concept. In the earliest forms of writing, logographs were simple drawings of the things they represented. Over times, these drawings became simplified, stylized, and standardized into a common script. Intangible objects and concepts were often represented by symbols with similar sounds.",表語文字は、各シンボル（またはlogograph）は、単一の概念を表すものです。執筆の最も初期の形態では、logographsは、彼らが表され、物事の簡単な図面ました。時間が経つにつれて、これらの図面は、様式化された単純化されるようになった、と一般的なスクリプトに標準化しました。無形のオブジェクトや概念は、多くの場合、類似した音と記号で表されました。,
 Tech Literature,Literature,文献,文学
 Tech Literature Desc,"The development of paper and an increasing literacy rate, lead to the development as reading as a form of entertainment. Legends, history and travel diaries were the first genres to become popular, but later a wide range of literature evolved including romance and humor. ",紙の開発と増加識字率は、娯楽の形態として読み込むと開発につながります。伝説、歴史と旅日記が人気になるための最初のジャンルだったが、後に文学の広い範囲がロマンスとユーモアを含む進化しました。,
@@ -5134,7 +5138,7 @@ Tech Mountain Armor Desc,"This is the finest quality armor, affordable only to t
 Tech Horse Armor,Horse Armor,馬の鎧,馬鎧
 Tech Horse Armor Desc,"The development of horse armor, and horses strong enough to wear it, greatly reduces a horses vulnerability in battle, particularly against soldiers on foot, and against arrows. The development of horse armor paved the way for cavalry to dominate the battlefield.",馬の鎧、およびそれを着用するのに十分強い馬の開発は、非常に特に足の兵士たちに対して、戦いで馬の脆弱性を減少させ、矢印に対して。馬の鎧の開発は騎兵が戦場を支配するための道を開きました。,
 Tech Iron Armor,Iron Armor,アイアンアーマー,
-Tech Iron Armor Desc,"Although iron is not of itself superior to bronze as a material for constructing armor, it is much cheaper. This makes it feasible to for the rank file soldiers to be issued metal armor that protects most of their body. Tough steel can be used for breastplates and helmets used by the best protected troops.",鉄は自身の鎧を構築するための材料として青銅に優れていないが、それははるかに安いです。これは、自分の体のほとんどを保護金属鎧を発行するランク・ファイルの兵士のためにそれが可能になります。タフ鋼は最高の保護された部隊で使用さ胸当てとヘルメットのために使用することができます。,
+Tech Iron Armor Desc,"Although iron is not of itself superior to bronze as a material for constructing armor, it is much cheaper. This makes it feasible to for the rank file soldiers to be issued metal armor that protects most of their body. Tough steel can be used for breastplates and helmets used by the best protected troops.",鉄は自身の鎧を構築するための材料として青銅に優れていないが、それははるかに安いです。これは、自分の体のほとんどを保護金属鎧を発行するランク・ファイルの兵士のためにそれが可能になります。タフ鋼は最高の保護された部隊で使用される胸当てとヘルメットのために使用することができます。,
 Tech Bamboo Strips,Bamboo Strips,竹ストリップ,
 Tech Bamboo Strips Desc,"Writing is more easily shared if written on a portable medium. Slips of wood or bamboo the length of a chopstick, and the width of two, are convenient for writing a column of twenty or so characters with a brush. Many such strips can be laced together with twine to form longer works.",ポータブルメディアに書かれている場合の書き込みは、より容易に共有されています。木や竹箸の長さ、および2つの幅のスリップは、ブラシで20かそこらの文字列を記述するための便利です。多くのそのようなストリップは、長い作品を形成するために、ひもと一緒に混入することができます。,
 Tech Paper,Paper,紙,紙
@@ -5173,7 +5177,7 @@ Tech Painting,Painting,ペインティング,
 Tech Painting Desc,"Painting used for illustration is a mere trade performed by artisans, but certain gentlemen elevate it to an art form. The greatest works are studies of plants or animals, with the subject depicted in exquisite detail, while the background is often left indistinct. Some prefer to paint with color, others emphasize form by restricting themselves to simple black strokes.",説明のために使用される絵は、職人によって行わ単なる商品であるが、特定の紳士は、当フォームにそれを高めます。背景がしばしば不明瞭残したまま、最大の作品は、絶妙な詳細に示さ件名で、植物や動物の研究です。いくつかの色でペイントすることを好む、他の人はシンプルな黒のストロークに自分自身を制限することで、フォームを強調します。,
 Tech Precious Metal Work,Precious Metal Work,貴金属ワーク,
 Tech Precious Metal Work Desc,"The art of gold working is associated with the barbarians to the North. They excel at making fine object depicting real or mythical animals, often as broaches, buckles or amulets. Possesion of such fine works in silver or gold shows the power and status of the owner.",金、作業の技術は北朝鮮への野蛮人と関連しています。彼らは多くの場合、ブローチ、バックルやお守りとして、実際または神話上の動物を描いた細かいオブジェクトを作るのが得意。銀や金でこのような微細な作品のポゼッションは、所有者のパワーとステータスが表示されます。,
-Tech Jade Working,Jade Working,ジェイドワーキング,
+Tech Jade Working,Jade Working,ジェイドワーキング,翡翠加工
 Tech Jade Working Desc,"Jade has always had a special place in Eastern culture. The stone is said to posses many virtues, for instance its ability to take an edge but not be sharp is said to represent justice,  and the flaws within revealed by its translucency represent sincerity. The very hard raw stone can be shaped by abrasive means into a variety of  beautiful ornamental and ceremonial objects. Quality objects shaped by a master craftsman are more valuable than gold. ",ジェイドは常に東洋文化の中で特別な場所がありました。石は、例えば、多くの長所を保有すると言われているエッジを取ることが、シャープではないその能力は正義を表すと言われ、その透光性によって明らかにされた内の欠陥は、誠意を表しています。非常に硬い原石は美しい観賞用や儀式のさまざまなオブジェクトに研磨材によって成形することができます。名匠によって形作ら品質オブジェクトは金よりも貴重です。,
 Tech Coinage,Coinage,貨幣,
 Tech Coinage Desc,"The earliest medium of exchange was cowry shells, but round coins made from copper, bronze or iron proved a more practical type of money. Chinese coins had holes in the center allowing them to be strung together into groups of 100 or 1000, and carried over the shoulder. The development of coinage will facilitate the development of trade and allow a greater range of government taxation measures.",為替の最も初期の媒体は貝の殻だったが、銅、青銅や鉄で作られたラウンドコインはお金のより実用的なタイプであることを証明しました。中国の硬貨は、彼らが100または1000のグループにつなぎ合わせすることができるように中央に穴を有しており、肩の上に運びました。貨幣の発展は、貿易の発展を促進し、政府の税制措置のより大きな範囲をできるようになります。,
@@ -5221,21 +5225,21 @@ Tech Terracing,Terracing,台地,
 Tech Terracing Desc,"It's difficult to farm hillsides with cereal crops, as water runs off. Converting the slope to a series of stepped terraces provides flat land for cultivation, and allows water to be retained. Generally some method of pumping water up the hillside to the terraces will also be required. ",水が流れ落ちるように、それは、穀物とファーム山腹に難しいです。階段テラス一連の傾きを変換する栽培平地を提供し、水が保持されることを可能にします。一般的にはテラスに丘の中腹に水を汲み上げいくつかの方法も必要になります。,
 Tech Marsh Drainage,Marsh Drainage,マーシュ排水,
 Tech Marsh Drainage Desc,"Much otherwise useful flat land is too water logged to allow farming or grazing. Although it is very labor intensive, it is possible to construct drainage works to control water flow into and out of a marsh, and thus convert it into a fertile plain that can be farmed or used for grazing flocks.",ずっとそうでない場合は便利な平地はあまりにも水が農業や放牧を許可するように記録されます。それは非常に労働集約的ではあるが、排水へと湿地のうち、水の流れを制御する働き構築、ひいては養殖や羊を放牧するために使用することができ肥沃な平野に変換することが可能です。,
-Tech Seedling Transplantation,Seedling Transplantation,苗移植,
+Tech Seedling Transplantation,Seedling Transplantation,苗移植,定植
 Tech Seedling Transplantation Desc,"Crop yields for rice can be improved significantly if rice plants are grown from seeds in a nursery area for two to three weeks, before being transplanted to the main field. The small plants in the nursery are easy to care for, and when transplanted, they have a head start over any weeds that would compete with them. Transplanting also allows the part grown plants to be evenly spaced, further increasing yield.",稲がメインフィールドに移植される前に、2〜3週間の保育所エリア内の種子から栽培されている場合はコメの収穫量を大幅に向上させることができます。保育園の小さな植物はの世話をするのは簡単ですし、移植したとき、彼らは彼らと競合するであろう任意の雑草の上にヘッドスタートしています。移植はまた、一部成長植物を均等にさらに収率を増加させる、間隔を置いて配置されることを可能にします。,
 Tech Brick Faced Wells,Brick Faced Wells,ブリック直面ウェルズ,
 Tech Brick Faced Wells Desc,"The climate is often dry, and it is necessary to draw up water from wells to water the crops, and provide for people and animals. While wells can be dug easily, they collapse quickly if not well lined. A lining of trapezoidal shaped bricks (smaller on the inside than the outside) is easy to lay, and will keep the well open permanently.",気候は、多くの場合、乾燥している、そして作物に水を井戸から水を吸い上げ、そして人や動物のために提供することが必要です。ウェルが簡単に掘っすることができるが、うまく並んでいない場合、彼らはすぐに崩壊します。台形レンガ（外よりも内側に小さい）のライニングが横たわっていたが簡単で、かつ恒久的にも開いていきます。,
 Tech Crop Rotation,Crop Rotation,輪作,輪作
-Tech Crop Rotation Desc,"The five sacred grains that have been grown from ancient times are millet, wheat, rice, soya beans, and sesame. They may be grown at different times of the year, or in different climates. It is better if they are not grown in the same spot each year, as this leads to depletion of the soil, and a build up of weeds and pests. Rotating the different crops between different fields significantly increases the yield.",古代から栽培されている5つの神聖な粒子はキビ、小麦、米、大豆、ゴマです。彼らは今年の異なる時間に、または異なる気候で成長させることができます。これは、土壌の枯渇、および雑草や害虫のビルドアップにつながるとして、彼らは、毎年同じ場所で栽培されていない場合、それは良いです。異なるフィールド間で異なる作物を回転させると著しく収率を増加させます。,
+Tech Crop Rotation Desc,"The five sacred grains that have been grown from ancient times are millet, wheat, rice, soya beans, and sesame. They may be grown at different times of the year, or in different climates. It is better if they are not grown in the same spot each year, as this leads to depletion of the soil, and a build up of weeds and pests. Rotating the different crops between different fields significantly increases the yield.",古代から栽培されている5神聖な粒子はキビ、小麦、米、大豆、ゴマです。彼らは今年の異なる時間に、または異なる気候で成長させることができます。これは、土壌の枯渇、および雑草や害虫のビルドアップにつながるとして、彼らは、毎年同じ場所で栽培されていない場合、それは良いです。異なるフィールド間で異なる作物を回転させると著しく収率を増加させます。,
 Tech Composite Bow,Composite Bow,コンポジットボウ,複合弓
 Tech Composite Bow Desc,"Unlike a simple bow, a composite bow is made of multiple materials, wood, sinew or horn, glued together. Using different materials on inner and outer edges allows it to bend further, allowing construction of bows that are powerful without being unduly large.",単純な弓とは異なり、複合弓を一緒に接着され、複数の材料、木材、腱又はホーンで構成されています。内側及び外側の縁に異なる材料を使用することは、過度に大きいことなく強力な弓の構築を可能にする、さらに屈曲することを可能にします。,
-Tech Crossbow,Crossbow,クロスボウ,
-Tech Crossbow Desc,"It takes years of practice to make a good archer, but new recruits can be trained quickly to use a crossbow. While it's rate of fire is slower, this is offset by the crossbow's superior killing power and armor penetration. The secret to making a crossbow is the sophisticated bronze trigger mechanism.",それは良い射手を作るために練習の年がかかりますが、新入社員はクロスボウを使用するために迅速に訓練することができます。火のそれの割合が遅くなりますが、これはクロスボウの優れた殺傷力や防具の浸透によって相殺されます。クロスボウを作る秘訣は、洗練された青銅製のトリガ機構です。,
+Tech Crossbow,Crossbow,クロスボウ,弩
+Tech Crossbow Desc,"It takes years of practice to make a good archer, but new recruits can be trained quickly to use a crossbow. While it's rate of fire is slower, this is offset by the crossbow's superior killing power and armor penetration. The secret to making a crossbow is the sophisticated bronze trigger mechanism.",それは良い射手を作るために練習の年がかかりますが、新入社員はクロスボウを使用するために迅速に訓練することができます。火のそれの割合が遅くなりますが、これはクロスボウの優れた殺傷力や防具の浸透によって相殺されます。クロスボウを作る秘訣は、洗練された青銅製のトリガ機構です。,良い射手になるには長年の訓練を擁しますが，弩は新兵でも簡単に使用することができます．連射性能こそ弓に劣りますが，それは弩の威力や防具の普及によって相殺されます．弩製造の秘密は，洗練された青銅製のトリガ機構です．
 Tech Chu ko nu,Chu Ko Nu,チューコーニュー,
 Tech Chu ko nu Desc,"The Chu ko no is a repreating crossbow, particularly favored by peasants. The string is pulled back by hand, so each shot is rather weak, but the recocking motion loads another bolt, allowing a shot to be fired off every couple of seconds. It can be effective against unarmoured targets, but against armored troops, its effect is more disconcerting than lethal. Sometimes the bolts are tipped with poision to increase their effect.",チューkoが何の特に農民に好まrepreatingクロスボウ、ではありません。文字列が戻って手で引っ張っているので、各ショットはかなり弱いですが、再コック運動はショットが秒おきにオフに解雇することができるように、別のボルトをロードします。それはunarmouredターゲットに対して有効であることができるが、装甲部隊に対して、その効果は致死よりも当惑です。時には、ボルトはその効果を高めるためにpoisionを傾けています。,
 Tech Flaming Pitch,Flaming Pitch,フレーミングピッチ,
 Tech Flaming Pitch Desc,"Pitch is a sticky flammable substance that can be extracted from wood, or found naturally in tar pits. It can be used to coat arrows or boulders. It allows artillery engines to fire flaming rocks, and improves the effectiveness of infantry flaming arrows.",ピッチは、木材から抽出された、またはタールピットで自然に見つけることができる粘着性の可燃性物質です。これはコート矢印または岩に使用することができます。それは砲兵エンジンが燃える岩を発射することができ、そして歩兵炎の矢の有効性を向上させます。,
-Tech Gunpowder,Gunpowder,火薬,
+Tech Gunpowder,Gunpowder,火薬,火薬
 Tech Gunpowder Desc,"Alchemists searching for an elixir of immortality have chanced upon a most useful ""fire medicine"" that burns extremely fiercely, even explosively in some compounds. Bundles of the  powder can be attached to arrows to provide much more effective incendiaries than was previously possible.",不死の霊薬を探し錬金術師でも爆発的にいくつかの化合物では、非常に激しく燃え最も有用な「火の薬」により偶然ています。粉末の束は、以前に可能であったよりもはるかに効果的なincendiariesを提供するために、矢印に取り付けることができます。,
 Tech Beehive Rocket Launcher,Beehive Rocket Launcher,Beehiveのロケットランチャー,
 Tech Beehive Rocket Launcher Desc,"Experiments with gunpowder have shown that burning powder alone is enough to shoot an arrow through the air without the need for a bow. There rockets are light so a single man may carry many in a bundle and launch them like a swarm of angry bees. Although rather inaccurate, they will cause great fear amongst the enemy, and not a little damage.",火薬を用いた実験では、単独の粉末を燃焼すると、弓を必要とせずに空気を通って矢を撃つために十分であることが示されています。ロケットは光があるので、独身男性は、バンドル内の多くを運ぶと怒った蜂の群れのようにそれらを起動することができます。むしろ不正確であるが、彼らは偉大な敵の中の恐怖、そして少なからず損傷を与える可能性があります。,
@@ -5243,7 +5247,7 @@ Tech Thunderclap Bomb,Thunderclap Bomb,雷鳴爆弾,震天雷
 Tech Thunderclap Bomb Desc,"By filling an earthenware pot with gunpowder, a most effective projectile can be fashioned for engines to throw, that will explode on impact, affecting enemy over a wide area. Sharp spikes of iron, or shards of pottery contained within the top will cause a shower of deadly shrapnel further enhancing the deadly effect.",火薬と土鍋を充填することにより、最も効果的な発射は、広い範囲で敵に影響を与え、影響に爆発する投げるためのエンジンのために作ることができます。シャープ鉄のスパイク、または上に含まれる陶器の破片はさらに致命的な効果を高める致命的な破片のシャワーの原因となります。,
 Tech Three Eyed Gun,Three Eyed Gun,スリー・アイド・ガン,
 Tech Three Eyed Gun Desc,"If gunpowder is confined in a closed tube, and a lead ball that fills the tube completely placed atop it, the ball will be expelled with great force when the gunpowder explodes. The range of the ball is short, but it strikes with a lethal force far greater than any arrow. Three such tubes can be attached to a handle to create the three eyed gun.",火薬が閉じられたチューブに閉じ込められ、そして完全にそれの上に置かれ、チューブを埋めるリードボールされている場合は火薬が爆発するとき、ボールは大きな力で追放されます。ボールの範囲は短いですが、それは任意の矢印よりもはるかに高い致死力で打ちます。そのような3本のチューブは3つの銃を作成するために、ハンドルに取り付けることができます。,
-Tech Hot Cold Theory,Hot Cold Theory,ホットコールド論,
+Tech Hot Cold Theory,Hot Cold Theory,ホットコールド論,寒熱理論
 Tech Hot Cold Theory Desc,"Good health depends on maintaining the internal Qi balance between the major organs. Different foods affect different organs, and may also be divided into hot and cold types depending on their overall effect. Cold foods include fruits, vegetables and grains, whereas salty or fried foods are considered hot.",健康は主要臓器間の内部チーのバランスを維持することに依存します。さまざまな食品は異なる器官に影響を与え、また、その全体的な効果に応じて、ホットとコールドタイプに分けることができます。塩辛いや揚げ物が熱いと考えられているのに対し、冷たい食品は、果物、野菜や穀物が含まれています。,
 Tech Medicine,Medicine,医学,医学
 Tech Medicine Desc,"The role of medicine to restore balance to the body and enable it to recover from illness or injury itself. The practitioner examines the patient, determines where the imbalances lay, and then prescribes medication to rectify it. Over time a vast body of knowledge has been built up about the qualities of different plants, herbs and animal parts.",医学の役割は、身体のバランスを回復し、病気や怪我自体から回復することを可能にします。開業医は、患者を調べ不均衡が横たわっていた場所を決定し、それを是正するために薬を処方します。時間が経つにつれて、知識の広大なボディは、異なる植物、ハーブや動物の部品の品質について構築されています。,
@@ -5255,7 +5259,7 @@ Tech Blood Circulation,Blood Circulation,血液循環,
 Tech Blood Circulation Desc,"It has long been understood that in the same way that Qi circulates through the meridians, blood also circulates through the body. Understanding the details of this process is most beneficial to the treatment of illness and injury.",長いQiは経絡を循環同じように、血液は、体を循環することを理解されてきました。このプロセスの詳細を理解することは、病気やけがの治療に最も有益です。,
 Tech Yin and Yang,Yin and Yang,陰陽,陰陽思想
 Tech Yin and Yang Desc,"Yang is the light, Yin is the shade. Without one, there cannot be the other. Yang and yin are the opposing but complementary forces that permeate nature. Hot and cold, life and death, fire and water, action and passivity, male and female. These ideas underpin most of Chinese thought.",ヤンは、陰がシェードで、光です。 1がなければ、他の存在することはできません。ヤンと陰が自然に浸透する相手が、補完的な力です。ホット、コールド、生と死、火と水、アクションと受動性、男性と女性。これらのアイデアは、中国の思考の大半を支えます。,
-Tech Massage,Massage,マッサージ,
+Tech Massage,Massage,マッサージ,マッサージ
 Tech Massage Desc,"The flow of Qi and blood through the body may be stimulated and improved by expert manipulation of the limbs, pressuring of the muscles, promoting good health and providing relief from pain and weariness.",身体を通る気と血の流れは、健康を促進し、痛みや疲れからの救済を提供し、筋肉の圧迫、手足の専門家操作によって刺激し、改善することができます。,
 Tech The Five Elements,The Five Elements,五行,五行思想
 Tech The Five Elements Desc,"Wood, Fire, Water, Earth and Metal are the five elements. They are the five phases, the five agents, the five processes, the five steps. Each overcomes the other in a great cycle. This progression can explain the movements of the cosmos, the interaction of bodily organs, and the rise and fall of political regimes. Green, red, black, yellow and white are their colors.",木、火、水、地球と金属が5つの要素です。彼らは、5つのフェーズ、5回の薬、5つのプロセス、5つのステップです。それぞれの偉大なサイクルで他を克服します。この進行は、宇宙の動き、身体器官の相互作用、および政治体制の興亡を説明することができます。緑、赤、黒、黄色と白のは、彼らの色です。,
@@ -5263,7 +5267,7 @@ Tech Tai Chi,Tai Chi,太極拳,太極拳
 Tech Tai Chi Desc,"This combination of movement, breathing and mediation can train both the body and spirit. Its practice promotes health, balance, calmness and awareness. Often movements are performed slowly, and faster movements may be performed as a form of martial art.",運動、呼吸や調停のこの組み合わせは、身体と精神の両方を訓練することができます。その練習は、健康、バランス、落ち着きと意識を促進します。多くの場合、動きがゆっくり実行され、より高速な動きは武道の形として行うことができます。,
 Tech Kung Fu,Kung Fu,カンフー,カンフー
 Tech Kung Fu Desc,"There are many different styles of fighting. Some mimic the styles of animals, some emphasize speed and fluidity, other stability and strength. To master any of these, both the body and mind must be trained. The basic stances must be learned, breathing mastered and the mind cleared, to allow the student to focus his Qi.",戦いの多くの異なるスタイルがあります。いくつかは、いくつかの速度と流動性、その他の安定性と強度を重視し、動物のスタイルを模倣します。これらのいずれかをマスターするには、身体と心の両方を訓練しなければなりません。基本的なスタンスは、学生が彼の気を集中できるようにするために、習得と心がクリア呼吸、学ばなければなりません。,
-Tech Military Drill,Military Drill,兵式体操,
+Tech Military Drill,Military Drill,兵式体操,軍事教練
 Tech Military Drill Desc,"Moving a group of men in close formation requires special techniques to maneuver and maintain formation. The ability to do this provides an impressive spectacle, and enables the creation of new types of military units.",近く形成に男性のグループを移動すると、操縦および形成を維持するために特別な技術を必要とします。これを行うための能力が印象的な光景を提供し、軍事ユニットの新しいタイプを作成することができます。,
 Tech Signaling,Signaling,シグナリング,
 Tech Signaling Desc,An army is of no use if it cannot be commanded. The use of drums and flags to signal instructions will lead to a new type of more responsive and controllable military force.,それが指令することができない場合軍は役に立ちません。ドラムやフラグの使用は、命令の応答性と制御可能な軍事力の新しいタイプにつながる信号に。,
